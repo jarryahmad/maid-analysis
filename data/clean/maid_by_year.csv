@@ -1,0 +1,21 @@
+# MAID provisions in Canada by calendar year and track, with total deaths.
+# 2016-2018 totals: https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html (Table 3.1). No track split existed
+# before Bill C-7 (2021); Quebec reported 18 Track-2-equivalent provisions in
+# 2020 under a court exemption.
+# 2019-2024: https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html (Figure 2.2a). Health Canada notes
+# "Previous years' reporting has been revised to include corrections and
+# additional reports", so 2019 here (5,461) differs from the 5,631 published
+# in the 2019 report.
+# all_deaths_canada: Statistics Canada Table 13-10-0708-01, Canada (place of
+# residence), total month of death, number of deaths.
+# https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310070801
+year,track_1,track_2,total_provisions,all_deaths_canada,maid_pct_of_all_deaths,source
+2016,,,1015,267622,0.38,"HC 2019 annual report, Table 3.1"
+2017,,,2833,278590,1.02,"HC 2019 annual report, Table 3.1"
+2018,,,4467,286006,1.56,"HC 2019 annual report, Table 3.1"
+2019,5461,,5461,285611,1.91,"HC 2024 annual report, Figure 2.2a"
+2020,7451,18,7469,308824,2.42,"HC 2024 annual report, Figure 2.2a"
+2021,9842,224,10066,313268,3.21,"HC 2024 annual report, Figure 2.2a"
+2022,12730,469,13199,338217,3.9,"HC 2024 annual report, Figure 2.2a"
+2023,14802,625,15427,327546,4.71,"HC 2024 annual report, Figure 2.2a"
+2024,15767,732,16499,326779,5.05,"HC 2024 annual report, Figure 2.2a"

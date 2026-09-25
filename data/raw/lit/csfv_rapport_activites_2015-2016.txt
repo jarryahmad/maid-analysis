@@ -1,0 +1,1800 @@
+ 
+ 
+  
+Commission  
+sur les soins de  
+fin de vie 
+Rapport annuel 
+d’activités 
+10 décembre 2015 – 30 juin 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le contenu de cette publication a été rédigé par la Commission sur les soins de fin de vie. 
+ 
+Commission sur les soins de fin de vie 
+2535, boulevard Laurier, 5e étage 
+Québec (Québec)  G1V 4M3 
+Téléphone : 418 204-2059 ou 1 844 200-2059 (sans frais) 
+Courriel : info@csfv.gouv.qc.ca 
+ 
+Dès son dépôt à l’Assemblée nationale par le ministre de la Santé et des Services 
+sociaux, ce document sera disponible en version électronique sur le site Web de 
+l’Assemblée nationale : www.assnat.qc.ca à la section Documents déposés. 
+ 
+Afin de faciliter la lecture de ce texte, le masculin est employé pour désigner à la fois les 
+genres masculin et féminin. 
+ 
+Rédaction 
+Annick Bédard et Stéphanie Goulet 
+Commission sur les soins de fin de vie 
+ 
+Édition 
+Patricia Labelle et Renée Latulippe 
+Institut national d’excellence en santé et en services sociaux 
+ 
+Dépôt légal 
+Bibliothèque et Archives nationales du Québec, 2016 
+Bibliothèque et Archives Canada, 2016 
+ISBN 978-2-550-76830-2 (version imprimée) 
+ISBN 978-2-550-76827-2 (format PDF) 
+ 
+Toute reproduction totale ou partielle du présent document est autorisée à la condition 
+que la source soit citée. 
+ 
+© Gouvernement du Québec, 2016 
+i 
+ 
+LETTRE DU MINISTRE AU PRÉSIDENT DE L’ASSEMBLÉE NATIONALE 
+ 
+Québec, 30 septembre 2016 
+Monsieur Jacques Chagnon 
+Président de l’Assemblée nationale du Québec 
+1045, rue des Parlementaires 
+Québec (Québec) G1A 1A3  
+ 
+ 
+ 
+ 
+Monsieur le Président,  
+ 
+En vertu de l’article  43 de la Loi concernant les soins de fin de vie , je dépose à 
+l’Assemblée nationale le rapport annuel d’activités de la Commission sur les soins de fin 
+de vie. Ce rapport fait état des activités réalisées au cours des six premiers mois suivant 
+l’entrée en vigueur de la Loi, soit du 10 décembre 2015 au 30 juin 2016. 
+ 
+La Commission sur les soins de fin de vie a pour mandat d’examiner toute question 
+relative aux soins de fin de vie , de surveiller l’application des exigences particulières 
+concernant l’aide médicale à mourir, de saisir le ministre de toute question liée à ces 
+soins qui mérite l’attention ou une action du gouvernement et de lui soumettre ses 
+recommandations. 
+ 
+Ministre de la Santé et des Services sociaux, 
+ 
+ 
+ 
+Gaétan Barrette  
+ii 
+MOT DE LA PRÉSIDENTE 
+Québec, 30 septembre 2016 
+Monsieur Gaétan Barrette 
+Ministre de la Santé et des Services sociaux 
+Édifice Catherine-de-Longpré 
+1075, chemin Sainte-Foy, 15e étage 
+Québec (Québec)  G1S 2M1 
+ 
+ 
+Monsieur le Ministre, 
+ 
+Je vous transmets par la présente le rapport annuel d’activités de la Commission sur les 
+soins de fin de vie couvrant la période du 10  décembre 2015 au 30 juin 2016. Comme il 
+s’agit du premier rapport de la Commission, un résumé des réalisations accomplies 
+jusqu’au 31 août 2016 est également présenté. 
+ 
+Bien que la Commission ait été instituée il y maintenant neuf mois, ses activités n'ont pu 
+débuter qu'en février dernier. Tout en exerçant son mandat, elle continue de construire 
+son équipe permanente  et de définir ses modes de fonctionnement et de 
+communication avec les différents acteurs concernés . Au cours des prochains mois, 
+nous préciserons, par exemple avec le Collège des médecins  du Québec, non seulement 
+nos modalités de communication, mais également la coordination de nos mandats 
+respectifs conformément à la Loi concernant les soins de fin de vie et au Règlement qui 
+régit l'action de la Commission. 
+ 
+Je tiens à remercier les membres de la Commission de leur engagement et de leur 
+professionnalisme dans la réalisation  de nos activités. La qualité des rencontres  que j’ai 
+le privilège de présider témoigne de la compétence, de l’impartialité et de la rigueur 
+avec lesquelles ils assument la responsabilité que vous leur avez confiée. 
+ 
+Nous sommes conscients du caractère inédit du mandat qui est le nôtre. Soyez assuré 
+que l’unique priorité qui nous anime est de l’exercer dans le respect des personnes qui 
+arrivent à cette étape ultime de leur vie et de celles qui leur prodiguent 
+quotidiennement des soins et participent à leur cheminement en fin de vie , et cela dans 
+le respect de leurs droits, de leur dignité, de leur autonomie et de leurs volontés. 
+ 
+La présidente, 
+ 
+ 
+Mireille Lavoie  
+
+iii 
+DÉCLARATION DE FIABILITÉ 
+L’information présentée  dans le  présent rapport relève de m a responsabilité. Cette 
+responsabilité porte sur l’exactitude et la fiabilité d es données et de l’information de 
+même que sur les contrôles afférents. 
+Le premier rapport d’activités de la Commission sur les soins de fin de vie c ouvre la 
+période du 10 décembre 2015 au 30 juin 2016, et il inclut au surplus un résumé de nos 
+réalisations jusqu’au 31 août 2016. Le rapport expose :  
+• le contexte dans lequel la Commission a été mise sur pied, sa composition et son 
+mandat; 
+• les renseignements et les données obtenus; 
+• les activités réalisées par la Commission; 
+• les premiers constats établis par la Commission; 
+• l’utilisation des ressources allouées à la Commission. 
+À ma connaissance, les données, les renseignements acheminés par les p résidents-
+directeurs généraux et directeurs généraux des établissements publics et privés de 
+santé et de services sociaux , les explications contenus dans ce rapport ainsi que les 
+contrôles qui s’y rapportent sont fiables et correspondent à la situation telle qu’elle se 
+présentait au 30 juin 2016. 
+ 
+La présidente, 
+ 
+ 
+Mireille Lavoie   
+
+iv 
+TABLE DES MATIÈRES 
+Lettre du ministre au président de l’Assemblée Nationale ........................................................ i 
+Mot de la présidente ................................................................................................................. ii 
+Déclaration de fiabilité ............................................................................................................. iii 
+1. LA COMMISSION SUR LES SOINS DE FIN DE VIE ................................................................. 1 
+1.1. Contexte ...................................................................................................................... 1 
+1.2. Valeurs ........................................................................................................................ 1 
+1.3. Mandat ........................................................................................................................ 1 
+1.4. Composition ................................................................................................................ 2 
+1.5. Modalités opérationnelles .......................................................................................... 7 
+2. LES ACTIVITÉS ET RÉALISATIONS PRINCIPALES .................................................................. 9 
+2.1 Mise en place de la Commission et début de ses activités ......................................... 9 
+2.2 Vérification du respect des con ditions relatives à l’administration de l’aide 
+médicale à mourir ..................................................................................................... 10 
+2.3 Suivi des rapports des établissements de santé et de services sociaux ................... 11 
+2.4 Transmission des programmes cliniques .................................................................. 11 
+2.5 Suivi du rapport du Collège des médecins du Québec ............................................. 12 
+3. LA COMPILATION DES DONNÉES...................................................................................... 13 
+3.1 Examen des formulaires de déclaration de l’administration d’aide médicale à 
+mourir ....................................................................................................................... 13 
+3.2 Résultats des rapports des établissements de santé et de services sociaux et du 
+Collège des médecins du Québec ............................................................................. 15 
+3.3 Réception des programmes cliniques de soins de fin de vie des établissements .... 18 
+3.4 Demandes d’information des médias, du réseau de la santé et des services sociaux 
+et des citoyens .......................................................................................................... 18 
+4. LES RÉALISATIONS ENTRE LE 1ER JUILLET ET LE 31 AOÛT 2016 ........................................ 19 
+4.1 Examen des formulaires de déclaration de l’administration d’aide médicale à 
+mourir ....................................................................................................................... 19 
+4.2 Lettres transmises au ministre de la Santé et des Services sociaux et au Collège des 
+médecins du Québec ................................................................................................ 19 
+4.3 Groupe de travail – Commission et Collège des médecins du Québec .................... 20 
+5. LES ÉTATS FINANCIERS ..................................................................................................... 21 
+6. LES CONCLUSIONS ............................................................................................................ 22 
+ 
+  
+v 
+LISTE DES FIGURES 
+Organigramme de la Commission au 30 juin 2016 .................................................................... 9 
+Nombre d’aide s médicales à mourir demandées, administrées et non administrées par 
+région entre le 10 décembre 2015 et le 9 juin 2016 ............................................................... 17 
+ 
+LISTE DES TABLEAUX 
+Nombre de formulaires de déclaration de l’administration d’aide médicale à mourir reçus et 
+examinés entre le 10 décembre 2015 et le 30 juin 2016 ........................................................ 13 
+Nombre de sédations palliatives continues administrées par région entre le 
+10 décembre 2015 et le 9 juin 2016 ........................................................................................ 16 
+Motifs à l’origine de la non-administration des aides médicales à mourir demandées entre le 
+10 décembre 2015 et le 9 juin 2016 ........................................................................................ 18 
+ 
+LISTE DES ANNEXES 
+Annexe I Dispositions de la Loi concernant les soins de fin de vie relatives à la Commission 
+sur les soins de fin de vie ......................................................................................................... 23 
+Annexe II Déclaration de valeurs de l’administration publique québécoise ........................... 27 
+Annexe III Décret concernant la nomination de onze membres et la désignation de la 
+présidente et de la vice-présidente de la Commission sur les soins de fin de vie .................. 29 
+Annexe IV Décret concernant les allocations et indemnités des membres de la Commission 
+sur les soins de fin de vie ......................................................................................................... 32 
+Annexe V Dispositions de la Loi concernant les soins de fin de vie portant sur les exigences 
+particulières relatives à l’aide médicale à mourir ................................................................... 34 
+Annexe VI Règlement sur la procédure suivie par la Commission sur les soins de fin de vie 
+afin de vérifier le respect des conditions relatives à l’administration de l’aide médicale à 
+mourir et sur les renseignements devant lui être transmis à cette fin ................................... 37 
+  
+vi 
+DÉFINITIONS 
+Aide médicale à mourir 
+Soin consistant en l’administration de médicaments ou de substances par un 
+médecin à une personne en fin de vie, à la demande de celle -ci, dans le but de 
+soulager ses souffrances en entraînant son décès. 
+Directives médicales anticipées 
+Forme d’expression des volontés d'une personne en prévision de son inaptitude à 
+consentir à des soins . Plus précisément, elles consistent en un écrit par lequel une 
+personne majeure et apte à consentir à des soins indique à l’avance les soins 
+médicaux qu’elle accepte ou qu’elle refuse de recevoir dans le cas où elle deviendrait 
+inapte à consentir à des soins dans des situations cliniques précises. 
+Établissement 
+Toute entité juridique dotée de capacités et de responsabilités légales , qui est 
+titulaire d’un permis délivré par le ministre de la Santé et des Services sociaux . Aux 
+fins de l’application de la Lo i concernant les soins de fin de vie, on entend tout 
+établissement visé par la Loi sur les services de santé et  les services sociaux 
+(chapitre S-4.2) qui exploite un centre local de services communautaires, un centre 
+hospitalier ou un centre d’hébergement et de soins de longue durée, de même que le 
+Conseil cri de la santé et des services sociaux de la Baie  James institué en vertu de la 
+Loi sur les services de santé et les services sociaux pour les autochtones cris 
+(chapitre S-5). 
+Maison de soins palliatifs 
+Organisme communautaire titulaire d’un agrément délivré par le ministre de la Santé 
+et des Services sociaux en vertu du deuxième alinéa de l’article  457 de la Loi sur les 
+services de santé et les services sociaux et qui a conclu une entente avec un 
+établissement, en vertu de l’article 108.3 de cette loi, en vue d’obtenir tout ou partie 
+des soins requis par les personnes en fin de vie qui utilisent ses services. 
+Sédation palliative continue 
+Soin offert dans le cadre des soins palliatifs consis tant en l’administration de 
+médicaments ou de substances à une personne en fin de vie dans le but de soulager 
+ses souffrances en la rendant inconsciente, de façon continue, jusqu’à son décès. 
+Soins de fin de vie 
+Soins palliatifs offerts aux personnes en fin de vie et aide médicale à mourir. 
+Soins palliatifs 
+Soins actifs et globaux dispensés par une équipe interdisciplinaire aux personnes 
+atteintes d’une maladie avec pronostic réservé, dans le but de soulager leurs 
+souffrances, sans hâter ni retarder la mort, de les aider à conserver la meilleure 
+qualité de vie possible et d’offrir à ces personnes et à leur s proches le soutien 
+nécessaire. 
+Sources : Loi concernant les soins de fin de vie. L.R.Q., c. 1, art. 3, p. 6. 
+MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX, Plan de développement en soins palliatifs et de fin de vie 
+2015-2020, MSSS, Québec, 2015, 63 p.  
+1 
+ 
+1. LA COMMISSION SUR LES SOINS DE FIN DE VIE 
+1.1. Contexte 
+Le 5 juin 2014, l’Assemblée nationale du Québec adoptait la Loi concernant les soins 
+de fin de vie  (L.R.Q., chapitre S-32.0001; ci-après la Loi). La Loi a pour but d’assurer 
+aux personnes en fin de vie des soins respectueux de leur dignité et de leur 
+autonomie ainsi que de reconnaître la primauté des volontés relatives aux soins 
+exprimées clairement et librement par une  personne. Elle précise d’abord les droits 
+relatifs aux soins de fin de vie, notamment en prévoyant le droit, pour une 
+personne, d’obtenir les soins de fin de vie que son état requiert.  Elle prévoit 
+également des exigences particulières relatives à certain s soins de fin de vie, soit  la 
+sédation palliative continue et l’aide médicale à mourir. La majorité des dispositions 
+de la Loi sont entrées en vigueur le 10 décembre 2015. 
+Les articles 38 à 47 de la Loi instituent la Commission sur les soins de fin de vie (ci -
+après la Commission) et  précisent sa composition, son mandat  et son 
+fonctionnement (annexe I). 
+1.2. Valeurs 
+La Commission appuie sa réflexion et ses actions sur les valeurs de l’administration 
+publique québécoise, soit : la compétence, l’impartialité, l’intégrité, la loyauté et le 
+respect (annexe II). 
+1.3. Mandat 
+Le mandat de la Commis sion est défini par les articles  42 à 47 de la Loi. Plus 
+précisément, conformément à l’article 42 de la Loi, « La Commission a pour mandat 
+d’examiner toute question re lative aux soins de fin de vie . À cette  fin, elle doit 
+notamment : 
+1° donner des avis au ministre sur toute question qu’il lui soumet; 
+2° évaluer l’application de la loi à l’égard des soins de fin de vie; 
+3° saisir le ministre de toute question relative à ces soins qui mérite l’attention 
+ou une action du gouvernement et lui soumettre ses recommandations; 
+4° soumettre au ministre, tous les cinq ans, un rapport sur la situation des soins 
+de fin de vie au Québec; 
+5° effectuer tout autre mandat que le ministre lui confie. » 
+Cet article prévoit égale ment que la Commission doit  « surveiller […] l’application 
+des exigences particulières relatives à l’aide médicale à mourir », qui sont définies 
+aux articles 26 à 32 de la Loi. 
+La Commission joue un rôle de surveillance et de conseil  à l’égard des soins  de fin 
+de vie  ainsi que  du respect des normes législatives qui les encadrent. Elle a donc 
+2 
+une fonction particulière à exercer quant à la vérification du respect des conditions 
+relatives à l’administration de l’aide médicale à mourir. 
+1.4. Composition 
+Le 16 décembre 2015, le g ouvernement du Québec a nommé les onze  membres et 
+désigné la présidente et la vice -présidente de la Commission après consultation des 
+organismes représentatifs des milieux concernés par ses activités ( annexe III). En 
+vertu de l’art icle 39 de la Loi, la Commission est composée de professionnels de la 
+santé ou des services sociaux, de juristes, d’usagers, d’un membre issu du milieu de 
+l’éthique et d’un gestionnaire d’un établissement public de santé et de services 
+sociaux. De plus, au moins un membre doit être issu du milieu des soins palliatifs. 
+Les membres de la Commission sont nommés pour un mandat d’au plus cinq  ans, 
+qui ne peut être renouvelé consécutivement qu’une fois. La Commission est une 
+équipe interdisciplinaire dont l’appro che humaniste, l’ouverture, les compétences 
+et l’expertise de chaque membre sont reconnues dans son domaine respectif. 
+Les membres qui composent la Commission sont les suivants. 
+Mme Mireille Lavoie, présidente, membre issu e du milieu de l’éthique , 
+nommée après consultation  des organismes représentant les 
+établissements d’enseignement universitaire 
+Mme Mireille Lavoie est doyenne de la Faculté des sciences infirmières 
+de l’Université Laval depuis juillet  2015. Elle est détentrice d’un baccalauréat et 
+d’une maîtrise en sciences infirmières ainsi que d’un doctorat en philosophie de 
+l’Université Laval, portant sur la philosophie du soin palliatif. Elle a aussi complété 
+un stage postdoctoral à l’ Institute of Human Becoming de Pittsburgh. Elle est 
+professeure à la Faculté des sciences infirmières de l’Université Laval depuis 2002 et 
+chercheuse au Centre de recherche du CHU de Québec – Université Laval au sein de 
+l’équipe de recherche Maison Michel -Sarrazin en oncologie psychosociale et soins 
+palliatifs. Elle est également membre de l’Institut d’éthique appliquée de 
+l’Université Laval depuis 2004. Ses travaux portent sur les soins palliatifs et de fin de 
+vie ainsi que sur l’expérience et l’exercice de l’autonomie de la personne . 
+Mme Lavoie s’intéresse part iculièrement aux aspects éthiques des pratiques 
+cliniques et aux approches soignantes, dans une per spective existentielle et 
+humaniste. De plus, elle a été membre de différents comités d’éthique  clinique et 
+de recherche.  Elle est présentement membre du comité d’éthique clinique de 
+l’Institut universitaire de cardiologie et de pneumologie de Québe c à titre de 
+représentante du conseil d’administration. 
+  
+
+3 
+Dre Josée Courchesne, vice -présidente, membre professionnel le de la 
+santé et des services sociaux  issue du milieu des soins palliatifs , 
+nommée après consultation du Collège des médecins du Québec 
+La Dre Josée Courchesne est médecin et coordonnatrice médicale à la 
+Maison de soins palliatifs Source Bleue de Boucherville. Après avoir complété sa 
+formation à l’Université de Sherbrooke en 1979, la Dre Courchesne a pratiqué en 
+médecine familiale pendant plus de 25 ans, principalement dans le domaine de la 
+prise en charge et du suivi des patients . Elle exerce depuis 2008 en  médecine du 
+travail au siège social d’Hydro -Québec et en soins palliatifs depuis 2011. La 
+Dre Courchesne est chef du service médical de la Maison de soins palliatifs Source 
+Bleue et elle a fait partie de son comité d’éthique. Elle a siégé au comité exécut if de 
+l’Association de s médecins omnipraticiens Richelieu –Saint-Laurent pendant une 
+dizaine d’années, dont deux à titre de  présidente. Elle est membre élue du conseil 
+d’administration du Collège des m édecins du Québec depuis 2006  et présidente du 
+Comité d’inspection professionnelle depuis 2012. 
+Dr David Lussier , membre professionnel de la santé et des services 
+sociaux, nommé après consultation du Collège des médecins du 
+Québec 
+Le Dr David Lussier est gériatre à l’Institut universitaire  de gériatrie de 
+Montréal (IUGM)  du Centre intégré universitaire de santé et de services sociaux  
+(CIUSSS) du Centre -Sud-de-l’Île-de-Montréal depuis  2004. En plus de sa 
+spécialisation en gériatrie, le Dr Lussier a complété une formation de trois ans  en 
+douleur et soins palliatifs au Beth Israel Medical Center à New York. I l est directeur 
+de la clinique de gestion de la douleur chronique  de l’IUGM et directeur scientifique 
+du centre de promotion de la santé des personnes âgées AvantÂge. Il est également 
+professeur adjoint de clinique au D épartement de médecine de l’Université de 
+Montréal et professeur associé à l’Université McGill. Le D r Lussier a réalisé de 
+nombreux travaux de recherche, rédigé diverses publications ainsi que prononcé 
+plusieurs conférences devant des professionnels de la santé et le grand public sur la 
+gestion de la douleur chronique chez les personnes âgées  et l’aide médicale à 
+mourir. Il a participé aux travaux du groupe  de travail interdisciplinaire sur l’aide 
+médicale à mourir du m inistère de la S anté et des Services sociaux (MSSS) en 2015 
+et il fait actuellement partie du groupe interdisciplinaire de soutien pour l’aide  
+médicale à mourir du CIUSSS du Centre-Sud-de-l’Île-de-Montréal. 
+Mme Maryse Carignan , membre professionnelle de la santé et des 
+services sociaux  issue du milieu des soins palliatifs , nommé e après 
+consultation de l’Ordre des infirmières et infirmiers du Québec 
+Mme Maryse Carignan est conseillère clinique des secteurs 
+cancérologie, soins palliatifs et soins de fin de vie à la Direction des soins infirmiers 
+du Centre intégré de santé et de services sociaux  (CISSS) de Laval. Elle détient une 
+maîtrise en sciences infirmières et une certification en soins infirmiers en oncologie 
+
+4 
+de l’Association des inf irmières et infirmiers du Canada. Elle cumule trente ans 
+d’expérience de pratique infirmière en oncologie ; elle a d'ailleurs dirigé plusieurs 
+ateliers et prononcé des conférences sur le sujet. M me Carignan est présidente de 
+l’Association québécoise des inf irmières en oncologie et membre de l’Association 
+canadienne des infirmières en oncologie. Elle est aussi membre du Comité national 
+de l’évolution de la pratique des soins infirmiers en cancérologie  de la Direction 
+générale de cancérologie du MSSS ainsi que  du C omité interfacultaire en soins 
+palliatifs de l’Université de Montréal. Au sein du CISSS de Laval, M me Carignan est 
+membre du comité de soins palliatifs et de fin de vie et du groupe interdisciplinaire 
+de soutien pour l’aide médicale à mourir.  Elle a aussi fait partie du comité 
+d’implantation de la Loi co ncernant les soins  de fin de vie au sein de son 
+établissement. 
+M. Robert Thiffault, membre professionnel de la santé et des services 
+sociaux issu du milieu des soins palliatifs, nommé après consultation de 
+l’Ordre des pharmaciens du Québec 
+M. Robert Thiffault détient un baccalauréat en pharmacie et une 
+maîtrise en pharmacie hospitalière. Retraité en 2015 du CIUSSS de l’Estrie – Centre 
+hospitalier universitaire de Sherbrooke (CHUS) où  il a été pharmacie n pendant 
+27 ans, il travaille maintenant à temps partiel comme spécialiste du contrôle de la 
+douleur au sein d’un groupe de médecine de famille pour une clientèle variée en 
+soins palliatifs ou souffrant de douleur chronique. Tout au long de sa carrière, M. 
+Thiffault a acquis et perfectionné une expertise dans le domaine de la douleur 
+chronique et des soins palliatifs.  Il a été coordonnateur de l'enseignement au CHUS 
+pendant 19  ans et clinicien associé à la Faculté de pharmacie de l’Université de 
+Montréal pendant 23  ans. Il a été le porte -parole expert de l’Association des 
+pharmaciens des établissements de santé du Québec auprès des médias pour les 
+questions touchant les soins palliatifs et la douleur. M.  Thiffault a participé pendant 
+plusieurs années aux activités du Regroupement de pharmaciens experts en soins 
+palliatifs. Il est é galement l’auteur de plusieurs publications portant sur  la douleur 
+chronique et les soins palliatifs, et il a prononcé plusieurs conférences sur le sujet. 
+M. Patrick Durivage, membre professionnel de la santé et des services 
+sociaux issu du milieu des soins palliatifs, nommé après consultation de 
+l’Ordre professionnel des travailleurs sociaux et des thérapeutes 
+conjugaux et familiaux du Québec 
+M. Patrick Durivage est travailleur social au programme Soutien à l’autonomie des 
+personnes âgées (SAPA) du CIUSSS du Centre-Ouest-de-l'Île-de-Montréal. Détenteur 
+d’un baccalauréat en psychologie et d’une maîtrise en service social, M. Durivage 
+s’intéresse aux soins palliatifs offerts aux personnes âgées. Il est membre du Comité 
+interfacultaire en soins palliatifs de l’Université de Montréal ainsi que  du comité 
+d’implantation de la Loi concernant les soins de fin de vie au sein de so n 
+établissement. Depuis 2001, M.  Durivage est membre de l’équipe de soins palliatifs 
+
+5 
+du CLSC René-Cassin. Depuis 2010, il est coordonnateur de la pratique de pointe en 
+soins palliatifs communautaires donnés aux aînés à leur domicile, qui relève du 
+Centre de recherche et d’expertise en gérontologie sociale du CIUSSS du Centre -
+Ouest-de-l’Île-de-Montréal. Formateur accrédité, il offre de la  formation aux 
+professionnels de la santé sur les différents aspects des soins palliatifs. Comme 
+praticien-chercheur, M. Durivage collabore à plusieurs re cherches dans ce domaine 
+avec divers partenaires universi taires. Il est coauteur de publications sur l es soins 
+palliatifs à domicile et donne des présentations sur le sujet à des congrès nationaux 
+et internationaux. Il est aussi membre du Conseil des soins palliatif s de McGill, qui a 
+pour but de sensibiliser le public aux soins palliatifs. 
+Me Pierre Deschamps, membre juriste , nommé après consultation du 
+Barreau du Québec 
+Avocat émérite auprès  du Barreau du Québec depuis 2013, M e Pierre 
+Deschamps est diplômé en sciences religieuses de l’Université de 
+Montréal et en droit de l’Université McGill. Il a en seigné le droit de la responsabilité 
+civile et le droit des personnes à l’École du Barreau et à la Faculté de droit de 
+l’Université McGill où il a été professeur adjoint pendant près de 20  ans. Il a é té 
+juge et médiateur pendant 10  ans au Tribunal canadien  des droits de la personne. 
+Me Deschamps a été associé au Centre de recherche en droit privé et comparé du 
+Québec pendant plus de 30 ans. Son apport à la recherche et à la cause des enfants 
+atteints de cancer ainsi que son engagement remarquable en faveur des droits de la 
+personne lui ont valu plusieurs distinctions , dont celle de membre de l’Ordre du 
+Canada en 2000  et de chevalier de l’Ordre des palmes académiques (France)  en 
+2003. Me Deschamps a été, pendant 10 ans, bénévole auprès des enfants atteints 
+de cancer à l’Hôpital Sainte -Justine. Il a également été pendant 10 ans président du 
+conseil d’administration de Leucan et, pendant 15 ans, président de la Fondation 
+Charles-Bruneau, deux organismes qui viennent en  aide aux enfants atteints de 
+cancer et à leur famille. Enfin, M e Deschamps est membre du c onseil 
+d’administration de la Maison de soins palliatifs de Laval. 
+Me Jean Lambert, membre juriste , nommé après consultation de la 
+Chambre des notaires du Québec 
+Me Jean Lambert est notaire depuis 1969. Il exerce sa profession en 
+pratique privée dans la région de Montréal, majoritairement en droit 
+des personnes. Il a été p résident de la Chambre des notaires du Québec de 1984 à 
+1990 et de 2008 à 2014. Parmi ses nombre uses réalisations à ce titre, notons la 
+conception du mandat en prévision de l'inaptitude, le lancement, à la fin des années 
+1980, d’un vaste programme d’informatisation des études notariales au Québec et 
+l'établissement d'un service de formation continue pour les notaires afin d’assurer 
+une meilleure prestation de services à la population. Il a été membre et président 
+de différents conseils, réseaux et groupes de travail, dont le gr oupe de travail du 
+MSSS portant sur les directives médicales anticipées. Il a aussi été expert nommé 
+
+6 
+par le ministre de la Justice pour siéger au  Comité consultatif sur le droit de la 
+famille dans le cadre d’une ré forme du droit de la famille. M e Lambert a donné 
+plusieurs conférences et formations, notamment sur le nouveau Code civil, et il est 
+l’auteur de nombreux textes de doctrine et articles de droit. Il est de plus engagé 
+dans sa communauté depui s de nombreuses années , et à divers titres. Son intérêt  
+pour les activités de la Commission sur les soins de fin de vie lui vient des six années 
+pendant lesquelles il a travaillé , pendant ses études, comme préposé aux patients à 
+l’hôpital Notre-Dame-de-la-Merci de Montréal. 
+M. Richard Deschamps , membre gestio nnaire d’un établissement 
+public, nommé après consultation des présidents -directeurs généraux 
+et des directeurs généraux d’un établissement public 
+M. Richard Deschamps est président- directeur général et membre du 
+conseil d’ administration du CISSS de la Montérégie -Centre depuis avril 2015. 
+Combinant des formations de deuxième cycle en travail social, en sociologie, en 
+administration publique et en administration de la santé, il cumule plusieurs années 
+d’expérience à titre de gestionnaire au sein du réseau de la santé et des services 
+sociaux. Il a été directeur général associé à la coordination des programmes et du 
+réseau et président-directeur général de l’Agence de la santé et des services sociaux 
+de la Montérégie, directeur général par intérim de l’Association des directeurs 
+généraux des services de santé et des services sociaux du Québec, directeur général 
+adjoint à l’Hôpital régional et universitaire Charles -Le Moyne ainsi que directeur de 
+la qualité et du développement organisationnel et adjoint à la direction générale au 
+Centre de santé et de services sociaux  Champlain. Il a de plus été membre de 
+plusieurs conseils d’administration, comités et groupes de travail liés à la gestion 
+des services de santé. M. Deschamps est étroitement associé au dév eloppement de 
+l'offre de service en soins palliatifs pour la région de la Montérégie. Entre autres 
+projets, il a récemment collaboré au développement d'un centre de jour en soins 
+palliatifs qui sert une grande partie de la population de la rive sud de Montréal. 
+Mme Marielle Philibert , membre usager, nommé e après consultation 
+des organismes représentant les comités des usagers des 
+établissements 
+Mme Marielle Philibert est présidente du comité des usagers et membre 
+du conseil d’administration du CHU de Québec –  Université Laval depuis 2013. Elle 
+est aussi vice -présidente du Regroupement provincial des comités des usagers du 
+réseau de la santé et des services sociaux depuis 2010. Elle détient un baccalauréat 
+en pédagogie, avec majeure en mathématique et mineure en éducation physique, 
+ainsi qu’une formation continue complémentaire en administration publique. 
+Retraitée du secteur de l’enseignement, elle y a occupé différentes fonctions, tant 
+sur le plan administratif que pédagogique. Elle a détenu différents postes au sein de 
+conseils, comités et organismes d ans le secteur de la santé. M me Philibert a été 
+notamment présidente du comité des usagers de 2006 à 2013 du Centre hospitalier 
+
+7 
+affilié universitaire de Québec et membre du conseil d’administration de cet 
+établissement de 2007 à 2012. Elle a aussi été présidente d’un organisme offrant 
+des loisirs à des personnes handicapées (Adaptavie) de 1988 à 1992, mandat au 
+cours duquel elle a contribué à la survie et à la pérennité de l’organisme. 
+Mme Bilkis Vissandjé e, membre usager, nommée après consultation 
+des organismes représentant les comités des usagers des 
+établissements 
+Mme Bilkis Vissandjée  est professeure à la Faculté des sciences 
+infirmières de l’Université de Montréal. Elle détient une maîtrise en scien ces 
+infirmières et en éducation, un doctorat en santé publique et elle a complété des 
+études postdoctorales en anthropologie et en santé p ublique. Elle est chercheuse  à 
+l’Institut de recherche en santé publique de l’Université de Montréal et au Centre 
+de recherche et de formation du CIUSSS du Centre-Ouest-de-l’Île-de-Montréal 
+(SHERPA). Elle se préoccupe particulièrement des défis que pose la  prestation de 
+soins de qualité dans un contexte multiethnique et a été engagée dans l’élaboration 
+et l’implantation de programmes destinés aux nouveaux arrivants au Canada. Elle a 
+assuré la direction scientifique du Centre d’excellence pour la santé des femmes à 
+l’Université de Montréal de 1996 à 2001 et a  été membre conseillère de l’Institut 
+pour la santé des femmes et des hommes aux Instituts de recherche en sant é du 
+Canada de 2008 à 2012. M me Vissandjée est membre du Comité pour la prestation 
+des servic es de santé et des services sociaux aux personnes issues des 
+communautés ethnoculturelles du MSSS depuis sa création en 2010. Ses travaux en 
+collaboration avec des organismes communautaires à vocation d’accueil et de 
+soutien à la trajectoire d’intégration des personnes immigrantes visent un accès de 
+qualité aux services de santé et aux services sociaux , dans une perspective de 
+justice sociale. 
+1.5. Modalités opérationnelles 
+La présidente dirige la Commission et elle en est la porte-parole. La vice-présidente 
+est appelée à assurer la présidence de la Commission en cas d’absence ou 
+d’empêchement de la présidente. 
+1.5.1 Équipe permanente 
+La présidente de la Commission est assistée par un e cadre supérieure qui assure la 
+fonction de  secrétaire générale , madame Stéphanie Goulet . La présidente et la 
+secrétaire générale de la Commission sont soutenues par une professionnelle 
+scientifique en santé et services sociaux et d’une agente de secrétariat. 
+1.5.2 Soutien administratif et matériel 
+La Co mmission est hébergée dans les locaux de l’Institut national d’excellence en 
+santé et en services sociaux (INESSS). L e rôle de l’INESSS consiste  ici à soutenir la 
+
+8 
+Commission dans la gestion de ses ressources financières, matérielles et 
+informationnelles. 
+1.5.3 Rencontres 
+Les membres et la secrétaire générale de la Commission se réunissent au moins une 
+fois par mois. Ces rencontres d’une journée, en présence, se déroulent dans les 
+bureaux de l’INESSS à Québec ou à Montréal. Des rencontres extraordinaires 
+peuvent être convoquées, au besoin. Le quorum aux réunions est de sept membres, 
+y inclus la présidente ou la vice -présidente. Lors de ces rencontres, chaque membre 
+exprime son avis et se retire s’il juge être en situation de conflit d’intérêts. 
+1.5.4 Rémunération et indemnités 
+En vertu de l’article  39 de la Loi, l e gouvernement fixe les allocations et les 
+indemnités des membres de la Commission  (annexe IV). Les allocations des 
+membres qui sont des employés du secteur public ne sont pas la responsabilité de  
+la Commission; ces membres sont libérés par leur organisation respective. Les frais 
+de séjour, de transport et d’hébergement sont remboursés par la Commission. 
+1.5.5 Financement 
+La Commission est soutenue financièrement, en totalité, par le MSSS. 
+  
+9 
+2. LES ACTIVITÉS ET RÉALISATIONS PRINCIPALES 
+Les activités de la Commission au cours de la période du 10  décembre 2015 au 
+30 juin 2016 ont porté essentiellement sur la structuration de l’équipe permanente, 
+sur l’élaboration de ses modalités de fonctionnement ainsi que sur la vérification du 
+respect des conditions relatives à l’administration de l’aide médicale à mourir 
+compte tenu des délais légaux s’y rattachant. 
+La Commission a également reçu les premiers rapports d’établissement s publics et 
+privés de santé et de services sociaux concernant l’application de leur politique 
+respective portant sur les soins de fin de vie ainsi que celui du Collège des médecins 
+du Québec  concernant les soins de fin de vie dispensés par des médecins qui 
+exercent leur profession dans un cabinet privé de professionnel. 
+2.1 Mise en place de la Commission et début de ses activités 
+Les membres de la Commission ont été nommés par le gouvernement le 
+16 décembre 2015. La présidente et la vice -présidente ont r encontré des 
+représentants du MSSS le 15 janvier 2016 afin de préciser le rôle et le mandat de la 
+Commission. 
+Les travaux de la Commission ont débuté  le 25  février 2016. En date  du 
+30 juin 2016, les membres se sont réunis six fois en séance plénière, et le quorum a 
+été atteint à chacune des rencontres. 
+Les premiers m ois d'exercice de la Commission  ont permis d'établir les modalités 
+nécessaires à son fonctionnement et de commencer le recrutement de  son 
+personnel permanent. La secrétaire générale est entrée en fonction le 24  mai 2016. 
+Une première professionnelle scientifique a été recrutée à la fin juin  2016 et est 
+entrée en fonction le 18  juillet 2016. Un agent de secrétariat sera embauché  d’ici la 
+fin de l’année 2016. 
+ 
+ORGANIGRAMME DE LA COMMISSION AU 30 JUIN 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Présidente 
+Vice-présidente 
+Membres 
+Secrétaire 
+générale 
+Professionnelle 
+scientifique 
+Agent de 
+secrétariat 
+10 
+2.2 Vérification du respect des conditions relatives à l’administration 
+de l’aide médicale à mourir 
+La Commission a notamment pour mandat de surveiller l’application des exigences 
+particulières relatives à l’aide médicale à mourir (articles 26 à 32 de la Loi , 
+annexe V). À cet égard, l’article 26 énonce les conditions auxquelles une personne 
+doit satisfaire pour obtenir l’aide médicale à mou rir et  l’article 29 précise les 
+vérifications que le médecin doit effectuer avant d’ administrer l’aide médicale à 
+mourir afin de s’assurer du respect des conditions mentionnées à l’article 26. 
+2.2.1 Transmission et e xamen des formulaires de déclaration de 
+l’administration d’aide médicale à mourir 
+Le médecin qui administre l’aide médicale à mourir doit, dans les 10  jours qui 
+suivent, en aviser la Commission et lui transmettre, selon les modalités prévues par 
+le Règlement sur la procédure suivie par la Commis sion sur les soins de fin de vie 
+afin de vérifier le respect des conditions relatives à l’administration de l’aide 
+médicale à mourir et sur les renseignements devant lui être transmis à cette fin  (ci-
+après le Règlement; annexe VI), les renseignements prévus dans le  « Formulaire de 
+déclaration de l’administration d’aide médicale à mourir » prescrit par le ministre  
+de la Santé et des Services sociaux (article 46 de la Loi et article 1 du Règlement). 
+Sur réception du formulaire, la Commission vérifie le respect de l’article  29 selon la 
+procédure prévue dans le Règlement . Elle vérifie également l’application de 
+l’article 26 de la Loi , lequel précise les conditions qui doivent être respectées pour 
+qu’une personne puisse obtenir l’aide médicale à mourir. 
+La Commission procède à l’examen de chaque cas d’administration d’aide médicale 
+à mourir, en séance plénière et dans un délai maximal de deux  mois suivant la 
+réception du formulaire. 
+L’examen des formulaires par la Commission est encadré par les balises prévues  
+dans la Loi, le Règlement et le Guide d’exercice sur l’aide médicale à mourir élaboré 
+conjointement par le Collège des médecins du Québec, l’Ordre des pharmaciens du 
+Québec et l’Ordre des infirmières et infirmiers du Québec1. 
+2.2.2 Demande de complément d’information ou de précisions 
+En vertu du Règlement, l orsque les renseignements qui lui sont transmis dans le 
+formulaire sont incomplets ou que la majorité des membres sont d’avis qu’ils ne 
+peuvent parvenir à une décision concernant le respect de l’article  29 de la Loi, la 
+Commission peut demander un complément d’information ou de s précisions au 
+médecin qui a administré l’aide médicale à mourir, au  second médecin consulté 
+pour confirmer le respect des conditions prévues à l’arti cle 26 de la Loi ou à toute 
+autre personne qui pourrait être en mesure de lui fournir les renseignements.  Dans 
+                                                           
+1. COLLÈGE DES MÉDECINS DU QUÉBEC, ORDRE DES PHARMACIENS DU QUÉBEC ET ORDRE DES INFIRMIÈRES ET 
+INFIRMIERS DU QUÉBEC. Aide médicale à mourir : Guide d’exercice, CMQ, Montréal, 2015, 88 p. 
+11 
+ces circonstances, la Commission dispose d’un mois supplémentaire pour procéder 
+à l’examen de l'information transmise. 
+2.2.3 Transmission d’avis relatifs au non-respect de l’article 29 de la Loi 
+Lorsqu’au moins les deux tiers des membres présents estiment que l’article  29 de la 
+Loi, qui inclut les conditions édictées  à l’article  26, n’a pas été respecté, la 
+Commission transmet un résumé de ses conclusions au Collège des médecins du 
+Québec et, lorsque le médecin a administré l’aide médicale à mourir à titre de 
+médecin exerçant sa profession dans un centre exploité par un établissement, à 
+l’établissement concerné pour que ce ux-ci pre nnent les mesures appropriées  
+(article 13 du Règlement) . C e résumé décrit les irrégularités identifiées et, le cas 
+échéant, les démarches effectuées pour obtenir un complément d’information ou 
+des précisions ainsi que le résultat de ces démarches. 
+2.3 Suivi des rapports des établissements de santé et de services 
+sociaux 
+Conformément à l’article  8 de la Loi, tout établissement doit adopter une politique 
+portant sur les soins de fin de vie. L e président-directeur général de l’établissement 
+doit, chaque année, faire rapport au conseil d’administration concernant 
+l’application de cette politique2. Le rapport doit notamment indiquer le nombre de 
+personnes en fin de vie qui ont reçu des soins palliatifs  par type d’inst allation, le 
+nombre de sédations palliatives continues administrées, le nombre de demandes 
+d’aide médicale à mourir formulées, le nombre d ’aides médicales à mourir 
+administrées, de même que le nombre d’aides médicales à mourir qui n’ont  pas été 
+administrées et les motifs pour lesquels elles ne l’ont pas été. À cet égard, un 
+gabarit de rapp ort a été transmis par le M SSS dans le réseau pour la période du 
+10 décembre 2015 au 9  juin 2016. Le rapport doit être publié sur le site Web de 
+l’établissement et transmis à la Commission au plus tard le 30  juin de chaque 
+année. 
+2.4 Transmission des programmes cliniques 
+Conformément à l’article 9 de la Loi, tout établissement doit prévoir, dans son plan 
+d’organisation, un programme clinique portant sur les soins de fin de vie. Dans le 
+cas d’un établissement exploitant un centre local de services communautaires, ce 
+plan doit également prévoir l’offre de services en soins de fin de vie à domicile. Le 
+plan d’organisation doit tenir compte des orientations ministérielles. Le  programme 
+clinique relatif aux soins de fin de vie doit être transmis à la Commission. Toutefois, 
+la Loi ne précise aucune date à cet effet. 
+                                                           
+2. En vertu de l’article 73 de la Loi, tous les six mois jusqu’au 10 décembre 2017. 
+12 
+2.5 Suivi du rapport du Collège des médecins du Québec 
+Conformément à l’article  37 de la Loi, le  Collège des médecins du Québec doit, 
+chaque année, préparer un rapport concernant les soins de fin de vie dispensés par 
+des médecins qui exercent leur profession dans un cabinet privé de professionnel 2. 
+Le r apport doit indiquer le nombre de sédations palliatives continues et d’aides 
+médicales à mourir administré es par ces médecins à domicile ou dans les locaux 
+d’une maison de soins palliatifs. Le rapport est publié sur le site Web du Collège et il 
+est transmis à la Commission au plus tard le 30 juin de chaque année. 
+  
+13 
+3. LA COMPILATION DES DONNÉES 
+3.1 Examen des formulaires de déclaration de l’administration d’aide 
+médicale à mourir 
+3.1.1 Formulaires reçus et examinés par la Commission 
+Entre le 10 décembre 2015 et le 30 juin 2016, la Commission a reçu 161  formulaires 
+de déclaration d e l’administration d’aide médicale à mourir. Au 30  juin, la 
+Commission a procédé à l’examen de 85  formulaires. Les 76  autres formulaires 
+reçus étaient en attente d’évaluation. 
+Les membres ont rendu une décision sans demander de complément d’information 
+pour 45 des 85  formulaires évalués. C’est donc dire que  40 lettres de demande de 
+complément d’information ont été transmises aux médecins qui ont administré 
+l’aide médicale à mourir. Dans la très grande majorité des cas, les précisions 
+transmises ont permis à la Commission de conclure que l’aide médicale à mourir 
+avait été administrée conformément aux exigences de la Loi. 
+NOMBRE DE FORMULAIRES DE DÉCLARATION DE L’ADMINISTRATION D’AIDE MÉDICALE À MOURIR REÇUS ET 
+EXAMINÉS ENTRE LE 10 DÉCEMBRE 2015 ET LE 30 JUIN 2016 
+Formulaires examinés par la Commission 85 
+Décisions rendues sans demande de complément d’information 45 
+Décisions rendues avec demande de complément d’information 24 
+Décisions en attente d’un complément d’information 16 
+Formulaires en attente d’examen par la Commission 76 
+Nombre total de formulaires reçus 161 
+ 
+Il est important de précise r que ces chiffres représentent le nombre de formulaires 
+reçus à la Commission et non pas le nombre d e personnes à qui l ’aide médicale à 
+mourir a été administrée pendant la même période. En effet, rappelons que selon la 
+Loi, un médecin qui administre une aide médicale à mourir doit  remplir le 
+formulaire et le faire parvenir à la Commission dans les 10 jours qui suivent. 
+3.1.2 Décisions rendues par la Commission 
+Pour la présente période, la Commission a rendu une décision concernant 
+69 des 85 formulaires examinés. La Commission était en attente d’un complément 
+d’information pour les 16 autres cas. À la lumière des renseignements transmis, la 
+Commission est d’avis que la majorité (57/69) des aides médicales à mourir ont été 
+administrées conformément aux critères énoncés dans la Loi. 
+3.1.3 Avis de non-respect transmis par la Commission 
+Dans 12 des 69 cas pour lesquels la Commission a rendu une décision , les membres 
+ont conclu qu’une des exigences relatives à l’administration de l’aide médicale à 
+mourir édictée par la Loi n’avait pas été respectée. 
+(16) 
+14 
+Dans la majorité des cas  (9/12), le critère  non respecté était associé à 
+l’indépendance du second médecin consu lté pour confirmer le respect des 
+conditions prévues à l’article 26. À cet effet, la Loi prévoit que « le médecin consulté 
+doit être indépendant, tant à l’égard de la personne qui demande l’aide médicale à 
+mourir qu’à l’égard du médecin qui demande l’avis ». En ce sens, le Guide d’exercice 
+sur l ’aide médicale à mourir  apporte quant à lui cette précision  : «  Il est en effet 
+essentiel d’éviter les situations qui pourraient influencer et biaiser le jugement 
+professionnel du médecin consulté, telles qu’un lien hiérarchique de subordination, 
+une relation familiale avec la personne en fin de vie ou avec le médecin, ou encore 
+une relation thérapeutique suivie avec le patient . » (CMQ et coll., 2015, p.  29). Sur 
+cette base, les membres de la  Commission ont été  d’avis, à l’unanimité , que l es 
+renseignements transmis dan s certains formulaires indiqu aient qu’un lien 
+hiérarchique reliait les deux médecins ou qu’un lien professionnel  ou personnel 
+reliait la personne au second médecin consulté. 
+Plus précisément, en vertu de l’article  31 de la Loi,  tout médecin qui refuse une 
+demande d’aide médicale à mourir doit, le plus tôt possible, en aviser le président -
+directeur général de l’établissement ou la personne désignée. Il revient dès lors à 
+ceux-ci de poursuivre les démarches nécessaires pour trouver un médecin qui 
+acceptera de traiter  la demande  d’aide médicale à mourir.  Ce dernier devra  
+procéder à l’évaluation de l’ admissibilité de la personne et  obtenir l’avis d’un 
+second médecin indépendant. En d’autres mots, un médecin qui évoque un refus de 
+pratiquer une aide médicale à mourir non fondé sur l’article  29 ne peut demeurer 
+impliqué dans l’évaluation de cette demande  et agir à titre de second médecin  s’il 
+n’est pas indépendant tant à l’égard du médecin qui demande l’avis qu’à l’égard de 
+la personne qui demande l’aide médicale à mourir. 
+Or, dans certains cas, il s’avère que  le second médecin était le médecin de famille 
+ou le médecin traitant  de la personne  concernée. Bien que la  Commission 
+reconnaisse que la situation , sur le terrain, ne permette pas toujours de trouver un 
+autre médecin qui accepterait d ’être engagé dans la démarche , elle est d’avis que 
+l’absence d’un second médecin indépendant de la personne ne respecte pas 
+l’article 29, et qu’elle se doit de le signaler. Un résumé de ses conclusions a donc été 
+acheminé au C ollège des médecins du Q uébec et aux établissements concernés  
+pour que ceux-ci prennent les mesures appropriées. 
+Dans un cas (1/12), les membres de la Commission ont été d’avis que  l'information 
+transmise dans le formulaire ne permettait pas  de conclure que la personne était 
+atteinte d’une maladie grave et incurable, et dans deux autres cas  (2/12) que la 
+personne était en fin de vie.  Un résumé de ses conclusions  a également été 
+transmis au Collège des médecins du Québec et aux établissements concernés pour 
+que ceux-ci prennent les mesures appropriées. 
+La Commission reconnaît qu'il est difficile d'établir objectivement la notion de fin de 
+vie. Dans son examen des formulaires transmis par les médecins ayant administré 
+(57) 
+15 
+l’aide médicale à mourir, la Commission prend néanmoins en considération 
+l'ensemble de l'information contenue dans les formulaires pour vérifier ce critère. 
+3.2 Résultats des rapports des établissements de santé et de services 
+sociaux et du Collège des médecins du Québec 
+La Commission a reçu 33 rapports provenant des établissements publics et 
+4 rapports des établissements privés. Compte tenu de la faible proportion de 
+rapports provenant d’établissements privés, seules les données issues des 
+établissements publics sont présentées  dans le présent rapport  des activités de la 
+Commission. 
+Les rapports transmis par les établissements publics couvrent généralement la 
+période visée, soit du 10 décembre 2015 au 9 juin 20163. Pour sa part, le rapport du 
+Collège des médecins du Q uébec couvre la période du 10  décembre 2015 au 
+3 juin 2016. 
+3.2.1 Personnes en fin de vie ayant reçu des soins palliatifs 
+Le contexte de la transformation importante du réseau de la santé et des services 
+sociaux a eu un effet sur la capacité des établissements à recueillir dans les délais 
+prescrits les données concernant les soins palliatifs. Ainsi, la variabilité des 
+renseignements rapportés en ce qui a trait au nombre de personnes en fin de vie 
+ayant reçu des soins palliatifs  ne permet pas de traiter  ces données pour le 
+moment. 
+ 
+  
+                                                           
+3. Parmi ceux qui ont été reçus, onze rapports couvrent la période du 10 décembre 2015 au 10 juin 2016. 
+16 
+3.2.2 Sédation palliative continue 
+Entre le 10  décembre 2015 et le 9  juin 2016, un total de 263  sédations palliatives 
+continues ont été administrées et répertoriées au Québec. 
+NOMBRE DE SÉDATIONS PALLIATIVE S CONTINUES ADMI NISTRÉES PAR RÉGION ENTRE LE 
+10 DÉCEMBRE 2015 ET LE 9 JUIN 2016 
+Région administrative Nombre de sédations palliatives continues 
+Bas-Saint-Laurent (01)  7 
+Saguenay–Lac-Saint-Jean (02)  5 
+Capitale-Nationale (03)  70 
+Mauricie et Centre-du-Québec (04)  4 
+Estrie (05)  39 
+Montréal (06) 32 
+Outaouais (07)  13 
+Abitibi-Témiscamingue (08)  9 
+Côte-Nord (09) 3 
+Nord-du-Québec (10)  0 
+Gaspésie–Îles-de-la-Madeleine (11)  4 
+Chaudière-Appalaches (12)  15 
+Laval (13)  14 
+Lanaudière (14)  4 
+Laurentides (15)  10 
+Montérégie (16)  34 
+Nunavik (17)  0 
+Terres-Cries-de-la-Baie-James (18)  ND 
+Total 263 
+ND : non disponible. 
+Source : Rapports des établissements publics de santé et de services sociaux  (10 décembre 2015 au 9 ou 
+10 juin 2016) et du Collège des médecins du Québec (10 décembre 2015 au 3 juin 2016). 
+3.2.3 Aide médicale à mourir 
+Selon les rapports transmis par les établissements, 253 demandes d’aide médicale à 
+mourir ont été formulées dans les différentes régions du Québec entre le 
+10 décembre 2015 et le 9 juin 2016. De ce nombre, 166  aides médicales à mourir 
+ont été administrées . Le rapport du C ollège des médecins  du Québec, quant à lui , 
+indique l’administration d’une aide médicale à mourir à domicile par un médecin 
+exerçant sa profession dans un cabinet privé de professionnel pendant la période 
+du 10 décembre 2015 au 3 juin 2016. 
+Selon ces rapports, un total de 167 aides médicales à mourir ont été administrées et 
+répertoriées entre le 10 décembre 2015 et le 9 juin 2016 au Québec. 
+ 
+17 
+NOMBRE D'AIDES MÉDICALES À MOURIR DEMANDÉES , ADMINISTRÉES ET NON ADMINISTRÉES PAR RÉG ION 
+ENTRE LE 10 DÉCEMBRE 2015 ET LE 9 JUIN 2016 
+ 
+ND : non disponible. 
+Source : Rapports des établissements publics de santé et de services sociaux (10  décembre 2015 au 9 ou 
+10 juin 2016). 
+ 
+  
+3 
+1 
+37 
+9 
+12 
+28 
+5 
+1 1 
+4 4 
+12 
+9 
+40 
+2 
+0 
+8 
+2 
+4 
+26 
+3 
+0 0 2 
+2 
+10 
+13 
+11 
+4 
+5 
+1 
+11 
+16 
+8 
+1 1 
+0 
+2 
+6 
+14 
+25 
+20 
+0 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18
+Région administrative 
+Total d'aides médicales à mourir demandées
+Total d'aides médicales à mourir non administrées
+Total d'aides médicales à mourir administrées
+54 
+44 45 
+□ 
+ND 
+18 
+Au total, 87  aides médicales à mourir n’ont pas été adminis trées. Les principales 
+raisons mentionnées sont soit que la personne ne répond ait pas aux critères, soit 
+qu’elle avait  retiré sa demande ou changé d’avis , soit qu’elle était décédée avant 
+l’administration de l’aide médicale à mourir. 
+MOTIFS À L’ORIGINE DE LA NON-ADMINISTRATION DES AIDES MÉDICALES À MOURIR DEMANDÉES ENTRE LE 
+10 DÉCEMBRE 2015 ET LE 9 JUIN 2016 
+Motif de la non-administration Nombre de 
+demandes 
+La personne ne répondait pas aux critères 
+– Au moment de la demande 
+– En cours de processus ou au moment prévu pour l'administration 
+36 
+27 
+9 
+La personne a retiré sa demande ou a changé d'avis 24 
+La personne est décédée avant l'administration 21 
+La demande est en cours d’évaluation 5 
+La personne a reporté l’administration à plus tard 1 
+Total 87 
+Source : Rapports des établissements publics de santé et de services sociaux (10  décembre 2015 au 9 ou 
+10 juin 2016). 
+ 
+3.3 Réception des programmes cliniques de soins de fin de vie des 
+établissements 
+Au 30 juin 2016, la Commission a reçu six  programmes cliniques de soins de fin de 
+vie provenant des établissements publics  et deux programmes des établissements 
+privés. 
+3.4 Demandes d’information des médias, du réseau de la santé et des 
+services sociaux et des citoyens 
+La Commission a répondu à des demandes d’information provenant des médias, 
+des intervenants et des gestionnaires du réseau de la santé et des services sociaux 
+ainsi que des citoyens. La plupart des demandes des médias ont porté sur le rôle et 
+le mandat de la Commission ainsi que sur les première s données rel atives au 
+nombre d'aides médicales à mourir administrées au Québec depuis l’entrée en 
+vigueur de la Loi. Les demandes provenant du réseau concernaient principalement 
+les délais et les modalités de transmission du formulaire , la protection de la 
+confidentialité des renseignements nominatifs ainsi que les impacts de la législation 
+fédérale. Quant aux demandes d’information des citoyens, elles portaient 
+notamment sur les soins de fin de vie en général, la loi québécoise, la démarche 
+d’aide médicale à mourir et les directives médicales anticipées. 
+ 
+  
+19 
+4. LES RÉALISATIONS ENTRE LE 1ER JUILLET ET LE 31 AOÛT 2016 
+4.1 Examen des formulaires de déclaration de l’administration d’aide 
+médicale à mourir 
+Entre le 1 er juillet et le 31  août 2016, les membres de la Com mission se sont réunis 
+trois fois. Au cours de cette période, l a Commission a reçu 101  nouveaux 
+formulaires, a procédé à l’examen de 113 formulaires et en a réévalué 22 à la suite 
+de la réception d'un complément d’information. 
+Parmi les 113 formulaires évalués, les membres ont rendu une décision dans 58 cas, 
+ont demandé un c omplément d’information dans 54  cas et o nt reporté leur 
+décision à la prochaine rencontre dans 1 cas. 
+Dans la grande majorité des cas où une décision a pu être rendue (49/58), la 
+Commission es t d’avis que l’aide médicale à mourir a été administrée 
+conformément aux exigences de la Loi. Dans les neuf autres cas, les membres ont 
+conclu qu’une des exigences n’était pas respectée, soit le critère relié à 
+l’indépendance du second médecin consulté pour confirmer le respect des 
+conditions prévues à l’article 26. 
+Parmi les 22  formulaires réévalués à la suite de la réception des compléments 
+d’information, les membres de la Commission sont d’avis que l’aide médicale à 
+mourir a été administrée conformément aux exigences de la Loi pour 21 d’entre 
+eux. Dans un cas, une demande de précisions supplémentaires s’est avérée 
+nécessaire. 
+En somme, c’est dire qu’entre le 10  décembre 2015, date d’entrée en vigueur de la 
+Loi, et le 31  août 2016, la Commission a reçu 262 formulaires de déclaration de 
+l’administration d’aide médicale à mourir et qu'elle en a examiné 198. Dans la 
+grande majorité des cas  (127/148), la Commission est d’avis que l’aide médicale à 
+mourir a été administrée conformément aux exigences de la Loi. T outefois, les 
+membres sont  d’avis qu’une des exigence s n’était pas respectée dans 21  cas 
+d’administration d’aide médicale à mourir, soit l’indépendance du second médecin  
+consulté (18 cas), la fin de vie (2  cas) et l’atteinte d’une malad ie grave et incurable 
+(1 cas). Dans chacun de ces cas, un résumé des conclusions de la Commission a été 
+transmis au C ollège des médecins  du Québec et aux établissements concernés afin 
+que soient prises les mesures appropriées (article 13 du Règlement). 
+4.2 Lettres transmises au ministre de la Santé et des Services sociaux et 
+au Collège des médecins du Québec 
+Au mois d’août dernier , la Commission a fait parvenir une c orrespondance au 
+ministre de la Santé et des Services sociaux  et une autre au C ollège des médecins 
+du Québec afin de leur faire part de ses premiers constats, de ses besoins  et, le cas 
+échéant, de ses recommandations  au regard de l’application de la Loi et en vue de 
+maintenir le bon fonctionnement de ses activités.   
+20 
+Ces derniers sont principalement les suivants : 
+• Rappeler aux médecins et aux intervenants du réseau de la santé et des 
+services sociaux les délais et les modalités de transmission du formulaire et 
+de protection de la confidentialité des renseignements nominatifs; 
+• Rappeler aux médecins l’importance de remplir entièrement le formulaire; 
+• Expliquer et clarifier  certains éléments du formulaire et critères de la Loi 
+aux acteurs concernés par la démarche d’aide médicale à mourir; 
+• Procéder à une révision du formulaire afin de faciliter la déclaration par les 
+médecins et l’examen par la Commission; 
+• Préciser les  attentes du gouvernement à l’endroit de la Commission 
+concernant le respect des nouvelles mesures de sauvegarde prévues par le 
+Code criminel (C-14); 
+• Rappeler aux établissements publics et privés de santé et de services 
+sociaux leurs obligations relativement à la transmission à la Commission de 
+leur programme clinique respectif de soins de fin de vie et des rapports sur 
+l’application de leur politique portant sur les soins de fin de vie. 
+4.3 Groupe de travail – Commission et Collège des médecins du 
+Québec 
+Un groupe de travail a été constitué  en collaboration avec le C ollège des médecins  
+du Québec . Il es t composé de six  membres représentant la Commission et de 
+trois membres représentant le C ollège. Ce groupe de travail vise à coordonner la 
+réalisation des mandats respectifs des deux organismes, améliorer les canaux de 
+communication et clarifier l’interprétation et l’évaluation de certains éléments du 
+formulaire et critères de la Loi. Une première rencontre est  prévue le 
+9 septembre 2016. 
+  
+21 
+5. LES ÉTATS FINANCIERS 
+ 
+Résultats cumulatifs du 10 décembre 2015 au 30 juin 2016 
+ 
+Charges du 10 décembre 2015 au 31 mars 2016* 
+  
+ 
+ 
+Honoraires professionnels et administratifs 
+ 
+500  
+ 
+Frais de réunion (déplacement, séjour, traiteur) 
+ 
+613  
+ 
+Papeterie, impression et frais de bureau 
+ 
+100  
+ 
+Achat de matériel informatique 
+ 
+10 372  
+ 
+Achat de mobilier de bureau 
+ 
+16 145  
+   
+27 730 $ 
+    
+ 
+* Les charges du 10 décembre 2015 au 31 mars 2016 ont fait l'objet d'une facturation à l'attention du MSSS.  
+    
+ 
+Revenus 2016-2017 
+  
+ 
+ 
+Gouvernement du Québec 
+ 
+588 800 $ 
+    
+ 
+Charges du 1er avril au 30 juin 2016 
+  
+ 
+ 
+Salaires et avantages sociaux 
+ 
+10 587  
+ 
+Frais de déplacement des employés 
+ 
+679  
+ 
+Honoraires des membres 
+ 
+29 238  
+ 
+Frais de réunion (déplacement, séjour, traiteur) 
+ 
+11 406  
+ 
+Frais de formation 
+ 
+4 200  
+ 
+Papeterie, impression et frais de bureau 
+ 
+348  
+   
+56 458 $ 
+    
+ 
+Solde au 30 juin 2016 
+ 
+532 342 $ 
+    
+ 
+    
+ 
+Total des charges du 10 décembre 2015 au 30 juin 2016 
+ 
+84 188 $ 
+ 
+ 
+  
+22 
+6. LES CONCLUSIONS 
+La Commission est un organisme qui compte seulement quelques mois d’existence  
+depuis l’entrée en vigueur de la Loi concernant les soins de fin de vie . La 
+Commission, le réseau de la santé et des services sociaux et les partenaires sont 
+actuellement en période d’apprentissage et d’adaptation au regard de l’application 
+de cette l oi, à un moment où le réseau traverse en plus une période de  
+transformation majeure. 
+Au cours de ses premiers mois d’exercice, la Commission a entrepris la constitution 
+de son équipe permanente, la structuration et l’élaboration de ses modalités de 
+fonctionnement ainsi que la surveillance de l’application des exigences particulièr es 
+relatives à l’aide médicale à mourir. Elle a répondu aux demandes d’information 
+provenant des médias, des intervenants et gestionnaires du réseau, et à celles des 
+citoyens. Elle a de plus transmis au ministre de la Santé et des Services sociaux et au 
+Collège des médecins du Québec  ses premiers constats, indiqué ses besoins et, le 
+cas échéant, formulé ses recommandations. Enfin, la Commission a participé à la 
+création d’un g roupe de travail en collaboration avec le C ollège des médecins du 
+Québec, notammen t afin de préciser les modalités de communication  et de 
+transmission de l’information, mais également afin de clarifier l ’interprétation et 
+l’évaluation de certains éléments des formulaires de déclaration de l’administration 
+d’aide médicale à mourir. 
+Compte tenu de son statut de  nouvelle structure indépendante du réseau de la 
+santé et des services sociaux, la Commission tâchera, au cours des prochains mois, 
+de mieux faire connaître son mandat à la population et aux intervenants concernés 
+par les soins de fin de vie.  À cet effet, elle créera un site Web  dès la levée du 
+moratoire sur le développement des sites Web au gouvernement. 
+D’ici la publication de son prochain rapport annuel d’activités, la Commission 
+poursuivra la réalisation des travaux déjà amorcés . Elle compte par ailleurs 
+entreprendre les activités qui lui permettront d’évaluer l’ensemble de l’application 
+de la Loi à l’égard des soins de fin de vie, avec notamment pour objectif de tracer 
+un portrait de la situation des soins de fin de vie au Québe c. Le  premier rapport 
+portant sur cette situation doit être transmis au ministre  au plus tard le 
+10 décembre 2018. 
+En conséquence, la Commission travaillera en partenariat avec les divers acteurs du 
+réseau de la santé et des services sociaux concernés. Ell e veillera à répondre au 
+mandat qui lui a été confié par le gouvernement, et ce , afin d’assurer le bien -être 
+des personnes en fin de vie et celui de leurs proches, en plus de s’assurer que des 
+soins de fin de vie de qualité soient accessibles sur l’ensembl e du territoire 
+québécois. 
+  
+23 
+ANNEXE I  
+Dispositions de la Loi concernant les soins de fin de vie relatives à 
+la Commission sur les soins de fin de vie 
+CHAPITRE V 
+COMMISSION SUR LES SOINS DE FIN DE VIE 
+SECTION I 
+INSTITUTION ET FONCTIONNEMENT DE LA COMMISSION 
+38. Est instituée la Commission sur les soins de fin de vie. 
+39. La Commission est composée de onze  membres nommés par le gouvernement, 
+lesquels se répartissent comme suit : 
+1° cinq membres sont des professionnels de la santé ou des services soc iaux, 
+dont : 
+a) deux membres sont nommés après consultation du Collège des médecins du 
+Québec; 
+b) un membre est nommé après consultation de l’Ordre des infirmières et 
+infirmiers du Québec; 
+c) un membre est nommé après consultation de l’Ordre des pharmaciens du 
+Québec; 
+d) un membre est nommé après consultation de l’Ordre professionnel des 
+travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec; 
+2° deux membres sont des juristes, nommés après consultation du Barreau du 
+Québec et de la Chambre des notaires du Québec; 
+3° deux membres sont des usagers d’un établissement, nommés après 
+consultation des organismes représentant les comités des usagers des 
+établissements; 
+4° un membre est issu du milieu de l’éthique, nommé après consultation des 
+établissements d’enseignement universitaire; 
+5° un membre est nommé après consultation des organismes représentant les 
+établissements; 
+Lorsqu’il procède aux nominations visées au paragraphe  1° du premier alinéa, le 
+gouvernement doit s’assurer qu’au mo ins un membre est issu du milieu des soins 
+palliatifs. 
+Les membres de la Commission sont nommés pour un mandat d’au plus cinq ans. 
+Leur mandat ne peut être renouvelé consécutivement qu’une fois. À l’expiration de 
+24 
+leur mandat, les membres demeurent en fonction jusqu’à ce qu’ils soient remplacés 
+ou nommés de nouveau. 
+Le gouvernement désigne, parmi les membres, un président et un vice-président. 
+Ce dernier est appelé à assurer la présidence de la Commission en cas d’absence ou 
+d’empêchement du président. 
+Le go uvernement fixe les allocations et indemnités des membres de la 
+Commission. 
+40. La Commission peut prendre tout règlement concernant sa régie interne. 
+41. Le quorum aux réunions de la Commission est de sept  membres, dont le 
+président ou le vice-président. 
+Sous réserve du deuxième  alinéa de l’article  47, les décisions de la Commission 
+sont prises à la majorité des voix exprimées par les membres présents. En cas de 
+partage des voix, la personne qui assure la présidence dispose d’une voix 
+prépondérante. 
+SECTION II 
+MANDAT DE LA COMMISSION 
+42. La Commission a pour mandat d’examiner toute question relative aux soins de 
+fin de vie. À cette fin, elle doit notamment : 
+1° donner des avis au ministre sur toute question qu’il lui soumet; 
+2° évaluer l’application de la Loi à l’égard des soins de fin de vie; 
+3° saisir le ministre de toute question relative à ces soins qui mérite l’attention 
+ou une action du gouvernement et lui soumettre ses recommandations; 
+4° soumettre au ministre, tous les cinq ans, un rapport sur la situation des soins 
+de fin de vie au Québec; 
+5° effectuer tout autre mandat que le ministre lui confie. 
+La Commission a également pour mandat de surveiller, conformément à la 
+présente section, l’application des exigences particulières relatives à l’aide  médicale 
+à mourir. 
+La Commission transmet au ministre, au plus tard le 30  septembre de chaque 
+année, un rapport annuel de ses activités. 
+43. Le ministre dépose les rapports produits par la Commission devant l’Assemblée 
+nationale dans les 30  jours suivant leur réception ou, si elle ne siège pas, dans les 
+30 jours de la reprise de ses travaux. La Commission compétente de l’Assemblée 
+nationale étudie ces rapports. 
+44. Dans l’exercice des fonctions qui lui sont dévolues par le premier  alinéa de 
+l’article 42, la Commission peut notamment, de façon exceptionnelle : 
+25 
+1° solliciter l’opinion de personnes et de groupes sur toute question relative aux 
+soins de fin de vie; 
+2° effectuer ou faire effectuer les études et les recherches qu’elle juge 
+nécessaires; 
+3° avoir recours à des experts externes afin de lui faire rapport sur un ou 
+plusieurs points précis qu’elle détermine. 
+45. La Commission peut exiger des établissements, des maisons de soins palliatifs, 
+des médecins exerçant leur profession dans un cabinet privé de professionnel ou 
+des agences qu’ils lui transmettent, de la manière et dans les délais qu’elle indique, 
+les états, données statistiques, rapports et autres renseignements nécessaires afin 
+de lui permettre d’exercer les fonctions prévues au premier  alinéa de  l’article 42, 
+pourvu qu’il ne soit pas possible de relier ces renseignements à une personne ayant 
+reçu des soins de fin de vie ou au professionnel de la santé ou des services sociaux 
+les ayant fournis. 
+46. Le médecin qui administre l’aide médicale à mourir à une personne doit, dans 
+les 10 jours qui suivent, en aviser la Commission et lui transmettre, selon les 
+modalités déterminées par règlement du gouvernement, les renseignements prévus 
+par ce règlement. Ces renseignements sont confidentiels et ne peuvent  être 
+communiqués à quiconque, sauf dans la mesure où ils sont nécessaires pour 
+l’application du présent article et de l’article 47. 
+Quiconque constate qu’un médecin contrevient au présent article est tenu de 
+signaler le manquement au Collège des médecins du Québec pour qu’il prenne les 
+mesures appropriées. 
+47. Sur réception de l’avis du médecin, la Commission vérifie le respect de 
+l’article 29 conformément à la procédure prévue par règlement du gouvernement. 
+Au terme de cette vérification, lorsqu’au moins les deux tiers des membres 
+présents de la Commission estiment que l’article  29 n’a pas été respecté, la 
+Commission transmet un résumé de ses conclusions au Collège des médecins du 
+Québec et, lorsque le médecin a fourni l’aide médicale à mourir à titre de médecin 
+exerçant sa profession dans un centre exploité par un établissement, à 
+l’établissement concerné pour qu’ils prennent les mesures appropriées. 
+[…] 
+CHAPITRE II 
+DISPOSITIONS TRANSITOIRES ET FINALES 
+[…] 
+73. Jusqu’au 10 décembre 2017 , le directeur général d’un établissement doit 
+transmettre au conseil d’administration de l’établissement le rapport prévu au 
+deuxième alinéa de l’article  8 tous les six  mois. L’établissement le transmet, le plus 
+26 
+tôt possible, à la Commission sur les soins  de fin de vie et le publie sur son site 
+Internet. 
+Jusqu’à cette date, le Collège des médecins du Québec doit également 
+transmettre le rapport prévu à l’article  37 tous les six  mois à la Commission sur les 
+soins de fin de vie. 
+[…] 
+75. Malgré le paragraphe 4° du premier alinéa de l’article  42, la Commission sur les 
+soins de fin de vie doit transmettre son premier rapport sur la situation des soins de 
+fin de vie au plus tard le 10 décembre 2018. 
+  
+27 
+ANNEXE II 
+Déclaration de valeurs de l’administration publique québécoise 
+21 novembre 2002, Assemblée nationale, document sessionnel n° 1598-20021121 
+ 
+L’administration publique est appelée à accomplir une mission d’intérêt public en 
+raison des services importants qu’elle doit rendre à la population du Québec et du 
+fait que ces services sont financés par l’ensemble de la collectivité. 
+Cette mission, l’administration publique doit la remplir non seulement avec 
+efficacité, mais aussi dans le respect de valeurs fondamentales. 
+C’est pourquoi la Loi sur la fonction publique reflète de telles valeurs lorsqu’elle 
+édicte des normes de comportement telles que l’assiduité, la compétence, la 
+loyauté, le respect, l’intégrité, l’impartialité, la neutralité, la discrétion et la réserve. 
+Il en est de même de la Loi sur le ministère du Conseil exécutif qui prévoit 
+l’imposition de normes d’éthique et de déontologie applicables aux administrateurs 
+publics. 
+Ces valeurs prennent une importance accrue en raison de l’autonomie d’action, de 
+l’imputabilité, de la transparence et de la primauté d es services aux citoyens 
+réaffirmées par la Loi sur l’administration publique. 
+La qualité des services aux citoyens et la poursuite de l’intérêt public interpellent 
+donc au plus haut point tous les membres de l’administration publique québécoise, 
+qu’il s’agisse de ses dirigeants, de ses fonctionnaires ou de ses autres employés. 
+Elles orientent la façon de concevoir la relation entre l’administration publique et 
+les citoyens. 
+Ces impératifs s’appuient sur des valeurs éthiques qui servent d’assise aux 
+membres de l’administration publique et dont il convient d’affirmer les plus 
+fondamentales. 
+ 
+COMPÉTENCE 
+Chaque membre de l’administration publique s’acquitte de ses tâches avec 
+professionnalisme. Il met à contribution ses connaissances, ses habiletés et son 
+expérience dans l’atteinte des résultats visés. Il est responsable de ses décisions et 
+de ses actes ainsi que de l’utilisation judicieuse des ressources et de l’information 
+mises à sa disposition. 
+  
+28 
+IMPARTIALITÉ  
+Chaque membre de l’administration publique fait preuve de neutralité et 
+d’objectivité. Il prend ses décisions dans le respect des règles applicables et en 
+accordant à tous un traitement équitable. Il remplit ses fonctions sans 
+considérations partisanes. 
+ 
+INTÉGRITÉ  
+Chaque membre de l’administration publique se conduit d’une manière juste et 
+honnête. Il évite de se mettre dans une situation où il se rendrait redevable à 
+quiconque pourrait l’influencer indûment dans l’exercice de ses fonctions. 
+ 
+LOYAUTÉ  
+Chaque membre de l’administration publique est consc ient qu’il est un 
+représentant de celle -ci auprès de la population. Il exerce ses fonctions dans le 
+respect de la volonté démocratique exprimée librement par l’ensemble des 
+citoyens. 
+ 
+RESPECT  
+Chaque membre de l’administration publique manifeste de la cons idération à 
+l’égard de toutes les personnes avec qui il interagit dans l’exercice de ses fonctions. 
+Il fait preuve de courtoisie, d’écoute et de discrétion à l’égard des personnes avec 
+lesquelles il entre en relation dans l’exercice de ses fonctions. Il fait également 
+preuve de diligence et évite toute forme de discrimination.  
+29 
+ANNEXE III 
+Décret concernant la nomination de onze membres et la 
+désignation de la présidente et de la vice -présidente de la 
+Commission sur les soins de fin de vie 
+Décret 1167-2015, 16 décembre 2015 
+ 
+ATTENDU QU’en vertu de l’article  38 de la Loi concernant les soins de fin de 
+vie (chapitre S-32.0001), est instituée la Commission sur les soins de fin de vie; 
+ATTENDU QUE le premier alinéa de l’article  39 de cette loi prévoit que la 
+Commission sur les soins de fin de vie est composée de onze  membres nommés par 
+le gouvernement dont : 
+1° cinq membres sont des professionnels de la santé ou des services sociaux, 
+dont : 
+a) deux membres sont nommés après consultation du Collège des médecins  
+du Québec; 
+b) un membre est nommé après consultation de l’Ordre des infirmières et 
+infirmiers du Québec; 
+c) un membre est nommé après consultation de l’Ordre des pharmaciens du 
+Québec; 
+d) un membre est nommé après consultation de l’Ordre professionnel des  
+travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec; 
+2° deux membres sont des juristes, nommés après consultation du Barreau du 
+Québec et de la Chambre des notaires du Québec; 
+3° deux membres sont des usagers d’un établissement, nommé s après 
+consultation d’organismes représentant les comités des usagers des 
+établissements; 
+4° un membre est issu du milieu de l’éthique, nommé après consultation des 
+établissements d’enseignement universitaire; 
+5° un membre est nommé après consultation des organismes représentant les 
+établissements; 
+ATTENDU QUE le deuxième alinéa de l’article  39 de cette loi prévoit que 
+lorsqu’il procède aux nominations visées au paragraphe  1° du premier alinéa de cet 
+article, le gouvernement doit s’assurer qu’au moins un membre est issu du milieu 
+des soins palliatifs; 
+30 
+ATTENDU QUE le troisième alinéa de l’article  39 de cette loi prévoit 
+notamment que les membres de la Commission sont nommés pour un mandat d’au 
+plus cinq ans; 
+ATTENDU QUE le quatrième alinéa de l’article 39 de  cette loi prévoit 
+notamment que le gouvernement désigne, parmi les membres, un président et un 
+vice-président; 
+ATTENDU QU’en vertu du décret numéro 887 -2015 du 7  octobre 2015, pour 
+l’application de l’article  39 de cette loi, le membre visé par le paragrap he 5° du 
+premier alinéa de cet article est nommé après consultation des présidents 
+directeurs généraux et des directeurs généraux, selon le cas, d’un établissement 
+public au sens de la Loi sur les services de santé et les services sociaux (chapitre S -
+4.2); 
+ATTENDU QUE les consultations requises par la loi ont été effectuées; 
+IL EST ORDONNÉ, en conséquence, sur la recommandation du ministre de la 
+Santé et des Services sociaux : 
+QUE les personnes suivantes soient nommées membres de la Commission sur 
+les soins de fin de vie pour un mandat de cinq ans à compter des présentes : 
+ membres qui sont des professionnels de la santé ou des services sociaux : 
+− madame Maryse Carignan, conseillère clinique, Direction des soins 
+infirmiers, Centre intégré de santé et de services sociaux de Laval; 
+− Dre Josée Courchesne, médecin de famille, coordonnatrice du service 
+médical, Maison de soins palliatifs Source Bleue; 
+− monsieur Patrick Durivage, travailleur social, Soutien à l’autonomie des 
+personnes âgées à domicile, Centre de santé et de services sociaux Cavendish, 
+Centre intégré universitaire de santé et de services sociaux du Centre -Ouest-de-
+l’Île-de-Montréal; 
+− Dr David Lussier, médecin gériatre, directeur scientifique, Centre de 
+promotion de la santé AvantÂge, Institut universitaire de gériatrie de Montréal; 
+− monsieur Robert Thiffault, pharmacien, ex -coordonnateur de 
+l’enseignement et de la formation, Centre hospitalier universitaire de Sherbrooke, 
+Centre intégré universitaire de santé et de services sociaux de l’Estrie; 
+ membres qui sont des juristes : 
+− Me Pierre Deschamps, avocat en pratique privée, spécialiste en droit de la 
+santé; 
+− Me Jean Lambert, notaire en pratique privée; 
+ membres qui sont des usagers d’un établissement : 
+31 
+− madame Marielle Philibert, présidente, Comité des usagers du CHU de 
+Québec – Université Laval; 
+− madame Bilkis Vissandjée, professeure titulaire, Faculté des sciences 
+infirmières, Université de Montréal; 
+ membre qui est issue du milieu de l’éthique : 
+− madame Mireille Lavoie, doyenne, Faculté des sciences infirmières, 
+Université Laval; 
+ membre qui est nommé après consultation des présidents - directeurs 
+généraux et des directeurs -généraux, selon le cas, d’un établissement 
+public : 
+− monsieur Richard Deschamps, président-directeur général, Centre intégré de 
+santé et de services sociaux de la Montérégie-Centre; 
+QUE madame Mireille Lavoie soit désignée présidente de la Commission sur 
+les soins de fin de vie pour la durée de son mandat; 
+QUE la docteure Josée Courchesne soit désignée vice- présidente de la 
+Commission sur les soins de fin de vie pour la durée de son mandat. 
+  
+32 
+ANNEXE IV 
+Décret concernant les allocations et indemnités des membres de 
+la Commission sur les soins de fin de vie 
+Décret 1167-2015, 16 décembre 2015 
+ 
+ATTENDU QU’en vertu de l’article 38 de la Loi concernant les soins de fin de 
+vie (chapitre S-32.0001), est instituée la Commission sur les soins de fin de vie; 
+ATTENDU QU’en vertu du premier alinéa de l’article  39 de cette loi, la 
+Commission est composée de onze membres nommés par le gouvernement; 
+ATTENDU QUE le quatrième alinéa de l’article 39  de cette loi prévoit 
+notamment que le gouvernement désigne, parmi les membres de la Commission, 
+un président; 
+ATTENDU QUE le cinquième alinéa de l’article  39 de cette loi prévoit que le 
+gouvernement fixe les allocations et indemnités des membres de la Commission; 
+ATTENDU QU’il y a lieu de fixer les allocations et indemnités applicables aux 
+membres de la Commission; 
+IL EST ORDONNÉ, en conséquence, sur la recommandation du ministre de la 
+Santé et des Services sociaux : 
+QUE les membres médecins de la Commission sur les soins de fin de vie 
+reçoivent des honoraires correspondant au taux horaire applicable à un médecin 
+spécialiste prévu à l’annexe  15 de l’Accord -cadre intervenu entre le ministre de la 
+Santé et des Services sociaux et la Fédération des médecin s spécialistes du Québec 
+aux fi ns de l’application de la Loi sur l’assurance maladie (chapitre A- 29), jusqu’à 
+concurrence de huit heures par séance et jusqu’à concurrence de quatre heures de 
+travail s’y rapportant; 
+QUE les autres membres de la Commission reçoivent des honoraires de 55  $ 
+l’heure jusqu’à concurrence de huit heures par séance et jusqu’à concurrence de 
+quatre heures de travail s’y rapportant; 
+QUE le taux horaire du membre désigné président de la Commissio n soit 
+majoré de 10 $ l’heure; 
+QUE le présent décret ne s’applique pas à un membre de la Commission qui 
+est un employé du secteur public; 
+QU’aux fins du présent décret, le secteur public soit celui défi ni à l’annexe du 
+Règlement sur l’éthique et la déontol ogie des administrateurs publics (chapitre M -
+30, r. 1); 
+33 
+QUE les honoraires d’un membre de la Commission qui est un retraité du 
+secteur public soient réduits d’un montant équivalant à la moitié de la rente de 
+retraite qu’il reçoit de ce secteur; 
+QUE le président de la Commission soit remboursé, jusqu’à concurrence d’un 
+montant annuel de 1  000 $ et sur présentation de pièces justificatives, des 
+dépenses occasionnées par l’exercice de ses fonctions entre le 1 er avril d’une année 
+et le 31  mars de l’année su ivante, conformément aux règles applicables aux 
+dirigeants d’organismes gouvernementaux adoptées par le gouvernement par le 
+décret numéro 450-2007 du 20 juin 2007; 
+QUE les membres de la Commission soient remboursés des frais de voyage et 
+de séjour occasion nés par l’exercice de leurs fonctions, conformément aux règles 
+applicables aux membres d’organismes gouvernementaux adoptées par le 
+gouvernement par le décret numéro 2500-83 du 30 novembre 1983. 
+  
+34 
+ANNEXE V 
+Dispositions de la Loi concernant les soins de fin de vie portant sur 
+les exigences particulières relatives à l’aide médicale à mourir 
+CHAPITRE IV 
+EXIGENCES PARTICULIÈRES RELATIVES À CERTAINS SOINS DE FIN DE VIE 
+[…] 
+SECTION II 
+AIDE MÉDICALE À MOURIR 
+26. Seule une personne qui satisfait à toutes les conditions suivantes peut obtenir 
+l’aide médicale à mourir: 
+1° elle est une personne assurée au sens de la Loi sur l’assurance maladie 
+(chapitre A-29); 
+2° elle est majeure et apte à consentir aux soins; 
+3° elle est en fin de vie; 
+4° elle est atteinte d’une maladie grave et incurable; 
+5° sa situation médicale se caractérise par un déclin avancé et irréversible de ses 
+capacités; 
+6° elle éprouve des souffrances physiques ou psychiques constantes, 
+insupportables et qui ne peuvent être apaisées dans des conditions qu’ elle juge 
+tolérables. 
+La personne doit, de manière libre et éclairée, formuler pour elle -même la 
+demande d’aide médicale à mourir au moyen du formulaire prescrit par le ministre. 
+Ce formulaire doit être daté et signé par cette personne. 
+Le formulaire est signé en présence d’un professionnel de la santé ou des 
+services sociaux qui le contresigne et qui, s’il n’est pas le médecin traitant de la 
+personne, le remet à celui-ci. 
+27. Lorsque la personne qui demande l’aide médicale à mourir ne peut dater et 
+signer le formulaire visé à l’article 26 parce qu’elle ne sait pas écrire ou qu’elle en 
+est incapable physiquement, un tiers peut le faire en présence de cette personne. 
+Le tiers ne peut faire partie de l’équipe de soins responsable de la personne et ne 
+peut être un mineur ou un majeur inapte. 
+28. Une personne peut, en tout temps et par tout moyen, retirer sa demande d’aide 
+médicale à mourir. 
+Elle peut également, en tout temps et par tout moyen, demander à reporter 
+l’administration de l’aide médicale à mourir. 
+35 
+29. Avant d’administrer l’aide médicale à mourir, le médecin doit: 
+1° être d’avis que la personne satisfait à toutes les conditions prévues à l’article 
+26, notamment: 
+a) en s’assurant auprès d’elle du caractère libre de sa demande, en vérifiant 
+entre autres qu’elle ne résulte pas de pressions extérieures; 
+b) en s’assurant auprès d’elle du caractère éclairé de sa demande, notamment 
+en l’informant du pronostic relatif à la maladie, des possibilités thérapeutiques 
+envisageables et de leurs conséquences; 
+c) en s’ assurant de la persistance de ses souffrances et de sa volonté réitérée 
+d’obtenir l’aide médicale à mourir, en menant avec elle des entretiens à des 
+moments différents, espacés par un délai raisonnable compte tenu de l’évolution 
+de son état; 
+d) en s’entretenant de sa demande avec des membres de l’équipe de soins en 
+contact régulier avec elle, le cas échéant; 
+e) en s’entretenant de sa demande avec ses proches, si elle le souhaite; 
+2° s’assurer que la personne a eu l’occasion de s’entretenir de sa demande avec 
+les personnes qu’elle souhaitait contacter; 
+3° obtenir l’avis d’un second médecin confirmant le respect des  conditions 
+prévues à l’article 26. 
+Le médecin consulté doit être indépendant, tant à l’égard de la personne qui 
+demande l’aide médicale à mourir qu’à l’égard du médecin qui demande l’avis. Il 
+doit prendre connaissance du dossier de la personne et examiner celle -ci. Il doit 
+rendre son avis par écrit. 
+30. Si le médecin conclut, à la suit e de l’application de l’article  29, qu’il peut 
+administrer l’aide médicale à mourir à la personne qui la demande, il doit la lui 
+administrer lui-même, l’accompagner et demeurer auprès d’elle jusqu’à son décès. 
+Si le médecin conclut toutefois qu’il ne peut administrer l’aide médicale à 
+mourir, il doit informer la personne qui la demande des motifs de sa décision. 
+31. Tout médecin qui exerce sa profession dans un centre exploité par un 
+établissement et qui refuse une demande d’aide médicale à mourir pour u n motif 
+non fondé sur l’article  29 doit, le plus tôt possibl e, en aviser le directeur général de 
+l’établissement ou toute autre personne qu’il désigne et, le cas échéant, lui 
+transmettre le formulaire de demande d’aide médicale à mourir qui lui a été remis. 
+Le directeur général de l’établissement, ou la personne qu ’il a désignée, doit alors 
+faire les démarches nécessaires pour trouver, le plus tôt possible, un médecin qui 
+accepte de traiter la demande conformément à l’article 29. 
+Si le médecin à qui la demande est formulée exerce sa profession dans un 
+cabinet privé de professionnel et qu’il ne fournit pas l’aide médicale à mourir, il 
+36 
+doit, le plus tôt possible, en aviser le directeur général de l’instance locale visée à 
+l’article 99.4 de la Loi sur les services de santé et les services sociaux (chapitre S-4.2) 
+qui dessert le territoire où est située la résidence de la personne qui a formulé la 
+demande, ou en aviser la personne qu’il a désignée. Le médecin lui transmet, le cas 
+échéant, le formulaire qui lui a été remis et les démarches visées au premier alinéa 
+sont alors entreprises. 
+Dans le cas où aucune instance locale ne dessert le territoire où est située la 
+résidence de la personne, l’avis mentionné au deuxième alinéa est transmis au 
+directeur général de l’établissement exploitant un centre local de services 
+communautaires sur ce territoire ou à la personne qu’il a désignée. 
+32. Doit être inscrit ou versé dans le dossier de la personne tout renseignement ou 
+document en lien avec la demande d’aide médicale à mourir, que le médecin 
+l’administre ou non, dont le formulaire de demande d’aide médicale à mourir, les 
+motifs de la décision du médecin et, le cas échéant, l’avis du médecin consulté. 
+Doit également être inscrite au dossier de la personne sa décision de retirer sa 
+demande d’aide médicale à mourir ou de reporter son administration. 
+  
+37 
+ANNEXE VI 
+Règlement sur la procédure suivie par la Commission sur les soins 
+de fin de vie afin de vérifier le respect des conditions relatives à 
+l’administration de l’aide médicale à mourir et sur les 
+renseignements devant lui être transmis à cette fin 
+Loi concernant les soins de fin de vie (chapitre S-32.0001, a. 46 et 47) 
+CHAPITRE I 
+RENSEIGNEMENTS DEVANT ÊTRE TRANSMIS À LA COMMISSION SUR LES SOINS DE FIN 
+DE VIE 
+SECTION I 
+OBLIGATION DU MÉDECIN 
+1. Un médecin qui administre l’aide médicale à mourir à une personne doit, dans les 10 
+jours qui suivent, en aviser la Commission sur les soins de fin de vie instituée par 
+l’article 38 de la Loi concernant les soins de fin de vie (chapitre S -32.0001) en lui 
+transmettant les renseignements prévus à la section II. 
+SECTION II 
+RENSEIGNEMENTS 
+2. Les renseignements qui doivent être transmis à la Commission se regroupent en 
+deux volets distincts : 
+1° les renseignements prévus à l’article 3; 
+2° les renseignements prévus à l’article 4 qui identifient le médecin ayant administré 
+l’aide médicale à mourir et le médecin ayant donné un deuxième avis en application du 
+paragraphe 3° du premier alinéa de l’article 29 de la Loi concernant les soins de fin de 
+vie, ainsi que les renseignements qui permettent à ces d erniers d’identifier la personne 
+ayant demandé l’aide médicale à mourir. 
+3. Les renseignements qui constituent le volet visé au paragraphe 1° de l’article 2 sont 
+les suivants : 
+1° concernant la personne ayant demandé l’aide médicale à mourir : 
+a) sa date de naissance; 
+b) son sexe; 
+c) l’indication que le médecin a vérifié qu’elle était assurée au sens de la Loi sur 
+l’assurance maladie (chapitre A-29) et qu’il en existe une preuve au dossier, ainsi que la 
+date d’expiration de sa carte d’assurance maladie; 
+d) son diagnostic médical principal ainsi que l’estimation de son pronostic vital; 
+38 
+e) la nature et la description de ses incapacités;  
+f) la nature et la description de ses souffrances physiques ou psychiques ainsi que de 
+leur caractère constant et insupportable; 
+g) les raisons pour lesquelles ses souffrances ne peuvent être apaisées dans des 
+conditions qu’elle juge tolérables; 
+h) l’indication que le médecin s’est assuré qu’elle était apte à consentir aux soins ainsi 
+que les raisons qui l’amènent à conclure qu’elle n’est pas inapte à consentir aux soins; 
+i) la date des entretiens tenus avec elle pour s’assurer de la persistance de ses 
+souffrances et de sa volonté réitérée d’obtenir l’aide médicale à mourir, ainsi que les 
+raisons pour lesquelles le médecin étai t convaincu de la persistance de ses souffrances 
+et de la constance de sa volonté d’obtenir l’aide médicale à mourir;  
+j) une indication qu’elle souhaitait ou non que le médecin s’entretienne de sa 
+demande avec ses proches et, le cas échéant, la date des e ntretiens et la conclusion de 
+ceux-ci; 
+k) la description des démarches effectuées pour s’assurer qu’elle a eu l’occasion de 
+s’entretenir de sa demande avec toute personne qu’elle souhaitait contacter; 
+l) l’indication qu’elle a eu ou non l’occasion de s’ent retenir avec toutes les personnes 
+qu’elle souhaitait contacter ainsi que les raisons pour lesquelles elle n’a pas pu le faire, 
+le cas échéant; 
+2° concernant la demande d’aide médicale à mourir : 
+a) la date à laquelle elle a été complétée; 
+b) l’indication que le médecin a vérifié qu’elle a été formulée au moyen du formulaire 
+prescrit par le ministre de la Santé et des Services sociaux en application du deuxième 
+alinéa de l’article 26 de la Loi concernant les soins de fin de vie; 
+c) l’indication que le médeci n a vérifié qu’elle a bien été datée et signée par la 
+personne elle-même et, lorsqu’elle l’a été par un tiers, que les raisons pour lesquelles 
+c’est ce dernier qui a agi sont conformes à celles prévues à l’article 27 de la Loi 
+concernant les soins de fin de vie; 
+d) si elle a été complétée par un tiers en présence du médecin, l’indication que le 
+médecin n’avait pas de raisons apparentes de douter du fait que le tiers répondait aux 
+critères prévus à l’article 27 de la Loi concernant les soins de fin de vie; 
+e) si elle n’a pas été complétée en présence du médecin, l’indication que le médecin a 
+vérifié qu’elle a été complétée en présence d’un professionnel de la santé ou des 
+services sociaux et, si elle a de plus été complétée par un tiers, que ce professionnel 
+n’avait pas de raisons apparentes de douter du fait que le tiers répondait aux critères 
+prévus à l’article 27 de la Loi concernant les soins de fin de vie; 
+f) la date à laquelle le médecin a contacté le professionnel de la santé ou des services 
+sociaux pour effectuer les vérifications prévues au sous-paragraphe e, le cas échéant; 
+39 
+g) une description des vérifications effectuées par le médecin pour s’assurer de son 
+caractère libre et plus spécifiquement pour s’assurer qu’elle ne résulte pas de pressions 
+extérieures; 
+h) une indication que le médecin s’est assuré de son caractère éclairé, notamment en 
+vérifiant que la personne a été bien informée des éléments suivants et qu’elle 
+comprenait bien les informations qui lui ont été données à leur propos : 
+i. son diagnostic médical et son pronostic vital; 
+ii. les possibilités thérapeutiques envisageables et leurs conséquences; 
+iii. les autres options de soins de fin de vie disponibles si indiqué, notamment les soins 
+palliatifs, incluant la sédation palliative, ainsi que le droit au refus de soins; 
+iv. le déroulement de l’administration de l’aide médicale à mourir et ses risques 
+possibles; 
+v. le fait qu’elle peut en tout temps et par tout moyen retirer sa demande d’aide 
+médicale à mourir ou la reporter; 
+i) la date des entretiens tenus avec la personne pour s’assurer qu’elle a bien été 
+informée des éléments prévus au sous -paragraphe h et qu’elle comprenait bien les 
+informations qui lui ont été données à leur propos, ainsi qu’un résumé de ces 
+entretiens; 
+j) l’indication qu’il y a eu ou non des discussions à son sujet entre le médecin et des 
+membres de l’équipe de soins en contact régulier avec la personne ainsi que, le cas 
+échéant, la date des entretiens et la conclusion de ceux-ci; 
+3° concernant le second mé decin consulté pour confirmer le respect des conditions 
+prévues à l’article 26 de la Loi concernant les soins de fin de vie : 
+a) une description de son statut par rapport à la personne ayant demandé l’aide 
+médicale à mourir et au médecin l’ayant administré e, ainsi que des liens professionnels 
+ou personnels qui les unissent, le cas échéant; 
+b) la date à laquelle il a été consulté par le médecin ayant administré l’aide médicale à 
+mourir; 
+c) la date à laquelle il a pris connaissance du dossier de la personne a yant demandé 
+l’aide médicale à mourir; 
+d) la ou les dates auxquelles il a examiné personnellement la personne ayant 
+demandé l’aide médicale à mourir; 
+e) son avis quant au respect des conditions prévues à l’article 26 de la Loi concernant 
+les soins de fin de vie; 
+4° concernant l’aide médicale à mourir : 
+a) la date de son administration; 
+b) la date et l’heure du décès de la personne ayant demandé l’aide médicale à mourir; 
+c) la région administrative où le décès est survenu; 
+40 
+d) le type de lieu où le décès est survenu, soit : 
+i. le domicile de la personne ayant demandé l’aide médicale à mourir; 
+ii. un établissement; dans ce cas, préciser s’il s’agit d’un établissement public ou privé 
+ainsi que le centre exploité dans l’installation où est survenu le décès; 
+iii. une maison de soins palliatifs; 
+iv. un autre type de lieu; dans ce cas, préciser lequel. 
+Le médecin ayant administré l’aide médicale à mourir transmet également à la 
+Commission tout autre renseignement ou commentaire qu’il juge pertinent qu’elle 
+examine dans le cadre de son mandat. 
+4. Les renseignements qui constituent le volet visé au paragraphe 2° de l’article 2 sont 
+les suivants : 
+1° le numéro de dossier de la personne ayant demandé l’aide médicale à mourir dans 
+l’établissement ou le cabinet privé où pra tique le médecin ayant administré l’aide 
+médicale à mourir et dans lequel sont consignées les notes concernant l’aide médicale 
+à mourir, ainsi que l’identification de l’établissement ou du cabinet privé concerné de 
+même que de l’installation de l’établissement visée, le cas échéant; 
+2° concernant le médecin ayant administré l’aide médicale à mourir : 
+a) son nom et sa signature; 
+b) le numéro de son permis d’exercice; 
+c) ses coordonnées professionnelles; 
+3° concernant le second médecin consulté : 
+a) son nom; 
+b) le numéro de son permis d’exercice; 
+c) ses coordonnées professionnelles. 
+SECTION III 
+FORMULAIRE 
+5. Le ministre de la Santé et des Services sociaux rend disponible un formulaire 
+permettant à tout médecin qui administre l’aide médicale à mourir de remplir 
+l’obligation prévue à l’article 1. 
+Le formulaire doit être conçu de telle façon que le médecin puisse sceller les 
+renseignements qui constituent le volet visé au paragraphe 2° de l’article 2 d’une façon 
+qui empêche les membres de la Commission d’en prendre connaissance. Les membres 
+de la Commission ne peuvent prendre connaissance de ces renseignements que dans 
+les circonstances prévues aux articles 9 et 13. 
+6. Le formulaire complété par le médecin est transmis à la Commission par la poste ou 
+par tout autre  moyen qui permet d’assurer la protection des renseignements qu’il 
+contient. 
+41 
+7. Le ministre de la Santé et des Services sociaux peut rendre disponible un actif 
+informationnel assurant une transmission sécuritaire à la Commission des 
+renseignements visés à la section II. Le deuxième alinéa de l’article 5 s’applique à cet 
+actif informationnel, compte tenu des adaptations nécessaires. 
+Le ministre peut rendre obligatoire l’utilisation de l’actif informationnel. Il doit alors 
+informer les médecins, notamment par l’intermédiaire des établissements de la santé 
+et des services sociaux et du Collège des médecins du Québec, de l’actif informationnel 
+choisi, des installations où cet actif leur est accessible et de la date à laquelle doit 
+débuter la transmission des renseignements à la Commission au moyen de cet actif. 
+CHAPITRE II 
+PROCÉDURE DEVANT ÊTRE SUIVIE 
+PAR LA COMMISSION 
+8. La Commission vérifie, dans chaque cas d’administration d’aide médicale à mourir et 
+à l’aide des renseignements visés au paragraphe 1° de l’article 2 qui lui sont transmis, le 
+respect de l’article 29 de la Loi concernant les soins de fin de vie. 
+L’examen de chaque cas s’effectue en plénière. 
+9. Lorsque les renseignements qui lui sont transmis sont incomplets ou que la 
+Commission est d’avis qu’elle ne peut parvenir à une décision sur le respect de l’article 
+29 de la Loi concernant les soins de fin de vie dans un cas particulier sans l’obtention de 
+précisions, ses membres peuvent prendre connaissance des renseignements visés au 
+paragraphe 2° de l’article 2. 
+Elle peut alors demander que les compléments d’information ou les précisions 
+qu’elle juge nécessaires à la vérification lui soient fournis par le médecin ayant 
+administré l’aide médicale à mourir, le second médecin consulté pour confirmer le  
+respect des conditions prévues à l’article 26 de la Loi concernant les soins de fin de vie 
+ou par toute autre personne qui pourrait être en mesure de le faire. 
+La décision de prendre connaissance du contenu des renseignements visés au 
+premier alinéa doit être prise à la majorité des membres présents. 
+10. Lorsqu’elle demande que des compléments d’information ou des précisions lui 
+soient fournis, la Commission agit toujours de manière à protéger la confidentialité des 
+renseignements personnels concernant la personne ayant demandé l’aide médicale à 
+mourir, ses proches ainsi que les professionnels de la santé et des services sociaux 
+impliqués. 
+11. Toute personne à qui la Commission demande des compléments d’information ou 
+des précisions doit lui répondre dans l es 10 jours ouvrables de la réception de cette 
+demande. 
+12. La Commission doit procéder à l’examen de chaque cas d’administration d’aide 
+médicale à mourir dans un délai maximal de deux mois suivant la réception des 
+renseignements le concernant. Ce délai es t cependant prolongé d’un mois lorsque des 
+42 
+compléments d’information ou des précisions sont demandés, sans toutefois pouvoir 
+excéder trois mois suivant la réception des renseignements concernant le cas. 
+13. Lorsque, à la suite de la vérification du respect  de l’article 29 de la Loi concernant 
+les soins de fin de vie dans un cas d’administration d’aide médicale à mourir, au moins 
+les deux tiers des membres présents de la Commission estiment qu’un médecin a 
+administré l’aide médicale à mourir alors que cet ar ticle n’était pas respecté, ces 
+membres prennent connaissance des renseignements visés au paragraphe 2° de 
+l’article 2. 
+Dans un tel cas, la Commission doit aviser le Collège des médecins du Québec et, 
+lorsque le médecin a fourni l’aide médicale à mourir à titre de médecin exerçant sa 
+profession dans un centre exploité par un établissement, l’établissement concerné pour 
+qu’ils prennent les mesures appropriées. La Commission transmet alors un résumé de 
+ses conclusions au Collège et à l’établissement, le cas é chéant. Le résumé décrit les 
+irrégularités identifiées par la Commission et, le cas échéant, les démarches qu’elle a 
+effectuées pour obtenir des compléments d’information ou des précisions ainsi que le 
+résultat de ces démarches. 
+La Commission peut conclure que l’article 29 de la Loi concernant les soins de fin de 
+vie n’a pas été respecté qu’il y ait eu ou non demande de compléments d’information 
+ou de précisions en application du deuxième alinéa de l’article 9. 
+14. Toute décision de la Commission est motivé e par écrit et consignée au procès -
+verbal de la séance où elle a été prise. 
+15. La Commission conserve pendant cinq ans les renseignements qui lui sont transmis 
+par un médecin ayant administré l’aide médicale à mourir, ainsi que les compléments 
+d’information et les précisions reçus, le cas échéant. 
+CHAPITRE III 
+DISPOSITION FINALE 
+16. Le présent règlement entre en vigueur le 10 décembre 2015. 
+ 
+ 

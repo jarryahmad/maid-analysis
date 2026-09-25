@@ -1,0 +1,1618 @@
+[
+  {
+    "data_year": 2019,
+    "label": "Chart 3.1 - Text description",
+    "file": "data/clean/tables/2019__chart-3-1.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 4,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Table 3.1: Total Reported MAID Deaths in Canada by Jurisdiction, 2016 to 2019",
+    "file": "data/clean/tables/2019__table-3-1-total-reported-maid-deaths-in-canada-by-jurisdiction-2016-to-2019.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 5,
+    "n_cols": 15
+  },
+  {
+    "data_year": 2019,
+    "label": "Chart 3.2 - Text description",
+    "file": "data/clean/tables/2019__chart-3-2.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 11,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Chart 4.1 - Text description",
+    "file": "data/clean/tables/2019__chart-4-1.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 7,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Chart 4.2 - Text description",
+    "file": "data/clean/tables/2019__chart-4-2.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 9,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Table 4.3: MAID Recipients Who Received Palliative Care and Disability Support Services, 2019",
+    "file": "data/clean/tables/2019__table-4-3-maid-recipients-who-received-palliative-care-and-disability-support-se.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 11,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2019,
+    "label": "Chart 5.1 - Text description",
+    "file": "data/clean/tables/2019__chart-5-1.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 5,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Table 5.2: Unique MAID Practitioners in Canada and Frequency of Provision, 2019",
+    "file": "data/clean/tables/2019__table-5-2-unique-maid-practitioners-in-canada-and-frequency-of-provision-2019.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 6,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2019,
+    "label": "Chart 5.3 - Text description",
+    "file": "data/clean/tables/2019__chart-5-3.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 9,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Chart 6.1 - Text description",
+    "file": "data/clean/tables/2019__chart-6-1.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 12,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Table 6.3: Determination of the Patient\u2019s Request as Voluntary, 2019",
+    "file": "data/clean/tables/2019__table-6-3-determination-of-the-patient-s-request-as-voluntary-2019.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 6,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Table 6.4: Consultation With Other Health Care Professionals, 2019",
+    "file": "data/clean/tables/2019__table-6-4-consultation-with-other-health-care-professionals-2019.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 8,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Table 7.1: MAID Requests and Outcomes by Jurisdiction, 2019",
+    "file": "data/clean/tables/2019__table-7-1-maid-requests-and-outcomes-by-jurisdiction-2019.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 5,
+    "n_cols": 15
+  },
+  {
+    "data_year": 2019,
+    "label": "Chart 7.2 - Text description",
+    "file": "data/clean/tables/2019__chart-7-2.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 3,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Table 7.3: Reasons for Ineligibility for MAID, 2019",
+    "file": "data/clean/tables/2019__table-7-3-reasons-for-ineligibility-for-maid-2019.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 7,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Table 7.4: Reason for Withdrawal of MAID Request, 2019",
+    "file": "data/clean/tables/2019__table-7-4-reason-for-withdrawal-of-maid-request-2019.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 5,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2019,
+    "label": "Appendix A: Profile of Medical Assistance in Dying by Jurisdiction January 1 to December 31, 2019",
+    "file": "data/clean/tables/2019__appendix-a-profile-of-medical-assistance-in-dying-by-jurisdiction-january-1-to-d.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2019.html",
+    "n_rows": 38,
+    "n_cols": 15
+  },
+  {
+    "data_year": 2020,
+    "label": "Table 1.1: Bill C-14 Eligibility Criteria and Safeguards",
+    "file": "data/clean/tables/2020__table-1-1-bill-c-14-eligibility-criteria-and-safeguards.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 1,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "This bar chart indicates the total number of reported MAID deaths for each year, from 2016 to 2020.",
+    "file": "data/clean/tables/2020__this-bar-chart-indicates-the-total-number-of-reported-maid-deaths-for-each-year-.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 5,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "Table 3.1: Total Reported MAID Deaths in Canada by Jurisdiction, 2016 to 2020",
+    "file": "data/clean/tables/2020__table-3-1-total-reported-maid-deaths-in-canada-by-jurisdiction-2016-to-2020.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 7,
+    "n_cols": 15
+  },
+  {
+    "data_year": 2020,
+    "label": "This line chart shows how the percentage of total deaths attributed to MAID in each province compares to the overall Canadian average.",
+    "file": "data/clean/tables/2020__this-line-chart-shows-how-the-percentage-of-total-deaths-attributed-to-maid-in-e.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 11,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "This double-bar chart shows a comparison of the percentage of total deaths attributed to MAID for each main underlying medical condition between 2019 and 2020.",
+    "file": "data/clean/tables/2020__this-double-bar-chart-shows-a-comparison-of-the-percentage-of-total-deaths-attri.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 7,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2020,
+    "label": "This bar chart indicates the percentage of total deaths attributed to MAID, by cancer type, for 2020.",
+    "file": "data/clean/tables/2020__this-bar-chart-indicates-the-percentage-of-total-deaths-attributed-to-maid-by-ca.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 17,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "This bar chart indicates the percentage of total deaths attributed to MAID, by neurological condition, for 2020.",
+    "file": "data/clean/tables/2020__this-bar-chart-indicates-the-percentage-of-total-deaths-attributed-to-maid-by-ne.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 5,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "This bar chart indicates the proportion of men and women receiving MAID in 2020, and the total number of deaths attributed to MAID for each age category. The greatest proportion of persons receiving MAID in 2020 fell in the 71-75 age category.",
+    "file": "data/clean/tables/2020__this-bar-chart-indicates-the-proportion-of-men-and-women-receiving-maid-in-2020-.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 9,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2020,
+    "label": "This bar chart indicates the different reasons that prompted patients' requests for MAID by percentage, from the most frequently cited reason to the least frequently cited reason.",
+    "file": "data/clean/tables/2020__this-bar-chart-indicates-the-different-reasons-that-prompted-patients-requests-f.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 12,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "Table 4.4: MAID Recipients Who Received Palliative Care and Disability Support Services, 2020",
+    "file": "data/clean/tables/2020__table-4-4-maid-recipients-who-received-palliative-care-and-disability-support-se.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 13,
+    "n_cols": 8
+  },
+  {
+    "data_year": 2020,
+    "label": "This double-bar chart shows a comparison of the percentage of medically-assisted deaths that occurred in each setting between 2019 and 2020.",
+    "file": "data/clean/tables/2020__this-double-bar-chart-shows-a-comparison-of-the-percentage-of-medically-assisted.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 5,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2020,
+    "label": "This bar chart shows how the percentage of total deaths attributed to MAID in urban and rural settings, in each province, compares to the overall percentage of Canadians living in urban settings.",
+    "file": "data/clean/tables/2020__this-bar-chart-shows-how-the-percentage-of-total-deaths-attributed-to-maid-in-ur.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 10,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2020,
+    "label": "Table 5.3: Unique MAID Practitioners in Canada and Frequency of Provision, 2019-2020",
+    "file": "data/clean/tables/2020__table-5-3-unique-maid-practitioners-in-canada-and-frequency-of-provision-2019-20.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 8,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2020,
+    "label": "This pie chart indicates the percentage of medically-assisted deaths performed by speciality.",
+    "file": "data/clean/tables/2020__this-pie-chart-indicates-the-percentage-of-medically-assisted-deaths-performed-b.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 9,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "Table 6.2: Determination of the Patient's Request as Voluntary, 2020",
+    "file": "data/clean/tables/2020__table-6-2-determination-of-the-patient-s-request-as-voluntary-2020.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 7,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "Table 6.3: Consultation With Other Health Care Professionals, 2020",
+    "file": "data/clean/tables/2020__table-6-3-consultation-with-other-health-care-professionals-2020.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 10,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "This bar chart shows a comparison of the percentage of MAID drugs dispensed in each province, by pharmacy type.",
+    "file": "data/clean/tables/2020__this-bar-chart-shows-a-comparison-of-the-percentage-of-maid-drugs-dispensed-in-e.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 10,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2020,
+    "label": "Table 7.1: MAID Requests and Outcomes by Jurisdiction, 2020",
+    "file": "data/clean/tables/2020__table-7-1-maid-requests-and-outcomes-by-jurisdiction-2020.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 6,
+    "n_cols": 15
+  },
+  {
+    "data_year": 2020,
+    "label": "Table 7.2: Reasons for Ineligibility for MAID, 2020",
+    "file": "data/clean/tables/2020__table-7-2-reasons-for-ineligibility-for-maid-2020.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 8,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "Table 7.3: Reason for Withdrawal of MAID Request, 2020",
+    "file": "data/clean/tables/2020__table-7-3-reason-for-withdrawal-of-maid-request-2020.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 8,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "This pie chart indicates (for patients that died of a cause other than MAID) the percentage of patients that died during the 10-day reflection period, the percentage of patients that died between 11 and 30 days after submitting their written request and the percentage of patients that died more than 30 days following the submission of their written request.",
+    "file": "data/clean/tables/2020__this-pie-chart-indicates-for-patients-that-died-of-a-cause-other-than-maid-the-p.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 3,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2020,
+    "label": "Profile of Medical Assistance in Dying by Jurisdiction January 1 to December 31, 2020",
+    "file": "data/clean/tables/2020__profile-of-medical-assistance-in-dying-by-jurisdiction-january-1-to-december-31-.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2020.html",
+    "n_rows": 41,
+    "n_cols": 15
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 3.1 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-3-1-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 6,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2021,
+    "label": "Table 3.1: Total MAID Deaths in Canada by Jurisdiction, 2016 to 2021",
+    "file": "data/clean/tables/2021__table-3-1-total-maid-deaths-in-canada-by-jurisdiction-2016-to-2021.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 8,
+    "n_cols": 15
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 3.2 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-3-2-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 11,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 4.1a - Text equivalent",
+    "file": "data/clean/tables/2021__chart-4-1a-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 7,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 4.1b - Text equivalent",
+    "file": "data/clean/tables/2021__chart-4-1b-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 17,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 4.1c - Text equivalent",
+    "file": "data/clean/tables/2021__chart-4-1c-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 6,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 4.1d - Text equivalent",
+    "file": "data/clean/tables/2021__chart-4-1d-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 4,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 4.2 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-4-2-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 9,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 4.3 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-4-3-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 12,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2021,
+    "label": "Table 4.4: MAID Recipients Who Received Palliative Care and Disability Support Services, 2021",
+    "file": "data/clean/tables/2021__table-4-4-maid-recipients-who-received-palliative-care-and-disability-support-se.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 13,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 4.5 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-4-5-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 7,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 5.1 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-5-1-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 5,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 5.2 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-5-2-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 10,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 5.3 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-5-3-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 3,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 5.3 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-5-3-text-equivalent-2.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 4,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 5.4 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-5-4-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 9,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2021,
+    "label": "Table 6.1: Source of the Written Request, 2021",
+    "file": "data/clean/tables/2021__table-6-1-source-of-the-written-request-2021.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 5,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2021,
+    "label": "Table 6.2: Determination of the Individual's Request as Voluntary, 2021",
+    "file": "data/clean/tables/2021__table-6-2-determination-of-the-individual-s-request-as-voluntary-2021.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 8,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2021,
+    "label": "Table 6.3: Consultation with Other Health Care Professionals, 2021",
+    "file": "data/clean/tables/2021__table-6-3-consultation-with-other-health-care-professionals-2021.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 11,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 6.4 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-6-4-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 10,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Table 7.1: MAID Requests and Outcomes by Jurisdiction, 2021",
+    "file": "data/clean/tables/2021__table-7-1-maid-requests-and-outcomes-by-jurisdiction-2021.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 6,
+    "n_cols": 15
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 7.1 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-7-1-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 4,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 7.2 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-7-2-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 6,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Table 7.3: Reason for Withdrawal of MAID Request, 2021",
+    "file": "data/clean/tables/2021__table-7-3-reason-for-withdrawal-of-maid-request-2021.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 9,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2021,
+    "label": "Chart 7.4 - Text equivalent",
+    "file": "data/clean/tables/2021__chart-7-4-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 3,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2021,
+    "label": "Profile of Medical Assistance in Dying By Jurisdiction January 1 to December 31, 2021",
+    "file": "data/clean/tables/2021__profile-of-medical-assistance-in-dying-by-jurisdiction-january-1-to-december-31-.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2021.html",
+    "n_rows": 41,
+    "n_cols": 28
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 3.1 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-3-1-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 7,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2022,
+    "label": "Table 3.1: Total MAID Deaths in Canada by Jurisdiction, 2016 - 2022",
+    "file": "data/clean/tables/2022__table-3-1-total-maid-deaths-in-canada-by-jurisdiction-2016-2022.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 9,
+    "n_cols": 15
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 3.2 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-3-2-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 11,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 4.1A - Text equivalent",
+    "file": "data/clean/tables/2022__chart-4-1a-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 7,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 4.1B - Text equivalent",
+    "file": "data/clean/tables/2022__chart-4-1b-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 17,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 4.1C - Text equivalent",
+    "file": "data/clean/tables/2022__chart-4-1c-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 7,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 4.1D - Text equivalent",
+    "file": "data/clean/tables/2022__chart-4-1d-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 5,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 4.1E - Text equivalent",
+    "file": "data/clean/tables/2022__chart-4-1e-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 7,
+    "n_cols": 10
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 4.2 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-4-2-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 9,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 4.3 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-4-3-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 12,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2022,
+    "label": "Table 4.4: MAID Recipients Who Received Palliative Care and Disability Support Services, 2022",
+    "file": "data/clean/tables/2022__table-4-4-maid-recipients-who-received-palliative-care-and-disability-support-se.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 13,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 4.5A - Text equivalent",
+    "file": "data/clean/tables/2022__chart-4-5a-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 7,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 4.5B - Text equivalent",
+    "file": "data/clean/tables/2022__chart-4-5b-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 9,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 5.1 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-5-1-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 5,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 5.2 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-5-2-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 10,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 5.3 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-5-3-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 3,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 5.3 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-5-3-text-equivalent-2.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 4,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 5.4 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-5-4-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 9,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 6.1 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-6-1-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 4,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 6.1 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-6-1-text-equivalent-2.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 7,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 6.2 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-6-2-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 5,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 6.3 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-6-3-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 9,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 6.4 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-6-4-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 10,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2022,
+    "label": "Table 7.1: MAID Requests and Outcomes by Jurisdiction, 2022",
+    "file": "data/clean/tables/2022__table-7-1-maid-requests-and-outcomes-by-jurisdiction-2022.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 6,
+    "n_cols": 15
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 7.1 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-7-1-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 4,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 7.2 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-7-2-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 6,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 7.3 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-7-3-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 6,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2022,
+    "label": "Chart 7.4 - Text equivalent",
+    "file": "data/clean/tables/2022__chart-7-4-text-equivalent.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 3,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2022,
+    "label": "Appendix A: Profile of Medical Assistance in Dying by Jurisdiction January 1 to December 31, 2022",
+    "file": "data/clean/tables/2022__appendix-a-profile-of-medical-assistance-in-dying-by-jurisdiction-january-1-to-d.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2022.html",
+    "n_rows": 41,
+    "n_cols": 28
+  },
+  {
+    "data_year": 2023,
+    "label": "Differences between vital statistics and MAID data",
+    "file": "data/clean/tables/2023__differences-between-vital-statistics-and-maid-data.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 4,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 2.1a: MAID requests by outcome and track",
+    "file": "data/clean/tables/2023__table-2-1a-maid-requests-by-outcome-and-track.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 6,
+    "n_cols": 8
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 2.2a: 2023 MAID provisions in Canada, by jurisdiction",
+    "file": "data/clean/tables/2023__table-2-2a-2023-maid-provisions-in-canada-by-jurisdiction.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 16,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 2.2a: Text description",
+    "file": "data/clean/tables/2023__figure-2-2a-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 6,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 2.2b: Text description",
+    "file": "data/clean/tables/2023__figure-2-2b-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 3,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 2.3a: Reasons for ineligibility reported in cases where a MAID request was determined to be ineligible",
+    "file": "data/clean/tables/2023__table-2-3a-reasons-for-ineligibility-reported-in-cases-where-a-maid-request-was-.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 9,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 2.3b: Reasons for withdrawal of MAID Request in cases where a person withdrew their request",
+    "file": "data/clean/tables/2023__table-2-3b-reasons-for-withdrawal-of-maid-request-in-cases-where-a-person-withdr.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 6,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 2.3c: Reasons for natural death before MAID could be provided, and median days between MAID request and death",
+    "file": "data/clean/tables/2023__table-2-3c-reasons-for-natural-death-before-maid-could-be-provided-and-median-da.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 10,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 3.1a: Text description",
+    "file": "data/clean/tables/2023__figure-3-1a-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 7,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 3.1b: Text description",
+    "file": "data/clean/tables/2023__figure-3-1b-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 7,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 3.2a: Age and sex distribution among those who reported frailty, by track",
+    "file": "data/clean/tables/2023__table-3-2a-age-and-sex-distribution-among-those-who-reported-frailty-by-track.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 12,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 3.2b: Age and sex distribution among those who reported chronic pain, by track",
+    "file": "data/clean/tables/2023__table-3-2b-age-and-sex-distribution-among-those-who-reported-chronic-pain-by-tra.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 15,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 3.3a: MAID recipients reporting dementia as the sole medical condition, by track and sex",
+    "file": "data/clean/tables/2023__table-3-3a-maid-recipients-reporting-dementia-as-the-sole-medical-condition-by-t.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 4,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 3.4a: Length of time living with a serious and incurable illness, disease or disability, by track",
+    "file": "data/clean/tables/2023__table-3-4a-length-of-time-living-with-a-serious-and-incurable-illness-disease-or.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 6,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 3.6a: Text description",
+    "file": "data/clean/tables/2023__figure-3-6a-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 3.7a: Reasons why practitioners were of the opinion that the request for MAID was voluntary and not the result of external pressure",
+    "file": "data/clean/tables/2023__table-3-7a-reasons-why-practitioners-were-of-the-opinion-that-the-request-for-ma.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 6,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 4.4a: Profile of respondents to the self-reported disability question",
+    "file": "data/clean/tables/2023__table-4-4a-profile-of-respondents-to-the-self-reported-disability-question.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 23,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 4.4a: Text description",
+    "file": "data/clean/tables/2023__figure-4-4a-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 15,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 4.4b: Medical conditions reported among those who self-reported having a disability, by track",
+    "file": "data/clean/tables/2023__table-4-4b-medical-conditions-reported-among-those-who-self-reported-having-a-di.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 9,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 4.5a: Text description",
+    "file": "data/clean/tables/2023__figure-4-5a-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 8,
+    "n_cols": 7
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 4.5b: Text description",
+    "file": "data/clean/tables/2023__figure-4-5b-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 10,
+    "n_cols": 7
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 4.5c: Text description",
+    "file": "data/clean/tables/2023__figure-4-5c-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 3,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 4.5d: Text description",
+    "file": "data/clean/tables/2023__figure-4-5d-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 5.1a: Requirement for, and duration and accessibility of, palliative care services among MAID recipients",
+    "file": "data/clean/tables/2023__table-5-1a-requirement-for-and-duration-and-accessibility-of-palliative-care-ser.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 5.1b: Requirement for, and duration and accessibility of, disability support services among MAID recipients",
+    "file": "data/clean/tables/2023__table-5-1b-requirement-for-and-duration-and-accessibility-of-disability-support-.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 5.1c: Type of disability support services received, by track",
+    "file": "data/clean/tables/2023__table-5-1c-type-of-disability-support-services-received-by-track.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 10,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 5.2a: Place of residence of MAID recipients and their living arrangement by track, as a percentage within each track",
+    "file": "data/clean/tables/2023__table-5-2a-place-of-residence-of-maid-recipients-and-their-living-arrangement-by.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 5.3a: Way that the practitioner(s) formed the opinion that the person had given serious consideration to the means to relieve their suffering",
+    "file": "data/clean/tables/2023__table-5-3a-way-that-the-practitioner-s-formed-the-opinion-that-the-person-had-gi.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 8,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2023,
+    "label": "Figure 6.1a: Text description",
+    "file": "data/clean/tables/2023__figure-6-1a-text-description.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 5,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 6.1a: Specialty of the practitioner with expertise in the condition causing the person's suffering, among Track 2 recipients",
+    "file": "data/clean/tables/2023__table-6-1a-specialty-of-the-practitioner-with-expertise-in-the-condition-causing.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 10,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table 6.3a: Profile of transfers, overall, and due to institutional policies, by province",
+    "file": "data/clean/tables/2023__table-6-3a-profile-of-transfers-overall-and-due-to-institutional-policies-by-pro.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Criminal Code : Eligibility criteria and safeguards",
+    "file": "data/clean/tables/2023__criminal-code-eligibility-criteria-and-safeguards.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 2,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Summary of additional or modified reporting requirements under the amended Regulations for the Monitoring of Medical Assistance in Dying",
+    "file": "data/clean/tables/2023__summary-of-additional-or-modified-reporting-requirements-under-the-amended-regul.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 1,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2023,
+    "label": "Table D.1: Outcomes of MAID requests made in 2023, by province or territory",
+    "file": "data/clean/tables/2023__table-d-1-outcomes-of-maid-requests-made-in-2023-by-province-or-territory.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 14,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2023,
+    "label": "Table D.2: Medical conditions reported by MAID recipients, by province",
+    "file": "data/clean/tables/2023__table-d-2-medical-conditions-reported-by-maid-recipients-by-province.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 7
+  },
+  {
+    "data_year": 2023,
+    "label": "Table D.3: Profile of MAID recipients, by province",
+    "file": "data/clean/tables/2023__table-d-3-profile-of-maid-recipients-by-province.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2023,
+    "label": "Table D.4: Median and average age of MAID recipients, by province",
+    "file": "data/clean/tables/2023__table-d-4-median-and-average-age-of-maid-recipients-by-province.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 12,
+    "n_cols": 7
+  },
+  {
+    "data_year": 2023,
+    "label": "Table D.5: Place of residence of persons who received MAID, by province",
+    "file": "data/clean/tables/2023__table-d-5-place-of-residence-of-persons-who-received-maid-by-province.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2023,
+    "label": "Table D.6: Disability support services and palliative care services received by MAID recipients, by province",
+    "file": "data/clean/tables/2023__table-d-6-disability-support-services-and-palliative-care-services-received-by-m.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 23,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2023,
+    "label": "Table D.7: Unique practitioners and provisions, by province",
+    "file": "data/clean/tables/2023__table-d-7-unique-practitioners-and-provisions-by-province.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2023,
+    "label": "Table D.8: Location of MAID provision, by province",
+    "file": "data/clean/tables/2023__table-d-8-location-of-maid-provision-by-province.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2023,
+    "label": "Situational Vulnerability",
+    "file": "data/clean/tables/2023__situational-vulnerability.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2023,
+    "label": "Residential Instability",
+    "file": "data/clean/tables/2023__residential-instability.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2023,
+    "label": "Economic Dependency",
+    "file": "data/clean/tables/2023__economic-dependency.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 11,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2023,
+    "label": "Table E.1: Outcomes of previous MAID requests from MAID recipients, by track",
+    "file": "data/clean/tables/2023__table-e-1-outcomes-of-previous-maid-requests-from-maid-recipients-by-track.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 9,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table E.2: From whom did the practitioner receive the request for MAID, by track",
+    "file": "data/clean/tables/2023__table-e-2-from-whom-did-the-practitioner-receive-the-request-for-maid-by-track.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 8,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table E.3: Specialty of MAID providers, by track",
+    "file": "data/clean/tables/2023__table-e-3-specialty-of-maid-providers-by-track.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 9,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2023,
+    "label": "Table E.4: Type of facility where palliative care was received",
+    "file": "data/clean/tables/2023__table-e-4-type-of-facility-where-palliative-care-was-received.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 7,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2023,
+    "label": "Table E.5: Type of palliative care services received",
+    "file": "data/clean/tables/2023__table-e-5-type-of-palliative-care-services-received.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2023.html",
+    "n_rows": 17,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 2.1a: MAID requests by outcome and track",
+    "file": "data/clean/tables/2024__table-2-1a-maid-requests-by-outcome-and-track.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 6,
+    "n_cols": 8
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 2.2a - Text description",
+    "file": "data/clean/tables/2024__figure-2-2a.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 6,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 2.2b - Text description",
+    "file": "data/clean/tables/2024__figure-2-2b.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 6,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 2.2c - Text description",
+    "file": "data/clean/tables/2024__figure-2-2c.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 2,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 2.3a: Reasons for ineligibility reported in cases where a MAID request was determined to be ineligible",
+    "file": "data/clean/tables/2024__table-2-3a-reasons-for-ineligibility-reported-in-cases-where-a-maid-request-was-.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 11,
+    "n_cols": 9
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 2.3b: Reasons for withdrawal of MAID request in cases where a person withdrew their request",
+    "file": "data/clean/tables/2024__table-2-3b-reasons-for-withdrawal-of-maid-request-in-cases-where-a-person-withdr.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 9,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 2.3c: Reasons for natural death before MAID could be provided, and median days between MAID request and death",
+    "file": "data/clean/tables/2024__table-2-3c-reasons-for-natural-death-before-maid-could-be-provided-and-median-da.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 12,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 3.1a - Text description",
+    "file": "data/clean/tables/2024__figure-3-1a.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 6,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 3.1b - Text description",
+    "file": "data/clean/tables/2024__figure-3-1b.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 6,
+    "n_cols": 13
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 3.2a - Text description",
+    "file": "data/clean/tables/2024__figure-3-2a.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 5,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 3.3a - Text description",
+    "file": "data/clean/tables/2024__figure-3-3a.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 9,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 3.3b - Text description",
+    "file": "data/clean/tables/2024__figure-3-3b.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 9,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 3.4a - Text description",
+    "file": "data/clean/tables/2024__figure-3-4a.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 11,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 3.4b - Text description",
+    "file": "data/clean/tables/2024__figure-3-4b.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 9,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 4.3a: Proportion of MAID recipients who self-identified as Indigenous as compared to the proportion of people who died of natural causes and identified as Indigenous",
+    "file": "data/clean/tables/2024__table-4-3a-proportion-of-maid-recipients-who-self-identified-as-indigenous-as-co.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 9,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 4.4a: Respondents to the self-reported disability question",
+    "file": "data/clean/tables/2024__table-4-4a-respondents-to-the-self-reported-disability-question.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 4,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 4.4b: Profile of respondents self-identifying as having a disability Footnote a",
+    "file": "data/clean/tables/2024__table-4-4b-profile-of-respondents-self-identifying-as-having-a-disability-footno.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 16,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 4.4a - Text description",
+    "file": "data/clean/tables/2024__figure-4-4a.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 15,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 4.4b - Text description",
+    "file": "data/clean/tables/2024__figure-4-4b.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 6,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 4.4c - Text description",
+    "file": "data/clean/tables/2024__figure-4-4c.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 5,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 4.4c: Medical conditions reported among those who self-reported having a disability or not, by track",
+    "file": "data/clean/tables/2024__table-4-4c-medical-conditions-reported-among-those-who-self-reported-having-a-di.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 8,
+    "n_cols": 9
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 4.5a - Text description",
+    "file": "data/clean/tables/2024__figure-4-5a.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 6,
+    "n_cols": 10
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 4.5b - Text description",
+    "file": "data/clean/tables/2024__figure-4-5b.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 5,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 4.5c - Text description",
+    "file": "data/clean/tables/2024__figure-4-5c.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 5,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 4.5d - Text description",
+    "file": "data/clean/tables/2024__figure-4-5d.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 5,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 4.5e - Text description",
+    "file": "data/clean/tables/2024__figure-4-5e.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 10,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 5.1a: Requirement for, and duration and accessibility of, palliative care services among MAID recipients",
+    "file": "data/clean/tables/2024__table-5-1a-requirement-for-and-duration-and-accessibility-of-palliative-care-ser.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 12,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 5.1b: Palliative care required and received by medical condition",
+    "file": "data/clean/tables/2024__table-5-1b-palliative-care-required-and-received-by-medical-condition.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 10,
+    "n_cols": 11
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 5.1a - Text description",
+    "file": "data/clean/tables/2024__figure-5-1a.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 11,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 5.2a: Requirement for, and duration or accessibility of, disability support services among MAID recipients",
+    "file": "data/clean/tables/2024__table-5-2a-requirement-for-and-duration-or-accessibility-of-disability-support-s.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 13,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 5.2b: Disability support services required and/or received by medical condition",
+    "file": "data/clean/tables/2024__table-5-2b-disability-support-services-required-and-or-received-by-medical-condi.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 10,
+    "n_cols": 11
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 5.2a - Text description",
+    "file": "data/clean/tables/2024__figure-5-2a.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 8,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 5.3a: Place of residence of MAID recipients and their living arrangement by track, as a percentage within each track",
+    "file": "data/clean/tables/2024__table-5-3a-place-of-residence-of-maid-recipients-and-their-living-arrangement-by.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 14,
+    "n_cols": 6
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 5.4a: Ways that practitioners formed the opinion that the person had given serious consideration to the means to relieve their suffering",
+    "file": "data/clean/tables/2024__table-5-4a-ways-that-practitioners-formed-the-opinion-that-the-person-had-given-.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 11,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 6.1a - Text description",
+    "file": "data/clean/tables/2024__figure-6-1a.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 5,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 6.1b - Text description",
+    "file": "data/clean/tables/2024__figure-6-1b.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 5,
+    "n_cols": 4
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 6.1a: Specialty of the practitioner with expertise in the condition causing the person's suffering, among Track 2 recipients",
+    "file": "data/clean/tables/2024__table-6-1a-specialty-of-the-practitioner-with-expertise-in-the-condition-causing.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 13,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure 6.1c - Text description",
+    "file": "data/clean/tables/2024__figure-6-1c.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 7,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Table 6.3a: Profile of transfers overall and due to institutional policies, by province",
+    "file": "data/clean/tables/2024__table-6-3a-profile-of-transfers-overall-and-due-to-institutional-policies-by-pro.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 16,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2024,
+    "label": "Criminal Code : Summary of eligibility criteria and safeguards",
+    "file": "data/clean/tables/2024__criminal-code-summary-of-eligibility-criteria-and-safeguards.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 2,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "A comparison of MAID data and vital statistics data",
+    "file": "data/clean/tables/2024__a-comparison-of-maid-data-and-vital-statistics-data.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 4,
+    "n_cols": 3
+  },
+  {
+    "data_year": 2024,
+    "label": "Index of Remoteness",
+    "file": "data/clean/tables/2024__index-of-remoteness.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 4,
+    "n_cols": 2
+  },
+  {
+    "data_year": 2024,
+    "label": "Table C.1: Outcomes of MAID requests reported in 2024, by province and territory",
+    "file": "data/clean/tables/2024__table-c-1-outcomes-of-maid-requests-reported-in-2024-by-province-and-territory.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 16,
+    "n_cols": 9
+  },
+  {
+    "data_year": 2024,
+    "label": "Table C.2: Median and mean age of MAID recipients, by province and territory",
+    "file": "data/clean/tables/2024__table-c-2-median-and-mean-age-of-maid-recipients-by-province-and-territory.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 15,
+    "n_cols": 10
+  },
+  {
+    "data_year": 2024,
+    "label": "Table C.3: MAID recipients by track and province/territory",
+    "file": "data/clean/tables/2024__table-c-3-maid-recipients-by-track-and-province-territory.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 16,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2024,
+    "label": "Table C.4: Medical conditions reported by MAID recipients, by province and territory",
+    "file": "data/clean/tables/2024__table-c-4-medical-conditions-reported-by-maid-recipients-by-province-and-territo.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 15,
+    "n_cols": 7
+  },
+  {
+    "data_year": 2024,
+    "label": "Table C.5: Profile of MAID recipients, by province and territory",
+    "file": "data/clean/tables/2024__table-c-5-profile-of-maid-recipients-by-province-and-territory.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 15,
+    "n_cols": 9
+  },
+  {
+    "data_year": 2024,
+    "label": "Table C.6 Palliative care services received by MAID recipients, by province and territory",
+    "file": "data/clean/tables/2024__table-c-6-palliative-care-services-received-by-maid-recipients-by-province-and-t.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 15,
+    "n_cols": 9
+  },
+  {
+    "data_year": 2024,
+    "label": "Table C.7: Disability support services received by MAID recipients, by province and territory",
+    "file": "data/clean/tables/2024__table-c-7-disability-support-services-received-by-maid-recipients-by-province-an.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 15,
+    "n_cols": 9
+  },
+  {
+    "data_year": 2024,
+    "label": "Table C.8: Place of residence of persons who received MAID, by province and territory",
+    "file": "data/clean/tables/2024__table-c-8-place-of-residence-of-persons-who-received-maid-by-province-and-territ.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 14,
+    "n_cols": 7
+  },
+  {
+    "data_year": 2024,
+    "label": "Table C.9: Unique practitioners and provisions, by province and territory",
+    "file": "data/clean/tables/2024__table-c-9-unique-practitioners-and-provisions-by-province-and-territory.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 15,
+    "n_cols": 9
+  },
+  {
+    "data_year": 2024,
+    "label": "Table C.10: Location of MAID provision, by province and territory",
+    "file": "data/clean/tables/2024__table-c-10-location-of-maid-provision-by-province-and-territory.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 15,
+    "n_cols": 12
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure C.1 - Text description",
+    "file": "data/clean/tables/2024__figure-c-1.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 5,
+    "n_cols": 11
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure C.2 - Text description",
+    "file": "data/clean/tables/2024__figure-c-2.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 5,
+    "n_cols": 11
+  },
+  {
+    "data_year": 2024,
+    "label": "Figure C.3 - Text description",
+    "file": "data/clean/tables/2024__figure-c-3.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 5,
+    "n_cols": 11
+  },
+  {
+    "data_year": 2024,
+    "label": "Table D.1: Outcomes of previous MAID requests from MAID recipients, by track",
+    "file": "data/clean/tables/2024__table-d-1-outcomes-of-previous-maid-requests-from-maid-recipients-by-track.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 10,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2024,
+    "label": "Table D.2: From whom did the practitioner receive the request for MAID, by track",
+    "file": "data/clean/tables/2024__table-d-2-from-whom-did-the-practitioner-receive-the-request-for-maid-by-track.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 10,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2024,
+    "label": "Table D.3: Specialty of MAID providers, by track",
+    "file": "data/clean/tables/2024__table-d-3-specialty-of-maid-providers-by-track.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 11,
+    "n_cols": 5
+  },
+  {
+    "data_year": 2024,
+    "label": "Table D.4: Type of facility where palliative care was received",
+    "file": "data/clean/tables/2024__table-d-4-type-of-facility-where-palliative-care-was-received.csv",
+    "source_url": "https://www.canada.ca/en/health-canada/services/publications/health-system-services/annual-report-medical-assistance-dying-2024.html",
+    "n_rows": 7,
+    "n_cols": 3
+  }
+]

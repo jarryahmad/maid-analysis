@@ -1,0 +1,600 @@
+October 20, 2020
+COST ESTIMATE FOR BILL C-7
+“MEDICAL ASSISTANCE IN DYING”
+Powered by TCPDF (www.tcpdf.org)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Parliamentary Budget Officer (PBO) supports Parliament by providing 
+economic and financial analysis for the purposes of raising the quality of 
+parliamentary debate and promoting greater budget transparency and 
+accountability. 
+This report responds to a request from a Senator to estimate the financial 
+cost of Bill C-7, which broadens eligibility for medical assistance in dying. 
+Lead Analyst: 
+Govindadeva Bernier, Financial Advisor-Analyst  
+Contributors: 
+Salma Mohamed Ahmed, Research Assistant  
+Carleigh Busby, Financial Advisor-Analyst 
+This report was prepared under the direction of:   
+Sloane Mask, Director, Parliamentary Relations and Planning / Deputy Chief 
+Financial Officer  
+Nancy Beauchamp, Carol Faucher, Jocelyne Scrim and Rémy Vanherweghem 
+assisted with the preparation of the report for publication. 
+For further information, please contact pbo-dpb@parl.gc.ca  
+Yves Giroux 
+Parliamentary Budget Officer 
+ 
+ 
+RP-2021-025-M_e 
+ 
+ 
+ 
+ 
+Table of Contents 
+Executive Summary 1 
+1. Introduction 3 
+2. Methodology 4 
+3. Results 10 
+ Mean end-of-life costs 12  
+Notes 13 
+ 
+ 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+1 
+Executive Summary 
+Bill C-7 aims to expand access to Medical Assistance in Dying (MAID) for 
+patients whose death is not expected in the relative near term. At the request 
+of a Senator, this report presents an independent cost estimate of Bill C-7 for 
+2021 by providing a breakdown between the baseline costs under the 
+current legislation (Bill C-14) and the incremental costs from expanding 
+eligibility in the proposed legislation (Bill C-7).  
+Note that while the criminal code is under the jurisdiction of Parliament, 
+health care delivery is a provincial responsibility. Therefore, most of the 
+financial impacts of providing MAID are borne by provincial governments. 
+Summary table 1 presents the net financial impact of providing MAID in 
+2021, under the current legislation as set out in bill C-14, which is used as a 
+baseline for the cost estimate.  The predicted gross reduction in health care 
+costs amounts to $109.2 million while the cost of administering MAID is 
+estimated at $22.3 million. Thus, the difference between the two represents a 
+net cost reduction for provincial governments of $86.9 million. 
+Net financial impact of providing MAID under the current 
+legislation (Bill C-14) in 2021  
+Number of MAID deaths 6,465   
+Gross reduction in health care costs  ($ millions) 
+Mean end-of-life costs 182.1 
+Adjustment for palliative care -72.8 
+Total gross reduction in costs   109.2   
+Cost of administering MAID 
+ 
+Physician billing 8.9 
+Drugs 8.6 
+Oversight bodies 4.9 
+Total cost of administering MAID 22.3   
+Net reduction in health care costs under Bill C-14 86.9 
+Summary table 2 presents the incremental financial impact of expanding 
+MAID as proposed in Bill C-7. The gross reduction in health care costs is 
+estimated at $66.5 million. As can be seen, even though the number of 
+incremental MAID deaths is 82% smaller than the number of MAID deaths 
+under the current legislation (Bill C-14), the gross reduction in costs is only 
+Summary table 1 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+2 
+24% smaller since newly eligible patients under Bill C-7 are expected to 
+initiate MAID earlier. The cost of administering MAID is estimated at $4.4 
+million, and thus, the net reduction in health care costs for provincial 
+governments will amount to $62.0 million. 
+Incremental net financial impact of expanding MAID 
+eligibility as proposed in Bill C-7 in 2021 
+Incremental MAID deaths 1,164   
+Incremental financial impact  ($ millions) 
+Gross reduction in health care costs  66.5 
+Minus: Cost of administering MAID -4.4 
+Subtotal – Incremental net reduction in health care 
+costs under Bill C-7 
+62.0 
+  
+Total net reduction in health care costs  
+(C-14 baseline + C-7 incremental) 149.0 
+  
+Total net reduction in health care costs as a  
+share of health care budgets 0.08% 
+Summary table 2 also shows the total net reduction in costs from current 
+legislation plus the incremental savings from bill C-7 will add up to $149.0 
+million. While this amount may appear significant, it only represents 0.08% of 
+total provincial health care budgets for 2021.1  
+Expanding access to MAID will result in a net reduction in health care costs 
+for the provincial governments. However, this reduction represents a 
+negligible portion of the health care budgets of provinces. To better assess 
+the financial impact of providing MAID, additional data on the patients 
+requesting MAID is needed. For example, the expected time remaining 
+before natural death would occur is only compiled in Quebec but is an 
+important factor in determining the extent MAID may impact end-of-life 
+care.   
+Summary table 2 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+3 
+1. Introduction 
+In June 2016, Bill C-14, An Act to amend the Criminal Code and to make 
+related amendments to other Acts (medical assistance in dying) received Royal 
+Assent. This bill lifted the prohibition on providing medical assistance in 
+dying (MAID) under certain strict conditions and was presented by the 
+government in response to the Carter decision.2 
+In September 2019, in Truchon and Gladu v. Canada (Attorney General) and 
+Quebec (Attorney General), the Superior Court of Quebec found in favour of 
+the plaintiffs that the requirements in the federal legislation that a person’s 
+natural death has become “reasonably foreseeable” and that a person be at 
+the “end of life” in the Quebec legislation violated the Canadian Charter of 
+Rights and Freedoms.3 Both levels of governments decided not to challenge 
+this decision and in response the federal government introduced, Bill C-7, An 
+Act to amend the Criminal Code (medical assistance in dying), in February 
+2020.4 
+Bill C-7 aims to expand access to MAID for patients whose death is not 
+expected in the relative near term. However, the bill also states that mental 
+illness as the sole underlying condition is not sufficient to access MAID. 
+Finally, the bill also introduces the possibility of waiving final consent just 
+before receiving MAID for patients where natural death is reasonably 
+foreseeable and where there is a risk that they will lose their ability to 
+consent.5 
+This report presents an independent cost estimate of Bill C-7 for 2021 by 
+providing a breakdown between the baseline costs under the current 
+legislation (Bill C-14) and the incremental costs from expanding eligibility in 
+the proposed legislation (Bill C-7). While the criminal code is under the 
+jurisdiction of Parliament, because health care delivery is a provincial 
+responsibility, most of the financial impacts of providing MAID are borne by 
+provincial governments. 
+Many studies have shown that health care costs in the last year of life (and 
+especially in the last month of life) are disproportionately high, representing 
+between 10% and 20% of total health care costs despite these patients 
+representing about 1% of the population.6 Nevertheless, this report should in 
+no way be interpreted as suggesting that MAID be used to reduce health 
+care costs. 
+  
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+4 
+2. Methodology 
+Baseline costs under Bill C-14 
+To estimate the baseline costs of the current legislation (Bill C-14), we used 
+the same methodology as in Trachtenberg and Manns (2017).7 After the 
+Carter decision was rendered, these authors estimated the potential costs 
+and savings of providing MAID in Canada, based on data from other 
+countries (mostly Belgium and the Netherlands) where MAID was already 
+legal.  
+Gross reduction in health care costs 
+End-of-life costs 
+Trachtenberg and Manns presented four scenarios where MAID deaths 
+represented 1%, 2%, 3% and 4% of all deaths. They assumed 55% of patients 
+receiving MAID would be male, 30% would be between 18 and 59 years old, 
+50% between 60 and 79, 20% would be 80 years old or more and 80% would 
+have cancer. Lastly, 40% would have their life shortened by a week and 60% 
+by a month.  
+Since their study was published, Canadian data has been collected on 
+patients requesting MAID.8 Using this data, we updated the assumptions 
+used by Trachtenberg and Manns to forecast the expected cost in 2021. 
+More specifically, we used the following assumptions regarding patients 
+receiving MAID in 2021: 
+• Medically assisted deaths will represent 2.2% of all deaths; 
+• 51% of patients will be male; 
+• 13% will be between 18 and 59 years old, 50% between 60 and 79, 
+and 37% 80 years old and over; 
+• 66% will have cancer as the main underlying condition; 
+• 14% will see their life shortened by 2 weeks, 25% by one month, 
+45% by three months, 13% by six months and 3% by a year.9 
+Each of these combinations of sex, age, underlying condition and remaining 
+life expectancy gives us a total number of 60 subgroups of patients. We 
+obtained the same data on mean end-of-life costs that Trachtenberg and 
+Manns used in their study, which came from a previously published study by 
+Tanuseputro et al. (2015).10 These costs were all expressed in 2013 dollars 
+and therefore we grew them to 2021 dollars using the health care 
+component of the consumer price index (CPI).11  
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+5 
+The mean end-of-life cost of each of these subgroups was then multiplied by 
+the corresponding number of MAID recipients in each group to obtain the 
+total gross reduction in health care costs of allowing MAID. The number of 
+recipients in each group was obtained by first predicting the total number of 
+MAID deaths as 2.2% of the projected deaths in 2021 under the medium 
+population growth scenario from Statistics Canada. This total number of 
+MAID deaths (6,465) was then multiplied by the percentage of patients 
+corresponding to each subgroup based on the assumptions presented 
+above. Table A-1 in the appendix presents the breakdown of patients in each 
+subgroup and their respective mean end-of-life costs. 
+Palliative care 
+As Trachtenberg and Manns mention in their paper, the end-of-life costs 
+used to estimate gross reduction in health care costs are the mean costs for 
+decedents in each subgroup, which represent costs of a variety of scenarios 
+and patient wishes. It is reasonable to believe that patients requesting MAID 
+might choose a less aggressive care approach, such as using palliative care. 
+Indeed, Quebec statistics show that 80% of patients requesting MAID were 
+already receiving palliative care at the time of the request and Canadian 
+statistics for 2019 show that 82% of patients who were administered MAID 
+had received palliative care in the preceding weeks. 
+Trachtenberg and Manns cite one study that reviewed the literature and  
+found that palliative care could reduce the end-of-life health care costs by 
+40% to 70% compared with standard care. 12 Since the data on mean end-of-
+life costs also include patients that have chosen palliative care, we factored in 
+an adjustment to decrease the estimated gross reduction in costs by 50% 
+(closer to the lower bound of the studies) for 80% of the patients predicted 
+to use MAID in 2021. 
+Cost of administering MAID 
+The cost of providing MAID consists of three separate elements. The first is 
+the time billed by physicians to do the first and second assessments (which 
+must be by two distinct physicians), to administer MAID and to fill-out the 
+paperwork (required forms and documents, death certificate, etc.). The 
+second is the cost of drugs used to cause death. The last component is the 
+cost of the oversight as some provinces, such as Quebec and Alberta, have 
+created oversight bodies that make sure MAID is provided according to the 
+rules. Table 2-1 provides the breakdown of these costs for a completed case 
+and an assessed (but not completed) case. 
+Physicians billing 
+To estimate physicians billing, we found MAID-specific billing codes 
+physicians can use in the provinces of British-Columbia, Alberta and Quebec 
+and used the average of the corresponding amount.13 Some provinces cap 
+the amount of time a physician can bill under some of these codes. We 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+6 
+assumed physicians would bill the maximum amount allowable in these 
+situations.  
+Thus, we assumed each completed case of MAID would consist of 135 
+minutes for the initial assessment, 105 minutes for the second assessment by 
+another physician, the cost of administering MAID (fixed amount in BC) and 
+120 minutes of care after death (completing required forms and the death 
+certificate).  
+The Canadian data suggest that for every two patients receiving MAID, one 
+patient requested MAID and did not receive it (the patient either withdrew 
+the request, was found not eligible, or died before MAID could be 
+administered). Thus, we estimated the cost of an uncompleted case as 
+consisting of 135 minutes of physician billing for the initial assessment and 
+105 minutes for the second assessment. 
+Finally, we multiplied the cost of physician billing for a completed case by the 
+number of projected MAID deaths and the cost for an uncompleted case by 
+half the number of projected deaths to obtain the total cost of physician 
+billing. 
+Cost of drugs 
+The cost of the drug regimen administered to MAID patients was obtained 
+for the province of Ontario.14 There is a lower cost and a higher cost package. 
+We used the average price between the two packages and included a back-
+up kit in each case. We multiplied this cost by the number of projected MAID 
+deaths to obtain the total cost of drugs. 
+Cost of administering MAID 
+Cost of a completed case ($) 
+ Primary physician assessment 412.80 
+ Second physician assessment 321.07 
+ Physician administering MAID 269.45 
+ Cost of drugs 662.00 
+ Backup kit 662.00 
+Total cost - completed case 2,327.32   
+Cost of an assessed case  
+ Primary physician assessment 412.80 
+ Second physician assessment 321.07 
+Total cost - assessed case 733.87 
+Sources: Physicians billings are from British Columbia, Alberta and Quebec 
+payment schedules; Cost of drugs are from Ontario Ministry of Health. 
+  
+Table 2-1 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+7 
+Cost of oversight bodies 
+Lastly, in terms of oversight bodies, Quebec’s Commission sur les soins de fin 
+de vie produces annual reports which include its financial statements. We 
+computed the average cost per medically assisted death by dividing the total 
+expenditures of the commission from the 2017, 2018 and 2019 reports by the 
+number of MAID deaths in Quebec during the same time period. We then 
+multiplied this average cost ($758) by the number of projected MAID deaths 
+for 2021. 
+The cost of oversight bodies is possibly slightly overestimated, since there 
+could be economies of scale: an increase in the number of patients receiving 
+MAID might not require an increase in the size of the oversight bodies. 
+Furthermore, Quebec’s commission also produces reports on the state of 
+palliative care. Thus, our average cost per medically assisted death includes 
+some costs that are not relative to MAID. For these reasons, we have not 
+inflated the average cost to 2021 dollars. 
+Net reduction in health care costs  
+By subtracting the cost of administering MAID from the gross reduction in 
+costs we arrived at the net financial impact of providing MAID under the 
+current legislation (Bill C-14). 
+Incremental financial impact of Bill C-7 
+As mentioned in the introduction, Bill C-7 aims to expand eligibility of MAID 
+to patients whose death is not expected in the relative near term. We turned 
+to other jurisdictions where medically assisted dying is already legal for 
+patients not near the end of their life to predict the incremental number of 
+MAID requests which may result from C-7.  
+In Europe, both Belgium and the Netherlands have allowed, since the early 
+2000s15, euthanasia and assisted suicide16 for patients not nearing the end-
+of-life. The latest statistics from these countries show that in 2019 euthanasia 
+and assisted suicide represented 2.4% of all deaths in Belgium and 4.2% of all 
+deaths in the Netherlands.17  
+Belgium provides a breakdown between MAID deaths from patients near the 
+end-of-life (EOL) vs not near the end-of-life. As can be seen on figure 2-1, 
+both categories have steadily increased since 2003. Since 2013, the number 
+of MAID recipients not near the end-of-life (the difference between the two 
+lines) has somewhat stabilized and represent each year between 17% and 
+20% of the number of MAID recipients near the end-of-life (the average is 
+18% over that period). Therefore, we assumed MAID deaths from patients 
+with a non-foreseeable death in Canada in 2021 would be equal to 18% of 
+our baseline predicted number of MAID deaths. This gives us an incremental 
+number of MAID deaths of 1,164, or 0.4% of all projected deaths in 2021. 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+8 
+MAID deaths in Belgium and Canada as a percentage of all 
+deaths 
+ 
+Sources: Belgium’s Commission fédérale de Contrôle et d’Évaluation de l’Euthanasie, StatBEL, Health Canada and PBO’s 
+calculations 
+ 
+Gross reduction in end-of-life costs 
+It is difficult to predict the demographics of the patients who may request 
+MAID under Bill C-7. It is even more difficult to determine the estimated 
+remaining life expectancy for these patients. For the purposes of the cost 
+estimate, we assumed all these patients would see their life shortened by a 
+full year. To calculate the end-of-life cost of these patients, we took the 
+average mean end-of-life cost of all non-cancer patients (men and women 
+across all age groups). This average cost for the last year of life was 
+multiplied by the number of predicted incremental MAID deaths to obtain 
+the gross reduction in health care costs. The gross reduction in costs is likely 
+underestimated, but it is not possible to know the magnitude of the 
+underestimation. 
+Cost of administering MAID 
+The cost of administering MAID is calculated in the same way as under the 
+baseline for C-14. The only exception is the number of patients assessed but 
+not receiving MAID is slightly higher. Indeed, data from Belgium and the 
+Netherland shows that one out of two MAID requests is not completed. Thus, 
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+3.0%
+2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022
+Belgium (Near EOL) Belgium (All) Canada (C-14) Canada (C-7)
+Figure 2-1 
+Forecast 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+9 
+for each completed case of MAID, we also included the costs of one assessed 
+case. 
+Caveats 
+Out-of-pocket costs 
+Our estimates have only taken into consideration the health care costs from 
+the perspective of provincial governments. Therefore, out-of-pocket costs 
+paid by patients or their relatives have not been considered. For example, 
+palliative care is usually free of charge when provided in a hospital or a 
+government funded hospice, but there could be costs billed to patients in 
+nursing homes or wanting to receive palliative care at home. 
+Covid-19 pandemic 
+These results do not take into consideration the potential effects of the 
+Covid-19 pandemic. Indeed, most of the Covid-19 deaths are among patients 
+with underlying medical conditions. Therefore, it is possible that patients who 
+would have requested MAID in 2021 might have already died because of 
+Covid-19. Thus, the actual number of patients receiving MAID in 2021 could 
+be lower than anticipated.  
+However, a recent study from the United Kingdom predicts that the number 
+of deaths from cancer will increase because of the pandemic. 18 Their data 
+shows there has been a reduction of 45-66% in admissions for chemotherapy 
+and a 70-89% fall in urgent referrals for early cancer diagnosis. These results 
+might come from a reduction in resources (which are redirected to care for 
+infected patients) or patients deciding not to seek care due to perceived risk 
+of Covid-19 infection. In either case, it is likely to impact on cancer patient 
+survival. Some patients that could have otherwise survived cancer might find 
+themselves in unbearable pain near the end of their life and request MAID. 
+Thus, there could be an increase in the number of patients requesting MAID 
+in 2021.  
+Furthermore, our predicted number of MAID requests is calculated as a 
+percentage of projected deaths in 2021 by Statistics Canada. These 
+projections of deaths have been made before the pandemic and it is not 
+clear for now whether, or how, the pandemic will materially affect the 
+number of deaths in 2021. To summarize, we do not know yet if the 
+pandemic will have a positive or negative impact on the predicted number of 
+patients receiving MAID in 2021. 
+Lastly, the estimated net reduction in health care costs as a share of 
+provinces’ health care budgets was based on data presented in provincial 
+budgets tabled before the pandemic. It is possible that provinces will 
+increase their health care budgets in response to the pandemic. 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+10 
+3. Results 
+Table 3-1 presents the results for 2021 under the current legislation as set 
+out in Bill C-14, which is used as a baseline for the cost estimate. As 
+illustrated in the table, the projected gross reduction in health care costs 
+amounts to $109.2 million while the cost of administering MAID is estimated 
+at $22.3 million. Thus, the difference between the two represents a net 
+reduction in cost of $86.9 million. As was mentioned previously, health care is 
+a provincial responsibility and therefore the financial impact will be at the 
+provincial level. 
+Net financial impact of providing MAID under the current 
+legislation (Bill C-14) in 2021  
+ Number of MAID deaths 6,465   
+Gross reduction in health care costs  ($ millions) 
+Mean end-of-life costs 182.1 
+Adjustment for palliative care -72.8 
+Total gross reduction in costs  109.2   
+Cost of administering MAID 
+ 
+Physician billing 8.9 
+Drugs 8.6 
+Oversight bodies 4.2 
+Total cost of administering MAID 22.3   
+Net reduction in health care cost under Bill C-14  86.9 
+ Source: PBO’s calculations 
+Table 3-2 presents the incremental financial impact of expanding MAID as 
+proposed in Bill C-7. The gross reduction in cost is estimated at $66.5 million. 
+As can be seen, even though the number of incremental MAID deaths is 82% 
+smaller than the number of MAID deaths under the current legislation (Bill C-
+14), the gross reduction in costs is only 24% lower since newly-eligible 
+patients under Bill C-7 are expected to initiate MAID sooner. The cost of 
+administering MAID is estimated at $4.4 million and thus, the net reduction 
+in health care costs will amount to $62.0 million. 
+Table 3-1 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+11 
+Incremental net financial impact of expanding MAID 
+eligibility as proposed in Bill C-7 in 2021  
+Incremental MAID deaths 1,164   
+Incremental financial impact  ($ millions) 
+Gross reduction in health care costs  66.5 
+Minus: Cost of administering MAID -4.4 
+Subtotal – Incremental net reduction in costs under 
+Bill C-7  
+62.0 
+  
+Total net reduction in health care costs  
+(C-14 baseline + C-7 incremental) 149.0 
+  
+Total net reduction in costs as a  
+share of health care budgets 0.08% 
+ Source: PBO’s calculations 
+Table 3-2 also shows the total net reduction in costs under the baseline 
+(current legislation) plus the incremental savings from Bill C-7 will add up to 
+$149.0 million. While this amount may appear significant, it only represents 
+0.08% of total provincial health care budgets for 2021.  
+To conclude, expanding access to MAID will result in a net reduction in 
+health care costs for the provincial governments. However, this reduction 
+represents a negligible portion of the health care budgets of provinces. To 
+better assess the financial impact of providing MAID, additional data on the 
+patients requesting MAID is needed. For example, the expected time 
+remaining before natural death would occur is only compiled in Quebec but 
+is an important factor in determining the extent MAID may impact of end-of-
+life care.  
+Lastly, as mentioned in Quebec’s Commission sur les soins de fin de vie last 
+report, data is only collected on the number of patients receiving palliative 
+care at the time of the MAID request. However, there is no information on 
+the quality of palliative care received and on whether it meets the patient’s 
+needs. On this matter, Dr Tanuseputro wrote in 2017: “We should strive to 
+save on suffering and to invest more in its reduction, which may in turn 
+reduce requests for medical aid in dying.” 19 
+ 
+Table 3-2 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+12 
+  Mean end-of-life costs 
+Predicted number of MAID and associated health care 
+spending in the expected remaining life 
+ Expected death within 2 weeks Expected death within 1 month 
+ Men Women Men Women 
+Age (years) No. Mean Cost ($) No. Mean Cost ($) No. Mean Cost ($) No. Mean Cost ($) 
+With Cancer         
+18–59 38 13,465 37 13,561 70 21,993 67 21,064 
+60-79 149 12,325 144 11,889 272 19,830 263 19,404 
+≥ 80 110 10,258 106 7,075 200 16,359 193 14,586 
+Without Cancer         
+18–59 20 11,382 19 12,659 36 16,169 35 19,905 
+60-79 77 12,058 74 11,718 141 18,149 136 18,127 
+≥ 80 57 9,116 55 8,994 104 14,172 100 11,298 
+ 
+ Expected death within 3 months Expected death within 6 months 
+ Men Women Men Women 
+Age (years) No. Mean Cost ($) No. Mean Cost ($) No. Mean Cost ($) No. Mean Cost ($) 
+With Cancer         
+18–59 125 40,616 121 40,572 36 57,301 35 57,596 
+60-79 489 35,735 472 35,964 140 49,502 136 49,910 
+≥ 80 360 29,660 348 27,317 103 41,760 100 39,038 
+Without Cancer         
+18–59 65 24,761 63 33,139 19 32,845 18 45,104 
+60-79 254 30,717 245 31,622 73 42,189 70 44,993 
+≥ 80 187 26,045 181 22,182 54 38,434 52 34,570 
+ 
+ Expected death within 12 months 
+ Men Women 
+Age (years) No. Mean Cost ($) No. Mean Cost ($) 
+With Cancer     
+18–59 9 78,469 9 79,763 
+60-79 36 67,131 35 67,792 
+≥ 80 27 58,793 26 55,835 
+Without Cancer     
+18–59 5 44,829 5 62,861 
+60-79 19 59,226 18 64,805 
+≥ 80 14 57,627 13 55,100 
+Table A-1 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+13 
+ 
+1 The total health care spending by the provinces in 2021 is estimated at 
+$187,144 million. It was obtained by examining the latest budget 
+documentation or economic update released by each province before the 
+beginning of the Covid-19 pandemic. Some provinces did not publish a 
+specific breakdown for health care spending for 2021 but did provide total 
+spending. In these cases, we used the average share of health care spending 
+on total spending of the last five years to estimate the amount of health care 
+spending in 2021.  
+2 Carter v. Canada (Attorney General), 2015 SCC 5. For more information on 
+Carter v. Canada, see Martha Butler and Marlisa Tiedemann, Carter v. 
+Canada: The Supreme Court of Canada’s Decision on Assisted Dying, 
+Publication no. 2015-47-E, Parliamentary Information and Research Service, 
+Library of Parliament, Ottawa, 29 December 2015. 
+3 Truchon c. Procureur Général du Canada, 2019, QCCS 3792. 
+4 On August 18, 2020, the Prime Minister asked for a prorogation of Parliament 
+until September 23, 2020. Consequently, since Bill C-7 had not yet received 
+Royal Assent, it “died” on the Order Paper. The bill was reintroduced on 
+October 5, 2020 and happened to be numbered C-7 again. Note that in June 
+2020, Quebec Superior Court granted the Government another extension 
+until December 18, 2020 to conform to the Truchon ruling. 
+5 For the latest version of Bill C-7, see LEGISinfo. For a detailed explanation of the 
+bill see Julia Nicol and Marlisa Tiedemann, Legislative Summary of Bill C-7: 
+An Act to Amend the Criminal Code (medical assistance in dying). Publication 
+no. 43-1-C7-E, Parliamentary Information and Research Service, Library of 
+Parliament, Ottawa, 27 March 2020. 
+6 See: Menec V, Lix L, Steinbach C, et al. Patterns of health care use and cost at the 
+end of life. Winnipeg: Manitoba Centre for Health Policy; 2004.  
+Tanuseputro P, Wodchis WP, Fowler R, et al. The health care cost of dying: a 
+population-based retrospective cohort study of the last year of life in 
+Ontario, Canada. PLoS One 2015; 10:e0121759. 
+Pham B, Krahn M. End-of-life care interventions: an economic analysis. 
+Ontario Health Technology Assessment Serie. 2014 December;14(18):1–70. 
+7 Aaron Trachtenberg and Braden Manns. Cost analysis of medical assistance in 
+dying in Canada. CMAJ 2017 January 23; 189:E101-5. doi: 
+10.1503/cmaj.160650. Trachtenberg and Manns also built their model based 
+on previous work from Ezekiel J. Emanuel and Margaret P. Battin What are 
+the potential cost savings from legalizing physician-assisted suicide. New 
+England Journal of Medicine. 1998; 339:167-72. 
+8 See Health Canada’s Fourth Interim Report on Medical Assistance in Dying in 
+Canada as well as Health Canada’s First Annual Report on Medical Assistance 
+in Dying in Canada 2019 and the annual reports from the Commission sur les 
+soins de fin de vie (for Quebec statistics – available in French only). 
+Notes 
+Cost Estimate for Bill C-7 “Medical Assistance in Dying” 
+14 
+ 
+9 These assumptions are all based on the Canadian data collected on patients 
+receiving MAID since it became legal, except for the estimated life remaining 
+where only Quebec reported this statistic.  
+10 See the second paper cited in endnote 6. 
+11 Statistics Canada Table: 18-10-0005-01. CPI is only available up to 2019 in this 
+table. Thus, we used the average annual growth in health care CPI between 
+2013 and 2019 to grow the costs from 2019 to 2021. 
+12 The Way Forward Integration Initiative. Cost-effectiveness of palliative care: a 
+review of the literature. Ottawa: Canadian Hospice Palliative Care Association. 
+See also Smith et al. (2014). Evidence on the cost and cost-effectiveness of 
+palliative care: A literature review. Palliative Care, 28-2, pp. 130-150. 
+13 The billing rates are for 2019. Physicians’ billing rates are periodically 
+renegotiated in each province. Therefore, these rates might be increased in 
+some provinces by 2021.   
+14 The cost of drugs is also for 2019. The cost of the drugs could change by 2021. 
+However, the prescription drug component of the consumer price index has 
+been declining from 2017 to 2019. Thus, it is not clear if the cost of drugs will 
+increase or decrease by 2021. 
+15 While the Netherlands passed a bill legalizing euthanasia in 2001, doctors were 
+already conducting euthanasia since the early 1990s and were not 
+prosecuted if they followed certain guidelines. For more information, see 
+Julia Nicol, Medical Assistance in Dying: The Law in Selected Jurisdictions 
+Outside Canada, Publication no. 2015-116-E, Parliamentary Information and 
+Research Service, Library of Parliament, Ottawa, 23 October 2015 (Revised 29 
+November 2019). 
+16 Euthanasia is used to describe a medically assisted death where the physician 
+performs the act, while assisted suicide refers to the patient self-
+administering the life-ending drugs obtained through a physician. 
+17 The data on medical assistance in dying for Belgium come from Commission 
+fédérale de Contrôle et d’Évaluation de l’Euthanasie - Chiffres de l'année 
+2019 while the data on total deaths come from StatBEL. The data on medical 
+assistance in dying as a percentage of all deaths for the Netherlands comes 
+from the Regional Euthanasia Review Committees’ 2019 Annual Report. 
+18 Lai et al. Estimating excess mortality in people with cancer and multimorbidity in 
+the COVID-19 emergency. Working paper. April 2020. 
+19 Peter Tanuseputro. Medical aid in dying: What matters most? Commentary. 
+CMAJ 2017 January 23;189:E99-100. doi: 10.1503/cmaj.161316 

@@ -1,0 +1,1528 @@
+ 
+ 
+  
+ 
+RAPPORT ANNUEL 
+D’ACTIVITÉS 
+ 
+Du 1er avril 2024 au 31 mars 2025 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+RAPPORT ANNUEL 
+D’ACTIVITÉS 
+ 
+Du 1er avril 2024 au 31 mars 2025 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le contenu de cette publication a été rédigé par la Commission sur les soins de fin de vie. 
+ 
+Commission sur les soins de fin de vie 
+2535, boulevard Laurier, 5e étage 
+Québec (Québec)  G1V 4M3 
+Téléphone : 418 204-2059 ou 1 844 200-2059 (sans frais) 
+Courriel : info@csfv.gouv.qc.ca 
+ 
+Dès son dépôt à l’Assemblée nationale  du Québec par la ministre responsable des Aînés et ministre 
+déléguée à la Santé , ce document sera disponible en version électronique sur le site Web de 
+l’Assemblée nationale : www.assnat.qc.ca à la section Documents déposés  ainsi que sur le site Web 
+de la Commission sur les soins de fin de vie : www.csfv.gouv.qc.ca à la section Publications. 
+ 
+Afin de faciliter la lecture du texte, le genre masculin est utilisé sans aucune intention discriminatoire. 
+ 
+ 
+ 
+ 
+ 
+Dépôt légal 
+Bibliothèque et Archives nationales du Québec, 2025 
+Bibliothèque et Archives Canada, 2025 
+ISBN (PDF) 978-2-555-02485-4 
+La reproduction totale ou partielle d e ce document est autorisée à la condition que la source soit 
+mentionnée. 
+© Gouvernement du Québec, 2025 
+ 
+i 
+LETTRE DE LA MINISTRE  RESPONSABLE DES AÎNÉS ET MINISTRE 
+DÉLÉGUÉE À LA SANTÉ À LA PRÉSIDENTE DE L’ASSEMBLÉE NATIONALE 
+Madame Nathalie Roy 
+Présidente de l’Assemblée nationale du Québec 
+Hôtel du Parlement 
+1045, rue des Parlementaires 
+1er étage, bureau 1.30 
+Québec (Québec)  G1A 1A4 
+ 
+ 
+ 
+ 
+Madame la Présidente,  
+ 
+Conformément à la Loi concernant les soins de fin de vie, je dépose à l’Assemblée nationale le rapport 
+annuel d’activités de la Commission sur les soins de fin de vie, lequel fait état des activités réalisées du 
+1er avril 2024 au 31 mars 2025. 
+ 
+La Commission sur les soins de fin de vie a pour mandat d’examiner toute question relative aux soins 
+de fin de vie, de surveiller l’application des exigences particulières concernant l’aide médicale à mourir, 
+de saisir le ministre de toute question liée à ces soins qui mérite l’attention ou une action du 
+gouvernement et de lui soumettre ses recommandations. 
+ 
+ 
+ 
+Original signé 
+ 
+Madame Caroline Proulx 
+Ministre responsable des Aînés 
+Ministre déléguée à la Santé 
+Ministre responsable de la Condition féminine 
+ 
+ 
+ii 
+MOT DE LA PRÉSIDENTE 
+Madame Caroline Proulx 
+Ministre responsable des Aînés, ministre déléguée à la Santé 
+et ministre responsable de la Condition féminine 
+1075, chemin Sainte-Foy, 15e étage 
+Québec (Québec)  G1S 2M1 
+ 
+ 
+ 
+ 
+Madame la Ministre, 
+ 
+Instituée par l a Loi concernant les soins de fin de vie , la Commission sur les soins de fin de vie a le 
+mandat d’examiner toute question relative aux soins de fin de vie et de surveiller l’application des 
+exigences particulières de l’aide médicale à mourir  (AMM). Elle joue un rôle de surveillance et de 
+conseil à l’égard des soins de fin de vie ainsi que du respect des normes législatives qui les encadrent.  
+ 
+Par la présente, j’ai le plaisir de vous transmettre le  rapport annuel d’activités de la Commission 
+couvrant la période du 1 er avril 2024 au 31  mars 2025. Ce rapport fait état  des réalisations de la 
+Commission, de l’analyse des données provenant des formulaires de déclaration de l’administration 
+d’une AMM transmis à la Commission et des  données relatives aux soins palliatifs et de fin de vie 
+transmises par les établissements publics de santé et de services sociaux, le Collège des médecins du 
+Québec et l’Ordre des infirmières et infirmiers du Québec. 
+ 
+Au cours de la prochaine année, la Commission continuera de remplir avec rigueur son mandat de 
+surveillance de l’AMM. Elle suivra attentivement la mise en œuvre des demandes anticipées d’AMM 
+et des recommandations formulées dans son rapport quinquennal concernant l’ensemble des soins 
+palliatifs et de fin de vie.  Elle poursuivra ses collaborations avec les partenaires et ses réflexions afin 
+de renforcer l’accessibilité aux soins palliatifs et de fin de vie sur l’ensemble du territoire.  
+ 
+ 
+Je vous prie d’agréer, Madame la Ministre, l’assurance de ma considération. 
+ 
+ 
+La présidente, 
+ 
+Lucie Poitras  
+
+ 
+iii 
+RÉSUMÉ 
+La Commission sur les soins de fin de vie a pour mandat d’examiner toute question relative aux soins 
+de fin de vie et de surveiller l’application des exigences particulières relatives à l’aide médicale à mourir 
+(AMM). Le présent rapport annuel fait état de ses activités et présente les données dont elle dispose 
+concernant les soins palliatifs et de fin de vie pour la période du 1er avril 2024 au 31 mars 2025. 
+Aide médicale à mourir 
+• Le nombre d’AMM administrées et la proportion de décès par AMM sont en augmentation depuis 
+l’entrée en vigueur de la Loi concernant les soins de fin de vie (LCSFV). 
+• 6 268 personnes ont reçu l’AMM entre le 1 er avril 2024 et le 31  mars 2025 (7,9  % des décès ; 
+comparativement à 7,3 % en 2023-2024.). Cela représente une augmentation de 9  %, ce qui est 
+similaire à celle survenue en 2023 -2024 (10  %). Le profil de ces personnes est semblable aux 
+années précédentes. 
+o Elles étaient en majorité âgées de 70 ans et plus (75 %), atteintes de cancer (58 %), avaient un 
+pronostic de survie de 1 an ou moins (82 %) et présentaient à la fois des souffrances physiques 
+et psychiques persistantes, insupportables et inapaisables (97 %). 
+o Elles ont reçu l’AMM en centre hospitalier (5 2 %), à domicile (28  %), en maison de soins 
+palliatifs (10 %) ou en CHSLD (9 %). 
+o L’AMM a été administrée en moyenne 44 jours après la demande signée. 
+• La presque totalité des AMM ont été administrées conformément à la LCSFV (99,7 %). 
+• Près des deux tiers des demandes d’AMM formulées ont été administrées.  
+• Les principaux motifs pour lesquels les personnes qui ont demandé l’AMM ne l’ont pas reçue sont 
+qu’elles sont décédées avant la fin de l’évaluation ou avant l’administration de l’AMM, qu’elles ne 
+répondaient pas ou plus aux critères d’admissibilité prescri ts par la LCSFV ou qu’elles ont retiré 
+leur demande. 
+• 2 001 médecins ont contribué à des actes relatifs à l’AMM; il s’agit d’une augmentation de 11  % 
+comparativement à l’année 2023-2024. 79 % sont des omnipraticiens et 21 % sont des médecins 
+spécialistes. Un peu moins de 3 % des AMM administrées l’ont été par une infirmière praticienne 
+spécialisée. 
+Soins palliatifs et de fin de vie et sédation palliative continue 
+• Les données transmises à la Commission ne permettent pas de dresser un portrait juste de la 
+situation des soins palliatifs et de fin de vie au Québec. La Commission souligne le besoin de 
+préciser et de faciliter la reddition de compte des établissements et d’implanter des indicateurs 
+de suivis fiables en matière de soins palliatifs et de fin de vie à travers le réseau.  
+• 2 163 personnes ont reçu une sédation palliative continue (2,7  % des décès ; même proportion 
+qu’en 2023-2024). 
+• 414 médecins ont administré une sédation palliative continue . 95 % sont des omnipraticiens et 
+5 % des médecins spécialistes. 
+Conclusion 
+La Commission constate que l’AMM est en demande croissante et occupe une place importante dans 
+la sphère publique au Québec. C’est avec rigueur et vigilance que la Commission remplit le mandat de 
+s’assurer que les exigences relatives à l’AMM soient bien appliquées au Québec et que l’AMM ne soit 
+pas un soin choisi à défaut d’avoir accès à d’autres soins curatifs, palliatifs ou de fin de vie.  
+ 
+iv 
+DÉCLARATION DE FIABILITÉ 
+L’information présentée dans le présent rapport relève de ma responsabilité . Celle -ci porte sur  la 
+fiabilité des données, de l’information et des explications qui y sont présentées. 
+ 
+Les résultats et les renseignements du Rapport annuel d’activités de la Commission sur les soins de fin 
+de vie couvrent la période du 1er avril 2024 au 31 mars 2025. Le rapport :  
+• décrit le mandat, la composition, les modalités opérationnelles et les modalités de 
+fonctionnement de la Commission; 
+• présente les activités et réalisations de la Commission  et les principaux constats  qui en 
+découlent. 
+À ma connaissance, cette information correspond  à la situation telle qu’ell e se présentait au 
+31 mars 2025 à la lumière des renseignements transmis à la Commission. 
+ 
+ 
+La présidente, 
+ 
+Lucie Poitras 
+  
+
+ 
+v 
+TABLE DES MATIÈRES 
+Lettre de la ministre responsable des Aînés et ministre déléguée à la Santé à la Présidente de 
+l’Assemblée nationale .................................................................................................................... i 
+Mot de la présidente ............................................................................................................................... ii 
+Résumé ...................................................................................................................................... iii 
+Déclaration de fiabilité ................................................................................................................. iv 
+Liste des figures ........................................................................................................................... vi 
+Liste des tableaux ....................................................................................................................... vii 
+Sigles et acronymes ................................................................................................................... viii 
+Définitions .................................................................................................................................. ix 
+ COMMISSION SUR LES SOINS DE FIN DE VIE ..............................................................................1 
+1.1. Valeurs ........................................................................................................................................ 1 
+1.2. Mandat ....................................................................................................................................... 1 
+1.3. Composition ................................................................................................................................ 2 
+1.4. Modalités opérationnelles .......................................................................................................... 2 
+1.5. Modalités de fonctionnement pour la vérification du respect des conditions relatives à 
+l’administration de l’aide médicale à mourir ......................................................................................... 3 
+ ACTIVITÉS ET RÉALISATIONS PRINCIPALES .................................................................................5 
+2.1. Examen des formulaires de déclaration de l’administration d’une aide médicale à mourir  ...... 5 
+2.2. Dépôt du Rapport sur la situation des soins de fin de vie au Québec 2018 -2023 ...................... 5 
+2.3. Rapport des établissements publics de santé et de services sociaux, du Collège des médecins 
+du Québec et de l’Ordre des infirmières et infirmiers du Québec ......................................................... 6 
+2.4. Groupe de travail interne sur les soins palliatifs......................................................................... 6 
+2.5. Groupes de travail en collaboration avec le Collège des médecins du Québec et l’Ordre des 
+infirmières et infirmiers du Québec ....................................................................................................... 6 
+2.6. Représentation et participation à des colloques, forums et conférences .................................. 6 
+2.7. Demandes d’information des citoyens, d’intervenants du réseau de la santé et des services 
+sociaux et des médias ............................................................................................................................ 7 
+2.8. Transmission d’une note aux prestataires d’aide médicale à mourir  ......................................... 7 
+ DONNÉES DE LA COMMISSION SUR LES SOINS DE FIN DE VIE ......................................................8 
+3.1. Décisions rendues ....................................................................................................................... 8 
+3.2. Aides médicales à mourir administrées ...................................................................................... 9 
+ DONNÉES DES ÉTABLISSEMENTS PUBLICS DE SANTÉ ET DE SERVICES SOCIAUX, DU COLLÈGE DES 
+MÉDECINS DU QUÉBEC ET DE L’ORDRE DES INFIRMIÈRES ET INFIRMIERS DU QUÉBEC .....................14 
+4.1. Soins palliatifs et de fin de vie .................................................................................................. 14 
+4.2. Sédation palliative continue ..................................................................................................... 14 
+4.3. Aide médicale à mourir ............................................................................................................. 16 
+ CONSTATS ........................................................................................................................................ 18 
+ CONCLUSION ................................................................................................................................... 20 
+ ÉTATS FINANCIERS ........................................................................................................................... 21 
+Annexe A - Composition de la Commission sur les soins de fin de vie ......................................................... 22 
+Annexe B - Dispositions de la Loi concernant les soins de fin de vie  portant sur les exigences particulières 
+relatives à l’aide médicale à mourir (demande contemporaine) ................................................................. 24 
+Annexe C - Données de la Commission concernant les aides médicales à mourir administrées  ................. 26 
+ 
+vi 
+LISTE DES FIGURES 
+Figure 3.1 Résumé du traitement des formulaires de déclaration de l’administration d’une AMM ..... 8 
+Figure 3.2 Nombre d’AMM administrées par année entre le 10 décembre 2015 et le 31 mars 2025 ... 9 
+Figure 3.3 Nombre d’AMM administrées selon la région sociosanitaire .............................................. 10 
+Figure 3.4 Proportion annuelle de décès par AMM entre le 10 décembre 2015 et le 31 mars 2025 .. 10 
+Figure 3.5 Proportion de décès par AMM selon la région sociosanitaire ............................................. 11 
+Figure 3.6 Proportion des personnes qui ont reçu l’AMM selon le groupe d’âge ................................ 11 
+Figure 3.7 Proportion des personnes qui ont reçu l’AMM selon le diagnostic principal ...................... 12 
+Figure 3.8 Proportion des personnes qui ont reçu l’AMM selon le délai entre la demande et 
+l’administration du soin ........................................................................................................................ 13 
+Figure 4.1 Nombre déclaré de SPC administrées selon la région sociosanitaire .................................. 15 
+Figure 4.2 Proportion de décès précédés d’une SPC selon la région sociosanitaire ............................ 16 
+Figure 4.3 Proportion des AMM administrées et des AMM non administrées selon la région 
+sociosanitaire ........................................................................................................................................ 17 
+ 
+ 
+vii 
+LISTE DES TABLEAUX 
+Tableau 3.1 Motifs ayant mené la Commission à conclure qu’une exigence de la LCSFV n’était pas 
+respectée................................................................................................................................................. 9 
+Tableau C1 Caractéristiques des personnes qui ont reçu l’AMM ......................................................... 26 
+Tableau C2 Incapacités des personnes qui ont reçu l’AMM ................................................................. 27 
+Tableau C3 Type de souffrance des personnes qui ont reçu l’AMM .................................................... 27 
+Tableau C4 Souffrances des personnes qui ont reçu l’AMM ................................................................ 27 
+Tableau C5 Raisons pour lesquelles les souffrances des personnes qui ont reçu l’AMM ne pouvaient 
+être apaisées dans des conditions qu’elles jugeaient tolérables .......................................................... 28 
+Tableau C6 Délai entre la demande et l’administration de l’AMM ...................................................... 28 
+Tableau C7 Nombre et proportion d’AMM selon le lieu de l’administration du soin .......................... 28 
+  
+ 
+viii 
+SIGLES ET ACRONYMES 
+AMM Aide médicale à mourir 
+CHSLD Centre d’hébergement et de soins de longue durée 
+CMQ Collège des médecins du Québec 
+DAAMM Demande anticipée d’aide médicale à mourir 
+INESSS Institut national d’excellence en santé et en services sociaux 
+IPS Infirmières praticiennes spécialisées 
+ISQ Institut de la statistique du Québec 
+LCSFV Loi concernant les soins de fin de vie 
+MSSS Ministère de la Santé et des Services sociaux 
+OIIQ Ordre des infirmières et infirmiers du Québec 
+RAMQ Régie de l’assurance maladie du Québec 
+SPC Sédation palliative continue 
+SPFV Soins palliatifs et de fin de vie 
+  
+ 
+ix 
+DÉFINITIONS 
+En vigueur au 31 mars 2025 
+ 
+Aide médicale à mourir 
+Soin consistant en l’administration de médicaments ou de substances par un professionnel compétent à une personne, 
+à la demande de celle-ci, dans le but de soulager ses souffrances en entraînant son décès. 
+Demande anticipée d’aide médicale à mourir 
+Demande d’aide médicale à mourir formulée en prévision de l’inaptitude de la personne à consentir aux soins, en vue 
+d’une administration ultérieure à la survenance de cette inaptitude à la suite d’une maladie grave et incurable menant 
+à l’inaptitude à consentir aux soins. 
+Demande contemporaine d’aide médicale à mourir 
+Demande d’aide médicale à mourir formulée en vue de l’administration de cette aide de façon contemporaine à la 
+demande. 
+Directives médicales anticipées 
+Forme d’expression des volontés en prévision de l’inaptitude à consentir à des soins. Il s’agit d’un écrit par lequel une 
+personne majeure et apte à consentir à des soins indique à l’avance les soins médicaux qu’elle accepte ou qu’elle refuse 
+de recevoir d ans le cas où elle deviendrait inapte à consentir à des soins dans des situations cliniques précises. Les 
+directives médicales anticipées ont une valeur contraignante; c’est -à-dire que les professionnels de la santé qui y ont 
+accès ont l’obligation de les respecter. 
+Établissement 
+Tout établissement visé par la Loi sur la gouvernance du système de santé et de services sociaux (chapitre G-1.021) ou 
+par la Loi sur les services de santé et les services sociaux pour les Inuit et les Naskapis ( chapitre S-4.2) qui exploite un 
+centre local de services communautaires, un centre hospitalier ou un centre d’hébergement et de soins de longue 
+durée, de même que le Conseil cri de la santé et des services sociaux de la Baie-James institué en vertu de la Loi sur les 
+services de santé et les services sociaux pour les autochtones cris (chapitre S-5). 
+Maison de soins palliatifs 
+Organisme communautaire qui, selon le cas  : a) est titulaire d’un agrément délivré par  Santé Québec  en vertu du 
+deuxième alinéa de l’article 511 de la Loi sur la gouvernance du système de santé et de services sociaux et qui a conclu 
+une entente en vertu de l’article 520 de cette loi en vue d’obtenir tout ou partie des soins requis par les personnes qui 
+utilisent ses services; b) est titulaire d’un agrément délivré par le ministre en vertu du deuxième alinéa de l’article 457 
+de la Loi sur les services de santé et les services sociaux pour les Inuit et les Naskapis et qui a conclu une entente en 
+vertu de l’article  108.3 de cette loi avec un établissement en vue d’o btenir tout ou partie des soins requis par les 
+personnes qui utilisent ses services; 
+Professionnel compétent 
+Un médecin ou une infirmière praticienne spécialisée. 
+Sédation palliative continue 
+Soin offert dans le cadre des soins palliatifs consistant en l’administration de médicaments ou de substances à une 
+personne en fin de vie dans le but de soulager ses souffrances en la rendant inconsciente, de façon continue, jusqu’à 
+son décès. 
+Soins de fin de vie 
+Soins palliatifs offerts aux personnes en fin de vie et aide médicale à mourir. 
+Soins palliatifs 
+Soins actifs et globaux dispensés par une équipe interdisciplinaire aux personnes atteintes d’une maladie avec pronostic 
+réservé, dans le but de soulager leurs souffrances, sans hâter ni retarder la mort, de les aider à conserver la meilleure 
+qualité de vie possible et d’offrir à ces personnes et à leurs proches le soutien nécessaire. 
+ 
+Sources : Loi concernant les soins de fin de vie, RLRQ, c. S-32.0001. [En ligne]. 
+Règlement sur la procédure suivie par la Commission sur les soins de fin de vie afin de vérifier le respect des conditions re latives à l’administration de 
+l’aide médicale à mourir et sur les renseignements devant lui être transmis à cette fin. [ En ligne]. 
+GOUVERNEMENT DU QUÉBEC. Directives médicales anticipées.  [En ligne]. 
+
+ 
+1 
+ COMMISSION SUR LES SOINS DE FIN DE VIE 
+Le 5 juin 2014, l’Assemblée nationale du Québec adoptait la Loi concernant les soins de fin de vie  (ci-
+après la LCSFV)1. La LCSFV a pour but d’assurer aux personnes en fin de vie des soins respectueux de 
+leur dignité et de leur autonomie ainsi que de reconnaître la primauté des volontés relatives aux soins 
+exprimées clairement et librement par une personne. Elle précise les droits relatifs aux soins de fin de 
+vie, notamment en prévoyant le droit, pour une personne, d’obtenir les soins de fin de vie que son 
+état requiert. Elle prévoit également des exigences particulières relatives à certains soins de fin de vie, 
+soit la sédation palliative continue (SPC) et l’aide médicale à mourir (AMM). 
+Les articles  38 à 47 .3 de la L CSFV instituent la Commission sur les soins de fin de vie (ci -après la 
+Commission) et précisent sa composition, son mandat et son fonctionnement. 
+Il est à noter que le 7 juin 2023, l’Assemblée nationale a adopté le projet de loi 11 « Loi modifiant la 
+Loi concernant les soins de fin de vie et d’autres dispositions législatives  ». L es modifications 
+législatives suivantes sont entrées en vigueur : 
+• Depuis le 7 décembre 2023, les maisons de soins palliatifs ne peuvent exclure l’AMM des soins 
+qu’elles offrent; 
+• Depuis le 7  décembre 2023, l’ infirmière praticienne spécialisée (IPS)  partage les mêmes 
+privilèges et responsabilités que le médecin concernant l’évaluation d’une demande d’AMM 
+et son administration (ainsi que pour la SPC); 
+• Depuis le 7 mars 2024, une personne ayant une déficience grave entraînant des incapacités 
+significatives et persistantes est admissible à l’AMM; 
+• Depuis le 30  octobre 2024, une personne ayant reçu un diagnostic de maladie grave et 
+incurable menant à l’inaptitude à consentir aux soins peut formuler une demande anticipée 
+d’AMM.  
+1.1. Valeurs 
+La Commission appuie sa réflexion et ses actions sur les valeurs de l’administration publique 
+québécoise, soit la compétence, l’impartialité, l’intégrité, la loyauté et le respect2. 
+1.2. Mandat 
+Le mandat de la Commission est défini par les articles  42 à 47 .3 de la L CSFV. Plus précisément, 
+conformément à l’article 42, « La Commission a pour mandat d’examiner toute question relative aux 
+soins de fin de vie. À cette fin, elle doit notamment : 
+1° donner des avis au ministre sur toute question qu’il lui soumet; 
+2° évaluer l’application de la loi à l’égard des soins de fin de vie; 
+3° saisir le ministre de toute question relative à ces soins qui mérite l’attention ou une action du 
+gouvernement et lui soumettre ses recommandations; 
+4° soumettre au ministre, tous les cinq ans, un rapport sur la situation des soins de fin de vie au 
+Québec; 
+5° faire des analyses et produire des informations statistiques requises afin notamment de suivre 
+l’évolution des soins de fin de vie, de cibler les besoins en la matière et de déterminer ce qui peut 
+constituer une limite à l’accès à ces soins. 
+ 
+1 Loi concernant les soins de fin de vie, RLRQ, c. S-32.0001. [En ligne]. 
+2 Déclaration de valeurs de l’administration publique québécoise. [En ligne]. 
+ 
+2 
+La Commission effectue tout autre mandat en lien avec les soins de fin de vie que le ministre lui confie. 
+La Commission a également pour mandat de surveiller […] l’application des exigences particulières 
+relatives à l’aide médicale à mourir ». 
+La Commission joue un rôle de surveillance et de conseil à l’égard des soins de fin de vie ainsi que du 
+respect des normes législatives qui les encadrent. Elle a donc une fonction particulière à exercer quant 
+à la vérification du respect des conditions relatives à l’administration de l’AMM. 
+1.3. Composition 
+La Commission est composée de treize commissaires nommés par le gouvernement après consultation 
+des organismes représentatifs des milieux concernés par ses activités. Elle est composée de 
+professionnels de la santé ou des services sociaux, de juristes, d’usagers, d’un commissaire issu du 
+milieu de l’éthique et d’un gestionnaire du réseau de la santé et des services sociaux. Les commissaires 
+constituent une équipe interdisciplinaire dont l’approche humaniste, les compétences et l’expertise 
+de chacun sont reconnues dans leur domaine respectif (annexe A). 
+1.4. Modalités opérationnelles 
+La présidente dirige la Commission et en est la porte-parole. La vice-présidente est appelée à assurer 
+la présidence de la Commission en cas d’absence ou d’empêchement de la présidente. 
+1.4.1. Secrétariat 
+La présidente est assistée par une cadre supérieure qui assure la fonction de secrétaire général e. Au 
+cours de la présente période, la présidente, la secrétaire générale et les commissaires ont été soutenus 
+par trois professionnelles scientifiques en santé et services sociaux , une technicienne en 
+administration et une étudiante. 
+1.4.2. Soutien administratif et matériel 
+La Commission est hébergée dans les locaux de l’Institut national d’excellence en santé et en services 
+sociaux (INESSS). L e rôle de l’INESSS consiste ici à soutenir la Commission dans la gestion de ses 
+ressources financières, matérielles et informationnelles. 
+1.4.3. Rencontres 
+Les commissaires se réunissent une fois par mois. À la réunion plénière s’ajoutent des rencontres en 
+sous-groupes pour l’examen des formulaires de déclaration de l’administration d’une AMM. Des 
+rencontres de travail et des rencontres extraordinaires sont aussi convoquées, au besoin.  La 
+Commission convie parfois d es invités et des experts concernant les soins palliatifs et de fin de vie 
+(SPFV). Le quorum des réunions est de neuf commissaires, dont la présence obligatoire de l’un ou 
+l’autre membre occupant la présidence ou la vice-présidence. 
+1.4.4. Rémunération et indemnités 
+En vertu de l’article  39 de la L CSFV, le gouvernement fixe les allocations et indemnités des  
+commissaires3. 
+1.4.5. Financement 
+La Commission est soutenue entièrement par le ministère de la Santé et des Services sociaux (MSSS). 
+ 
+3 Décret concernant les allocations et indemnités des membres de la Commission sur les soins de fin de vie. Décret numéro  1619-2022 du 17 août 2022. 
+[En ligne]. 
+ 
+3 
+1.5. Modalités de fonctionnement pour la vérification du respect des conditions 
+relatives à l’administration de l’aide médicale à mourir 
+La LCSFV exige que toutes les AMM soient déclarées dans les 10  jours suivant l’administration à la 
+Commission ainsi qu’à l’instance désignée pour évaluer la qualité de l’acte. Les renseignements devant 
+être transmis sont déterminés par règlement du gouvernement 4 et le Formulaire de déclaration de 
+l’administration d’une aide médicale à mourir  prescrit par le ministre est conçu pour répondre aux 
+exigences de la L CSFV. Ne pas transmettre ces renseignements  ou les transmettre hors délai  
+représente un manquement à la LCSFV.  
+La Commission a pour mandat de surveiller l’application des exigences particulières relatives à l’AMM 
+en s’assurant que les conditions  prévues à  l’article 26 de la L CSFV soient satisfaites et que  les 
+vérifications du professionnel compétent (médecin ou IPS) ont été effectuées en vertu de l’article 29 
+avant d’administrer l’AMM (annexe B). 
+Pour évaluer la conformité de l’AMM à la LCSFV, la Commission dispose uniquement des 
+renseignements contenus dans le formulaire de déclaration rempli par le professionnel compétent 
+ayant administré l’AMM. Ce dernier doit décrire le tableau clinique, le processus décisionnel ainsi que 
+les raisons qui l’ont convaincu de l’admissibilité de la personne à la suite de ses entretiens avec elle , 
+avec ses proches et avec les membres de l’équipe de soin s. Le tableau clinique comprend le ou les 
+diagnostics principaux, les comorbidités, le pronostic vital estimé, les incapacités, les souffrances et 
+l’aptitude à consentir aux soins. La Commission n’a pas accès au dossier médical de la personne. Si les 
+précisions du tableau clinique  et du processus décisionnel  contenues dans le formulaire sont 
+insuffisantes pour conclure, la Commission contacte directement le professionnel compétent  
+prestataire de l’AMM pour une meilleure compréhension de la situation. 
+La responsabilité de l’évaluation de la qualité de l’acte médical incombe au conseil des médecins, 
+dentistes, pharmaciens et sages-femmes et au directeur des soins infirmiers des établissements et au 
+Collège des médecins du Québec (C MQ) et à l’Ordre des infirmières et infirmiers du Québec (OIIQ) . 
+L’objectif est l’évaluation de l’ensemble de la démarche clinique (p. ex. contexte clinique, plan de 
+traitement et approche thérapeutique, approche interdisciplinaire, processus décisionnel) et 
+l’optimisation de la qualité des soins offerts par l’amélioration globale des pratiques médicales. 
+1.5.1. Examen des formulaires de déclaration de l’administration d’une AMM 
+La Commission procède à l’examen de chaque formulaire de déclaration de l ’administration d’une 
+AMM en séance plénière, et ce, dans un délai maximal de deux mois suivant la réception du formulaire. 
+Son examen est encadré par les balises prévues dans la LCSFV et dans le règlement du gouvernement. 
+À la réception du formulaire, le secrétariat procède à une première série de vérifications techniques 
+afin d’identifier si des renseignements sont incomplets, manquants ou visiblement erronés. Dans un 
+deuxième temps, les commissaires font l’examen des formulaires. Ils s’assurent que la personne 
+répondait aux conditions d’admissibilité à l’AMM et que le professionnel compétent a procédé à toutes 
+les vérifications prévues à l’article 29 de la LCSFV, entre autres que toute l’information a été transmise 
+à la personne pour qu’elle puisse donner un consentement éclairé, qu’elle était apte à consentir au x 
+soins, que la demande était libre et faite sans pression extérieure, qu’il a mené avec elle des entretiens 
+espacés dans un délai raisonnable compte tenu de son état pour s’assurer du caractère persistant, 
+insupportable et inapaisable de ses souffrances et de la constance de sa volonté d’obtenir l’AMM et 
+qu’il a obtenu l’avis d’un second professionnel compétent pour confirmer son admissibilité. 
+ 
+4 Règlement sur la procédure suivie par la Commission sur les soins de fin de vie afin de vérifier le respect des conditions re latives à l’administration de 
+l’aide médicale à mourir et sur les renseignements devant lui être transmis à cette fin. [ En ligne]. 
+ 
+4 
+La Commission procède à une analyse détaillée en sous-groupes d’au moins trois commissaires, dont 
+un médecin. Lorsque les membres d’un sous-groupe considèrent à l’unanimité la déclaration complète 
+et conforme, ils proposent son adoption en plénière. S’ils ne sont pas unanimes, le cas est présenté en 
+plénière pour discussion avec l’ensemble des commissaires. Chaque commissaire peut consulter à 
+l’avance l’ensemble des formulaires et demander qu’un formulaire particulier soit discuté en plénière. 
+Pour toutes les déclarations d’AMM, les commissaires concluent en plénière de la conformité ou non 
+avec les critères de la LCSFV.  
+1.5.2. Demande de complément d’information ou de précisions 
+Lorsque les renseignements transmis dans le formulaire de déclaration sont incomplets ou que la 
+majorité des commissaires est d’avis qu’elle ne peut parvenir à une décision, la Commission demande 
+un complément d’information ou des précisions au professionnel compétent qui a administré l’AMM, 
+au second professionnel compétent consulté ou à toute autre personne qui pourrait être en mesure 
+de lui fournir les renseignements.  À la réception du complément d’information ou des précisions 
+demandés, la Commission réexamine le dossier en séance plénière afin de prendre une décision. 
+1.5.3. Avis de rétroaction aux professionnels compétents ayant administré l’AMM 
+Le professionnel compétent  ayant administré l’AMM peut demander à la Commission de lui 
+transmettre un avis de  rétroaction. Lorsque l a Commission est d’avis que l’AMM a été administrée 
+conformément aux exigences de la L CSFV, elle transmet un avis de conformité au  professionnel 
+compétent qui en a fait la demande. Dans la majorité (57 %) des formulaires pour lesquels une décision 
+a été rendue en 2024-2025, le professionnel compétent a demandé une telle rétroaction.  
+1.5.4. Avis relatifs au non-respect de l’article 29 de la LCSFV 
+Conformément à la LCSFV, l orsqu’au terme de l’examen du formulaire et, le cas échéant, du 
+complément d’information ou des précisions demandés, au moins les deux tiers des commissaires 
+présents estiment que l’article 29 de la LCSFV, qui inclut les conditions édictées à l’article  26, n’a pas 
+été respecté, la Commission transmet un résumé de ses conclusions au CMQ ou à l’OIIQ et, lorsque le 
+professionnel compétent a administré l’AMM à titre de médecin ou d’IPS exerçant sa profession dans 
+un centre exploité par  un établissement, à l’établissement concerné, pour que ceux -ci prennent les 
+mesures appropriées.  
+ 
+5 
+ ACTIVITÉS ET RÉALISATIONS PRINCIPALES 
+Le rapport couvre la période du 1er avril 2024 au 31 mars 2025. La Commission a procédé à 17 journées 
+de rencontre en séance plénière (et les rencontres de sous-groupes au préalable) et autres rencontres 
+au besoin. Ses activités ont porté principalement sur l’examen des déclarations d’AMM, la rédaction 
+et diffusion du rapport quinquennal sur la situation de soins  de fin de vie  et la mise en place d’un 
+groupe de travail interne sur les soins palliatifs.  Elle a  effectué différents suivis auprès d es 
+établissements et autres instances  concernant les SPFV. Elle a participé à des groupes de travail  en 
+collaboration avec le CMQ et l’OIIQ . Elle a répondu à des demandes d’information des citoyens et 
+d’intervenants du réseau et des médias. 
+2.1. Examen des formulaires de déclaration de l’administration d’une aide médicale 
+à mourir 
+Entre le 1 er avril 2024 et le 31  mars 2025, la Commission a reçu 6 278 formulaires de déclaration de 
+l’administration d’une AMM 5 et elle a examiné 6 158 formulaires en séance plénière 6. Parmi l es 
+6 137 formulaires examinés pour la première fois, 4 % ont nécessité un suivi afin de parvenir à une 
+décision quant au respect des exigences de la LCSFV. Plus spécifiquement, 4 % des formulaires ont 
+nécessité une demande de complément d’information écrite ou téléphonique auprès du professionnel 
+compétent ayant administré l’AMM ou auprès du second professionnel compétent consulté et 1 %, un 
+suivi auprès de l’établissement. Les demandes de complément d’information ou de précisions ont 
+porté principalement sur la condition clinique de la personne (45 %) et l’avis du second professionnel 
+compétent consulté (32 %). Lorsque requis, les entretiens téléphoniques auprès du prestataire ont été 
+faits par le président ou un commissaire médecin. 
+Pour 4 % des déclarations, la Commission a été en mesure de prendre une décision quant au respect 
+des exigences de la LCSFV avec l’information transmise  au formulaire, mais un suivi a été fait pour 
+obtenir des précisions ou un renseignement manquant ou visiblement erroné . Pour 1  % des  
+formulaires, un suivi a été fait auprès de l’établissement pour porter à son attention une situation 
+particulière soulevée par le prestataire, notamment en lien avec des difficultés d’accès à l’AMM. 
+2.2. Dépôt du Rapport sur la situation des soins de fin de vie au Québec 2018-2023 
+Conformément à l’article 42 de la LCSFV, la Commission doit soumettre au ministre, tous les cinq ans, 
+un rapport sur la situation des soins de fin de vie. Le 18 février 2025, la ministre responsable des Aînés 
+et ministre déléguée à la Santé a déposé le rapport de la Commission faisant état de la situation sur 
+les soins de fin de vie au Québec couvrant la période du 1er avril 2018 au 31 mars 2023. La Commission 
+a analysé les données transmises par les prestataires dans leurs déclarations d’AMM ainsi que les 
+données transmises par les établissements relatives aux SPC administrées, aux demandes d’AMM 
+formulées, aux AMM administrées et aux AMM non administrées. Elle a formulé des recommandations 
+découlant de ses analyses et constats permettant d’améliorer l’offre de SPFV. Le rapport, les faits 
+saillants et les annexes sont disponibles sur le site Internet de la Commission 7. Les faits saillants ont 
+été présentés aux parlementaires, à la communauté de pratique des GIS et aux tables  ministérielles 
+des directions des soins infirmiers et des directeurs médicaux et des services professionnels des 
+établissements. 
+ 
+5 Ce nombre représente le nombre de formulaires reçus à la Commission et non le nombre de personnes ayant reçu l’AMM. Ce nombre pourrait être 
+sous-estimé puisque la Commission n’a pas été en mesure de vérifier si elle avait reçu tous les formulaires; elle procédera aux vérifications nécessaires. 
+6 En date du 31  mars 2025, 739 formulaires étaient en attente d’examen. Ces derniers ont été examinés lors de rencontres subséquentes dans un délai 
+de deux mois suivant leur réception.  
+7 Commission sur les soins de fin de vie. Section Publications [En Ligne]. 
+ 
+6 
+2.3. Rapport des établissements publics de santé et de services sociaux, du Collège 
+des médecins du Québec et de l’Ordre des infirmières et infirmiers du Québec 
+Conformément à l’article  8 de la L CSFV, Santé Québec, pour chacun de ses établissements et pour 
+chacun des établissements visés à l’annexe II de la Loi sur la gouvernance du système de santé et de 
+services sociaux , ou le conseil d’administration de l’établissement, selon le cas,  doit adopter une 
+politique portant sur les soins de fin de vie. Le président -directeur général ou le directeur général de 
+l’établissement, selon le cas, doit,  chaque année, faire un rapport à Santé Québec ou au conseil 
+d’administration de l’établissement, selon le cas, sur l’application de cette politique. Le rapport doit 
+indiquer le nombre de personnes en  fin de vie ayant reçu des soins palliatifs , le nombre de SPC 
+administrées, le nombre de demandes d’AMM formulées, le nombre d’AMM administrées, de même 
+que le nombre d’AMM qui n’ont pas été administrées et les motifs pour lesquels elles ne l’ont pas été. 
+Le rapport doit indiquer, le cas échéant, le nombre de SPC et d’AMM administrées à domicile ou dans 
+les locaux d’une maison de soins palliatifs par un professionnel compétent à titre de médecin ou d’IPS 
+exerçant sa profession dans un centre exploité par l’établissement.  
+Conformément à l’article 37 de la LCSFV, le CMQ et l’OIIQ doivent préparer un rapport concernant les 
+soins de fin de vie dispensés par des médecins et des IPS qui exercent leur profession dans un cabinet 
+privé de professionnel. Le rapport doit indiquer le nombre de SPC et d’AMM administrées et selon 
+qu’elles l’ont été à domicile ou dans les locaux d’une maison de soins palliatifs. 
+Les rapports des établissements , du CMQ et de l’OIIQ doivent être publiés sur leur site Internet et 
+transmis à la Commission au plus tard le 30 juin de chaque année. 
+2.4. Groupe de travail interne sur les soins palliatifs 
+En suivi de son rapport quinquennal, la Commission a mis en place un groupe de travail interne de 
+réflexion en vue d’élaborer des recommandations au ministre afin de renforcer l’accès aux soins 
+palliatifs. Elle souhaite ainsi souligner l’importance à accorder aux soins palliatifs sur l’ensemble de la 
+trajectoire de soins et de services et d’avoir des indicateurs de suivi fiables. Une première proposition 
+sera transmise aux instances gouvernementales et à Santé Québec. 
+2.5. Groupes de travail en collaboration avec le Collège des médecins du Québec 
+et l’Ordre des infirmières et infirmiers du Québec 
+Deux groupes de travail composés de représentants de la Commission, du CMQ et de l’OIIQ ont été 
+mis en place, l’un stratégique et l’autre opérationnel. Les travaux ont pour objectif de coordonner la 
+réalisation des mandats respectifs des trois organisations, d’améliorer les canaux de communication, 
+de discuter d’enjeux relatifs aux SPFV et d’assurer les suivis nécessaires. 
+2.6. Représentation et participation à des colloques, forums et conférences 
+La participation de la Commission a été sollicitée dans le cadre de divers événements québécois et 
+canadien portant sur les SPFV. À l’échelle québécoise, le président en poste a donné une conférence 
+lors d’un événement scientifique organisé par le CHUM sur l’AMM au Québec, lors d’un congrès de la 
+FMOQ sur les soins palliatifs et l’AMM et lors d’un événement de l’Institut de soins palliatifs et de fin 
+de vie Michel-Sarrazin – Université Laval. La Commission était aussi présente à divers événements du 
+Réseau québécois de recherche en soins palliatifs et de fin de vie. À l’échelle canadienne, la présidente 
+en poste a participé  à un panel de discussion sur la pratique de l’AMM lors du congrès annuel de 
+l’Association canadienne des évaluateurs et prestataires de l’AMM. À ces représentations s’ajoutent 
+des présentations offertes par les commissaires dans le cadre de divers événements sur les SPFV. 
+ 
+7 
+2.7. Demandes d’information des citoyens, d ’intervenants du réseau de la santé et 
+des services sociaux et des médias 
+Les demandes d’information reçues des citoyens concernaient surtout les SPFV en général, la LCSFV, 
+la démarche d’AMM , les DAAMM  ainsi que les directives médicales anticipées . Les demandes 
+provenant du réseau ont porté principalement sur la clarification d’éléments des lois provinciale et 
+fédérale concernant l’AMM, sur les obligations de déclaration et sur les DAAMM. Les demandes des 
+médias ont porté sur des précisions sur les statistiques concernant les SPFV et les tendances observées 
+concernant l’AMM depuis l’entrée en vigueur de la LCSFV. 
+2.8. Transmission d’une note aux prestataires d’aide médicale à mourir 
+La Commission a transmis une note aux prestataires d’AMM concernant l’application des dispositions 
+législatives portant sur l’AMM, les conditions d’admissibilité à l’AMM au Québec et la déclaration de 
+l’administration d’une AMM à la Commission. 
+ 
+ 
+8 
+ DONNÉES DE LA COMMISSION SUR LES SOINS DE FIN DE VIE 
+3.1. Décisions rendues 
+Entre le 1er avril 2024 et le 31 mars 2025, la Commission a rendu une décision pour 6 136 formulaires. 
+Dans la presque totalité des cas (99, 7 %), la Commission a jugé que l’AMM avait été administrée 
+conformément aux critères énoncés dans la LCSFV. Un résumé du traitement des formulaires pour la 
+vérification du respect des conditions relatives à l’administration de l’AMM est présenté à la figure 3.1. 
+Figure 3.1 Résumé du traitement des formulaires de déclaration de l’administration d’une AMM 
+ 
+ 
+À la lumière des renseignements qui lui ont été transmis, la Commission a conclu que l’une des 
+exigences relatives à l’administration de l’AMM édictée par la LCSFV n’avait pas été respectée dans 
+0,3 % des cas pour lesquels une décision a été rendue (n=19; tableau 3.1).  
+  
+
+ 
+9 
+Tableau 3.1 Motifs ayant mené la Commission à conclure qu’une exigence de la LCSFV n’était pas respectée 
+Motif de non-respect Nombre d’AMM 
+La personne n’était pas atteinte d’une maladie grave et incurable 10 
+Le professionnel compétent qui a administré l’AMM n’a pas obtenu d’un second professionnel compétent 
+un avis formel déposé au dossier ou reposant sur un examen réalisé après ou peu de temps avant la 
+signature du formulaire de demande d’AMM pour confirmer le respect des conditions prévues à l’article 26 
+3 
+La demande d’AMM a été contresignée par une personne qui n’était pas un professionnel de la santé ou 
+des services sociaux 
+2 
+La personne qui a obtenu l’AMM n’avait pas signé un formulaire de demande d’AMM 1 
+La personne qui a obtenu l’AMM n’était pas assurée au sens de la Loi sur l’assurance maladie 1 
+Le professionnel compétent qui a administré l’AMM n’a pas réalisé d’entretiens  avec la personne  à des 
+moments différents, espacés par un délai raisonnable compte tenu de l’évolution de son état 
+1 
+Le professionnel compétent a administré l’AMM alors que la personne était inapte à consentir à recevoir 
+le soin et le formulaire de consentement en cas de perte d’aptitude signé par la personne était expiré au 
+moment de l’administration 
+1 
+Le professionnel compétent qui a administré l’AMM  n’a pas obtenu le consentement de la personne au 
+moment de l’administration 
+1 
+Note : Pour un cas, la Commission a conclu que deux exigences de la LCSFV n’étaient pas respectées.  
+ 
+3.2. Aides médicales à mourir administrées 
+3.2.1. Nombre d’AMM administrées 
+Le nombre d’AMM administrées est en augmentation au Québec (figure  3.2). Selon les données 
+indiquées aux formulaires de déclaration reçus à la Commission, 6 268 AMM ont été administrées 
+entre le 1 er avril 2024 et le 31  mars 20258. L’augmentation du nombre d’AMM en 202 4-2025 par 
+rapport à l’année 202 3-2024 (9 %) est similaire à celle survenue l’année précédente  (10 %). La 
+figure 3.3 présente le nombre d’AMM administrées selon la région sociosanitaire. 
+Figure 3.2 Nombre d’AMM administrées par année entre le 10 décembre 2015 et le 31 mars 2025 
+ 
+ 
+  
+ 
+8 La Commission constate que le nombre total d’AMM administrées déclarées par les prestataires à la Commission est différent du nombre total d’AMM 
+administrées déclarées par les établissements et le CMQ. 
+63
+599
+968
+1298
+1788
+2444
+3713
+5229
+5735
+6268
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+2015-2016 2016-2017 2017-2018 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025
+Nombre d'AMM administrées
+Année
+ 
+10 
+Figure 3.3 Nombre d’AMM administrées selon la région sociosanitaire 
+ 
+Notes. La région administrative indiquée au formulaire a été utilisée. Certaines AMM administrées dans la région administrative de l a Montérégie ont 
+été réalisées dans la région sociosanitaire de l’Estrie. Le nombre d’AMM administrées dans l es régions 17 et 18 n’est pas indiqué afin de respecter les 
+règles de confidentialité (0 à 9 AMM). 
+ 
+En utilisant les données de l’Institut de la statistique du Québec (ISQ) relatives au nombre de décès, 
+peu importe l’âge ou la cause, on constate que les décès par AMM ont représenté 7,9 % des décès 
+survenus au Québec en 202 4-2025, comparativement à 7,3 % en 202 3-2024. La figure 3.4 présente 
+l’évolution de la proportion annuelle de décès par AMM depuis l’entrée en vigueur de la LCSFV.  La 
+figure 3.5 présente la proportion de décès par AMM en 2024-2025 selon la région sociosanitaire9. On 
+note une importante variabilité entre les régions. 
+Figure 3.4 Proportion annuelle de décès par AMM entre le 10 décembre 2015 et le 31 mars 2025 
+ 
+  
+ 
+9 Données provisoires transmises par le MSSS à partir des données de l’ISQ sur le nombre d e décès par région sociosanitaire. La région de certains décès 
+est inconnue. La région du décès est la région de résidence de la personne alors que la région attribuée à l’AMM est celle où le soin a été administré.  
+261
+189
+780
+333
+491
+740
+244
+143
+65 11
+82
+365
+236
+664
+429
+1235
+0
+200
+400
+600
+800
+1000
+1200
+1400
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16
+Nombre d'AMM administrées
+Région sociosanitaire
+0,3
+0,9
+1,4
+1,9
+2,6
+3,3
+5,2
+6,8
+7,3
+7,9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2015-2016 2016-2017 2017-2018 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025
+% de décès par AMM
+Année
+ 
+11 
+Figure 3.5 Proportion de décès par AMM selon la région sociosanitaire 
+ 
+Notes. La région administrative indiquée au formulaire a été utilisée. Certaines AMM administrées  dans la région administrative de la Montérégie ont 
+été réalisées dans la région sociosanitaire de l’Estrie. La proportion de décès par AMM pour les régions  17 et 18 n’est pas indiquée afin de respecter 
+les règles de confidentialité (0 à 9 AMM). La ligne pointillée représente la moyenne provinciale pour l’année 202 4-2025 (7,9 %). 
+ 
+3.2.2. Caractéristiques des personnes ayant reçu l’AMM 
+Entre le 1er avril 2024 et le 31 mars 2025, 53 % des personnes qui ont reçu l’AMM étaient des hommes 
+et 47 % étaient des femmes. Elles étaient âgées en moyenne de 76  ans et la grande majorité étaient 
+âgées de 70 ans et plus (75 %; figure 3.6). Cette proportion est similaire à celle observée en 2023-2024; 
+l’augmentation observée dans les années antérieures semble se stabiliser.  Les données brutes des 
+caractéristiques des personnes qui ont reçu l’AMM se trouvent à l’annexe C. 
+Figure 3.6 Proportion des personnes qui ont reçu l’AMM selon le groupe d’âge 
+ 
+  
+10,6
+6,4
+10,4
+5,4
+9,3
+4,7
+6,8
+8,8
+6,6
+9,3
+6,5
+8,5
+6,5
+13,4
+7,5
+9,5
+0
+2
+4
+6
+8
+10
+12
+14
+16
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16
+Région sociosanitaire
+% de décès par AMM
+< 1 < 1 1
+4
+19
+35
+29
+11
+< 1
+0
+5
+10
+15
+20
+25
+30
+35
+40
+18-29 30-39 40-49 50-59 60-69 70-79 80-89 90-99 100 et plus
+% de personnes
+Groupe d'âge (ans)
+ 
+12 
+La majorité des personnes  (58 %) qui ont reçu l’AMM étaient atteintes d’un cancer (figure  3.7). Les 
+autres diagnostics principaux les plus fréquents étaient les maladies neurodégénératives ou 
+neurologiques10 (10 %), les maladies pulmonaires (8  %) et  les maladies cardiaques , vasculaires ou 
+cérébrovasculaires (7 %). Neuf pour cent (9 %) des personnes avaient plus d’un diagnostic principal ou 
+une combinaison de plusieurs maladies les rendant admissibles à l’AMM. La catégorie «  Autre » 
+représente 8 % des AMM administrées et inclut, notamment, des maladies musculosquelettiques, 
+inflammatoires, digestives, rénales et infectieuses.  
+Depuis le 7  mars 2024, la personne ayant une déficience physique grave entraînant des incapacités 
+significatives et persistantes est admissible à l’AMM au Québec. Au cours de l’année 2024-2025, 0,4 % 
+des personnes ayant reçu l’AMM avaient une déficience physique grave comme diagnostic principal. 
+Figure 3.7 Proportion des personnes qui ont reçu l’AMM selon le diagnostic principal 
+ 
+ 
+La majorité des personnes qui ont reçu l’AMM avaient un pronostic vital estimé à trois mois ou moins 
+(58 %) et la grande majorité  avaient un pronostic  d’un an ou moins (8 2 %). Par ailleurs , 8 % des 
+déclarations indiquent que la personne était considérée en fin de vie et 7 %, que le pronostic était 
+estimé à plus d’un an ou qu’elle n’était pas considérée en fin de vie. 
+Les principales incapacités de la personne rapportées dans les déclarations sont l ’asthénie (85 %), la 
+cachexie (43 %), une difficulté importante à faire ses activités de la vie quotidienne (4 3 %) ou à se 
+mobiliser (42 %), de la dyspnée au repos ou à l’effort (36 %)11. 
+La quasi-totalité des personnes qui ont reçu l’AMM présentaient à la fois des souffrances physiques et 
+psychiques (97 %). La grande majorité des formulaires font mention que les souffrances étaient en lien 
+avec la perte de capacité à effectuer les activités significatives (97 %) ou les activités de la vie 
+quotidienne (91 %), une perte d’indépendance (80  %), une perte de dignité ( 72 %) et une détresse 
+émotionnelle, de l’anxiété, de la peur ou une souffrance existentielle (66 %)10. 
+Les raisons les plus fréquentes pour lesquelles les souffrances ne pouvaient être apaisées dans des 
+conditions que la personne jugeait tolérables  sont les traitements jugés inefficaces ( 65 %), l’absence 
+de traitement (37 %) et le refus de traitement (35 %)10. 
+ 
+10 Les personnes dont le diagnostic principal était un trouble neurocognitif majeur représentent environ 2 % des AMM administrées. 
+11 Proportions calculées à partir de  5 168 déclarations. Des déclarations ont été exclues en raison d’un changement des choix de réponse au formulaire 
+électronique en cours d’année ou de l’utilisation d’une version  antérieure sans choix de réponse. 
+58
+10 8 7 9 8
+0
+10
+20
+30
+40
+50
+60
+70
+Cancer Maladie
+neurodégénérative
+ou neurologique
+Maladie pulmonaire Maladie cardiaque,
+vasculaire ou
+cérébrovasculaire
+Polypathologie ou
+plus d'un diagnostic
+principal
+Autre
+% des personnes
+Diagnostic principal
+ 
+13 
+3.2.3. Demande et administration de l’AMM 
+Le délai moyen entre le moment où la personne a signé le formulaire de demande d’AMM et 
+l’administration de celle-ci a été de 44 jours. Ce délai est légèrement plus élevé par rapport à celui de 
+2023-2024 (38 jours). La grande majorité des personnes  (67 %) ont obtenu l’AMM dans les 30  jours 
+suivant leur demande formelle. Un peu moins de la moitié des personnes (43 %) l’ont reçue en moins 
+de 10 jours et 16 % plus de 90  jours après leur demande (figure  3.8). Environ 4 % des personnes ont 
+reçu le soin le jour ou le lendemain de la signature du formulaire officiel. 
+Figure 3.8 Proportion des personnes qui ont reçu l’AMM selon le délai entre la demande et l’administration du soin 
+ 
+ 
+Pour les AMM administrées dans moins de 10 jours après la formulation de la demande, plusieurs 
+raisons sont mentionnées, notamment une décision mûrie de la personne de recevoir l’AMM ou une 
+formulation tardive de la demande d’AMM, un état précaire ou l’imminence du décès, la détérioration 
+importante de la condition de la personne , l’intensité élevée des souffrances malgré les traitements 
+et un sentiment d’être à bout de souffle.  
+Un peu plus de la moitié des AMM ont été administrées en centre hospitalier (52 %), 28 % l’ont été à 
+domicile, 10 % en maison de soins palliatifs et 9 % en CHSLD. Ces proportions sont similaires à celles 
+de l’année 2023-2024. Une légère augmentation de la proportion des AMM administrées en maison 
+de soins palliatifs a été observée (passant de 6 % à 10 %). La modification apportée à la LCSFV en 
+juin 2023 concernant l’inclusion de l’AMM comme offre de soins dans les maisons de soins palliatifs 
+peut expliquer cette augmentation.  
+3.2.4. Professionnels compétents impliqués dans l’administration de l’AMM 
+Selon les données préliminaires de la Régie de l’assurance maladie du Québec (RAMQ), 
+2 001 médecins ont facturé des honoraires pour des actes relatifs à l’AMM en 2024-2025; il s’agit d’une 
+augmentation de 11  % comparativement à l’année 2023 -2024. Parmi ceux-ci, 1 040 ont facturé des 
+honoraires pour l’administration d’au moins une AMM. La majorité des médecins impliqués dans les 
+actes relatifs à l’AMM sont des omnipraticiens (79 %) et 21 % sont des médecins spécialistes. Un peu 
+moins de 3 % (2,8 %) des AMM administrées en 2024-2025 l’ont été par une IPS12. 
+ 
+12 Calculé à partir des données disponibles (n=6 263). 
+43%
+24%
+11%
+6%
+16%
+Moins de 10 jours
+10 à 30 jours
+31 à 60 jours
+61 à 90 jours
+Plus de 90 jours
+ 
+14 
+ DONNÉES DES ÉTABLISSEMENTS PUBLICS DE SANTÉ ET DE 
+SERVICES SOCIAUX, DU COLLÈGE DES MÉDECINS DU QUÉBEC  ET DE 
+L’ORDRE DES INFIRMIÈRES ET INFIRMIERS DU QUÉBEC 
+Cette section fait état les données transmises à la Commission par les établissements dans les rapports 
+portant sur l’application de leur politique concernant les soins de fin de vie ainsi que par le CMQ  et 
+l’OIIQ pour la période du 1er avril 2024 au 31 mars 2025. 
+4.1. Soins palliatifs et de fin de vie 
+La Commission a pris connaissance des données transmises par les établissements concernant le 
+nombre de personnes ayant reçu des SPFV. Depuis plusieurs années, elle constate malheureusement 
+que plusieurs données sont manquantes , incomplètes  ou imprécises ou qu’elles réfèrent à des 
+contextes très différents d’un établissement à l’autre. Les disparités observées semble nt témoigner 
+d’une absence de compréhension commune des renseignements à transmettre de même que de 
+difficultés à fournir certaines données demandées. Par conséquent, la Commission est d’avis que les 
+données transmises ne sont pas représentatives de la situation réelle des SPFV reçus au Québec et que 
+leur présentation dans ce rapport pourrait mener à des interprétations erronées. 
+La Commission croit que le problème de représentativité des renseignements recueillis est plus 
+important encore pour la période 2024-2025 que par les années précédentes; ce changement fait suite 
+notamment aux modifications apportées à la LCSFV. La Commission souligne le besoin de préciser et 
+de faciliter la reddition de compte des établissements en lien avec les SPFV. 
+4.2. Sédation palliative continue 
+Selon les rapports des établissements, du CMQ et de l’OIIQ, un total de 2 163 SPC administrées ont été 
+déclarées entre le 1 er avril 2024 et le 31 mars 2025, ce qui correspond à une augmentation de 3,4 % 
+comparativement à l’année 2023-2024. La figure 4.1 illustre le nombre de SPC administrées selon la 
+région sociosanitaire.  
+  
+ 
+15 
+Figure 4.1 Nombre déclaré de SPC administrées selon la région sociosanitaire 
+ 
+Notes. Le nombre de SPC administrées pour les régions  10 et 17 n’est pas indiqué afin de respecter les règles de confidentialité  (0 à 9  SPC). La 
+Commission n’a pas reçu le rapport 2024-2025 de la région 18. 
+ 
+En utilisant les données de l’ISQ relatives au nombre total de décès, on constate que les décès précédés 
+d’une SPC ont représenté 2,7 % des décès survenus au Québec en 2024-2025, soit la même proportion 
+qu’en 2023-2024. La figure  4.2 présente la proportion de décès précédés d’une SPC selon la région 
+sociosanitaire13. On y constate une grande disparité entre les régions. En effet, certaines régions ont 
+une proportion de décès  précédés d’ une SPC plus élevée que d’autres régions comptant une 
+population nettement plus importante; il est possible que les SPC soient sous-déclarées dans certains 
+établissements. 
+  
+ 
+13 Données provisoires transmises par le MSSS à partir des données de l’ISQ sur le nombre de décès par région sociosanitaire. La région de certains décès 
+est inconnue. La région du décès est la région de résidence de la personne alors que la région attribuée à la SPC est celle où le soin a été  administré. 
+
+ 
+16 
+Figure 4.2 Proportion de décès précédés d’une SPC selon la région sociosanitaire 
+ 
+Notes. La proportion pour les régions 10 et 17 n’est pas indiquée afin de respecter les règles de confidentialité (0 à 9 SPC). La Commission n’a pas reçu 
+le rapport de la région 18. La ligne pointillée représente la moyenne provinciale ( 2,7 %). 
+ 
+Selon les données préliminaires de la RAMQ, 41 4 médecins ont facturé des honoraires pour 
+l’administration d’une SPC en 202 4-2025. La très grande majorité de  ces derniers  sont des 
+omnipraticiens (95 %) et 5 % sont des médecins spécialistes.  
+4.3. Aide médicale à mourir 
+L’analyse des données transmises par les établissements et les précisions apportées par ceux-ci dans 
+les rapports montrent que les données rapportées quant aux demandes formulées et aux AMM non 
+administrées sont incomplètes et imprécises. Elles doivent donc être interprétées avec prudence. 
+Selon les rapports des établissements14, 9 400 demandes contemporaines15 d’AMM ont été formulées 
+entre le 1er avril 2024 et le 31 mars 2025. Il s’agit d’une augmentation de 10,9 % comparativement à 
+l’année 2023-2024. Selon les rapports des établissements, 65 % des demandes d’AMM formulées ont 
+été administrées (n  = 6 077)16 et 37  % n’ont pas été administrées (n  = 3 516)17. La Commission 
+constate que les proportions provinciales des demandes formulées  qui ont été  administrées et non 
+administrées sont les mêmes que celles de l’année précédente. 
+La figure 4.3 illustre la proportion des AMM administrées et des AMM non administrées selon la région 
+sociosanitaire. À la lumière des informations transmises, il semble que le suivi et la compilation des 
+demandes d’AMM formulées ne soient pas faits de façon systématique dans tous les établissements. 
+Ceci pourrait expliquer en partie les proportions d’AMM administrées plus élevées dans certains 
+établissements et certaines régions.  
+ 
+14 Le CMQ et l’OIIQ reçoivent respectivement  les déclarations des AMM administrées par les médecins et par les IPS exerçant leur profession dans un 
+cabinet privé de professionnel; ils ne reçoivent pas les informations sur les demandes formulées et les AMM non administrées.  
+15 Les établissements ne sont pas en mesure de fournir les données concernant les demandes anticipées d’aide médicale à mourir. Ces données pourraient 
+se retrouver dans le rapport annuel de gestion de Santé Québec, conformément à l’article  8 de la LCSFV. 
+16 Ce nombre inclut les données de la Maison Miche l-Sarrazin; il n’inclut pas les 3 09 AMM administrées  déclarées par le CMQ  (aucune AMM n’a été  
+déclarée par l’OIIQ). La Commission constate que le nombre total d’AMM administrées déclaré par les établissements et le CMQ est différent du nombre 
+total d’AMM administrées déclaré à la Commission. 
+17 Nombre approximatif puisque quelques établissements n’ont pas  été en mesure de rapporter le nombre d’AMM non administrées.  La somme des 
+AMM administrées et des AMM non administrées ne correspond pas toujours au nombre de demandes formulées déclaré par les établ issements. Par 
+conséquent, la somme des proportions dépasse 100 %. 
+0,8
+3,4
+5,1
+0,9
+6,8
+1,1
+1,8
+6,3
+3,7
+1,5
+4,2
+0,6
+1,5
+3,0 3,0
+0
+1
+2
+3
+4
+5
+6
+7
+8
+01 02 03 04 05 06 07 08 09 11 12 13 14 15 16
+Région sociosanitaire
+% de personnes décédées
+ 
+17 
+Figure 4.3 Proportion des AMM administrées et des AMM non administrées selon la région sociosanitaire 
+ 
+Notes. La proportion des AMM administrées et non administrées n’est pas indiquée pour la région  04 puisque le nombre de demandes d’AMM 
+formulées et d’AMM non administrées n’est pas disponible. Les proportions pour les régions 10 et 17 ne sont pas indiquées afin de respecter les règles 
+de confidentialité (0 à 9). Pour cette même raison, la proportion des AMM non administrées est illustrée à l’aide de pointill és lorsque le nombre 
+transmis est  10. La Commission n’a pas reçu le rapport 202 4-2025 de la région 18. La somme des AMM administrées et des AMM non administrées 
+ne correspond pas toujours au  nombre de demandes formulées déclaré par les établissements. Par conséquent, la somme des proportions parfois 
+n’atteint pas ou dépasse 100 %.  
+ 
+Pour l’année 2024-2025, un peu plus du tiers des AMM demandées n’ont pas été administrées parce 
+que la personne est décédée avant la fin de l’évaluation ou avant l’administration de l’AMM. Les autres 
+principaux motifs pour lesquels l’AMM n’a pas été administrée sont soit que la personne ne répondait 
+pas au critère d’admissibilité prescrits par la loi au moment de faire sa demande ou qu’elle a cessé d’y 
+répondre entre sa demande et l’administration de l’AMM, soit qu’elle a retiré sa demande ou qu’une 
+autre option de traitement a été privilégiée , soit que la demande était en cours d’évaluation ou de 
+processus. 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+01 02 03 05 06 07 08 09 11 12 13 14 15 16
+AMM administrées AMM non administrées
+Région sociosanitaire
+% des AMM
+ 
+18 
+ CONSTATS 
+Au cours de l’année 2024-2025, la Commission a consolidé ses liens avec le réseau de la santé et des 
+services sociaux ainsi qu’avec différents partenaires concernés par les SPFV. L’essentiel de ses activités 
+a porté sur la vérification du respect des exigences relatives à l’AMM et les analyses et la rédaction du 
+rapport quinquennal sur la situation des soins de fin de vie. Les principaux constats de la Commission 
+qui découlent de ses activités sont les suivants : 
+Concernant l’aide médicale à mourir 
+• La croissance du nombre d’AMM administrées, observé depuis l’entrée en vigueur de la LCSFV, 
+tend à ralentir. Un total de 6 268 personnes ont reçu l’AMM, ce qui représente 7,9 % des décès au 
+Québec. L’augmentation du nombre d’AMM administrées en 2024 -2025 par rapport à l’année 
+précédente (9 %) est similaire à celle observée entre 2023-2024 et 2022-2023 (10 %). 
+o On note une importante variabilité régionale de la proportion des décès par AMM. 
+o Les proportions de diagnostic dans les diverses catégories de maladie grave et incurable 
+rendant la personne admissible à l’AMM sont comparables d’une année à l’autre. Au total, 
+0,4 % des personnes ayant reçu l’AMM avaient une déficience physique  grave comme 
+diagnostic principal. 
+o La très grande majorité des personnes qui ont reçu l’AMM avaient un pronostic de survie 
+de moins d’un an ou étaient considérées sur une trajectoire de fin de vie (90 %). 
+• La presque totalité des AMM ont été administrées conformément à la LCSFV. 
+• Un nombre très faible d’AMM administrées ont été considérées par la Commission non conformes 
+à la LCSFV, soit 0,3 %, ce qui est similaire à l’année précédente. Bien que ce nombre soit minime, 
+il impose une vigilance accrue, une communication claire avec les prestataires et une concertation 
+des divers partenaires et instances régulatrices impliqués dans l’AMM. 
+• Le retrait du critère de fin de vie ouvre l’admissibilité à l’AMM à des cas complexes, pour lesquels 
+il peut être difficile d’évaluer l’admissibilité. Les maladies graves et incurables à l’origine d’une 
+demande d’AMM sont ainsi de plus en plus variées et complexes. 
+• La majorité des AMM ont été administrées en centre hospitalier (52 %), alors que 28 % l’ont été à 
+domicile, 10 % en maison de soins palliatifs et 9 % en CHSLD. Comme pour les SPFV, la Commission 
+est d’avis que l’AMM devrait être administrée au lieu respectant les volontés de la personne. 
+• Environ les deux tiers des demandes formulées d’AMM ont été administrées et le tiers ont été non 
+administrées; ces proportions sont constantes au fil des ans  et varient selon les régions et les 
+établissements. 
+• Les principaux motifs pour lesquels les demandes d’AMM n’ont pas été administrées sont le décès 
+de la personne avant la fin de l’évaluation ou avant l’administration de l’AMM, l’inadmissibilité de 
+la personne à recevoir le soin et le retrait de la demande par la personne. 
+  
+ 
+19 
+Concernant la sédation palliative continue 
+Le nombre déclaré de SPC administrées au cours de l’année 202 4-2025 a augmenté de 3,4 % 
+comparativement à l’année précédente et représente 2,7 % de s décès survenus au Québec.  On 
+constate une grande disparité entre les régions. 
+Concernant les soins palliatifs et de fin de vie 
+Les données transmises à la Commission par les établissements  pour la période 2024 -2025 ne 
+permettent pas de dresser un portrait juste de la situation des SPFV au Québec. Bien qu’accentuées 
+cette année, les difficultés d’accès à des données fiables et représentatives concernant les SPFV sont 
+soulevées depuis plusieurs années. Avoir des données probantes fiables est essentiel pour fonder des 
+actions qui répondent aux besoins de la population.  
+La Commission réitère la nécessité de préciser et de faciliter la reddition de compte des établissements 
+et d’implanter des indicateurs de suivis bien définis et partagés dans le réseau pour permettre de 
+dresser un portrait juste des SPFV au Québec. La Commission est disposée à participer activement à 
+des travaux qui seraient entrepris en ce sens. 
+Concernant l’information du public et des soignants et des intervenants du réseau sur les soins 
+palliatifs et de fin de vie 
+La Commission constate que la population québécoise a besoin d’information concernant les SPFV en 
+général, l’AMM contemporaine et anticipée et les diverses formes d’expression des volontés de fin de 
+vie. Les soignants et les intervenants du réseau ont également besoin d’information et 
+d’accompagnement, notamment pour  l’évaluation de demandes d’AMM complexes  et pour la 
+formulation et l’évaluation des DAAMM. 
+  
+ 
+20 
+ CONCLUSION 
+Le présent rapport annuel de la Commission présente ses activités réalisées au cours de la période du 
+1er avril 2024 au 31  mars 2025 et fait état des données relatives à l’AMM à partir des déclarations 
+reçues des prestataires ainsi que des données lui ayant été transmises par les établissements, le CMQ 
+et l’OIIQ en ce qui concerne les SPFV, la SPC et l’AMM. 
+La Commission observe que la croissance du nombre d’AMM administrées tend à se stabiliser. Un total 
+de 6  268 personnes ont reçu l’AMM au cours de la présente période, ce qui représente une 
+augmentation de 9  % comparativement à l’année passée. En 2024 -2025, 7,9 % des personnes 
+décédées au Québec ont reçu l’AMM. Environ les deux tiers des demandes d’AMM ont été 
+administrées et la presque totalité des AMM administrées ont été conformes à la LCSFV. 
+Le profil des personnes qui ont reçu l’AMM demeure semblable aux années précédentes.  Depuis le 
+7 mars 2024, les personnes ayant une déficience physique grave entraînant des incapacités 
+significatives et persistantes et qui répondent aux autres critères de la loi sont admissibles à l’AMM au 
+Québec. Au cours de l’année 2024-2025, 0,4 % des personnes ayant reçu l’AMM avaient une déficience 
+physique grave comme diagnostic principal. 
+La Commission est préoccupée par les délais très courts entre la formulation de la demande d’AMM 
+et l’administration du soin dans certains cas et la grande disparité dans les proportions des personnes 
+décédées ayant reçu l’AMM entre les régions. Elle compt e faire les démarches nécessaires afin de 
+mieux comprendre ces éléments. Les résultats du projet de recherche CIRAMM apporteront des 
+précisions à cet égard. 
+Les données transmises par les établissements pour la période 2024 -2025 ne permettent pas de 
+dresser un portrait juste de la situation des SPFV. La Commission réitère la nécessité de préciser et de 
+faciliter la reddition de compte des établissements et est disposée à participer activement à des 
+travaux qui seraient entrepris en ce sens. En ce qui concerne la SPC, environ 2,7  % des personnes 
+décédées au Québec ont reçu une SPC. Cette proportion est similaire à celle de l’année dernière. 
+Au cours de la pro chaine année, la Commission poursuivra avec rigueur l’examen des déclarations 
+d’administration de l’AMM et analysera les données transmises par les professionnels compétents 
+concernant les AMM non administrées. Elle portera également une attention particulière aux AMM 
+administrées dans un contexte de demande anticipée. 
+En ce qui concerne plus particulièrement les soins palliatifs, la Comm ission compte notamment 
+présenter aux instances gouvernementales, à Santé Québec et au réseau une proposition de modèle 
+intégré de SPFV afin de renforcer l’accès aux soins palliatifs au Québec. Elle prévoit suivre les actions 
+mises en place en réponse aux recommandations qu’elle a émises dans son rapport quinquennal. Elle 
+souhaite également se pencher sur les directives médicales anticipées et l’ensemble des volontés de 
+fin de vie. 
+La Commission prévoit renforcer ses liens avec les partenaires concernant les SPFV. À cet égard, elle 
+souhaite rencontrer les établissements afin de mieux comprendre les processus mis en place, 
+notamment pour la prise en charge du nombre croissant de demandes d’AMM, et d’échanger sur leurs 
+réalités et leurs préoccupations concernant l’ensemble des SPFV. 
+C’est donc avec rigueur et vigilance que la Commission remplit le mandat qui lui est confié dans la 
+LCSFV, notamment de s’assurer que les exigences relatives à l’AMM prévues par cette loi soient bien 
+appliquées et que l’AMM ne soit pas un soin choisi à défaut d’avoir accès à d’autres soins curatifs, 
+palliatifs ou de fin de vie de qualité et adaptés aux besoins des Québécois.  
+ 
+ 
+21 
+ ÉTATS FINANCIERS 
+Résultats cumulatifs du 1er avril 2024 au 31 mars 2025 
+  
+2023-2024 
+$ 
+2024-2025 
+$ 
+Revenu    
+ Solde (au 1er avril)  (192 358) 127 722 
+ Gouvernement du Québec   1 962 991 1 069 300 
+  1 770 633 1 197 022 
+     
+Charges    
+ Traitements et avantages sociaux  878 793 685 623 
+ Contractuels et prêts de services  103 824 2 143 
+ Honoraires des membres  407 170 434 080 
+ Honoraires professionnels  24 938 35 397 
+ Frais de réunion  23 793 15 547 
+ Informatique  28 967 17 553 
+ Papeterie, impression et frais de bureau  383 858 
+ Frais de déplacement employés  5 982 5 997 
+ Frais de formation, congrès et représentation  4 060 1 039 
+ Frais de location d'espace et de soutien administratif  165 000 165 000 
+   1 642 911 1 363 237 
+     
+Excédent (déficit) de l’exercice  127 722 (166 215) 
+     
+ 
+ 
+22 
+ANNEXE A - COMPOSITION DE LA COMMISSION SUR LES SOINS DE 
+FIN DE VIE 
+Membres actifs en 2024-2025 et en poste au moment de la rédaction et de l’adoption du présent rapport 
+Dre Lucie Poitras, présidente 
+Médecin 
+Nommée le 9 octobre 2024 après consultation des organismes représentant les établissements et désignée présidente. 
+Mme Brigitte Laflamme, vice-présidente 
+Infirmière et directrice générale de la Maison Michel-Sarrazin 
+Nommée le 21 août 2024 après consultation de l’OIIQ et désignée vice-présidente le 9 octobre 2024. 
+Me Danielle Beausoleil 
+Notaire associée chez Novallier 
+Nommée le 9 octobre 2024 après consultation de la Chambre des notaires du Québec. 
+Dre Nathalie Boudreault 
+Médecin de famille, service de soins palliatifs au CHU de Québec – Université Laval et professeure titulaire et présidente 
+du comité interdépartemental de soins palliatifs et du comité de formation en aide médicale à mourir à la Faculté de 
+médecine de l’Université Laval 
+Nommée le 9 octobre 2024 après consultation du CMQ. 
+Dre Josée Courchesne 
+Médecin de famille 
+Nommée le 16  décembre 2015 après consultation du CMQ et désignée vice -présidente. Mandat renouvelé le 16  décembre 2020. 
+Démission de ses fonctions de vice-présidente le 9 octobre 2024. 
+Me Pierre Deschamps 
+Avocat et membre du Tribunal des droits de la personne du Québec 
+Nommé le 16 décembre 2015 après consultation du Barreau du Québec. Mandat renouvelé le 16 décembre 2020. 
+Mme Véronique Fraser 
+Infirmière de pratique avancée, aide médicale à mourir, mission des soins de cancer, Centre universitaire de santé 
+McGill et éthicienne 
+Nommée le 27 septembre 2023 après consultation des établissements d’enseignement universitaires. 
+Mme Gizelia-Zelda Freitas 
+Travailleuse sociale, conseillère cadre à la pratique professionnelle en services multidisciplinaires au CIUSSS du Centre-
+Ouest-de-l’Île-de-Montréal et professeure adjointe à l’École de travail social de l’Université McGill 
+Nommée le 27 septembre 2023 après consultation de l’Ordre professionnel des travailleurs sociaux et des thérapeutes conjugaux et 
+familiaux du Québec. 
+Mme Catherine Lapointe-Girard 
+Pharmacienne à l’Hôtel-Dieu de Lévis, adjointe au chef du département régional de pharmacie du CISSS de Chaudière-
+Appalaches 
+Nommée le 27 septembre 2023 après consultation de l’Ordre des pharmaciens du Québec.  
+M. Jérôme Leclerc-Loiselle 
+Infirmier et professeur adjoint à la Faculté de médecine et des sciences de la santé de l’Université de Sherbrooke 
+Nommé le 21 aout 2024 après consultation de l’OIIQ. 
+Dr David Lussier 
+Gériatre, directeur de la clinique de gestion de la douleur chronique à l’Institut universitaire de gériatrie de Montréal 
+au CIUSSS du Centre-Sud-de-l’Île-de-Montréal et professeur agrégé de clinique à l’Université de Montréal 
+Nommé le 16 décembre 2015 après consultation du CMQ. Mandat renouvelé le 16 décembre 2020.  
+Mme Marielle Philibert 
+Membre du comité des usagers du CHU de Québec – Université Laval 
+Nommée le 16 décembre 2015 après consultation des organismes représentant les comités des usagers des établissements. Mandat 
+renouvelé le 16 décembre 2020.  
+M. Marc Rochefort 
+Vice-président du Comité de direction de l’Observatoire québécois de la proche aidance du Québec 
+Nommé le 27 septembre 2023 après consultation des organismes représentant les comités des usagers des établissements. 
+ 
+23 
+Membres actifs et dont le mandat s’est terminé au cours de l’année 2024-2025 
+Dr Michel Bureau, président 
+Médecin universitaire spécialisé en pédiatrie, néonatalogie et pneumologie 
+Nommé le 3 juillet 2018 après consultation des présidents-directeurs généraux et des directeurs généraux des établissements publics 
+de santé et de services sociaux et désigné président. Mandat ayant pris fin le 9 octobre 2024. 
+Me Josée Bédard 
+Notaire 
+Nommée le 27 septembre 2023 après consultation de la Chambre des notaires du Québec. Démission le 3 juin 2024. 
+Mme Maryse Carignan 
+Infirmière, retraitée du réseau de la santé depuis 2022, agit maintenant comme consultante experte en SPFV et 
+formatrice 
+Nommée le 16 décembre 2015 après consultation de l’OIIQ. Mandat renouvelé le 16 décembre 2020 ayant pris fin le 21 août 2024.  
+ 
+ 
+ 
+24 
+ANNEXE B - DISPOSITIONS DE LA LOI CONCERNANT LES SOINS DE FIN 
+DE VIE  PORTANT SUR LES EXIGENCES PARTICULIÈRES RELATIVES À 
+L’AIDE MÉDICALE À MOURIR (DEMANDE CONTEMPORAINE) 
+En vigueur au 31 mars 202518 
+CHAPITRE IV 
+EXIGENCES PARTICULIÈRES RELATIVES À CERTAINS SOINS DE FIN DE VIE 
+[…] 
+SECTION II 
+AIDE MÉDICALE À MOURIR 
+26. Pour obtenir l’aide médicale à mourir suivant une demande contemporaine, une personne doit, en plus de formuler une demande 
+conforme aux dispositions du présent article, et de l’article 27 le cas échéant, satisfaire aux conditions suivantes : 
+1° elle est majeure et apte à consentir aux soins, sauf exception relativement à cette aptitude de la personne prévue au troisiè me 
+alinéa de l’article 29; 
+2° elle est une personne assurée au sens de la Loi sur l’assurance maladie (chapitre A-29); 
+3° elle est dans une des situations suivantes : 
+a) elle est atteinte d’une maladie grave et incurable et sa situation médicale se caractérise par un déclin avancé et irréversible de ses 
+capacités; 
+b) elle a une déficience physique grave entraînant des incapacités significatives et persistantes (en vigueur depuis le 7 mars 2024); 
+4° elle éprouve des souffrances physiques ou psychiques persistantes, insupportables et qui ne peuvent être apaisées dans des 
+conditions qu’elle juge tolérables. 
+Pour l’application du paragraphe 2° du premier alinéa, est assimilée à une personne assurée au sens de la Loi sur l’assurance maladie 
+une personne dont le coût des services de santé assurés qu’elle reçoit ou peut recevoir est assumé autrement qu’en applica tion de 
+cette loi du fait de sa détention au Québec ou du fait qu’elle y réside et qu’elle soit en service actif dans les Forces armées canadiennes. 
+Pour l’application du sous-paragraphe a du paragraphe 3° du premier alinéa, un trouble mental autre qu’un trouble neurocognitif ne 
+peut pas être une maladie pour laquelle une personne peut formuler une demande. 
+La personne doit, de manière libre et éclairée, formuler pour elle-même la demande d’aide médicale à mourir au moyen du formulaire 
+prescrit par le ministre. Ce formulaire doit être daté et signé par cette personne. 
+Le formulaire est signé en présence d’un professionnel de la santé ou des services sociaux qui le contresigne et qui, s’il n’ est pas le 
+professionnel compétent qui traite la personne, le remet à celui-ci. 
+[…] 
+29. Avant d’administrer l’aide médicale à mourir suivant une demande contemporaine, le professionnel compétent doit : 
+1° être d’avis que la personne satisfait à toutes les conditions prévues à l’article 26, notamment : 
+a) en s’assurant auprès d’elle du caractère libre de sa demande, en vérifiant entre autres qu’elle ne résulte pas de pressions 
+extérieures; 
+b) en s’assurant auprès d’elle du caractère éclairé de sa demande, notamment en l’informant du pronostic relatif à la maladie  ou de 
+l’évolution clinique prévisible de la déficience physique en considération de son état, des possibilités thérapeutiques envisageables et 
+de leurs conséquences ou des mesures appropriées pour compenser ses incapacités; 
+c) en s’assurant de la persistance de ses souffrances et de sa volonté réitérée d’obtenir l’aide médicale à mourir, en menant avec elle 
+des entretiens à des moments différents, espacés par un délai raisonnable compte tenu de l’évolution de son état; 
+d) en s’entretenant de sa demande avec des membres de l’équipe de soins en contact régulier avec elle, le cas échéant; 
+e) si elle le souhaite, en s’entretenant de sa demande avec ses proches ou avec toute autre personne qu’elle identifie; 
+2° s’assurer que la personne a eu l’occasion de s’entretenir de sa demande avec les personnes qu’elle souhaitait contacter; 
+2.1° si la personne a une déficience physique, s’assurer qu’elle a évalué la possibilité d’obtenir des services de soutien, de con seil ou 
+d’accompagnement, notamment de l’Office des personnes handicapées du Québec, d’un organisme communautaire ou d’un pair  
+aidant, tels que de l’assistance aux fins d’amorcer une démarche de plan de services à son égard; 
+3° obtenir l’avis d’un second professionnel compétent confirmant le respect des conditions prévues à l’article 26. 
+Le professionnel consulté doit être indépendant, tant à l’égard de la personne qui demande l’aide médicale à mourir qu’à l’égard du 
+professionnel qui demande l’avis. Il doit prendre connaissance du dossier de la personne et examiner celle-ci. Il doit rendre son avis 
+par écrit. 
+ 
+18 Loi concernant les soins de fin de vie, RLRQ, c. S-32.0001. [En ligne]. 
+ 
+25 
+Lorsqu’une personne en fin de vie est devenue inapte à consentir aux soins après avoir formulé sa demande, le  professionnel 
+compétent peut tout de même lui administrer l’aide médicale à mourir pourvu qu’alors qu’elle était en fin de vie et avant qu’elle ne 
+soit devenue inapte à consentir aux soins : 
+1° toutes les conditions prévues au premier alinéa avaient été satisfaites; 
+2° elle avait consenti, par écrit au moyen du formulaire prescrit par le ministre et en présence d’un professionnel compétent, dans les 
+90 jours précédant la date de l’administration de l’aide médicale à mourir, à la recevoir même si elle perdait son aptitude à consentir 
+aux soins avant son administration. 
+Tout refus de recevoir l’aide médicale à mourir manifesté par une personne visée à l’alinéa précédent doit être respecté et il ne peut 
+d’aucune manière y être passé outre. 
+ 
+ 
+26 
+ANNEXE C - DONNÉES DE LA COMMISSION CONCERNANT LES AIDES 
+MÉDICALES À MOURIR ADMINISTRÉES 
+Tableau C1 Caractéristiques des personnes qui ont reçu l’AMM 
+Sexe Nombre % 
+Homme 3 323 53 
+Femme 2944 47 
+Total 6 268 100 
+Âge Nombre % 
+Groupe d’âge (ans)   
+18-29 7 < 1 
+30-39 26 < 1 
+40-49 68 1 
+50-59 279 4 
+60-69  1164 19 
+70-79  2198 35 
+80-89  1827 29 
+90-99  668 11 
+100 et plus 30 < 1 
+Total 6 267 a 100 
+Âge moyen 76 ans 
+Diagnostic principal Nombre % 
+Cancer 3620 58 
+Maladie neurodégénérative ou neurologique b 618 10 
+Maladie pulmonaire 482 8 
+Maladie cardiaque, vasculaire ou cérébrovasculaire 444 7 
+Polypathologie ou plus d’un diagnostic principal c 594 9 
+Autred 474 8 
+Aucune maladie grave et incurable telle que définit par la LCSFV 10 < 1 
+Total 6 268 100 
+Pronostic vitale Nombre % 
+1 semaine ou moins 457 7 
+2 semaines ou moins 364 6 
+1 mois ou moins 980 16 
+3 mois ou moins 1 849 29 
+6 mois ou moins 773 12 
+1 an ou moins 728 12 
+2 ans ou moins 202 3 
+Fin de vief 475 8 
+Plus d'un an / Pas en fin de vieg 439 7 
+Total 6 267 a 100 
+a L’information était manquante pour une déclaration. 
+b Les maladies neurodégénératives ou neurologiques incluent notamment la maladie de Parkinson et les autres syndromes parkinsoniens (p. ex. paralysie 
+supranucléaire progressive, atrophie multisystématisée, dégénérescence cortico -basale), la sclérose latérale amyotrophique , la sclérose en plaques, les 
+troubles neurocognitifs majeurs et différents types de dystrophie.  
+c 9 % des personnes étaient atteintes de plus d’une maladie grave et incurable, sans qu’il soit possible de déterminer laquelle a vait contribué davantage 
+à la demande d’AMM ou encore, une combinaison de plusieurs maladies les avaient rendues admissibles à l’AMM (polypathologie).  
+d Les autres diagnostics principaux incluent, entre autres, des maladies musculosquelettiques, inflammatoires, digestives, rénales et infectieuses.  
+e Les catégories sont mutuellement exclusives. Lorsque le pronostic est exprimé à l’aide d’un intervalle temporel, la limite su périeure a été utilisée. L a 
+déclaration ne permet pas de savoir si le pronostic vital indiqué est celui au moment de la demande, de l’évaluation ou de l’ administration de l’AMM. 
+f Dans la plupart des cas, les pronostics vitaux indiqués variaient de quelques semaines à quelques mois, sans qu’il soit possible de les préciser davantage, 
+ou encore la formulation était de nature qualitative telle que pronostic sombre ou réservé . 
+g Inclut les pronostics estimés à plus d’un an et plus de 18  mois sans autre précision, les pronostics de deux ans ou plus, et les pronostics non précisés, 
+mais pour lesquels le prestataire considérait que la personne n’était pas en fin de vie.  
+  
+ 
+27 
+Tableau C2 Incapacités des personnes qui ont reçu l’AMM 
+a Choix de réponse inclus dans le formulaire de déclaration électronique  (version de mai  2019, n=5  168). 1 088 formulaires ayant été remplis avec la 
+version de février 2025 ont été exclus puisque le s choix de réponse à cette question ont été modifiés. Les formulaires dont la version était antérieure à 
+mai 2019 (n= 11) ont été exclus, car le choix de réponses était inexistant. Un formulaire de la version de mai 2019 ayant été reçu en format papier a 
+également été exclu.  
+b Proportion des formulaires comprenant les choix de réponse pour lequel chaque réponse est indiquée. La majorité des formulaires contiennent plus 
+d’une réponse. 
+Tableau C3 Type de souffrance des personnes qui ont reçu l’AMM 
+Type de souffrance Nombre % 
+Physique et psychique 6 083 97 
+Psychique 185 3 
+Physique 0  1 
+Total 6 268 100 
+Note. Les souffrances rapportées sont celles indiquées au formulaire de déclaration rempli par le professionnel compétent qui a administré l’AMM. Il est 
+possible qu’une personne ait pu présenter des souffrances qui n’ont pas été consignées dans le formulaire.  
+Tableau C4 Souffrances des personnes qui ont reçu l’AMM 
+Souffrancea Nombre %b 
+Perte de capacité à effectuer des activités significatives 5 017 97 
+Perte de capacité à effectuer les activités de la vie quotidienne  4 689 91 
+Perte d’indépendance (p. ex. autonomie complète ou majeure sur sa vie) 4 137 80 
+Perte de la dignité 3 724 72 
+Détresse émotionnelle/anxiété/peur/souffrance existentielle 3 395  66 
+Contrôle inadéquat de la douleur ou préoccupations à ce sujet  2 808 54 
+Contrôle inadéquat de symptômes autres que la douleur ou préoccupations à ce sujet  2 630 51 
+Fardeau perçu sur la famille, les amis ou les soignants  2 593 50 
+Perte de contrôle des fonctions corporelles 1 536 30 
+Isolement ou solitude 1 216 24 
+a Choix de réponse inclus dans le formulaire de déclaration électronique  (version de mai  2019, n=5  168). 1 088 formulaires ayant été remplis avec la 
+version de février 2025 ont été exclus puisque le s choix de réponse à cette question ont été modifiés. Les formulaires dont la version était antérieure à 
+mai 2019 (n=11) ont été exclus, car le choix de réponses était inexistant. Un formulaire de la version de mai  2019 ayant été reçu en format papier a 
+également été exclu. 
+b Proportion des formulaires comprenant les choix de réponse (n= 5 168) pour lequel chaque réponse est indiquée. La majorité des formulaires 
+contiennent plus d’une réponse. 
+  
+Incapacitésa Nombre %b 
+Incapacités générales 4 533 88 
+Asthénie 4 403 85 
+Cachexie 2 228 43 
+Incapacités neuromotrices 2 391 46 
+Difficulté importante à faire ses activités de la vie quotidienne  2 208 43 
+Difficulté importante à se mobiliser 2 182 42 
+Alitement la plupart du temps 1 428 28 
+Mobilité limitée au fauteuil roulant 660 13 
+Contractures/myotonie/tremblements 306 6 
+Plaies de pression 180 3 
+Incapacités respiratoires 1 917 37 
+Dyspnée au repos ou à l’effort léger (parole)  1 868 36 
+Dépendance au supplément d’oxygène 485 9 
+Incapacités digestives/nutritionnelles 1 869 36 
+Anorexie 1 473 29 
+Dysphagie importante 568 11 
+Occlusion digestive ou intestinale 334 6 
+Dépendance au gavage gastrique 94 2 
+Incapacités cardiaques  375 7 
+Œdème pulmonaire aigu répété anasarque 237 5 
+Dépendance au supplément d’oxygène 126 2 
+Dépendance cardiaque (stimulateur, pace maker, cœur mécanique)  94 2 
+Incapacités sensorielles 248 5 
+Cécité acquise partielle 159 3 
+Cécité acquise totale 55 1 
+Surdité acquise partielle 99 2 
+Surdité acquise totale 21 < 1 
+ 
+28 
+Tableau C5 Raisons pour lesquelles les souffrances des personnes qui ont reçu l’AMM ne pouvaient être apaisées dans 
+des conditions qu’elles jugeaient tolérables 
+Raisona Nombre %b 
+Traitements jugés inefficaces 3 374 65 
+Aucun traitement 1 924 37 
+Refus de traitement 1 822 35 
+Effets secondaires inacceptables 1 034 20 
+Traitements existants, mais inaccessibles 101 2 
+a Choix de réponse inclus dans le formulaire de déclaration électronique  (version de mai  2019, n=5 168). 1 088 formulaires ayant été remplis avec la 
+version de février 2025 ont été exclus puisque le s choix de réponse à cette question ont été modifiés. Les formulaires dont la version était antérieure à 
+mai 2019 (n=11) ont été exclus, car le choix de réponses était inexistant. Un formulaire de la version de mai 2019 ayant été reçu en format papier a 
+également été exclu. 
+b Proportion des formulaires comprenant ces choix de réponse (n= 5 168) pour lequel chaque réponse est indiquée. La majorité des formulaires 
+contiennent plus d’une réponse. 
+Tableau C6 Délai entre la demande et l’administration de l’AMM 
+Délai Nombre % 
+Moins de 10 jours 2 718 43 
+10 à 30 jours 1 514 24 
+31 à 60 jours 669 11 
+61 à 90 jours 340 6 
+Plus de 90 jours 1027 16 
+Total 6 268 100 
+Moyenne (jours) 44 
+Écart type (jours) 64 
+Médiane (jours) 47 
+Tableau C7 Nombre et proportion d’AMM selon le lieu de l’administration du soin 
+Lieu Nombre % 
+Centre hospitalier 3 290 52 
+Domicile 1 735 28 
+Maison de soins palliatifsa 643 10 
+CHSLD  543 9 
+Établissement, autre mission 2  < 1 
+Autreb 55 1 
+Total 6 268 100 
+a La Commission a constaté qu’il est parfois indiqué que l’AMM a eu lieu en maison de soins palliatifs alors qu’elle a été admi nistrée dans une unité de 
+soins palliatifs d’un centre hospitalier ou d’un CHSLD . 
+b Les autres lieux incluent majoritairement une ressource en soins palliatifs. 
+ 
+ 
+ 
+ 

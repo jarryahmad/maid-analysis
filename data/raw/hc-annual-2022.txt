@@ -1,0 +1,961 @@
+Fourth annual report on Medical Assistance in Dying in Canada 2022
+Download in PDF format
+(1.2 MB, 55 pages)
+Organization:
+Health Canada
+Date published:
+October 2023
+Cat.:
+H22-1/6E-PDF
+ISBN:
+2563-3643
+Pub.:
+230212
+Table of Contents
+Highlights
+Minister’s Message
+Introduction
+1.0 The Evolution of Federal MAID Legislation
+1.1 Changes to the law for Medical Assistance in Dying
+Table 1.1:
+An Act to amend the Criminal Code (medical assistance in dying)
+: Revised Eligibility Criteria
+Table 1.2:
+An Act to amend the Criminal Code (medical assistance in dying)
+: Revised Safeguards
+1.2 New Regulations and the Monitoring Regime
+Table 1.3: Summary of new or modified reporting requirements under the amended
+Regulations for the Monitoring of Medical Assistance in Dying
+1.3 Requirements of the Legislation
+1.4 Supporting Implementation of MAID across Canada
+2.0 Methodology and Limitations
+2.1 Data Collected under Federal Regulations
+2.2 Methodological Notes
+2.3 Data Limitations
+3.0 MAID Provision in Canada
+3.1	Number of Reported MAID Deaths in Canada (2016 to 2022)
+Chart 3.1:  Total MAID Deaths in Canada, 2016 - 2022
+Table 3.1 Total MAID Deaths in Canada by Jurisdiction, 2016 - 2022
+3.2 MAID Deaths as a Proportion of Total Deaths in Canada
+Chart 3.2: Percentage of Total Deaths Attributed to MAID by Jurisdiction, 2019 - 2022
+4.0 Profile of Persons Receiving MAID
+4.1 Underlying Medical Conditions of Those Receiving MAID
+Chart 4.1A: MAID by Main Condition, 2022
+Chart 4.1B: MAID by Cancer Type, 2022
+Chart 4.1C:  MAID by Neurological Condition, 2021-2022
+Chart 4.1D MAID by Other Condition / Multiple Comorbidities, 2022
+Chart 4.1E:  Main Condition by Age Category, 2022
+4.2 Gender, Average Age and Age Range of Individuals Who Received MAID
+Chart 4.2: MAID by Age Category, 2022
+4.3 Nature of Suffering of Those Who Received MAID
+Chart 4.3: Nature of Suffering of Those Who Received MAID, 2022
+4.4 Palliative Care and Disability Support Services
+Table 4.4: MAID Recipients Who Received Palliative Care and Disability Support Services, 2022
+4.5 Profile of Persons Receiving MAID Whose Natural Death is not Reasonably Foreseeable
+Chart 4.5A: Main Condition, MAID, Natural Death Not Reasonably Foreseeable, 2022
+Chart 4.5B: MAID by Age: Natural Death Reasonably Foreseeable vs Not Reasonably Foreseeable, 2022
+5.0 Delivery of MAID
+5.1 MAID Deaths by Setting
+Chart 5.1: MAID Deaths by setting, 2019 - 2022
+5.2 Geographic Location of MAID: Urban Vs. Rural Settings
+Chart 5.2: MAID Deaths: Urban vs Rural, 2022
+5.3 Number of Unique MAID Practitioners and Frequency of Provision
+Chart 5.3: Unique MAID Practitioners in Canada and Frequency of Provision: 2019 to 2022
+5.4 Speciality of Practitioner Delivering MAID
+Chart 5.4: Speciality of MAID Practitioner, 2022
+6.0 Procedural Safeguards and Supplementary Data
+6.1 Source of the Written Request for MAID
+Chart 6.1: Source of the Written Request, 2022
+6.2 Determination of the Individual’s Request as Voluntary
+Chart 6.2: Determination of the Individual’s Request as Voluntary, 2022
+6.3 Consultation with Other Health Care Professionals
+Chart 6.3: Consultation with Other Health Care Professionals, 2022
+6.4 Information received From Pharmacists
+Chart 6.4: Dispensing of MAID Drugs by Pharmacy Type, 2022
+7.0 Requests That Do Not Result in a MAID Death
+7.1 Number of Requests and Outcomes
+Table 7.1: MAID Requests and Outcomes by Jurisdiction, 2022
+Chart 7.1: Requests and Outcomes, 2019 - 2022
+7.2 Ineligibility
+Chart 7.2: Reasons for Ineligibility, Natural Death Reasonably Foreseeable vs Not Reasonably Foreseeable, 2022
+7.3 Individual Withdraws Their Request for MAID
+Chart 7.3: Reason for Withdrawal of MAID Request, 2019 - 2022
+7.4 Individual Died of a Cause Other Than MAID
+Chart 7.4 Timing of Death Following Submission of the Written Request (Individual Died of Another Cause), 2019 – 2022
+8.0 Conclusion
+Appendix A: Profile of Medical Assistance in Dying by Jurisdiction January 1 to December 31, 2022
+Highlights
+This
+Fourth Annual Report on Medical Assistance in Dying
+presents data for the 2022 calendar year collected under the 2018
+Regulations for the Monitoring of Medical Assistance in Dying
+. It builds upon the
+First
+,
+Second
+and
+Third Annual Report on Medical Assistance in Dying
+. With four full years of data collection now complete under the original regulations, results and trends provide even greater insight into the implementation of medical assistance in dying (MAID) in Canada, as well as a look at the second year of results in cases where the person's natural death was not reasonably foreseeable.
+Growth in the number of medically assisted deaths in Canada continues in 2022.
+In 2022, there were 13,241 MAID provisions reported  in Canada, accounting for 4.1% of all deaths in Canada.
+The number of cases of MAID in 2022 represents a  growth rate of 31.2% over 2021. All provinces except Manitoba and the Yukon continue  to experience a steady year-over-year growth in 2022.
+When all data sources are considered, the total  number of medically assisted deaths reported in Canada since the introduction  of federal MAID legislation in 2016 is 44,958.
+Profile of MAID recipients
+In 2022, a slightly larger proportion of males  (51.4%) than females (48.6%) received MAID. This result is consistent with 2021  (52.3% males and 47.7% females), 2020 (51.9% males and 48.1%  females) and 2019 (50.9% males and 49.1% females).
+The average age of individuals at the time MAID  was provided in 2022 was 77.0 years. This average age is slightly higher than  the averages of 2019 (75.2), 2020 (75.3) and 2021 (76.3). The average age of females  during 2022 was 77.9, compared to males at 76.1.
+Cancer (63.0%) is the most cited underlying  medical condition among MAID provisions in 2022, down from 65.6% in 2021 and from  a high of 69.1% in 2020. This is followed by cardiovascular conditions (18.8%),  other conditions (14.9%), respiratory conditions (13.2%) and neurological  conditions (12.6%).
+In 2022, 3.5%  of the total number of MAID provisions (463 individuals), were individuals  whose natural deaths were
+not
+reasonably foreseeable. This is an  increase from 2.2% in 2021 (223 individuals). The most cited underlying medical  condition for this population was neurological (50.0%), followed by other  conditions (37.1%), and multiple comorbidities (23.5%), which is similar to  2021 results. The average age of individuals receiving MAID whose natural death  was not reasonably foreseeable was 73.1 years, slightly higher than 70.1 in  2021 but lower than the average age of  77.0 for all MAID recipients in 2022.
+The majority of MAID recipients received palliative care and disability support services
+In 2022, MAID  practitioners reported that the majority of MAID recipients (77.6%) had  received palliative care, a level similar to the three previous years. Of those  who received palliative care, 49.9% received it for a month or more, similar to  the level reported in 2021. Of the MAID recipients who did not receive  palliative care (19.6%), 87.5% had access to these services.
+In 2022, 36.8% of individuals who received MAID  were reported by the MAID practitioner as having required disability support  services, a decrease from 43.0% in 2021. For these individuals requiring  disability support services, the majority, 89.5%, received these services.
+The receipt of palliative care services is more  common amongst individuals with a main condition of cancer, while disability support  services were more commonly received by individuals suffering from a  neurological condition.
+Nature of suffering among MAID recipients
+In 2022, the most commonly cited sources of  suffering by individuals requesting MAID were the loss of ability to engage in  meaningful activities (86.3%), followed by loss of ability to perform  activities of daily living (81.9%) and inadequate control of pain, or concern  about controlling pain (59.2%).
+These results continue to mirror very similar  trends seen in the previous three years (2019 to 2021), indicating that the  nature of suffering that leads a person to request MAID has remained consistent  over the past four years.
+The total number of practitioners providing MAID continues to grow, and primary care physicians remain as the principal MAID providers.
+The total number of unique practitioners  providing MAID during 2022 was 1,837, up 19.1% from 1,542 in 2021.  95.0% of all MAID practitioners were  physicians, while 5.0% were nurse practitioners.
+Among physicians, family physicians conduct the  majority of MAID provisions (67.7%), consistent with previous years results.
+Nurse practitioners are providing an increasing  share of MAID provisions. Physicians performed 90.6% of all MAID procedures  during 2022, while nurse practitioners performed 9.4% of all MAID procedures,  up from 8.4% in 2021 and from 7.0% in 2019.
+In 2022, the average number of MAID provisions per  practitioner was 7.2, compared to 6.5 (2021), 5.8 (2020) and 5.1 (2019).
+Private residences continue to be the primary setting for the administration of MAID in Canada
+In 2022, 39.5% of MAID provisions occurred within  private residences. This is down from 44.2% in 2021 and 47.6% in 2020, when  precautions necessitated by the COVID-19 pandemic shifted provisions from institutional to home-based settings. MAID  provisions in 2022 also took place in hospitals (30.5%), palliative care  facilities (20.8%), residential care facilities (7.6%) and other settings  (1.5%) (i.e., ambulatory settings or medical offices/clinics).
+The Atlantic provinces had a higher number of  MAID recipients living in rural areas, ranging from 34.1% in Newfoundland and  Labrador to 46.4% in New Brunswick. The highest proportion of MAID recipients  living in urban areas were from Québec (79.9%) and Ontario (79.2%), Manitoba  and Alberta (84.3% in both), and British Columbia (82.4%). This is consistent  with 2020 and 2021 and roughly representative of each jurisdiction’s general  pattern of population distribution according to the 2021 census.
+Requests not resulting in a medically assisted death.
+There were 16,104 written requests for MAID in  2022. This represents an increase of 26.5% over the number of written requests  in 2021. Written requests for MAID have grown by an average of 28.2% per year  between 2020 and 2022. In 2022, the majority of written requests (13,102 or 81.4%)  resulted in the administration of MAID.
+The remaining 3,002 requests (18.6%) resulted in  an outcome other than MAID: 298 individuals withdrew their request (1.9% of  written requests); 560 individuals were deemed ineligible (3.5% of written requests);  and 2,144 individuals died prior to receiving MAID (13.3% of written requests).
+The main reasons for the withdrawal of a MAID  request were the individual changed their mind (75.9%) or that palliative care services  were sufficient (41.8%). For 15.6% of withdrawals (46 individuals),  withdrawal occurred just prior to the MAID procedure when the practitioner was  required to seek the individual’s final consent.
+In 2022, 560 individuals were deemed ineligible  for MAID. The number of individuals that were found ineligible declined between  2019 and 2022, with 3.5% of total written requests in 2022, down from 4.1% in  2021 and 8.0% in 2019.
+The reason for a determination of  ineligibility varies depending on whether an individual’s death was reasonably  foreseeable or not reasonably foreseeable. The most common reason for  ineligibility for individuals whose natural death was reasonably  foreseeable was  that the individual was not deemed capable of making decisions with respect to  their health (41.3%), consistent with the three previous years. For  individuals whose natural death was not reasonably foreseeable, the main  reasons for a finding of ineligibility were not having a serious illness,  disease, or disability (54.4%), not being in an advanced state of decline  (54.0%) and not having intolerable suffering (45.1%).
+The average age of individuals who died of  another cause prior to receiving MAID in 2022 was 73.6 with 56.0% males and  44.0% females. Approximately 70.8% had cancer. These results are similar to  2021. The median days from the time of the submitted request to death from  another cause was eleven days, up from nine days in 2021.
+Minister’s Message
+As Minister of Health, I am proud to present Health Canada’s Fourth Annual Report on Medical Assistance in Dying in Canada (2022). This fourth report, using data collected under Canada’s monitoring and reporting system for MAID, represents the ongoing collaboration among federal, provincial, and territorial governments and health care professionals to provide a comprehensive picture of the administration of medical assistance in dying (MAID) in Canada.
+This report builds upon the
+First
+,
+Second
+, and
+Third  Annual Report on Medical Assistance in Dying
+. The  data collected over the last four years has  continued to increase our insight into the delivery of MAID in Canada and has helped  to inform Canada’s evolving MAID system.
+A number of important initiatives and accomplishments helping  to inform the evolution and practice of MAID have occurred over the last year  and there are a number of new initiatives ongoing. Our  Government continues to be actively involved in fostering collaboration with  provinces and territories to ensure the safe and consistent delivery of MAID.  We have taken on a leadership and coordinating role by working closely with  provincial and territorial colleagues, including by supporting health care  professionals in interpreting and applying the expansion of eligibility and  additional safeguards introduced in
+Bill  C-7: An Act to amend the Criminal Code (medical assistance in dying)
+.
+Through this ongoing collaboration, we continue to  advance core principles of safety, accessibility, and the protection of persons  who may be vulnerable, throughout the MAID system.
+On May 13, 2022, the
+final report
+of the
+Expert  Panel on MAID and Mental Illness
+was tabled in Parliament. The Panel undertook  an independent review respecting recommended protocols, guidance, and  safeguards to apply to MAID requests by persons who have a mental illness. The  report included 19 recommendations in relation to the assessment of requests  for MAID in the context of mental disorder and other complex MAID requests.
+On February 15, 2023, the
+Special  Joint Committee on Medical Assistance in Dying
+released their
+final report
+.  In total, the committee held 36  meetings, heard from close to 150 witnesses, and received more than 350 briefs  and other correspondence. The
+Government Response
+to the 23 recommendations included in this  final report was tabled on June 15, 2023.
+On January 1, 2023, the amended
+Regulations for the Monitoring of Medical  Assistance in Dying
+came into force to enhance data collection  and reporting through the federal MAID monitoring system. The changes provide a  more comprehensive and inclusive picture of how MAID is being implemented in  Canada. Data collected under these amended regulations now includes, among  other things, information related to race, Indigenous identity, and disability  of those seeking MAID and will be reflected in the annual report on MAID in  Canada for the calendar year 2023, to be publicly released in 2024. This new  information will contribute to evidence-informed policy development as Canada’s  MAID regime continues to evolve.
+On March 9, 2023, the Minister of Justice and Attorney General of  Canada, the Minister of Mental Health and Addictions and Associate Minister of  Health, and Minister of Health tabled the former
+Bill C-39
+, An Act  to amend An Act to amend the Criminal Code (medical assistance in dying)
+.
+This legislation extends the temporary  exclusion of eligibility for MAID where a person’s sole medical condition is a  mental illness until March 17, 2024. This one-year extension provides the  Government of Canada, Provinces and Territories, and medical regulatory bodies  the additional time needed to prepare for the safe and consistent assessment  and provision of MAID where the person’s sole underlying medical condition is a  mental illness.
+The
+Model  Practice Standard for MAID
+, released on March 27,  2023, was developed  in response to the
+first  recommendation
+in the
+final  report
+of the
+Expert  Panel on MAID and Mental Illness
+. This new resource, distributed to  provincial and territorial governments, physician and nursing regulators and  health care providers will help clinicians align  their practice with clear guidance. The Practice Standard will also assist regulators  to ensure the protection of the public in the context of complex cases,  including where the person’s sole underlying medical condition is a mental  illness. In addition, Budget 2021 funding is being provided to the  Canadian Association of MAID Assessors and Providers (CAMAP) to develop and  implement a national, fully accredited MAID curriculum that will provide high  quality MAID training to health care practitioners across Canada, and which began  its rollout in Fall 2023.
+We recognize the importance of meaningful engagement and  ongoing dialogue with Indigenous Peoples to support culturally safe  implementation of MAID. Hearing from and working closely with community  members, Elders, Knowledge Keepers, Cultural Carriers, and Indigenous  Leadership at all levels of government is essential. Such engagement is key to  shaping the tools to educate and train healthcare providers in delivering  culturally safe care. In July 2023, the Government launched an engagement  initiative in collaboration with Indigenous Peoples on MAID. The engagement  will inform and shape evolving MAID policy through both Indigenous-led and  Health Canada-led engagement activities. In support of the latter, Health  Canada has invested over $900,000 in Indigenous organizations who are leading  initiatives to gather and mobilize the voices, viewpoints and lived experiences  of their community members on MAID.
+Medical assistance in dying (MAID)  is a complex and deeply personal issue. The Government of Canada is committed to  ensuring our laws reflect Canadians’ needs, protect those who may be  vulnerable, and support their autonomy and freedom of choice.
+The Honourable Mark Holland, P.C., M.P.
+Minister of Health
+Introduction
+Federal public reporting on Medical Assistance in Dying (MAID) continues to be critical to support transparency and foster public trust in the application of the law. The demand for consistent collection of information and public reporting also reflects the seriousness of MAID as an exception to the Criminal Code prohibitions against the intentional termination of a person's life and aiding a person to end their own life.
+This Fourth Annual Report on Medical Assistance in Dying presents data for the 2022 calendar year collected under the existing
+Regulations for the Monitoring of Medical Assistance in Dying
+. It builds upon the
+First
+,
+Second
+and
+Third Annual Report on Medical Assistance in Dying
+. With four full years of data collection now complete under the original regulations, results and trends provide even greater insight into the implementation of medical assistance in dying (MAID) in Canada, while presenting the second year of results in cases where the person's natural death was not reasonably foreseeable as permitted under the legislative amendments adopted by Parliament in March 2021.
+Reports from physicians, nurse practitioners, and pharmacists for written requests for MAID and MAID provisions across Canada are included in this report for the 2022 calendar year. This report follows a similar format to the three previous reports, beginning with history of the legislation and key changes in 2022, a review of the methodology and limitations of the data, followed by a summary of the key findings for 2022.
+Health Canada acknowledges the significant collaboration among federal, provincial, and territorial levels of government, as well as MAID practitioners and pharmacists, which has permitted the collection, validation and accuracy of the data and analysis contained in this report.
+1.0 The Evolution of Federal MAID Legislation
+1.1 Changes to the law for Medical Assistance in Dying
+On June 17, 2016, the Parliament of Canada passed the
+original federal legislation
+that allow eligible Canadian adults to request and receive medical assistance in dying. Since this original law, MAID legislation has continued to evolve as Canadians, practitioners and decision-makers become more familiar with MAID and its application over time.
+On March 17, 2021, the former
+Bill C-7, An Act to amend the Criminal Code (medical assistance in dying)
+, received Royal Assent and immediately came into force. This revised law, introduced in response to the Superior Court of Québec's 2019 Truchon decision
+Footnote
+1
+, in which it found the "reasonable foreseeability of natural death" eligibility criterion in the
+Criminal Code
+, as well as the "end-of-life" criterion from Québec's
+Act Respecting End-of-Life Care
+, to be unconstitutional. The law was also informed by broad consultations with the Canadian public, provinces and territories, Indigenous Peoples, health care providers, experts, and key stakeholders. It contained a number of changes to Canada's MAID framework, including: removal of the requirement for a person's natural death to be reasonably foreseeable in order to be eligible for MAID; introduction of a two-track approach to procedural safeguards based on whether or not a person's natural death is reasonably foreseeable; and permitting eligible persons whose natural death is reasonably foreseeable, who have a set date to receive MAID and who have been advised they are at risk of losing capacity in the interim, to waive the requirement for their final consent at the time MAID is provided.
+Table 1.1
+and
+Table 1.2
+below summarize the revised eligibility criteria and safeguards under the 2021 legislation.
+Table 1.1:
+An Act to amend the Criminal Code (medical assistance in dying)
+: Revised Eligibility Criteria
+Footnote
+2
+Eligibility Criteria
+Request MAID  voluntarily
+18 years of age  or older
+Capacity to  make health care decisions
+Must provide  informed consent
+Eligible for  publicly funded health care services in Canada
+Diagnosed with  a “grievous and irremediable medical condition,” where a person must meet all  of the following criteria:
+serious and incurable
+illness,  disease or disability
+advanced state of irreversible decline
+in capability,
+experiencing
+enduring  physical or psychological suffering
+that is caused by their illness,  disease or disability or by the advanced state of decline in capability, that  is intolerable to them and that cannot be relieved under conditions that they  consider acceptable
+Mental  Illness as sole underlying medical condition is excluded until March 17, 2024
+Footnote
+3
+The 2021 law excluded eligibility for persons whose sole underlying medical condition is a mental illness for a two-year period (until March 17, 2023).
+During the two-year period between March 17, 2021, and March 17, 2023, the Ministers of Justice and Health were required to initiate an independent expert review respecting recommended protocols, guidance and safeguards for MAID for persons suffering from mental illness. In August 2021, the federal Ministers of Health
+and Justice launched the
+Expert Panel on MAID and Mental Illness
+to undertake this review. The
+Final Report of the Expert Panel on MAID and Mental Illness
+, was tabled in Parliament by the Ministers on May 13, 2022.
+Table 1.2:
+An Act to amend the Criminal Code (medical assistance in dying)
+: Revised Safeguards
+Footnote
+4
+Natural Death is Reasonably Foreseeable
+An individual must make a written request that is  witnessed and signed by
+one
+independent witness (
+eased safeguard
+);
+A remunerated professional  personal or health care worker can be an independent witness (
+eased  safeguard
+);
+Two independent practitioners must confirm all  eligibility criteria are met;
+Person must be informed that they can withdraw their  request at any time, by any means;
+Immediately before MAID is provided, the person  must be given opportunity to withdraw consent, and must confirm consent to  receive MAID (
+unless they have a “waiver of final consent arrangement” also  referred to as an “advance consent arrangement” – described below)
+Provision for a person to waive the requirement to  provide final consent, through a written arrangement with their practitioner,  if they are at risk of losing capacity;
+Provision  for practitioners to assist an individual who has chosen self-administration,  in the event of complications with self-administration through a written  arrangement.
+Natural Death is Not Reasonably Foreseeable
+An individual must make a written request that is  witnessed and signed by
+one
+independent witness (
+eased safeguard
+);
+A remunerated professional  personal or health care worker can be an independent witness (
+eased  safeguard
+);
+Two independent practitioners must confirm all  eligibility criteria are met
+One of the two practitioners  assessing eligibility must have expertise in the condition that causes the  person’s suffering (
+new safeguard
+) and if not, must consult another  practitioner with that expertise;
+Minimum period of
+90 days
+for eligibility  assessments, which can be shortened if loss of capacity is imminent and  assessments are complete (
+new safeguard
+);
+Person must be informed of counselling, mental  health supports, disability supports, community services, and palliative care,  and be offered consultation with relevant professionals, as available and  applicable (
+clarification of informed consent
+);
+The person and both practitioners must have  discussed reasonable and available means to relieve the person’s suffering, and  agree that the person has seriously considered these means (
+clarification of  informed consent
+);
+Immediately  before MAID is provided, the person must be given opportunity to withdraw  consent, and must confirm consent to receive MAID.
+On December 15, 2022, Ministers of Justice and of Health and the Minister of Mental Health and Addictions and Associate Minister of Health announced the Government's intention to seek a temporary delay to the repeal of the sunset clause on the exclusion of MAID for persons with a mental illness as their sole underlying medical condition (MAID MI-SUMC). The purpose of the extension is to provide additional time for important initiatives that will aim to ensure MAID clinicians and health care systems across the country are ready to respond to requests for MAID in these circumstances in a safe and appropriate manner.
+On March 9, 2023, the Former
+Bill C-39, An Act to amend An Act to amend the Criminal Code (medical assistance in dying)
+received Royal Assent and immediately came into effect, postponing the eligibility date for persons suffering solely from a mental illness until March 17, 2024. This delay allows more time for dissemination and uptake of key resources by the medical and nursing communities.
+The Government, in collaboration with provinces and territories, and their medical communities have made important progress in preparing for the March 2024 deadline. Health Canada convened an expert Task Group which developed and released a
+Model Practice Standard for MAID
+on March 27, 2023. These standards will provide regulators and clinicians with guidance on MAID assessments for complex requests, including those that involve mental disorders. The intention is that medical and nursing regulators across Canada can draw upon these resources in the drafting and revising of their own standards to achieve a degree of harmony and consistency in MAID practice across the country. The Task Group also released an "Advice to the Profession" document that elaborates upon specific clinical issues raised by the Model MAID Practice Standard. In keeping with the Expert Panel's approach, the Government is focusing on supporting a system to address complex MAID cases broadly and not exclusively those where a mental illness is the sole underlying medical condition. The Government is also funding the development of an accredited Canadian MAID curriculum to support clinician education and training (discussed in
+Section 1.4
+).
+1.2 New Regulations and the Monitoring Regime
+The federal MAID monitoring system, which was established in 2018 through the
+Regulations for the Monitoring of Medical Assistance in Dying
+, provides a robust framework for the collection, analysis and reporting of information. On November 9, 2022, amendments to the
+Regulations for the Monitoring of Medical Assistance in Dying
+were published in Canada Gazette, Part II, and came into force on January 1, 2023. These amended regulations require physicians, nurse practitioners, preliminary assessors, pharmacists and pharmacy technicians to provide information related to requests for, and the provision of, medical assistance in dying. These regulatory amendments support Canada's MAID regime by enhancing data collection and reporting through the federal MAID monitoring system to provide a more comprehensive and inclusive picture of how MAID, with expanded eligibility, is being implemented in Canada.
+Table 1.3
+below summarizes the additional data that will be collected under the amended regulations.
+Practitioners began reporting the data under the amended regulations as of January 1, 2023. To support health care professionals
+in fulfilling their reporting responsibilities under the amended regulations, the
+Guidance on MAID Reporting Requirements
+was updated and published in December 2022 to assist practitioners, preliminary assessors and pharmacy professionals in meeting their reporting requirements. Information collected under these amended regulations will be reflected in the federal annual report on MAID in Canada for the calendar year 2023, to be publicly released in 2024.
+Table 1.3: Summary of new or modified reporting requirements under the amended
+Regulations for the Monitoring of Medical Assistance in Dying
+Modified  reporting requirements
+Expansion of reporting
+beyond physicians, nurse practitioners and pharmacists to include
+other health care professionals and pharmacy technicians
+;
+Potential reporting is no longer triggered by a “written request”, but by a
+verbal or written
+request that is followed by an assessment;
+Aligning the Regulations with
+revised procedural safeguards
+(i.e., reducing the requirement from two witnesses to one) introduced by the legislation;
+Collection of new data elements
+Procedural safeguards
+for persons whose natural death is not reasonably foreseeable;
+Application of the
+waiver of final consent
+for persons whose  natural death is reasonably foreseeable;
+Application of
+advanced consent
+related to practitioner administered MAID in the event of complications
+with self-administration
+;
+Additional data on
+disability support services
+and
+palliative care services
+received;
+Gender identity, race, Indigenous identity and disability
+of persons requesting MAID (if the person consents to providing this information);
+Usual place of residence and living arrangements
+of the person on the day on which the request for MAID was received;
+Length of time
+a person has had a serious and incurable illness, disease or disability;
+Data on the
+means used to ensure
+that the person seeking MAID
+understood the information
+that was provided to them and communicated their decision;
+Person’s
+previous request(s)
+for MAID, if applicable;
+Length
+of the MAID
+assessment process
+, in cases where MAID is provided to a person whose natural death is not reasonably foreseeable;
+Cases where the person has been found eligible to receive MAID, but the practitioner is unable to administer MAID due to
+procedural safeguards not being met
+Footnote
+5
+.
+1.3 Requirements of the Legislation
+As with the former
+Bill C-14
+, the 2021 legislation (the former
+Bill C-7
+) passed on March 17, 2021, reiterated the requirement that a comprehensive review of the provisions of the
+Criminal Code
+related to MAID and its application be undertaken. This review must address issues including, but not limited to, MAID for mature minors, advance requests for MAID, MAID and mental illness, the state of palliative care in Canada, as well as the protection of Canadians living with disabilities.
+The parliamentary
+Special Joint Committee on Medical Assistance in Dying
+was created and began meeting in 2021 before Parliament was prorogued. The Committee was reconstituted in April 2022. On June 22, 2022, the Special Joint Committee on Medical Assistance in Dying released an
+interim report
+on the question of MAID and mental illness, followed by the
+Government Response
+(tabled on October 20, 2022). The Special Joint Committee heard from various expert witnesses, including legal experts, palliative care providers, MAID practitioners, physicians, nurse practitioners, psychiatrists, and the chair of the independent Expert Panel on MAID and Mental Illness. On February 15, 2023, the parliamentary Special Joint Committee on Medical Assistance in Dying released its second and
+final report
+addressing their broader mandate. In total, the committee held 36 meetings and heard from close to 150 witnesses. It also received more than 350 briefs and other correspondence, demonstrating the level of engagement on this issue. The final report of the Special Joint Committee on MAID contained 23 recommendations. A
+government response
+to these recommendations was tabled on June 15, 2023.
+Given the unique considerations for MAID and mental illness, the former
+Bill C-7
+required the Ministers of Justice and Health to initiate an independent review of MAID and mental illness.
+In August 2021, federal Ministers of Health and Justice launched the
+Expert Panel on MAID and Mental Illness
+to undertake this review. The
+Final Report of the Expert Panel on MAID and Mental Illness
+, was tabled in Parliament by the Ministers on May 13, 2022. The report sets out 19 recommendations for establishing a MAID regime that addresses questions that may arise in some MAID requests, and particularly where the person requesting MAID has a natural death that is not reasonably foreseeable. The
+Expert Panel
+concluded that challenges in establishing irremediability, assessing decision-making capacity of a requester, distinguishing patients who are suicidal from those making a rational and sustained request for MAID, and addressing the impact of structural vulnerabilities, are not unique to MAID requests from persons with a mental disorder, nor applicable to every requester who has a mental disorder. For this reason, the Panel emphasized that its recommendations should apply to any MAID request where similar concerns may arise, not only where MAID is being requested on the basis of mental illness.
+The
+final report of the Expert Panel
+also concluded that no new safeguards are required in the legislation to ensure that requests for MAID from individuals with a mental disorder are handled safely and appropriately. However, it noted that practitioners should have additional guidance on how to operationalize the existing eligibility criteria and safeguards in the context of mental disorder and other complex MAID requests. The Panel's recommendations will support ongoing discussions regarding MAID policy and practice in the context of mental disorders and other challenging clinical circumstances. The Panel's Report was referred to the
+Special Joint Committee
+which produced
+interim
+and
+final
+reports as noted above. The
+government response
+, tabled on June 15, outlines how it is taking action or has plans in place regarding many of the recommendations outlined in the report, while highlighting the Government's commitment to prioritize individual well-being and safety, uphold relevant legal and ethical frameworks, and respect provincial and territorial jurisdiction
+Footnote
+6
+.
+1.4 Supporting Implementation of MAID across Canada
+Health is an area of shared responsibility of the federal and provincial/territorial governments. With respect to MAID, the federal government, through the provisions in the
+Criminal Code
+, sets out the framework for the lawful provision of MAID in Canada and maintains a monitoring regime to enable consistent national level reporting on its implementation. Provinces and territories are responsible for the management and delivery of health care services, including MAID. Regulatory bodies for medicine, nursing, and pharmacists in the provinces and territories are responsible for developing and enforcing professional standards, protocols, and guidelines which provide direction for health professionals in their jurisdictions.
+The assessment of MAID requests from individuals whose natural death is not reasonably foreseeable is generally more complex and require more time and attention to collect the necessary medical and treatment history, including opinions from other health professionals with expertise in the individuals' condition and potential available alternatives to MAID. To address these challenges and in keeping with the Expert Panel's approach, the Government is focusing on supporting a system to address complex MAID cases broadly, and not exclusively those where a mental illness is the sole underlying medical condition. To this end, Health Canada continues to support the Federal-Provincial-Territorial (FPT) Working Group on MAID, which serves as a valuable forum for discussion and inter-jurisdictional collaboration on MAID policy, delivery and means to address challenges of mutual interest.
+Since its inception in 2017, the Canadian Association of MAID Assessors and Providers (CAMAP) has been and continues to be an important venue for information sharing among health care professionals and other stakeholders involved in MAID
+. CAMAP has been integral in creating a MAID assessor/provider community of practice, hosts an annual conference to discuss emerging issues related to the delivery of MAID and has developed several guidance materials for health care professionals.
+Through Budget 2021 funding ($3.3 million), the Government is supporting CAMAP to develop a national, accredited MAID training curriculum for clinicians to facilitate the safe and consistent delivery of MAID. The curriculum comprises seven modules addressing several topics, such as MAID assessments and provision, MAID and mental disorders, capacity and vulnerability, and complex scenarios. All training modules will be available for clinician registration by the end of 2023.
+In September 2022, Health Canada convened an independent
+MAID Practice Standards Task Group
+, comprised of individuals with clinical, regulatory, and legal expertise. In collaboration with provincial and territorial governments, regulatory bodies, and clinicians across Canada, the Task Group developed a practice standard in
+response to the
+first recommendation
+in the
+final report
+of the
+Expert Panel on MAID and Mental Illness
+. The
+Model Practice Standard for MAID
+was released on March 27, 2023. The Model MAID Practice Standard includes content regarding issues such as the assessment of decision-making capacity, incurability, and irreversibility; voluntariness; and the responsibilities involved in forming an opinion about MAID eligibility. The Task Group also released an "
+Advice to the Profession
+" document that elaborates upon specific clinical questions raised by the Model MAID Practice Standard. The Model Practice Standard and accompanying documents will help clinicians align their practice with clear guidance and will assist regulators in the drafting and revising of their own standards in order to achieve a degree of harmony and consistency in MAID practice across the country.
+Budget 2021 also provided ongoing funding to support the implementation of MAID in a consistent and safe manner across provinces and territories. Funding was committed to advance research on the delivery of MAID services and facilitate the gathering of critical qualitative information, including greater insight into the circumstances and experiences of people who seek MAID. This research is intended to supplement the data collected through the federal monitoring system and will help to identify new trends and issues with MAID assessment and delivery across Canada, including the determination of systemic inequalities.
+Indigenous Peoples hold unique perspectives around end-of-life care, which need to be considered in the context of ensuring culturally safer access to MAID. In 2022, Health Canada continued to work with Indigenous partners to identify and support distinct priorities with respect to an engagement process at the federal level. Both Indigenous-led engagement and Health Canada-led engagement activities have begun, including a variety of dialogue sessions and an online public consultation with Indigenous Peoples. All the engagement activities will serve to inform a What We Heard Report (anticipated release in summer 2024) that aims to bring awareness to Indigenous perspectives on MAID and help support culturally safer MAID policies at all levels of government.
+2.0 Methodology and Limitations
+2.1 Data Collected under Federal Regulations
+In Canada, all practitioners who receive a written request for MAID and all pharmacists who dispense drugs for MAID report to Health Canada in one of two ways:
+directly to Health Canada via a secure web-based  collection portal (this applies to practitioners and pharmacists in  Newfoundland and Labrador, Prince Edward Island, Nova Scotia, New Brunswick,  Ontario (requests not resulting in a MAID death, as well as pharmacists),  Manitoba, and Yukon).
+through a designated provincial or territorial  body which in turn submits the data quarterly to Health Canada (this applies to  practitioners and pharmacists in Québec, Ontario (requests resulting in a MAID  death), Saskatchewan, Alberta, British Columbia, Northwest Territories, and  Nunavut).
+A strict verification and validation procedure is in place to ensure the quality, accuracy and completeness of the data. Results are presented whilst always respecting data confidentiality. Where possible and relevant, gender analysis is included.
+The 2022 annual report includes data collected under the original 2018 Regulations. Future annual reports (data from 2023 and onward) will include additional data elements required by the 2021 MAID legislation. Within the context of the 2018 regulations, in 2022, information on whether a person's natural death was or was not reasonably foreseeable was collected, and as such, this report includes a small, limited analysis of individuals whose natural death was not reasonably foreseeable within Section 4 of this report.
+2.2 Methodological Notes
+The presentation of the results for 2022 follow a similar format as the first three annual reports, along with year over year changes where applicable. This report also contains minor revisions to previous years' data, where new information was received or updated. Deeper examination of the data has permitted the analysis and presentation of new data under main condition and for the second year, additional information around MAID provisions for individuals whose natural death was not reasonably foreseeable and four-year trend analysis for several charts and tables.
+Provinces and territories were consulted during the preparation of the report to validate jurisdictional MAID totals and any new information presented. For all years, the number of MAID provisions are counted in the calendar year in which MAID was provided. For all other requests which did not result in MAID being provided (i.e., ineligibility, withdrawal of request, or individual died prior to MAID), the request is counted in the calendar year in which the request was received by the practitioner.
+Table 3.1
+(Number of reported MAID deaths in Canada) accounts for all MAID provisions reported to Health Canada under the Regulations, as noted in
+Section 2.1
+and including these additional data sources:
+data voluntarily provided by the provinces and  territories for 2016 to 2018,
+MAID provisions where the date of request was prior  to November 1, 2018
+Footnote
+7
+, and
+formal reports which have not yet been received  through the federal monitoring system but were voluntarily provided by  provinces/territories.
+Methodological differences are noted in the explanatory notes below the charts and tables, where applicable.
+2.3 Data Limitations
+Under the 2018
+Regulations for the Monitoring of Medical Assistance in Dying
+federal monitoring was based solely on written requests for MAID. This has resulted in some data gaps, as the current reporting system does not capture verbal requests, or requests received by a health care professional other than a nurse practitioner or physician, in cases where the request did not result in a MAID provision. This does not capture, for example, written requests initially received by a nurse working within a care coordination service, which were never forwarded to a physician or nurse practitioner due to an initial assessment of ineligibility. These gaps make the data related to the total number of requests an unreliable indicator of the overall interest in MAID across Canada. These gaps were addressed through the amended
+Regulations
+that come into force on January 1, 2023.
+As mentioned in
+Section 1.0
+, in addition to changes in eligibility criteria and procedural safeguards, the new
+legislation
+requires the collection of additional information related to disability, race and, Indigenous identity, in addition to data related to the new eligibility criterion and safeguards. Health Canada will report on this broader information in the Annual Report to be released in 2024, following a full year of data collection for the 2023 calendar year.
+3.0 MAID Provision in Canada
+3.1 Number of Reported MAID Deaths in Canada (2016 to 2022)
+2022 marks six and a half years of access to MAID in Canada. In 2022, there were 13,241 MAID provisions in Canada, bringing the total number of medically assisted deaths in Canada since 2016 to 44,958. In 2022, the total number of MAID provisions increased by 31.2% (2022 over 2021) compared to 32.6% (2021 over 2020). The annual growth rate in MAID provisions has been steady over the past six years, with an average growth rate of 31.1% from 2019 to 2022.
+Chart 3.1: Total MAID Deaths in Canada, 2016 to 2022
+EXPLANATORY NOTES:
+MAID cases are counted in the calendar year in which the death occurred (i.e., January 1 to December 31), and are not related to the date of receipt of the written request.
+For 2016 - Québec data begins December 10, 2015 when its provincial Act respecting end-of-life care came into force. Data for the rest of Canada begins June 17, 2016.
+Previous years’ reporting has been revised to include corrections and additional reports.
+This chart represents MAID deaths where a report was received by Health Canada by January 31, 2023 (13,102 deaths) as well as additional MAID deaths reported by the jurisdictions (139 deaths) where the report was not yet received by Health Canada, for a total of 13,241 MAID deaths in 2022.
+Cases of self-administered MAID and MAID provisions in cases where natural death was not reasonably foreseeable (463 cases) are included in this chart. They are not identified by year or jurisdiction in order to protect confidentiality.
+Chart 3.1 - Text equivalent
+This bar chart indicates the total number of reported MAID deaths for each year, from 2016 to 2022.
+Access to MAID for individuals whose deaths were not reasonably foreseeable marked its second year of eligibility in 2022. In Canada, eligibility for individuals whose death is not reasonably foreseeable began on March 17, 2021, after the passage of the new legislation.
+Footnote
+8
+There were 463 MAID provisions for persons whose natural death was not reasonably foreseeable, representing 3.5% of all MAID deaths in 2022. This is just over twice the total number of provisions for individuals where natural death was not reasonably foreseeable in 2021 (223 provisions representing 2.2% of all MAID provisions in 2021).
+Table 3.1
+represents total MAID provisions in Canada from 2016 to 2022, including provisions for individuals where natural death was not reasonably foreseeable.
+Self-administration of MAID is permitted in all jurisdictions in Canada, except for Québec. There were fewer than seven deaths from self-administered MAID in 2022 across Canada, a trend consistent with previous years.
+All jurisdictions, except Manitoba and Yukon, experienced growth in MAID provisions in 2022. The highest percentage year over year increases occurred in Québec (45.5%), Alberta (40.7%), Newfoundland and Labrador (38.5%), Ontario (26.8%) and British Columbia (23.9%). Nova Scotia (11.8%), Prince Edward Island (7.3%) and Saskatchewan (4.0%) had lower growth rates. The Yukon remained at the same level as 2021, while Manitoba was the only jurisdiction to experience a decline in MAID provisions for 2022 (-9.0%).
+3.2 MAID Deaths as a Proportion of Total Deaths in Canada
+MAID deaths accounted for 4.1% of all deaths in Canada in 2022, an increase from 3.3% in 2021, 2.5% in 2020 and 2.0% in 2019. In 2022, six jurisdictions continue to experience increases in the number of MAID provisions as a percentage of total deaths, ranging from a low of 1.5% (Newfoundland & Labrador) to a high of 6.6% (Québec). MAID deaths as a percentage of total deaths remained at the same levels as 2021 for Prince Edward Island, Nova Scotia, and Saskatchewan, while Manitoba experienced a decline in MAID deaths as a percentage of all deaths (from 2.1% in 2021 to 1.8% in 2022). As with each of the three previous years (2019 to 2021), Québec and British Columbia experienced the highest percentage of MAID deaths as a proportion of all deaths within their jurisdiction in 2022 (6.6% and 5.5% respectively), continuing to reflect the socio-political dynamics of these two jurisdictions in the context of MAID.
+Chart 3.2: Percentage of Total Deaths Attributed to MAID by Jurisdiction, 2019 - 2022
+EXPLANATORY NOTES:
+MAID cases are counted in the calendar year in which the death occurred (i.e., January 1 to December 31), and are not related to the date of receipt of the written request.
+This chart represents MAID deaths where a report was received by Health Canada by January 31, 2023 (13,102 deaths) as well as additional MAID deaths reported by the jurisdictions (139 deaths) where the report was not yet received by Health Canada, for a total of 13,241 MAID deaths in 2022.
+Cases of self-administered MAID and MAID provisions in cases where natural death was not reasonably foreseeable (463 cases) are included in this chart. They are not identified by year or jurisdiction in order to protect confidentiality.
+Given the small population size (and, hence, the small denominator), Yukon’s percentage is sensitive to small increases in case numbers and is therefore not included in this chart. Data for NT and NU is confidential.
+Source: Statistics Canada. Table 17-10-0006-01 Estimates of deaths, by age and sex, annual (2021/22, 2020/21).
+Statistics Canada. Table 13-10-0709-01 Deaths, by age group and sex (2019, 2020)
+Chart 3.2 - Text equivalent
+This line chart shows the percentage of total deaths attributed to MAID in each province in the past four years (2019, 2020, 2021, 2022) compared to the average percentage of MAID deaths in Canada in 2022.
+4.0 Profile of Persons Receiving MAID
+As outlined in
+Section 3.0
+, when all data sources are considered, there were 13,241 MAID provisions in Canada in 2022. This total is the sum of all MAID provisions reported by practitioners that were received by Health Canada by January 31, 2023 (13,102), plus 139 additional provisions (information provided by provinces and territories for provisions where a formal report had not yet been received by Health Canada).
+Sections 4.0
+through
+7.0
+as well as
+Appendix A
+provide an analysis on the detailed information based on the 13,102 reports on MAID provisions received for 2022 by January 31, 2023. These sections do not include data on the 139 additional provisions, as these reports were not yet received by Health Canada at the time this report was prepared. For some charts and tables, where relevant, data from previous years (2019 to 2021) is presented. Data from previous years may also contain small corrections and adjustments resulting in slightly different totals compared to previous annual reports.
+4.1 Underlying Medical Conditions of Those Receiving MAID
+The majority of persons receiving MAID in 2022 had cancer (63.0%) reported as a main underlying condition followed by cardiovascular conditions (18.8%), 'other condition' (14.9%), respiratory conditions (13.2%), and neurological conditions (12.6%). The findings are consistent with cancer and diseases of the heart being the top two leading causes of death in Canada
+Footnote
+9
+. These findings are similar to the results reported for 2019 to 2021 with the exception of 'other condition'. In 2021, 'other condition' was the fifth most reported underlying condition (11.5%) in contrast to being the third most reported condition in 2022 (14.9%).
+Chart 4.1A
+shows the breakdown of the main underlying condition by sex. Certain conditions had greater variation than others between males and females in 2022. A slightly higher percentage of males as compared to females had cancer (66.0% vs 59.8%) and organ failure (8.6% vs 7.7%) as the main underlying condition. On the other hand, a higher proportion of females were reported to have 'other conditions' (17.1% vs 12.8%) and multiple co-morbidities (12.0% vs 8.3%) as the main underlying condition. A breakdown of main condition by jurisdiction is found in
+Appendix A
+.
+Chart 4.1A: MAID by Main Condition, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Providers were able to select more than one medical condition when reporting; therefore, the total exceeds 100%.
+Chart 4.1A - Text equivalent
+This split-bar chart shows a comparison of the percentage of total deaths attributed to MAID for each main underlying medical condition between male and female recipients. A trend line is also displayed to show the average total representation of each main condition amongst MAID recipients in 2022.
+Patient diagnosed in 2018 with the adenocarcinoma and had palliative radiation and chemotherapy from that point on.  Patient initially completed the MAID request in 2019 and did well enough that it expired without use as he was doing well until recently when the palliative chemo has stopped working.  Now jaundiced, nauseated, in pain and unable to cope realizing that the tumors are progressing and there is no quality at this point.
+- Practitioner Report, 2022
+Chart 4.1B
+depicts the types of cancers most frequently reported by those receiving MAID (a person may be reported as having more than one type of cancer). The most common type of cancer reported for almost one quarter of individuals was lung cancer (24.3%), followed by colorectal cancer (11.8%), hematological cancer (8.6%), pancreatic cancer (8.0%), prostate cancer (7.2%) and breast cancer (6.8%). These results are similar to those reported in 2021. Further, these findings are consistent with lung cancer, followed by colorectal cancer as the most common cause of cancer deaths in Canada in 2022
+Footnote
+10
+.
+Chart 4.1B: MAID by Cancer Type, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Providers were able to select more than one cancer condition when reporting; therefore, the total exceeds 100%. The denominator in this chart represents the total number of individuals reporting a cancer condition as a main condition (8,251 individuals).
+Chart 4.1B - Text equivalent
+This bar chart indicates the percentage of total deaths attributed to MAID, by cancer type, for 2022.
+Cardiovascular conditions (18.8%) were the second most cited underlying condition for those receiving MAID in 2022, which is similar to the levels (18.7%) reported in 2021, but up from 13.8% in 2020. A slightly higher percentage of females (19.5%) as compared to males (18.2%) were reported to have cardiovascular conditions. The most frequently cited condition in this category was congestive heart failure (42%) with other common conditions being atrial fibrillation, vasculopathies and stroke.
+Respiratory conditions accounted as a main underlying condition in 13.2% of persons, with no difference between males and females in 2022. Some of the commonly cited respiratory conditions were chronic obstructive pulmonary disease, pulmonary fibrosis, and pneumonia.
+Neurological conditions were reported as a main underlying condition by 12.6% of individuals receiving MAID in 2022, similar to 12.4% in 2021, but up from 10.2% in 2020. The proportion of males (13.1%) with a neurological condition was slightly higher than females (12.1%) in 2022.
+Chart 4.1C
+depicts the most frequently reported neurological conditions, with Parkinson's disease (20.7%) being the most common, followed by amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease (18.5%), multiple sclerosis (11.3%), dementia (9.0%), spinal stenosis (8.1%), and supranuclear palsy (4.3%). The trend is slightly different than the results reported in 2021, where ALS was the most commonly reported condition (20.9%), followed by Parkinson's disease (18.0%). Dementia is a broad term for loss of memory, language, problem-solving and other thinking abilities that are severe enough to interfere with daily life
+Footnote
+11
+. For this report, the category of dementia includes the following reported conditions: Alzheimer's disease, vascular dementia, Lewy body dementia, frontotemporal dementia, mixed dementia, or simply, dementia. As stipulated by the legislation, unless a waiver of final consent arrangement was in place, practitioners must ensure that in these and all other MAID provisions, the person's MAID request was voluntary, and that the person provided informed consent immediately prior to the provision of MAID.
+Chart 4.1C: MAID by Neurological Condition, 2021-2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Providers were able to select more than one neurological condition when reporting; therefore, the total exceeds 100%. The denominator in this chart represents the total number of individuals reporting a neurological condition as a main condition (1,648 individuals)
+Data adjustments have resulted in the revision of 2021 results, which are presented here for comparison purposes with 2022 data.
+Dementia was included in “other neurological conditions’ in the 2021 Annual Report.
+Chart 4.1C - Text equivalent
+This double bar chart indicates the percentage of total deaths attributed to MAID, by neurological condition, for 2021 and 2022.
+Organ failure was reported for 8.2% of individuals receiving MAID in 2022, similar to the levels reported in 2021 (8.0%) and previous years. Slightly more males (8.6%), as compared to females (7.7%), had organ failure as an underlying condition in 2022. As in 2021, almost half (51.1%) of the individuals in this category had chronic kidney disease/kidney failure, 15.3% had cirrhosis/liver failure and 5.5% reported bowel obstruction.
+End stage renal failure and declined dialysis. Patient had met with palliative care but really no intervention as he wished for MAID as soon as possible. Assessments and consents completed. No concerns regarding capacity. Procedure completed at patient’s home with family present.
+- Practitioner Report, 2022
+A summary of the various other underlying conditions contributing to the main condition of the persons receiving MAID, apart from the five main health conditions discussed above, are presented in
+Chart 4.1D
+. For this purpose, conditions listed in the 'other condition' and 'multiple co-morbidities' category in
+Chart 4.1A
+were consolidated, as there were many common conditions listed across both these categories. A total of 22.6% individuals were reported as having an 'other condition' or 'multiple comorbidities'. As a practitioner can report in more than one of these two categories, this is a slightly smaller percentage than the sum of 'other condition' (14.9%) and 'multiple comorbidities' (10.1%) reported in
+Chart 4.1A
+. As reported by the practitioners, of those having these conditions, a quarter of the individuals had frailty (25.0%). Other common conditions were diabetes (11.9%), chronic pain (8.0%) and autoimmune conditions (5.0%). A number of individuals had osteoarthritis, osteoporosis, fractures, vision and hearing loss, dysphagia and frequent falls. These results are presented in
+Chart 4.1D
+.
+Chart 4.1D MAID by Other Condition / Multiple Comorbidities, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Providers were able to select more than one ‘other’ condition when reporting; therefore, the total exceeds 100%.
+The denominator in this chart represents individuals with a condition reported under ‘other condition’ and ‘multiple co-morbidities’ (2,964 individuals). For this chart, these two categories were consolidated, as there were many common conditions listed across both these categories.
+Chart 4.1D - Text equivalent
+This pie chart indicates the distribution of various other underlying conditions contributing to the main condition of the person receiving MAID in 2022 reported under the ‘other condition’ and ‘multiple co-morbidity’ categories.
+An individual requesting MAID may have more than one underlying main condition (practitioners are able to select more than one condition when reporting).
+A quarter of individuals (25.6%) receiving MAID in 2022 had two or more underlying main conditions, which is consistent with levels reported in 2021 (23.7%).
+Slightly more females (26.7%) as compared to males (24.6%) had 2 or more reported underlying main conditions.
+Chart 4.1E
+represents a breakdown of the main underlying condition by age. Cancer and neurological conditions were reported more frequently in younger individuals receiving MAID with proportions gradually decreasing with age whereas all other conditions followed an opposite trend with the number of individuals reported with these conditions gradually increased with age.
+Chart 4.1E: Main Condition by Age Category, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Providers were able to select more than one medical condition when reporting; therefore, the total within each age category exceeds 100%.
+The denominator for ‘Comorbidity / Other’ in this chart represents individuals with a condition reported under ‘other condition’ and ‘multiple co-morbidities’. For this chart, these two categories were consolidated, as there were many common conditions listed across both these categories.
+Chart 4.1E - Text equivalent
+This line chart indicates the percentage of individuals with different underlying main conditions across different age groups.
+A total of 72.1% of individuals between the ages of 18-75 had cancer reported as a main condition. This gradually decreased to 34.1% of individuals at age 91+. Similarly, 18.5% individuals had a reported neurological condition until the age of 55 as a main underlying condition, with proportions falling to half of that (9.2%) at age of 91+. On the other hand, cardiovascular conditions were a main underlying condition in 7.4% of individuals until the age of 70. This almost triples to 21.0% by age 85 and more than doubles to reach 44.7% by age 91+. At the age of 91+, cardiovascular conditions overtake cancer as the most frequently reported main underlying condition. Respiratory conditions were cited in a small percentage (1.2%) of individuals in the age range 18-45, but gradually reached 15.0% of individuals ages 71+ as a main underlying condition. Organ failure as a main underlying condition also increased from 5.2% for ages 18-45 to reach 12.0% by age group 91+.
+The distribution of the main condition across the various age groups was also compared between males and females. No differences were observed between the proportions of males and females reporting respiratory, cardiovascular and organ failure as a main underlying condition across the various age groups. The difference in the proportion of males and females reporting cancer and 'other conditions' was less among younger age groups but gradually increased with age. Cancer was reported in a higher proportion of males (51.8%) as compared to females (37.7%) for ages 86+, whereas females (45.4%) constituted a much higher proportion of those having 'other conditions' or 'multiple co-morbidities' as compared to males (32.3%) at this same age.
+4.2 Gender, Average Age and Age Range of Individuals Who Received MAID
+Overall, slightly more males (51.4%) as compared to females (48.6%) received MAID across Canada in 2022. The result is consistent with the findings of previous years, 2021 (52.3% males vs 47.7% females), 2020 (51.9% males vs 48.1% females) and 2019 (50.9% males vs 49.1% females). A similar trend was observed across all Canadian jurisdictions and is found in Appendix A.
+The average age of MAID recipients in 2022 was 77.0 years. The average age has been increasing slightly with each subsequent year, from 75.2 in 2019, 75.3 in 2020 and 76.3 in 2021. The average age of females (77.9) receiving MAID was higher than males (76.1) in 2022. These findings are similar to the results reported for 2021. Across jurisdictions, the average age ranged from a low of 72.6 in Prince Edward Island to a high of 78.2 in British Columbia. The average age for the three jurisdictions contributing to over 85% of the MAID provisions in Canada during 2022 were higher, with 76.3 years in Québec, 77.7 in Ontario and 78.2 in British Columbia, contributing to the higher national average. Average age by jurisdiction is found in
+Appendix A
+.
+Chart 4.2
+depicts the proportion of individuals receiving MAID across the various age groups. In 2022, the greatest proportion of those receiving MAID were in the age group 71-75 years and 76-80 years (15.7% in both), followed by 81-85 years (14.5%). The results are similar to the findings in 2021, with the highest proportion in the age group 76-80 years (16.3%) followed by 71-75 years (15.8%). Further, similar to the trend reported in the three previous years, 95.5% of individuals receiving MAID in 2022 were age 56 and above, with 85% aged 65 and above. Only a small percentage of individuals receiving MAID were between 18-45 (1.3%) and 46-55 (3.2%). The legislation permits only those 18 and above to be eligible to receive MAID, hence there were no MAID provisions for anyone younger than 18. MAID by age range by jurisdiction is found in Appendix A.
+Chart 4.2: MAID by Age Category, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Chart 4.2 - Text equivalent
+This split-bar chart indicates the percentage of male and female receiving MAID in 2022 distributed across the different age groups. A trend line is also displayed to show the overall percentage of MAID recipients across the different age groups.
+Chart 4.2
+also shows the breakdown of MAID by males and females across the different age categories in 2022. The percentage of males versus females receiving MAID is quite similar between the ages of 18-64. More males received MAID between ages 65-85, with differences noted between the two genders at ages 65-70 (15.6% males vs 13.1% females), 71-75 (17.8% males vs 13.4% females) and 76-80 (16.8% males vs 14.6% females). During the later years of life, the trend reverses with more females receiving MAID. The greatest differential occurred in the age group 91+ with almost double the number of females as compared to males (15.7% vs 8.2%) receiving MAID. The overall trend is similar to results reported in 2021, with more males receiving MAID in the middle years, with the proportion of females increasing and exceeding the proportion of males as age increases (and consistent with the greater number of females living past the age of 90).
+4.3 Nature of Suffering of Those Who Received MAID
+In order to be eligible for MAID, an individual must experience intolerable physical or psychological suffering that is caused by their medical condition or their state of decline and that cannot be relieved under conditions that the individual finds acceptable. In 2022, the most commonly cited source of suffering by individuals requesting MAID was the loss of ability to engage in meaningful activities (86.3%), followed by loss of ability to perform activities of daily living (81.9%) and inadequate control of pain, or concern about controlling pain (59.2%).
+75-year-old admitted to the palliative care unit for intractable pain and increasing cough on squamous cell carcinoma of the lung.  His prognosis was a few days in my opinion. He felt pain especially when coughing and it was no longer acceptable for him to live like this. He became dyspneic at the slightest effort. He didn't want to go through the agony, didn't want palliative sedation, understood his illness very well, and had no influence from others in making his decision. His discomfort was getting worse day by day. His family supported him in his efforts.
+- Practitioner Report, 2022
+These results continue to mirror similar trends seen in the previous three years (2019 to 2021) where data show that the nature of suffering that leads a person to request MAID has remained consistent over the past four years.
+Chart 4.3
+outlines the full list of reasons cited by individuals under the nature of suffering.
+Chart 4.3: Nature of Suffering of Those Who Received MAID, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Providers were able to select more than one reason when reporting; therefore, the total exceeds 100%.
+Chart 4.3 - Text equivalent
+This bar chart indicates the different reasons that prompted person’s requests for MAID by percentage, from the most frequently cited reason to the least frequently cited reason.
+4.4 Palliative Care and Disability Support Services
+Palliative care is a holistic approach that treats a person with a serious illness. Palliative care includes care that addresses physical, social, psychological, and spiritual needs as well as emotional support. Palliative care may be delivered by a wide variety of care providers, including primary health care providers, disease specialists, palliative care specialists, and a person's unpaid caregivers.
+Footnote
+12
+I completed the second assessment and MAID procedure. Stage 4 pancreatic cancer, advanced state of decline and suffering. Essentially bed bound and totally dependant on nursing care. No concerns regarding confusion or capacity. Patient had been admitted to Palliative Care for two weeks but known to the Palliative Care service for some time as an outpatient. Procedure completed on the palliative care ward at the hospital.
+- Practitioner Report, 2022
+In 2022,
+MAID practitioners reported that the majority of MAID recipients (77.6%) had received palliative care, as reported in the three previous years. Of those who received palliative care, 49.9% received it for a month or more, similar to 2021. Of the MAID recipients who did not receive palliative care (19.6%), 87.5% were reported to have had access to these services. This result has been consistent from 2019 to 2022, suggesting that palliative care continues to remain both available and accessible to individuals who have received MAID. MAID recipients with a main condition of cancer were most frequently reported as receiving palliative care. New and expanded data being collected under the amended
+Regulations for the Monitoring of MAID
+(to be reported in 2024) will provide more information about the location where palliative care was received and the types of care, providing greater insight into palliative supports for MAID recipients.
+Disability is a complex phenomenon, reflecting an interaction between features of a person's body and mind and features of the society in which they live. Disability support services represent the broad range of health and community support services available to support an individual and may include, but are not limited to assistive technologies, adaptive equipment, rehabilitation services, personal care services and income supplements.
+In 2022, 36.8% of individuals who received MAID were reported by the MAID practitioner as having required disability support services, a decrease from 43.0% in 2021. For individuals requiring disability support services, the majority (89.5%) received these services. Of those, 39.8% received these services for 6 months or less, while 38.4% received services for six months or longer (with the duration unknown in 21.9% of reports). Of MAID recipients who were reported as needing disability support services, 4.1% did not receive them. Of individuals receiving MAID who were reported as needing disability support services and not receiving them (4.1%), 75.0% had access to these services. These results are similar to 2021. The use of disability support services amongst 2022 MAID recipients was more commonly reported in individuals with a neurological condition. New/expanded data collected under the amended Regulations will provide more information about disability support services, specifically the types of services received, and will be reported in 2024.
+Table 4.4
+summarizes the results of MAID recipients who received palliative care and disability support services for 2022.
+4.5 Profile of Persons Receiving MAID Whose Natural Death is not Reasonably Foreseeable
+2022 marks the second year that MAID for persons whose natural death is not reasonably foreseeable is permitted under the law if all other eligibility criteria are met (
+Table 1.1
+). New federal MAID legislation passed on March 17, 2021, created a two-track approach to procedural safeguards for MAID practitioners to follow, based on whether or not a person's natural death is reasonably foreseeable. This approach to safeguards ensures that sufficient time and expertise are spent assessing MAID requests from persons whose natural death is not reasonably foreseeable. New and enhanced safeguards (
+Table 1.2
+), including a minimum 90-day assessment period, seek to address the diverse source of suffering and vulnerability that could potentially lead a person who is not nearing death to ask for MAID and to identify alternatives to MAID that could reduce suffering.
+In 2022, 3.5% of MAID recipients (463 individuals) were assessed as not having a reasonably foreseeable natural death, up slightly from 2.2% (223 individuals) in 2021. As a percentage of all MAID deaths in Canada, MAID for individuals whose natural death is not reasonably foreseeable represents just 0.14% of all deaths in Canada in 2022 (compared to all MAID provisions, which represent 4.1% of all 2022 deaths in Canada). The proportion of MAID recipients whose natural death was not reasonably foreseeable continues to remain very small compared to the total number of MAID recipients.
+This population of individuals whose natural death was not reasonably foreseeable have a different medical profile than individuals whose death was reasonably foreseeable. As shown in
+Chart 4.5A
+, the main underlying medical condition reported in the population whose natural death was not reasonably foreseeable was neurological (50.0%), followed by 'other condition' (37.1%), and multiple comorbidities (23.5%). This differs from the main condition (as reported in
+Chart 4.1A
+) for all MAID recipients in 2022, where the majority of persons receiving MAID had cancer as a main underlying medical condition (63.0%), followed by cardiovascular conditions (18.8%) and other conditions (14.9%) (such as chronic pain, osteoarthritis, frailty, fibromyalgia, autoimmune conditions). These results are similar to 2021.
+Chart 4.5A: Main Condition, MAID, Natural Death Not Reasonably Foreseeable, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 463 MAID provisions for individuals whose natural death was not reasonably foreseeable from January 1, 2022 to December 31, 2022.
+Providers were able to select more than one medical condition when reporting; therefore, the total exceeds 100%.
+Chart 4.5A - Text equivalent
+This split-bar chart indicates the percentage of total MAID deaths for individuals whose natural death was not reasonably foreseeable in 2022 attributed to each main underlying medical condition between male and female recipients. Results are listed from most frequently cited to least frequently cited condition type. A trend line is also displayed to show the average total representation of each main condition amongst MAID recipients in 2022 whose natural death was not reasonably foreseeable.
+Similar proportions of males and females whose deaths were not naturally foreseeable were reported as having cardiovascular, respiratory, cancer and organ failure. In contrast, more males than females had neurological conditions (57.4% vs 44.7%) and more females than males had 'other conditions' (43.6% vs 27.9%) and multiple comorbidities (27.8% vs 17.4%).
+34.8% of individuals in this population received palliative care services (compared to 77.6% of overall MAID recipients). 53.8% of individuals for whom death was not naturally foreseeable required disability support services (compared to 36.8% of overall MAID recipients) and 92.8% received those disability support services (compared to 89.5% of overall MAID recipients). Greater use of disability support services versus palliative care services in this population is consistent with the differing nature of the main underlying condition for individuals in this track.
+There was a greater percentage of females than males (59.0% vs 41.0%) whose death was not naturally foreseeable in 2022 (compared to
+52.5% females vs 47.5% males in 2021
+). This contrasts with slightly more males than females (51.8% vs 48.2%) for MAID recipients in 2022 where death was foreseeable.
+The average age for MAID recipients whose natural death was not reasonably foreseeable in 2022 was 73.1, slightly higher than the average age of 70.1 in 2021, and lower than the average age of 77.0 for all MAID recipients in 2022.
+Chart 4.5B
+shows the breakdown of MAID provisions for those where natural death was reasonably foreseeable (n = 12,639) versus those where natural death was not reasonably foreseeable (n = 463) across the different age categories.
+The patient was suffering from multiple sclerosis for over 30 years with progressive weakness and chronic pain. Despite numerous adjustments to her medication by her treating team and the involvement of a social worker and an occupational therapist, the patient has still been considering assisted dying for a long time.  She has an incurable disease which has evolved, with physical deficits and moral suffering as well as loss of dignity in living in her condition. There is a loss of meaning in living like this. She understands her alternatives, her health problems, her approach is free from bias and very thoughtful. She remains fit throughout my evaluations.
+- Practitioner Report in circumstances where natural death was not reasonably foreseeable, 2022
+Of the MAID provisions for individuals where death was reasonably foreseeable, the majority were individuals ages 71 and older (71.1%) while only 28.9% were between ages 18-70. A similar trend was observed for individuals where natural death was
+not
+reasonably foreseeable which also showed a greater percentage of individuals who received MAID being 71 and older (58.5%) and a lower number of MAID provisions for individuals between 18-70 years (41.5%). Overall, however, MAID provisions for individuals whose death is
+not
+reasonably foreseeable tended to be in the younger age categories than those where natural death is foreseeable.
+Chart 4.5B: MAID by Age: Natural Death Reasonably Foreseeable Vs Not Reasonably Foreseeable, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths (463 cases where individuals natural death was not reasonably foreseeable and 12,639 cases where death was reasonably foreseeable).
+Chart 4.5B - Text equivalent
+This bar chart depicts the number of MAID recipients, where death was reasonably foreseeable and where death was not reasonably foreseeable distributed across different age groups.
+As required by the legislation, the minimum of 90 days must elapse between the start of the assessment process and the provision of MAID  for individuals whose natural death is not reasonably foreseeable. This period can be shortened if the individual is about to lose the capacity to make health care decisions, as long as both assessments have been completed. There is no minimum assessment period required for persons where natural death is reasonably foreseeable. It generally takes much longer for an individual whose natural death is not reasonably foreseeable to be assessed and receive MAID than an individual who is closer to a natural death.
+The assessment process for persons whose natural death is not reasonably foreseeable is also often more challenging due to the nature and complexity associated with medical conditions of this population and the unique circumstances of the person making the request. More consultation is often required, including seeking opinions from other health professionals with more specific knowledge about the individuals' condition. New and enhanced legislative safeguards for persons whose natural death is not reasonably foreseeable also require one of the two practitioners assessing eligibility to have expertise in the condition that is causing the person's suffering and if not, they must consult another practitioner with that expertise.
+Data for 2022 shows that, in addition to the mandatory written second opinion from another MAID assessor for all MAID provisions, practitioners also consulted with other health care professionals in 63.5% of MAID recipients whose natural deaths were not reasonably foreseeable. This is higher than for individuals where natural deaths were reasonably foreseeable, where practitioners obtained additional consultations in only 36.0% of these provisions.
+Other consulted health care professionals for individuals whose natural death was not reasonably foreseeable included primary care providers, social workers, psychiatrists, nurses, and neurologists.
+5.0 Delivery of MAID
+5.1 MAID Deaths by Setting
+In 2022,
+private residences continued to be the primary setting (39.5%) for the administration of MAID in Canada. This is down from 44.2% in 2021 and 47.6% in 2020, when precautions necessitated by the COVID-19 pandemic shifted provisions from institutional to home-based settings. The percentage of persons receiving MAID in hospitals in 2022 was 30.5%, slightly higher than 2021 (28.6%) but lower than 36.4% in 2019. Palliative care facilities were the setting for 20.8% of MAID provisions, up slightly from 19.6% in 2021, and similar to 2019. MAID provisions in residential care facilities were up slightly in 2022 (7.6%), while provisions in other settings (most commonly ambulatory settings or medical offices/clinics) remained steady at 1.5%. In the three jurisdictions with the highest number of MAID provisions (Québec, Ontario and British Columbia), Québec had more provisions in hospitals versus private residences (40.0% vs 30.0%), while Ontario and British Columbia tended to have more MAID provisions in private residences (48.1% and 43.8% respectively) than hospitals (21.8% and 26.1% respectively). In Québec, MAID drugs are dispensed from hospital versus community pharmacies, and this may influence the location of MAID. A breakdown by jurisdiction is found in
+Appendix A
+.
+Chart 5.1: MAID Deaths by Setting, 2019 to 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Hospital excludes palliative care bed/unit; palliative care facility includes hospital-based palliative care bed/unit or hospice; residential care facility includes long term care facility; private residence includes retirement homes; other includes ambulatory setting or medical office/clinic.
+2019, 2020 and 2021 data are presented here for comparison purposes with 2022 data.
+Previous years’ reporting has been revised to include corrections and additional reports.
+Chart 5.1 - Text equivalent
+This quadruple-bar chart shows a comparison of the  percentage of MAID deaths that occurred in each setting between 2019 and 2022.
+5.2 Geographic Location of MAID: Urban Vs. Rural Settings
+The location of the person receiving MAID is determined based on the postal code associated with their provincial/territorial healthcare card and is indicative of their place of residence. This location is not necessarily where MAID is provided, except for provisions that take place at an individual's residence.
+The geographical location is differentiated between urban settings and rural areas using the concept of "population centre". A population centre is defined by Statistics Canada as having a population of at least 1,000 and a population density of 400 persons or more per square kilometre, based on population counts from the current census. All areas outside population centres are classified as rural areas.
+The distribution of 2022 MAID recipients who lived in urban areas versus rural settings is roughly representative of the jurisdictions general pattern of population distribution based on the 2021 census (
+Chart 5.2
+). In general, the Atlantic provinces had higher numbers of MAID recipients living in rural areas, ranging from 34.1% in Newfoundland and Labrador to 46.4% in New Brunswick. The highest proportion of MAID recipients living in urban areas were from Québec (79.9%), Ontario (79.2%), Manitoba and Alberta (84.3% in both), and British Columbia (82.4%).
+Compared to 2021 results, the 2022 geographic location of MAID recipients has remained relatively consistent. Some jurisdictions had slightly fewer residents living in rural areas in 2022 versus 2021: Newfoundland (-11.0%), Manitoba (-3.6%) and Saskatchewan (-3.8%). According to the Statistics Canada 2021 census
+Footnote
+13
+, for most jurisdictions, population growth is higher in urban settings versus rural areas, and this could be having an impact on the MAID population in some jurisdictions. For example, the proportion of the total Canadian population living in rural areas decreased from 18.9% in 2011 to 17.8% in 2021. A breakdown of the geographic location of MAID recipients in 2022 by urban settings and rural areas by jurisdiction is found in
+Appendix A
+.
+Chart 5.2: MAID Deaths: Urban vs Rural, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Setting is derived via postal code analysis using the postal code associated with the individuals’ health card.
+Statistics Canada. Postal Code OM Conversion File Plus (PCCF+) Version 7C, Reference Guide. February 2020.
+% Urban  population:
+https://www12.statcan.gc.ca/census-recensement/2021/as-sa/98-200-x/2021002/98-200-x2021002-eng.cfm
+Chart 5.2 - Text equivalent
+This split-bar chart shows how the percentage of total deaths attributed to MAID in urban and rural settings, in each province compare to a trend line depicting the overall percentage of Canadians living in urban settings.
+5.3 Number of Unique MAID Practitioners and Frequency of Provision
+The total number of unique MAID practitioners (counted by the practitioner's unique license number) providing MAID during 2022 was 1,837. This is up 19.1% since 2021, when there were 1,542 unique MAID practitioners. 95.0% of all MAID practitioners were physicians, while 5.0% were nurse practitioners. As shown in Chart 5.3, the proportion of physicians to nurse practitioners providing MAID is virtually unchanged since 2019. However, as shown in Chart 5.4, nurse practitioners are providing an increasing share of MAID provisions. Physicians performed 90.6% of MAID procedures during 2022, while nurse practitioners performed 9.4% of MAID procedures, up from 8.4% in 2021 and from 7.0% in 2019. In 2022, nurse practitioners provided MAID in Newfoundland and Labrador, Nova Scotia, Ontario, Saskatchewan, Alberta, and British Columbia.
+On average, since 2019, the number of unique MAID practitioners has increased by 18.2% annually. During this same period, growth in MAID provisions has averaged 32.7% per year. This means that although the number of MAID practitioners increased each year, the growth rate of MAID is higher and therefore, the average number of procedures per practitioner is higher each year. In 2022, the average number of MAID procedures per practitioner was 7.2, compared to 6.5 (2021), 5.8 (2020) and 5.1 (2019).
+The number of MAID provisions per unique practitioner (frequency of provision) is shown in
+Chart 5.3
+. During 2022, 34.2% of practitioners completed only one procedure, whereas 47.5% completed between 2-9 procedures, and 18.3% completed 10 procedures or more. The number of practitioners completing more than one procedure per year was 65.8% in 2022, similar to 2021, but up from 59.5% in 2019.
+In addition to providing MAID, practitioners may also assess individuals who do not receive MAID but rather withdraw, are deemed ineligible, or died of another cause prior to MAID being provided. In 2022, an additional 314 practitioners reported assessing individuals in these other scenarios. This means that there was a total of 2,151 practitioners in 2022 who either provided MAID or who evaluated an individual who did not go on to receive MAID. Additional practitioners also play an important role in Canada's MAID system by providing the mandatory second written opinion but specific information about these practitioners is not collected through the federal MAID monitoring system. Practitioners involved in MAID have begun to specialize their practice, where some practitioners will only assess for MAID (i.e., not provide MAID), or will only accept MAID requests from persons whose natural death is reasonably foreseeable. This information is not collected through the federal MAID monitoring system.
+Chart 5.3: Unique MAID Practitioners in Canada and Frequency of Provision, 2019-2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths, including MAID provisions for individuals whose natural death was not reasonably foreseeable and cases of self administration.
+2019, 2020 and 2021 data are presented here for comparison purposes with 2022 data.
+Previous years’ reporting has been revised to include corrections and additional reports.
+Chart 5.3 - Text equivalent
+Two split-bar charts are presented side-by-side, indicating  the number of unique practitioners (physician and nurse practitioners) and  their frequency of MAID provisions from 2019-2022.
+5.4 Speciality of Practitioner Delivering MAID
+The type of practitioner providing MAID has remained similar over the last four years that detailed data has been collected under the regulations. The majority of MAID practitioners work within the specialties of family medicine (67.7% of provisions), palliative medicine (8.0% of provisions), nurse practitioners (9.4% of provisions), and anesthesiology (4.1% of provisions) comprising 89.2% of all MAID provisions. The other 10.8% of MAID provisions are provided by a range of other medical specialties, including: internal medicine (3.2%), critical care and emergency medicine (2.6%), oncology (1.2%), and other (3.8%) such as psychiatry, MAID specialists
+Footnote
+14
+, geriatric medicine, neurology, and respiratory medicine.
+Chart 5.4
+presents the speciality of the MAID provider for 2022. A breakdown by jurisdiction is found in
+Appendix A
+.
+In 2022, physicians provided 92.7% of the mandatory written second opinion, while 7.3% were provided by nurse practitioners.
+Chart 5.4: Specialty of MAID Practitioner, 2022
+EXPLANATORY NOTES:
+This  chart represents MAID deaths where the report was received by Health Canada by  January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Specialty of MAID provider:
+Palliative Medicine includes: Palliative Medicine and Family and Palliative Medicine;
+Internal Medicine includes: General Internal Medicine, Palliative care and Urology, Hospital Medicine, Gastroenterology and Endocrinology;
+Critical Care and Emergency Medicine includes: Emergency Medicine, Critical Care, Critical Care and Emergency Medicine;
+Psychiatry includes: Psychiatry, Geriatric Psychiatry;
+Other includes: MAID specialist, Neurology, Respiratory Medicine, Surgeon, Rehabilitation Medicine, Nephrology, Cardiology, Geriatric Medicine, Obstetrician and Otolaryngology
+This chart represents only the providers of MAID, and not assessors.
+Chart 5.4 - Text equivalent
+This pie chart indicates the percentage of MAID deaths  performed by physician speciality.
+6.0 Procedural Safeguards and Supplementary Data
+As discussed in
+Section 1.0
+and as outlined in the
+Criminal Code
+, to lawfully provide MAID, a practitioner must first ensure that a person is eligible, based on a series of stringent criteria and confirm with a second independent practitioner that they also have determined the person meets the eligibility requirements. This section discusses some of the eligibility and safeguard elements (outlined in
+Table 1.1
+and
+Table 1.2
+) including the source of the written request for MAID, determination of the individual's request as voluntary, consultation with other health care professionals, as well as information received from pharmacists. A reasonably foreseeable natural death is no longer an eligibility requirement for MAID, however, the practitioner must determine whether or not a person's natural death is reasonably foreseeable, to determine which set of safeguards the practitioner must apply prior to providing MAID. As of January 1, 2023, additional data is being collected about the eligibility criteria and safeguards that are applied all MAID applicants, with additional information required for individuals whose natural death is not reasonably foreseeable. This additional data will be reported in 2024.
+6.1 Source of the Written Request for MAID
+To be eligible for MAID, a person must make a voluntary request that is not made as a result of external pressure. MAID reporting includes identification of the origin of the MAID request. During 2022, 47.9% of requests were received by practitioners through provincial or regional health authority MAID coordination services. This was followed by requests received from the individual directly (29.7%), from another practitioner such as a physician or nurse practitioner (17.9%), and from a third party (4.5%). Third party includes sources such as a family member, nurse, social worker, a hospital, long-term care facility or other care service. These results are shown in
+Chart 6.1
+and are similar to previous years.
+Despite treatment for metastatic lung cancer, the patient had progressive weakness and loss of autonomy. She was no longer able to walk, and was bed bound and in wheelchair for mobility. The prognosis for recovery of her ability to walk was very poor, and she did not wish to live bed bound knowing she also had metastatic cancer. She had consulted with her husband, sister, and mother. Her mother and sister came from out of town to be with her in her last week and took turns staying with her at the hospital. She was unwavering in her request and had the full support of her family. She was at peace and calm with her decision.
+- Practitioner Report, 2022
+The origin of the request varies by jurisdiction. Some jurisdictions have set up province-wide or health authority-wide MAID care coordination systems to receive and triage MAID requests. Jurisdictions where the majority of requests originated from a care coordination service included Newfoundland and Labrador (72.3%), Nova Scotia (76.6%), Manitoba (84.3%), Alberta (80.8%) and British Columbia (70.4%). Prince Edward Island (51.1%), New Brunswick (52.7%) and Saskatchewan (60.6%) have more than half of their requests originating directly from individuals. Québec and Ontario, which have the most MAID provisions, receive MAID requests from all three sources: care coordination services, another practitioner and directly from the individual. These results are consistent with previous years. A breakdown by jurisdiction is found in
+Appendix A
+.
+Chart 6.1: Source of the Written Request, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Chart 6.1 - Text equivalent
+Two pie charts are presented side-by-side. The first one indicates the source of written request, and the second pie chart represents a breakdown of the origin of ‘Another third party’ requests.
+6.2 Determination of the Individual's Request as Voluntary
+A request for MAID must be made voluntarily and not as a result of any external pressure. As part of the assessment of this eligibility criterion, practitioners are required to specify how they formed their opinion that the individual's request was voluntary. Practitioners can form this opinion using multiple sources. Results for 2022 are consistent with results from 2019 to 2021. Practitioners have formed their opinion about the voluntariness of the request for MAID via consultation with the individual (99.6%), followed by consultation with family members or friends (64.3%), a review of medical records (50.7%), consultation with other health or social service professionals (42.3%), and had knowledge of the individual from prior consultations other than MAID (13.7%).
+The patient was absolutely constant in the expression of his wish to proceed to MAID. The form for consent in the event of incapacity was filled by me with his son present after the 2nd evaluation was completed. The next day the patient expressed a desire to move up the date of MAID provision due to increase of pain as well as decrease in quality of life and desire to proceed more rapidly. His prognosis was changed by his treating team to days. MAID was provided with both his son and daughter at bedside.
+- Practitioner Report, 2022
+Chart 6.2: Determination of the Individual's Request as Voluntary, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2021, this represents 13,102 MAID deaths.
+Practitioners were able to identify more than one method they used to arrive at this conclusion, therefore totals exceed 100%.
+Chart 6.2 - Text equivalent
+This funnel chart represents the basis on which the practitioner formed their opinion that the person’s request for MAID was voluntary and was not made as a result of external pressure.
+6.3 Consultation with Other Health Care Professionals
+Consultation with other health care professionals is a common medical practice and has often been undertaken by MAID practitioners during the assessment process. This practice is different from the requirement for a mandatory written second opinion. Consultation in this context is also different from the requirement in cases of individuals where natural death was not reasonably foreseeable for one of the two practitioners assessing eligibility to have expertise in the condition that causes the person's suffering and if not, to consult another practitioner with that expertise (as discussed in
+Section 4.5
+). During 2022, practitioners consulted with other health care professionals in 37.0% of MAID provisions. This represents a decrease from 41.4% in 2021 and 48.3% in 2019.
+The types of consultations with other health care professionals in 2022 were very similar to previous years, suggesting consistency in the type of information practitioners typically seek to inform their assessment of an individual for MAID. Nurses were the most consulted health care professionals (41.7%), followed by primary care providers (32.7%), social workers (24.7%), palliative care specialists (22.8%), and other physicians (19.6%). Other physicians included internal medicine physicians, neurologists, respirologists, and the main treating provider.
+Chart 6.3
+provides a list of health care professionals consulted as part of MAID assessments.
+Chart 6.3: Consultation with Other Health Care Professional, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Practitioners were able to select more than one option, therefore totals exceed 100%. The denominator in this chart reflects the total number of practitioners who consulted with other health professionals (for a total of 4,841 individuals receiving MAID).
+“Other physician” included consultations with a wide range of over 30 medical specialties, the most common being internal medicine, neurologists, respirologists, treating physicians and geriatricians.
+Examples of entries in “other consultation” included psychologists, speech pathologists, spiritual care, and bio/medical ethicists.
+Chart 6.3 - Text equivalent
+This bar chart represents the type of ‘other health professionals’ who were consulted by the practitioner during the assessment process.
+6.4 Information received From Pharmacists
+Pharmacists are required to report under the federal monitoring regime when a substance is dispensed for MAID. Pharmacist reports are matched to the corresponding practitioner report to ensure completeness of MAID reporting. The types of pharmacies that dispensed MAID drugs in 2022 has remained consistent with previous years. Each jurisdiction has different guidelines regarding the dispensing of these types of drugs. In Newfoundland and Labrador, Prince Edward Island, New Brunswick, Manitoba, and Saskatchewan, MAID drugs were dispensed exclusively by hospital pharmacies. In Québec, the majority of MAID drugs (97.8%) were dispensed by hospital pharmacies; with the remainder (2.2%) being dispensed by pharmacies located within long-term care residences. Nova Scotia, Ontario, Alberta, and British Columbia allow dispensing of MAID drugs by both community and hospital pharmacies. In addition, Ontario practitioners also access MAID drugs from a small number of speciality pharmacies (15.8%). Dispensing through community pharmacies is more likely when MAID is delivered in a private residence, such an in Ontario and British Columbia.
+Chart 6.4: Dispensing of MAID Drugs by Pharmacy Type, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths.
+Chart 6.4 - Text equivalent
+This split-bar chart shows a comparison of the percentage of MAID drugs dispensed in each province, by pharmacy type.
+7.0 Requests That Do Not Result in a MAID Death
+7.1 Number of Requests and Outcomes
+There were 16,104 written requests for MAID in 2022. This represents an increase of 26.5% over the number of written requests in 2021. Written requests for MAID have grown by an average of 28.2% per year between 2020 and 2022. Federal monitoring through the original MAID monitoring regulations for the period November 1, 2018, to December 31, 2022, is based solely on the reporting of written requests.
+It does not capture verbal requests, or requests received by a health care professional other than a nurse practitioner or physician, in cases where the request did not result in a MAID provision.
+Table 7.1
+outlines requests for MAID and associated outcomes by jurisdiction for 2022. During 2022, most written requests (13,102 or 81.4%) resulted in the administration of MAID. The remaining 18.6% resulted in an outcome other than MAID: 560 individuals were deemed ineligible (3.5% of written requests); 298 individuals withdrew their request (1.9% of written requests); and 2,144 individuals died prior to receiving MAID (13.3% of written requests).
+In general, results by jurisdictions are similar, although it is difficult to draw conclusions about jurisdictional variations due to differences in approaches to receiving and tracking requests. Some western jurisdictions such as Manitoba, Saskatchewan and Alberta do show a slightly lower overall percentage of MAID provisions as a proportion of total requests compared to other jurisdictions. This may be due to more MAID requests, which do not end up in MAID provision, being recorded and reported within provincial care coordination systems.
+Chart 7.1
+presents requests and outcomes for 2019 to 2022. The percentage of requests resulting in the administration of MAID continues to increase year over year as a proportion of total written requests. In 2022, 81.4% of total written requests resulted in the administration of MAID, up from 78.9% in 2021, 77.0% in 2020 and a low of 71.4% in 2019. Conversely, requests not resulting in MAID have trended consistently in the opposite direction. In 2022, 18.6% of requests resulted in outcomes other than MAID provision, compared to 21.1% in 2021, 23% in 2020 and 28.6% in 2019.
+Data for 2022 shows that 83.0% of requests where the individual's death was reasonably foreseeable were approved for MAID, compared to 64.0% of requests from individual’s whose death was not reasonably foreseeable. Generally, assessments of MAID requests where the person's natural death is not reasonably foreseeable are complex and can be more challenging to determine eligibility. Early indications show that the proportion of approvals for MAID where death is not naturally foreseeable are lower than when the person's death is reasonably foreseeable.
+Chart 7.1: Requests and Outcomes, 2019-2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 13,102 MAID deaths and an overall total of 16,104 written requests.
+It is acknowledged that jurisdictions may report different numbers of total requests and outcomes for the various scenarios (ineligible, withdrawal, or individual died) based on their own methodology for receiving and counting requests.
+Refer to Data Limitations (Section 2.3) for an explanation of why referrals are not included in this table.
+MAID cases are counted in the calendar year in which the death occurred (i.e., January 1 to December 31), and are not related to the date of receipt of the written request. All other requests are counted in the year in which they are received.
+2019, 2020, and 2021 data is presented here for comparison purposes with 2022 data. Previous years’ reporting has been revised to include corrections and additional reports.
+Chart 7.1 - Text equivalent
+This quadruple-bar chart shows a comparison of the percentage of MAID requests attributed to each outcome type, for the years 2019 – 2022.
+Provision of MAID in Canada has been permitted since June 17, 2016. Amendments to the law since this time have often triggered mainstream media attention as a topic of discussion and debate. Over the last six and a half years, individuals have become more aware of MAID as an end-of-life option and are more familiar with MAID eligibility requirements prior to proceeding with a written request. The net result of this increased awareness may be an overall greater percentage of requests resulting in a MAID provision and less ending in other outcomes (withdrawal, ineligible and patient died prior to provision).
+The percentage of cases where the individual died of a cause other than MAID represented 13.3% of total requests in 2022, down from 16.9% in 2019. Various factors may have influenced this gradual decline over the four-year period. Greater awareness of MAID in general may result in requests being submitted sooner than in previous years, allowing sufficient time for assessment and provision. In March 2021, the law repealed the requirement for a 10 clear day reflection period for individuals with a reasonably foreseeable natural death, allowing individuals and providers to proceed with a MAID provision once assessments are completed. In addition, individuals whose natural death is reasonably foreseeable are now permitted to have a waiver of final consent arrangement in place, allowing provision to take place even if the individual has lost the capacity to give the final consent, as long as specific requirements have been met.
+The overall percentages of written requests that end in a determination of ineligibility or the request is withdrawn are lower compared to other outcomes. Individuals who have been deemed ineligible have declined between 2019 and 2022, from 3.5% of total written requests in 2022, down from 8.0% in 2019. Fewer individuals withdrew their request (1.9%) in 2022, down from 3.7% in 2019. As with requests resulting in a MAID provision, greater awareness and comfort with MAID as an end-of-life option as well as greater familiarity with eligibility requirements may be influencing this downward trend.
+7.2 Ineligibility
+The overall percentage of written requests ending in an assessment of ineligibility has been on a steady decline since 2019. In 2022, 560 individuals were deemed ineligible for MAID, representing 3.5% of all written requests. As discussed in Section 7.1, this number is likely underrepresented as, under the original Regulations, only written requests received by a physician or nurse practitioner were reported from 2019 to 2022.
+A MAID request is reported as 'ineligible' if a practitioner has determined that the person does not meet at least one of the eligibility criteria, without necessarily having assessed all the criteria.
+Of the 560 ineligible MAID requests in 2022, 50.5% (283 individuals) were reported to have a reasonably foreseeable natural death, 36.4% (204 individuals) were persons with natural death not reasonably foreseeable, and 13.1% (73 individuals) were undetermined at the time of assessment. The main reasons for a finding of ineligibility were  different when comparing individuals whose natural death was reasonably foreseeable or not reasonably foreseeable. During 2022, for individuals whose natural death was reasonably foreseeable the main reasons for a finding of ineligibility were due to a lack of patient capacity (41.3%), followed by not providing informed consent (23.7%) and not experiencing intolerable suffering (19.4%). For individuals whose natural death was not reasonably foreseeable, the main reasons for a finding of ineligibility included not having a serious illness, disease, or disability (54.4%), not being in an advanced state of decline (54.0%) and not experiencing intolerable suffering (45.1%). These differences are shown in
+Chart 7.2
+.
+Slightly more females (54.1%) were deemed ineligible in 2022, compared to 45.9% of males. The average age of those found ineligible was 77.8 in 2022, and 94.5% of individuals were age 56 and older. This is similar to 2021 results. The main condition for 40.4% of ineligible individuals was cancer (compared to 48.3% in 2021 and 55.6% in 2020). This downward trend in cancer as the main condition of ineligible individuals is influenced by the fact that more than one-third of individuals ineligible for MAID in 2022 were individuals where death was not reasonably foreseeable. For these individuals, cancer is a less common reported main condition (only 8.2%).
+Chart 7.2: Reasons for Ineligibility, Natural Death Reasonably Foreseeable vs Not Reasonably Foreseeable, 2022
+EXPLANATORY NOTES:
+This chart represents MAID deaths where the report was received by Health Canada by January 31, 2023. For 2022, this represents 16,104 written MAID requests, including 560 individuals deemed ineligible for MAID. This chart combines MAID provisions for individuals where natural death was reasonably foreseeable (283) and for individuals natural death was not reasonably foreseeable  (204).
+Since practitioners could determine that an individual did not meet more than one of these criteria, the total ‘ineligible’ responses exceed 100%.
+Chart 7.2 - Text equivalent
+This line chart represents a comparison between the main reasons cited by the practitioner for the finding of ineligibility for individuals where natural death was reasonably foreseeable vs where natural death was not reasonably foreseeable.
+7.3 Individual Withdraws Their Request for MAID
+In 2022, 298 individuals withdrew their request for MAID, representing 1.9% of all requests, and down from 2.2% in 2021. Withdrawals as a percentage of total written requests, as shown in Table 7.1, have been steadily decreasing since 2019. Requests withdrawn by females (52.7%) were slightly higher than those withdrawn by males (47.3%) in 2022, the opposite of 2021 where sightly more males (55.8%) withdrew their request than females (44.2%). The average age of individuals who withdrew their request in 2022 was 76.7 with 94.3% over the age of 56. Similar to previous years, cancer was listed as the main underlying condition in 53.4% of withdrawn requests.
+Under the federal monitoring regime, practitioners may select more than one reason when reporting the withdrawal of an individual's request for MAID. In 2022, 75.9% of individuals indicated that they had changed their minds and 41.8% cited that palliative care measures were sufficient.
+Chart 7.3
+shows the reasons for the withdrawal of a MAID request from 2019 to 2022. Over this period, the individual changing their mind remains the primary reason for the withdrawal of a MAID request. Like previous years, only 46 or 15.6% of individuals withdrew their request immediately prior to the scheduled MAID provision in 2022. Other reasons for the withdrawal of requests remain similar year over year, although overall, the number of individuals withdrawing their request is small relative to the other outcomes, making these percentages sensitive to small changes.
+This patient withdrew his request after palliative measures were initiated and he found them to be sufficient.
+- Practitioner Report, 2022
+Chart 7.3:  Reason for Withdrawal of MAID Request, 2019 - 2022
+EXPLANATORY NOTES:
+This chart represents MAID data where the report was received by Health Canada by January 31, 2023. For 2022, this represents 16,104 written MAID requests including 298 cases where the individual withdrew their MAID request.
+Providers were able to select more than one reason for withdrawal; therefore, the total exceeds 100%.
+2019, 2020, and 2021 data is presented here for comparison purposes with 2022 data.  Previous years’ reporting has been revised to include corrections and additional reports.
+Chart 7.3 - Text equivalent
+This quadruple-bar chart indicates the reasons cited by the practitioners for withdrawal of a MAID request by an individual from 2019 to 2022.
+7.4 Individual Died of a Cause Other Than MAID
+In 2022, 2,144 individuals who requested MAID died of another cause. This represents 13.3% of the total written requests received in 2022, down from 14.8% in 2021. Individuals who died of another cause as a percentage of total written requests, as shown in
+Table 7.1
+, have been steadily decreasing since 2019. Individuals counted in this scenario may have been fully assessed and eligible for MAID or may have died prior to the completion of their assessment. Practitioners are required to report on the outcome of a written MAID request within 90 days, where the outcome is known.
+In 2022, 56.0% of individuals who died of another cause prior to receiving MAID were males, and 44.0% were females. The average age was 73.6 and 93.1% were age 56 or older. Most individuals who died prior to MAID had cancer (70.8%), followed by 10.7% with chronic respiratory condition, 10.5% with a cardio-vascular condition, and 6.7% with another serious condition. Palliative care was received by 78.1% of individuals who died prior to MAID. These results are similar to previous years.
+For 2022, where the date of death was known (in 92.8% of individuals who died of another cause), 48.6% died within 10 days or less after their written request was received. This result is down nearly 5% from 2021 (53.4%) and from 59.1% in 2019. As discussed in
+Section 7.1
+, the law repealed the 10-clear day reflection period in March 2021, allowing individuals and providers to proceed with a MAID  provision once eligibility is determined. This, combined with the ability of individuals (since March 2021) with a reasonably foreseeable natural death to waive their final consent through a written arrangement, may be influencing this downward trend in the percentage of individuals dying in 10 or less days after a written request for MAID.
+Patient died peacefully under palliative care measures at our local hospital.  The second physician came to complete the second assessment and the patient's condition had already deteriorated (unable to provide consent or communicate wishes due to weakness/decreased level of consciousness) and subsequently passed away peacefully soon thereafter.
+- Practitioner Report, 2022
+The number of individuals who died between 11 and 30 days after the written request was received was 24.9% (similar to 2021 at 25.0%), while 26.5% died more than 30 days after the written request was received (up from 21.6% in 2021). The median days to death from the date of the written request was 11 days, up from 9 days in 2021. It has been reported anecdotally that a therapeutic benefit can be derived simply by applying, and being found eligible for MAID, even if the individual does not go through with the procedure.
+Chart 7.4 Timing of Death Following Submission of the Written Request (Individual Died of Another Cause), 2019 – 2022
+EXPLANATORY NOTES:
+This chart represents MAID data where the report was received by Health Canada by January 31, 2023. For 2022, this represents 16,104 written MAID requests including 2,144 deaths prior to MAID.
+2019, 2020, and 2021 data is presented here for comparison purposes with 2022 data.  Previous years’ reporting has been revised to include corrections and additional reports.
+Chart 7.4 - Text equivalent
+This bar chart indicates (for individuals that died of a  cause other than MAID) the percentage of individuals that died less than 10  days, between 11 and 30 days, and more than 30 days following the submission of  their written request. A comparison of timing of death is presented over the  years from 2019 to 2022.
+8.0 Conclusion
+The year 2022 was an eventful year, with many significant developments and accomplishments to help to inform the evolution and practice of MAID moving forward.
+The
+Final Report of the Expert Panel on MAID and Mental Illness
+, was tabled in Parliament by the Ministers of Health and Justice on May 13, 2022. On June 22, 2022, the
+Special Joint Committee on Medical Assistance in Dying
+released an
+interim report
+on the question of MAID and mental illness. On February 15, 2023, the parliamentary Special Joint Committee released its second and
+final report
+. The extension passed by Former
+Bill C-39, An Act to amend An Act to amend the Criminal Code (medical assistance in dying)
+on March 9, 2023, to extend the period of ineligibility for MAID where the sole underlying medical condition is a mental illness (MAID MI-SUMC) to March 2024 will allow time to consider the final report of the Expert panel and its recommendations, as well as Special Joint Committee's final report. The delay will allow more time for dissemination and uptake of key resources by the medical and nursing communities.
+Important progress is being made with the release of the
+Model Practice Standard for MAID
+on March 27, 2023 to ensure consistent and safe practice across Canada. Health Canada is also funding the Canadian Association of MAID Assessors and Providers (CAMAP) to develop and implement a national, fully accredited Canadian MAID Curriculum that will provide high quality MAID training to health care practitioners across Canada. All training modules are expected to be available for clinician registration by the end of 2023.
+It is critical that evidence-informed decision making continue to be supported by high quality data and rigorous analysis
+. On November 9, 2022, amendments to the
+Regulations for the Monitoring of MAID
+were published in Canada Gazette, Part II, and came into force on January 1, 2023. These amended regulations will continue to build on the analysis in this report, as well as the first three Annual Reports on Medical Assistance in Dying. Enhancements to data collection and reporting through the federal MAID monitoring regime will provide a more comprehensive and inclusive picture of how MAID, with expanded eligibility, is being implemented in Canada. Information collected under these amended regulations will be reflected in the Fifth Annual Report on Medical Assistance in Dying in Canada for the calendar year 2023, to be publicly released in 2024.
+Appendix A: Profile of Medical Assistance in Dying by Jurisdiction January 1 to December 31, 2022
+Footnotes
+Footnote 1
+Truchon c. Procureur général du Canada
+Return to footnote
+1
+referrer
+Footnote 2
+See
+An Act to amend the Criminal Code (medical assistance in dying)
+for a full list of all eligibility criteria.
+Return to footnote
+2
+referrer
+Footnote 3
+This date was amended from March 17, 2023 by the former
+Bill C-39, An Act to amend An Act to amend the Criminal Code (medical assistance in dying)
+.
+Return to footnote
+3
+referrer
+Footnote 4
+See
+An Act to amend the Criminal Code (medical assistance in dying)
+for a full list of all safeguards.
+Return to footnote
+4
+referrer
+Footnote 5
+Refer to the
+Regulations for the Monitoring of Medical Assistance in Dying
+for a full description of the regulatory amendments.
+Return to footnote
+5
+referrer
+Footnote 6
+For further detail, see the
+Government Response to the Second Report of the Special Joint Committee on Medical Assistance in Dying
+.
+Return to footnote
+6
+referrer
+Footnote 7
+Data collection began when the
+Regulations for the Monitoring of Medical Assistance in Dying
+came into force on November 1, 2018. Written requests received prior to this date do not require the submission of a report to Health Canada.
+Return to footnote
+7
+referrer
+Footnote 8
+In Québec, MAID for individuals whose natural death was not reasonably foreseeable was permitted via court exemption beginning March 12, 2020. Québec recorded 15 provisions in 2020 where death was not reasonably foreseeable (included in Chart 3.1).
+Return to footnote
+8
+referrer
+Footnote 9
+Statistics Canada, Table 13-10-0394-01
+Return to footnote
+9
+referrer
+Footnote 10
+Statistics Canada, Table 13-10-0142-01
+and
+Projected estimates of cancer in Canada in 2022 | CMAJ
+Return to footnote
+10
+referrer
+Footnote 11
+https://www.alz.org/alzheimers-dementia/what-is-dementia
+Return to footnote
+11
+referrer
+Footnote 12
+Palliative care: Overview - Canada.ca
+and
+Access to Palliative Care in Canada
+(CIHI)
+Return to footnote
+12
+referrer
+Footnote 13
+Population growth in Canada's rural areas, 2016 to 2021 (statcan.gc.ca)
+Return to footnote
+13
+referrer
+Footnote 14
+While practicing MAID as a specialty is not officially recognized by medical certifying bodies in Canada, it is a type of specialty reported through the monitoring regime. For the purpose of this report, it may be considered a functional speciality when MAID is the primary focus of a practitioner's practice.
+Return to footnote
+14
+referrer
+Page details
+2023-10-26

@@ -1,0 +1,22 @@
+# Derived cumulative shares from the Quebec prognosis series.
+# 
+# The two unspecified buckets are handled explicitly rather than dropped:
+# eol_unspecified  - the Commission's own footnote describes these as prognoses
+# given as "a few days to a few months", or qualitative
+# ("sombre", "reserve"). Allocated to <= 6 months.
+# gt_1yr_not_eol   - ">1 year", ">18 months", ">=2 years", or unspecified where
+# the provider judged the person NOT to be at end of life.
+# Allocated to > 2 years.
+# gt_1yr_eol_judged- 2018-19 and 2019-20 only. Reported as ">1 year" but
+# footnoted that the Commission judged the person WAS at end
+# of life. Allocated to > 1 year (n=3 and n=2; immaterial).
+# Both allocations are stated on the page. The alternative (excluding them)
+# changes the > 6 month share in 2024-25 from 21.8% to 15.4%.
+period,total,n_le_2wk,n_le_1mo,n_le_3mo,n_le_6mo,n_le_1yr,n_le_2yr,pct_gt_6mo,pct_gt_1yr,pct_gt_2yr,pct_not_end_of_life
+2018-2019,1279,145,430,970,1230,1276,1279,3.83,0.23,0.0,0.0
+2019-2020,1774,270,641,1309,1684,1772,1774,5.07,0.11,0.0,0.0
+2020-2021,2426,385,916,1732,2254,2404,2404,7.09,0.91,0.91,0.91
+2021-2022,3663,463,1242,2373,3158,3439,3491,13.79,6.12,4.7,4.7
+2022-2023,5211,722,1604,3228,4373,4814,4943,16.08,7.62,5.14,5.14
+2023-2024,5717,824,1766,3474,4571,5229,5389,20.05,8.54,5.74,5.74
+2024-2025,6267,821,1801,3650,4898,5626,5828,21.84,10.23,7.0,7.0

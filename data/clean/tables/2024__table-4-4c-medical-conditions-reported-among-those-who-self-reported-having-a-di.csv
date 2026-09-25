@@ -1,0 +1,9 @@
+Medical condition,Track 1,,,,Track 2,,,
+Disability,,No disability,,Disability,,No disability,,
+Count,Percent (%),Count,Percent (%),Count,Percent (%),Count,Percent (%),
+Cancer,"2,296",47.3,"7,739",70.9,16,3.7,14,4.7
+Other,"2,240",46.1,"2,286",21.0,245,56.1,140,47.5
+Neurological,"1,111",22.9,789,7.2,234,53.5,144,48.8
+Respiratory,760,15.6,"1,390",12.7,35,8.0,37,12.5
+Cardiovascular,"1,178",24.2,"1,527",14.0,65,14.9,29,9.8
+"Footnote a Examples of ""other"" conditions include organ failure, diabetes, frailty, autoimmune conditions, chronic pain and mental disorders. Return to footnote a referrer",,,,,,,,

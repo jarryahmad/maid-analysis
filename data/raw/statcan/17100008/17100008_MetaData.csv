@@ -1,0 +1,85 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Estimates of the components of demographic growth, annual","17100008","051-0004","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000801",1,"CURRENT - a cube available to the public and that is current","Annual","1971-01-01","2025-01-01","2",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Components of population growth",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"1","Newfoundland and Labrador","[10]","2","1","",,
+"1","Prince Edward Island","[11]","3","1","",,
+"1","Nova Scotia","[12]","4","1","",,
+"1","New Brunswick","[13]","5","1","",,
+"1","Quebec","[24]","6","1","",,
+"1","Ontario","[35]","7","1","",,
+"1","Manitoba","[46]","8","1","",,
+"1","Saskatchewan","[47]","9","1","",,
+"1","Alberta","[48]","10","1","",,
+"1","British Columbia","[59]","11","1","",,
+"1","Yukon","[60]","12","1","",,
+"1","Northwest Territories including Nunavut","","13","1","",2,
+"1","Northwest Territories","[61]","14","1","",3,
+"1","Nunavut","[62]","15","1","",3,
+"2","Births","","1","","",4;17,
+"2","Deaths","","2","","",5;18,
+"2","Immigrants","","3","","",6,
+"2","Net emigration","","13","","",21;22,
+"2","Emigrants","","9","13","",13;20;22,
+"2","Returning emigrants","","10","13","",14;20;22,
+"2","Net temporary emigration","","11","13","",15;20;22,
+"2","Net non-permanent residents","","12","","",10;11;19,
+"2","Non-permanent residents, inflows","","14","12","",19;23,
+"2","Non-permanent residents, outflows","","15","12","",24,
+"2","Net interprovincial migration","","5","","",9,
+"2","Residual deviation","","8","","",12,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3231","Vital Statistics - Birth Database"
+"3233","Vital Statistics - Death Database"
+"3601","Quarterly Demographic Estimates"
+
+"Subject Code","Subject Name"
+"17","Population and demography"
+
+"Note ID",Note
+1,"Period from July 1 to June 30."
+2,"Data for Northwest Territories and Nunavut are presented separately from 1991/1992."
+3,"Prior to 1991/1992, only data for Northwest Territories and Nunavut combined are available."
+4,"The number of births is final up to 2023/2024, updated for 2024/2025, and preliminary for 2025/2026."
+5,"The number of deaths is final up to 2023/2024, updated for 2024/2025, and preliminary for 2025/2026."
+6,"The number of immigrants is final up to 2024/2025 and preliminary for 2025/2026."
+9,"The net interprovincial migration is final up to 2024/2025 and preliminary for 2025/2026."
+10,"A non-permanent resident refers to a person from another country with a usual place of residence in Canada and who has a work or study permit or who has claimed refugee status (asylum claimant, protected person or member of related groups). Family members living with work or study permit holders are also included unless these family members are already Canadian citizens, landed immigrants (permanent residents), or non-permanent residents themselves."
+11,"The net non-permanent residents is final up to 2022/2023, updated for 2023/2024 and 2024/2025, and preliminary for 2025/2026."
+12,"Residual deviation is obtained by linearly distributing the opposite value of the error of closure throughout the intercensal period. The error of closure is defined as the difference between the postcensal population estimate on Census Day and the population enumerated in that census adjusted for census net undercoverage and incompletely enumerated reserves and settlements. A positive residual deviation means that the postcensal population estimate on Census Day is less than the adjusted population enumerated in that census. A negative residual deviation means that the postcensal population estimate on Census Day is greater than the adjusted population enumerated in that census."
+13,"The number of emigrants is final up to 2023/2024, updated for 2024/2025 and preliminary for 2025/2026."
+14,"The number of returning emigrants is final up to 2023/2024, updated for 2024/2025 and preliminary for 2025/2026."
+15,"The net temporary emigrants is final up to 2015/2016."
+17,"Starting in January 2026, estimates of births are produced by the Centre for Demography, Statistics Canada (See Definitions, data sources and methods record number 3601). Before January 2026, data are from Vital Statistics – Birth and Death Databases, Statistics Canada (See Definitions, data sources and methods record number 3231). However, before January 2010, the final estimates included in this table may differ from vital statistics already released by Statistics Canada, due to the imputation of certain unknown values (province or territory). Births estimates may be adjusted to account for incomplete birth data."
+18,"Starting in January 2025, estimates of deaths are produced by the Centre for Demography, Statistics Canada (See Definitions, data sources and methods record number 3601), incorporating provisional deaths data from the Centre for Population Health Data. Before January 2025, data are from Vital Statistics – Birth and Death Databases, Statistics Canada (See Definitions, data sources and methods record number 3233). However, before January 2013, the estimates included in this table may differ from vital statistics already released by Statistics Canada, due to the imputation of certain unknown values (province or territory). Deaths estimates may be adjusted to account for incomplete death data."
+19,"These estimates of the net non-permanent residents (NPRs) are derived from estimates of the number of NPRs. The NPR estimates differ from the number of asylum claimants and temporary residents provided by Immigration, Refugees and Citizenship Canada (IRCC). Care should be taken to consider the differences in methods and reference dates when comparing data from IRCC with Statistics Canada demographic estimates. The two data sources are not fully comparable."
+20,"Please note that due to the methodology used for the estimates of emigrants and returning emigrants, the estimates for the most recent periods are expected to be identical or very similar."
+21,"Net emigration is obtained as follows: Emigrants - Returning emigrants. For estimates from 1991 to June 2016, net emigration is obtained as follows: Emigrants + Net temporary emigration - Returning emigrants."
+22,"The estimated numbers of emigrants and returning emigrants have been revised going back to July 2016. Before this date, short-term emigrants and short-term returning emigrants were included in the “net temporary emigration” component. After this date, they are included in the emigrant and returning emigrant components, using a slightly different methodology. Due to this change, the net temporary emigration component is no longer calculated from July 2016 onwards."
+23,"The number of people entering Canada to work, study or claim asylum status along with their family members who are not Canadian citizens or landed immigrants (permanent residents)."
+24,"The number of work and study permit holders leaving Canada, along with their family members who are not Canadian citizens or landed immigrants (permanent residents). This also includes permit holders as well as asylum claimants, protected persons and members of related groups staying in Canada who have been granted permanent resident status. In this case, these persons will be added to the immigration component. Asylum claimants, protected persons and members of related groups who have had their status revoked will be counted as an outflow."
+
+"Correction ID","Correction Date","Correction Note"

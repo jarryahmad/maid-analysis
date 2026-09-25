@@ -1,0 +1,26 @@
+# Physician-estimated life prognosis ("pronostic vital estime") of every person who
+# received MAID (AMM) in Quebec, by Commission reporting year (1 Apr - 31 Mar).
+# Source: Commission sur les soins de fin de vie, Rapports annuels d'activites,
+#   annex table "Pronostic vital" (Tableau C1/C3 depending on year).
+#   https://csfv.gouv.qc.ca/en/publications
+# Categories are MUTUALLY EXCLUSIVE; where the declaration gave a range, the Commission
+#   used the UPPER bound. So "le_3mo" means prognosis in (1 month, 3 months].
+# The declaration form does NOT record whether the prognosis was estimated at the time of
+#   request, of eligibility assessment, or of administration.
+# Schema changes:
+#   2018-19, 2019-20        : no "1 semaine" category (folded into le_2wk);
+#                             "Plus d'un an" footnoted as still judged end-of-life by the
+#                             Commission, so recorded here in gt_1yr_eol_judged.
+#   2018-19..2020-21        : unspecified bucket labelled "Evaluation approximative"
+#                             (days-to-months); later relabelled "Fin de vie". Same meaning.
+#   2021-22 onward          : "2 ans ou moins" and "Plus d'un an / Pas en fin de vie" added.
+#   2022-23 onward          : "1 semaine ou moins" split out of "2 semaines ou moins".
+# Empty cell = category did not exist in that year's form/report.
+period,source_file,le_1wk,le_2wk,le_1mo,le_3mo,le_6mo,le_1yr,le_2yr,eol_unspecified,gt_1yr_not_eol,gt_1yr_eol_judged,total
+2018-2019,csfv_rapport_activites_2018-2019.pdf,,145,285,540,160,46,,100,,3,1279
+2019-2020,csfv_rapport_activites_2019-2020.pdf,,270,371,668,220,88,,155,,2,1774
+2020-2021,csfv_rapport_activites_2020-2021.pdf,,385,531,816,287,150,,235,22,,2426
+2021-2022,csfv_rapport_activites_2021-2022.pdf,,463,779,1131,426,281,52,359,172,,3663
+2022-2023,rapport_annuel_dactivites_2022-2023.pdf,392,330,882,1624,619,441,129,526,268,,5211
+2023-2024,csfv_rapport_activites_2023-2024.pdf,431,393,942,1708,672,658,160,425,328,,5717
+2024-2025,csfv_rapport_activites_2024-2025.pdf,457,364,980,1849,773,728,202,475,439,,6267

@@ -1,0 +1,2628 @@
+ 
+ 
+ 
+  
+ 
+RAPPORT ANNUEL 
+D’ACTIVITÉS 
+ 
+Du 1er avril 2020 au 31 mars 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+RAPPORT ANNUEL 
+D’ACTIVITÉS 
+ 
+Du 1er avril 2020 au 31 mars 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le contenu de cette publication a été rédigé par la Commission sur les soins de fin de vie. 
+ 
+Commission sur les soins de fin de vie 
+2535, boulevard Laurier, 5e étage 
+Québec (Québec)  G1V 4M3 
+Téléphone : 418 204-2059 ou 1 844 200-2059 (sans frais) 
+Courriel : info@csfv.gouv.qc.ca 
+ 
+Dès son dépôt à l’Assemblée nationale du Québec par le ministre de la Santé et des Services 
+sociaux, ce document sera disponible en version électronique sur le site Web de l’Assemblée 
+nationale : www.assnat.qc.ca à la section Documents déposés. 
+ 
+Afin de faciliter la lecture d u texte, le genre masculin est utilisé sans aucune intention 
+discriminatoire. 
+ 
+ 
+ 
+ 
+Dépôt légal 
+Bibliothèque et Archives nationales du Québec, 2021 
+Bibliothèque et Archives Canada, 2021 
+ISBN 978-2-550-90351-2 (imprimé) 
+ISBN 978-2-550-90352-9 (PDF) 
+La reproduction totale ou partielle de ce document est autorisée à la condition que la source 
+soit mentionnée. 
+© Gouvernement du Québec, 2021 
+ 
+ 
+i 
+LETTRE DU MINISTRE AU PRÉSIDENT DE L’ASSEMBLÉE NATIONALE 
+Monsieur François Paradis 
+Président de l’Assemblée nationale du Québec 
+Hôtel du Parlement 
+Québec (Québec) 
+ 
+ 
+ 
+Monsieur le Président,  
+ 
+Conformément à la Loi concernant les soins de fin de vie, je dépose à l’Assemblée nationale le 
+rapport annuel d’activités de la Commission sur les soins de fin de vie, lequel fait état des activités 
+réalisées du 1er avril 2020 au 31 mars 2021. 
+ 
+La Commission sur les soins de fin de vie a pour mandat d’examiner toute question relative aux 
+soins de fin de vie, de surveiller l’application des exigences particulières concernant l’aide 
+médicale à mourir, de saisir le ministre de toute question liée à ces soins qui mérite l’attention ou 
+une action du gouvernement et de lui soumettre ses recommandations. 
+ 
+ 
+Le Ministre de la Santé et des Services sociaux, 
+ 
+ 
+Original signé 
+ 
+Christian Dubé 
+Québec, septembre 2021 
+ 
+ 
+ 
+ii 
+MOT DU PRÉSIDENT 
+Monsieur Christian Dubé 
+Ministre de la Santé et des Services sociaux 
+1075, chemin Sainte-Foy, 15e étage 
+Québec (Québec)  G1S 2M1 
+ 
+ 
+ 
+Monsieur le Ministre, 
+ 
+Instituée par l’Assemblée nationale du Québec, la Commission sur les soins de fin de vie a le 
+mandat d’examiner toute question relative aux soins de fin de vie et de surveiller l’application des 
+exigences particulières de l’aide médicale à mourir.  
+ 
+Par la présente, j’ai le plaisir de vous transmettre le rapport annuel d’activités de la Commis sion 
+couvrant la période du 1 er avril 2020 au 31 mars 2021. Ce rapport fait état  des données sur les 
+soins palliatifs et de fin de vie transmises par les établissements publics de santé et de services 
+sociaux et le Collège des médecins du Québec , de l’anal yse des données provenant des 
+formulaires de déclaration de l’administration de l’ aide médicale à mourir  transmis à la 
+Commission et des réalisations de la Commission. Le rapport montre notamment une croissance 
+importante du nombre d’aides médicales à mourir administrées. 
+ 
+En d’autres temps, ce rapport serait resté factuel sur les statistiques concernant les soins de fin 
+de vie. Toutefois, le retrait du critère de fin de vie comme condition  d’accessibilité à l’aide 
+médicale à mourir, les récents changements au Code Criminel ainsi que la confusion issue des 
+différences entre les lois provinciale et fédérale commandent une analyse critique des tendances 
+et amènent la Commission à émettre des recommandations au législateur.  
+ 
+Je vous prie d’agréer, Monsieur le Ministre, l’assurance de ma considération. 
+ 
+ 
+Le président, 
+ 
+ 
+Michel A. Bureau  
+
+ 
+iii 
+RÉSUMÉ 
+La Commission sur les soins de fin de vie  a pour mandat d’examiner toute question relative aux 
+soins de fin de vie  et de surveiller l’application des exigences particulières relatives à l’aide 
+médicale à mourir. Le présent rapport annuel de la Commission  fait état  de ses activités et 
+réalisations et présente les données dont elle dispose concernant les soins palliatifs et de fin de 
+vie pour la période du 1er avril 2020 au 31 mars 2021. 
+Aide médicale à mourir (AMM) 
+• Le nombre d’AMM administrées et la proportion de décès par AMM sont en augmentation 
+depuis l’entrée en vigueur de la Loi concernant les soins de fin de vie (LCSFV). 
+• 2 426 personnes ont reçu l’AMM entre le 1er avril 2020 et le 31 mars 2021 (3,3 % des décès). 
+o Elles étaient en majorité âgées de 60 ans et plus (91 %), atteintes de cancer (73 %), avaient 
+un pronostic de survie de 6 mois ou moins (83 %) et présentaient à la fois des souffrances 
+physiques et psychiques irrémédiables (93 %). 
+o Elles ont reçu l’AMM en centre hospitalier (48 %), à domicile (39 %), en CHSLD (8 %) et en 
+maison de soins palliatifs ( 5 %). Par rapport aux années précédentes, il y a eu davantage 
+d’AMM administrées à domicile et moins en centre hospitalier, notamment en raison des 
+mesures sanitaires imposées en établissement pendant la pandémie. 
+o L’AMM a été administrée en moyenne 19 jours après la demande officielle. 
+• La presque totalité des AMM a été administrée conformément aux exigences de la LCSFV (plus 
+de 99 %). 
+• Près des deux tiers des demandes d’AMM formulées ont été administrées (71 %).  
+• Les principaux motifs pour lesquels les personnes qui ont demandé l’AMM ne l’ont pas reçue 
+sont qu’elles ne répondaient pas  ou plus aux critères d’admissibilité prescrits par la LCSFV  
+(33 %), qu’elles sont décédées avant la fin de l’évaluation ou avant l’administration de l’AMM 
+(34 %) ou qu’elles ont retiré leur demande (17 %). 
+• 1 121 médecins ont participé à l’AMM; il s’agit d’une augmentation de 18 % comparativement 
+à 2019-2020 (87 % sont des omnipraticiens et 13 % sont des médecins spécialistes). 
+Soins palliatifs et de fin de vie (SPFV) et sédation palliative continue (SPC) 
+• 56 822 personnes étaient en SPFV entre le 1er avril 2020 et le 31 mars 2021. 
+o Elles ont bénéficié de SPFV à domicile (44 %), en centre hospitalier (35 %), en CHSLD (13 %) 
+et en maison de soins palliatifs (8 %). 
+o Les données indiquent une augmentation de la proportion des personnes en SPFV à 
+domicile et une diminution en centre hospitalier comparativement à l’année 2019-2020. 
+• 1 539 personnes ont reçu une SPC au cours de la présente période (2,2 % des décès) 
+Conclusion 
+La Commission constate que l’AMM est en demande croissante et occupe une place importante 
+dans les débats publics au Québec. Les récents changements législatifs et les conclusions 
+attendues de la Commission spéciale sur l’évolution de la LCSFV laissent entrevoir une révision en 
+profondeur de la loi actuelle en respect des volontés de fin de vie des Québécois.  
+ 
+iv 
+DÉCLARATION DE FIABILITÉ 
+L’information présentée dans le présent rapport relève de ma responsabilité. Celle-ci porte sur la 
+fiabilité des données, de l’information et des explications qui y sont présentées. 
+ 
+Les résultats et les renseignements du Rapport annuel d’activités de la Commission sur les soins 
+de fin de vie couvrent la période du 1er avril 2020 au 31 mars 2021. Le rapport :  
+• décrit le mandat, la composition, les modalités opérationnelles et les modalités de 
+fonctionnement de la Commission; 
+• présente les activités et réalisations de la Commission  et l es principaux constats  et 
+recommandations de la Commission. 
+ 
+À ma connaissance, cette information correspond  à la situation telle qu’ell e se présentait au 
+31 mars 2021 à la lumière des renseignements transmis à la Commission. 
+ 
+ 
+Le président, 
+ 
+ 
+Michel A. Bureau 
+  
+
+ 
+v 
+TABLE DES MATIÈRES 
+Lettre du ministre au président de l’Assemblée nationale ....................................................... i 
+Mot du président .................................................................................................................... ii 
+Résumé .................................................................................................................................. iii 
+Déclaration de fiabilité ........................................................................................................... iv 
+Table des matières .................................................................................................................. v 
+Liste des figures .................................................................................................................... vii 
+Liste des tableaux ................................................................................................................. viii 
+Liste des annexes ................................................................................................................... ix 
+Sigles et acronymes ................................................................................................................. x 
+Définitions .............................................................................................................................. xi 
+ COMMISSION SUR LES SOINS DE FIN DE VIE ...................................................................... 1 
+1.1. Valeurs .................................................................................................................................... 1 
+1.2. Mandat .................................................................................................................................... 1 
+1.3. Composition ............................................................................................................................ 2 
+1.4. Modalités opérationnelles ...................................................................................................... 3 
+1.5. Modalités de fonctionnement pour la vérification du respect des conditions relatives à 
+l’administration de l’aide médicale à mourir .......................................................................... 4 
+ ACTIVITÉS ET RÉALISATIONS PRINCIPALES ......................................................................... 6 
+2.1. Examen des formulaires de déclaration de l’administration d’une aide médicale à mourir .. 6 
+2.2. Pandémie de la COVID-19 ....................................................................................................... 7 
+2.3. Rapport des établissements publics de santé et de services sociaux et du Collège des 
+médecins du Québec .............................................................................................................. 7 
+2.4. Groupe de travail en collaboration avec le ministère de la Santé et des Services sociaux et le 
+Collège des médecins du Québec ........................................................................................... 7 
+2.5. Comparution devant le Comité permanent de la justice et des droits de la personne de la 
+Chambre des communes ........................................................................................................ 8 
+2.6. Demandes d’information des citoyens, du réseau de la santé et des  services sociaux et des 
+médias ..................................................................................................................................... 8 
+2.7. Rencontres avec divers groupes et personnes ....................................................................... 8 
+ DONNÉES DE LA COMMISSION SUR LES SOINS DE FIN DE VIE .......................................... 10 
+3.1. Décisions rendues ................................................................................................................. 10 
+3.2. Aides médicales à mourir administrées ................................................................................ 11 
+3.3. Profils émergents .................................................................................................................. 22 
+ DONNÉES DES ÉTABLISSEMENTS PUBLICS DE SANTÉ ET DE SERVICES SOCIAUX ET D U 
+COLLÈGE DES MÉDECINS DU QUÉBEC ................................................................................... 27 
+4.1. Soins palliatifs et de fin de vie .............................................................................................. 27 
+4.2. Sédation palliative continue ................................................................................................. 30 
+4.3. Aide médicale à mourir ......................................................................................................... 31 
+ 
+vi 
+ CONSTATS ET PRÉOCCUPATIONS ..................................................................................... 35 
+ PERSPECTIVES .................................................................................................................. 39 
+ CONCLUSION .................................................................................................................... 41 
+ ÉTATS FINANCIERS ........................................................................................................... 42 
+ 
+  
+ 
+vii 
+LISTE DES FIGURES 
+Figure 3.1 Résumé du traitement des formulaires de déclaration de l’administration d’une AMM ... 10 
+Figure 3.2 Nombre d’AMM administrées entre le 10 décembre 2015 et le 31 mars 2021 .................. 11 
+Figure 3.3 Nombre d’AMM administrées par mois .............................................................................. 12 
+Figure 3.4 Nombre d’AMM administrées selon la région sociosanitaire .............................................. 12 
+Figure 3.5 Proportion de décès par AMM entre le 10 décembre 2015 et le 31 mars 2021 ................. 13 
+Figure 3.6 Proportion de décès par AMM selon la région sociosanitaire ............................................. 14 
+Figure 3.7 Proportion de personnes qui ont reçu l’AMM selon le groupe d’âge .................................. 14 
+Figure 3.8 Proportion de personnes qui ont reçu l’AMM selon le diagnostic principal ....................... 15 
+Figure 3.9 Proportion de personnes qui ont reçu l’AMM selon le pronostic vital ................................ 16 
+Figure 3.10 Proportion de personnes qui ont reçu l’AMM selon le type de souffrance ...................... 16 
+Figure 3.11 Proportion de personnes selon le délai entre la demande et l’administration de l’AMM 18 
+Figure 3.12 Proportion de personnes qui ont reçu l’AMM selon le lieu de l’administration ............... 20 
+Figure 3.13 Proportion de personnes qui ont reçu l’AMM selon le groupe d’âge ............................... 25 
+Figure 4.1 Nombre déclaré de personnes en SPFV selon la région sociosanitaire ............................... 27 
+Figure 4.2 Proportion des personnes en SPFV selon le lieu de soins .................................................... 28 
+Figure 4.3 Proportion des personnes en SPFV selon le lieu de soins par région sociosanitaire ........... 29 
+Figure 4.4 Nombre déclaré de SPC administrées selon la région sociosanitaire .................................. 30 
+Figure 4.5 Proportion de décès après une SPC selon la région sociosanitaire ..................................... 31 
+Figure 4.6 Proportion des AMM administrées et des AMM non administrées par rapport au nombre de 
+demandes formulées ............................................................................................................................ 32 
+Figure 4.7 Proportion des AMM administrées et non administ rées par rapport au nombre de 
+demandes formulées selon la région sociosanitaire ............................................................................. 33 
+ 
+ 
+viii 
+LISTE DES TABLEAUX 
+Tableau 4.1 Nombre déclaré de demandes d’AMM formulées, d’AMM administrées et d’AMM non 
+administrées .......................................................................................................................................... 32 
+Tableau 4.2 Nombre de demandes d’AMM non administrées selon le motif déclaré dans les rapports 
+des établissements ................................................................................................................................ 34 
+Tableau B1 Caractéristiques des personnes qui ont reçu l’AMM ......................................................... 44 
+Tableau B2 Type de souffrance des personnes qui ont reçu l’AMM .................................................... 45 
+Tableau B3 Souffrances des personnes qui ont reçu l’AMM ................................................................ 45 
+Tableau B4 Raisons pour lesquelles les souffrances ne pouvaient être apaisées dans des conditions que 
+la personne jugeait tolérables pour les personnes qui ont reçu l’AMM .............................................. 45 
+Tableau B5 Délai entre la demande et l’administration de l’AMM pour les AMM administrées ......... 45 
+Tableau B6 Raisons expliquant un délai de plus de 90  jours entre la demande et l’administration de 
+l’AMM ................................................................................................................................................... 46 
+Tableau B7 Nombre et proportion d’AMM selon le lieu de l’administration de l’AMM ...................... 46 
+Tableau B8 Type d’impact en lien avec la pandémie de la COVID -19 pour les personnes qui ont reçu 
+l’AMM ................................................................................................................................................... 47 
+Tableau C1 Nombre de personnes en SPFV par établissement selon le lieu de soins entre le 
+1er avril 2019 et le 31 mars 2020 ........................................................................................................... 48 
+Tableau C2 Nombre de personnes en SPFV par établissement selon le lieu de soins entre le 
+1er avril 2020 et le 31 mars 2021 ........................................................................................................... 49 
+Tableau C3 Nombre déclaré de SPC administrées selon l’établissement et le CMQ pour les années 
+2019-2020 et 2020-2021 ....................................................................................................................... 50 
+Tableau C4 Nombre déclaré de SPC administrées et proportion de décès après une SPC selon la région 
+sociosanitaire pour les années 2019-2020 et 2020-2021 ..................................................................... 51 
+Tableau C5 Nombre déclaré de demandes d’AMM formulées, d’AMM administrées et d’AMM non 
+administrées selon l’établissement et le CMQ entre le 1er avril 2019 et le 31 mars 2020 ................... 52 
+Tableau C6 Nombre déclaré de demandes d’AMM formulées, d’AMM administrées et d’AMM non 
+administrées selon l’établissement et le CMQ entre le 1er avril 2020 et le 31 mars 2021 ................... 53 
+ 
+ 
+ 
+ 
+ 
+ix 
+LISTE DES ANNEXES 
+Annexe A Dispositions de la Loi concernant les soins de fin de vie portant sur les exigences particulières 
+relatives à l’aide médicale à mourir ...................................................................................................... 43 
+Annexe B Données de la Commission concernant les aides médicales à mourir administrées en 2020 -
+2021 ...................................................................................................................................................... 44 
+Annexe C Données des rapports des établissements publics de santé et de services sociaux et du 
+Collège des médecins du Québec concernant les soins palliatifs et de fin de vie ................................ 48 
+  
+ 
+x 
+SIGLES ET ACRONYMES 
+AMM Aide médicale à mourir 
+CHSLD Centre d’hébergement et de soins de longue durée 
+CMDP Conseil des médecins, dentistes et pharmaciens 
+CMQ Collège des médecins du Québec 
+CSBE Commissaire à la santé et au bien-être 
+INESSS Institut national d’excellence en santé et en services sociaux 
+ISQ Institut de la statistique du Québec 
+LCSFV Loi concernant les soins de fin de vie 
+MSSS Ministère de la Santé et des Services sociaux 
+RAMQ Régie de l’assurance maladie du Québec 
+SPC Sédation palliative continue 
+SPFV Soins palliatifs et de fin de vie 
+  
+ 
+xi 
+DÉFINITIONS 
+Aide médicale à mourir 
+Soin consistant en l’administration de médicaments ou de substances par un médecin à une personne  
+atteinte de maladie grave et incurable (le critère de fin de vie ne s’applique plus), à la demande de celle-ci, 
+dans le but de soulager ses souffrances en entraînant son décès. 
+Directives médicales anticipées 
+Forme d’expression des volontés d'une personne en prévision de son inaptitude à consentir à des soins . 
+Plus précisément, elles consistent en un écrit par lequel une personne majeure et apte à consentir à des 
+soins indique à l’avance les soins médicaux qu’elle accepte ou qu’elle refuse de recevoir dans le cas où elle 
+deviendrait inapte à consentir à des soins dans des situations cliniques précises. 
+Maison de soins palliatifs 
+Organisme communautaire titulaire d’un agrément délivré par le ministre de la Santé et des Services sociaux 
+en vertu du deuxième alinéa de l’article 457 de la Loi sur les services de santé et les services sociaux et qui 
+a conclu une entente avec un établissement, en vertu de l’article 108.3 de cette Loi, en vue d’obtenir tout 
+ou partie des soins requis par les personnes en fin de vie qui utilisent ses services. 
+Sédation palliative continue 
+Soin offert dans le cadre des soins palliatifs consistant en l’administration de médicaments ou de substances 
+à une personne en fin de vie dans le but de soulager ses souffrances en la rendant inconsciente, de façon 
+continue, jusqu’à son décès. 
+Soins de fin de vie 
+Soins palliatifs offerts aux personnes en fin de vie et aide médicale à mourir. 
+Soins palliatifs 
+Soins actifs et globaux dispensés par une équipe interdisciplinaire aux personnes atteintes d’une maladie 
+avec pronostic réservé, dans le but de soulager leurs souffrances, sans hâter ni retarder la mort, de les aider 
+à conserver la meilleure qualité de vie possible et d’offrir à ces personnes et à leur s proches le soutien 
+nécessaire. 
+Formulaire de déclaration de l’administration d’une aide médicale à mourir 
+Formulaire fourni par le ministre de la Santé et des Services sociaux que tout médecin qui administre l’aide 
+médicale à mourir (AMM) doit, dans les 10  jours qui suivent,  remplir et transmettre aux instances 
+concernées. Il contient les renseignements admini stratifs et cliniques fondés sur les exigences de la Loi 
+concernant les soins de fin de vie  et du règlement du gouvernement qui permettent à la Commission de 
+vérifier le respect des critères de la Loi dont le diagnostic de maladie grave et incurable, le pr onostic vital 
+estimé, et la nature et la description des incapacités et des souffrances de la personne. Il contient aussi une 
+description des vérifications que le médecin doit faire avant d’administrer l’AMM, entre autres concernant 
+l’aptitude à consentir aux soins, le caractère libre et éclairé de la demande d’AMM ainsi que la constance 
+des souffrances et la volonté réitérée de recevoir l’AMM. Le formulaire a été élaboré par le ministère de la 
+Santé et des Services sociaux et est révisé périodiquement par ce dernier afin de tenir compte de l’évolution 
+de l’AMM et des changements législatifs. 
+ 
+ 
+ 
+Sources : Loi concernant les soins de fin de vie. L.R.Q., c. 1, art. 3, p. 6. [En ligne] 
+Règlement sur la procédure suivie par la Commission sur les soins de fin de vie afin de vérifier le respect des conditions 
+relatives à l’administration de l’aide médicale à mourir et sur les renseignements devant lui être transmis à cette fin. 
+[En ligne]. 
+MINISTÈRE DE LA SANTÉ ET DES SERVICES SOCIAUX, Plan de développement en soins palliatifs et de fin de vie 2015 -
+2020, MSSS, Québec, 2015, 63 p. [En ligne]  
+
+ 
+1 
+ COMMISSION SUR LES SOINS DE FIN DE VIE 
+Le 5 juin 2014, l’Assemblée nationale du Québec adoptait la Loi concernant les soins de fin de vie 
+(L.R.Q., chapitre S-32.0001; ci-après la LCSFV)1. La LCSFV a pour but d’assurer aux personnes en 
+fin de vie des soins respectueux de leur dignité et de leur autonomie ainsi que de reconnaître la 
+primauté des volontés relatives aux soins exprimées claireme nt et librement par une personne. 
+Elle précise d’abord les droits relatifs aux soins de fin de vie, notamment en prévoyant le droit, 
+pour une personne, d’obtenir les soins de fin de vie que son état requiert. Elle prévoit également 
+des exigences particuliè res relatives à certains soins de fin de vie, soit la sédation palliative 
+continue (SPC) et l’aide médicale à mourir (AMM). La majorité des dispositions de la L CSFV sont 
+entrées en vigueur le 10 décembre 2015. 
+Les articles 38 à 47 de la L CSFV instituent la Commission sur les soins de fin de vie (ci -après la 
+Commission) et précisent sa composition, son mandat et son fonctionnement. 
+1.1. Valeurs 
+La Commission appuie sa réflexion et ses actions sur les valeurs de l’administration publique 
+québécoise, soit la compétence, l’impartialité, l’intégrité, la loyauté et le respect2. 
+1.2. Mandat 
+Le mandat de la Commission est défini par les articles  42 à 47 de la L CSFV. Plus précisément, 
+conformément à l’article 42, « La Commission a pour mandat d’examiner toute qu estion relative 
+aux soins de fin de vie. À cette fin, elle doit notamment : 
+1° donner des avis au ministre  de la Santé et des Services sociaux  sur toute question qu’il 
+lui soumet; 
+2° évaluer l’application de la loi à l’égard des soins de fin de vie; 
+3° saisir le ministre de toute question relative à ces soins qui mérite l’attention ou une 
+action du gouvernement et lui soumettre ses recommandations; 
+4° soumettre au ministre, tous les cinq ans, un rapport sur la situation des soins de fin de 
+vie au Québec; 
+5° effectuer tout autre mandat que le ministre lui confie. ». 
+Cet article prévoit également que la Commission doit «  surveiller […] l’application des exigences 
+particulières relatives à l’aide médicale à mourir ». 
+La Commission joue un rôle de surveillance et de conseil à l’égard des soins de fin de vie ainsi que 
+du respect des normes législatives qui les encadrent. Elle a donc une fonction particulière à 
+exercer quant à la vérification du respect des conditions relatives à l’administration de l’AMM. 
+ 
+ 
+1  Loi concernant les soins de fin de vie. (Chapitre S-32.0001). [En ligne]. 
+2  Déclaration de valeurs de l’administration publique québécoise. [En ligne]. 
+ 
+2 
+1.3. Composition 
+La Commission est composée de onze  commissaires nommés par le gouvernement après 
+consultation des organismes représentatifs des milieux concernés par ses activités. Elle est 
+composée de professionnels de la santé ou des services sociaux, de juristes , d’usagers, d’un 
+commissaire issu du milieu de l’éthique et d’un gestionnaire du réseau de la santé et des services 
+sociaux. Les commissaires constituent une équipe interdisciplinaire dont l’approche humaniste, 
+les compétences et l’expertise de chacun sont reconnues dans leur domaine respectif. 
+  
+
+ 
+3 
+1.4. Modalités opérationnelles 
+Le président dirige la Commission et en est le porte -parole. La vice -présidente est appelée à 
+assurer la présidence de la Commission en cas d’absence ou d’empêchement du président. 
+1.4.1. Secrétariat 
+Le président de la Commission est assisté par une cadre supérieure qui assure la fonction de 
+secrétaire général. Au cours de la présente période, l e président, la secrétaire générale et les 
+commissaires ont été soutenus par deux professionnelles scientifiques en santé et services 
+sociaux et une technicienne en administration. Une troisième professionnelle a été embauchée à 
+la fin de la période et est entrée en fonction en avril 2021. 
+1.4.2. Soutien administratif et matériel 
+La Commission est hébergée dans les locaux de l’Institut national d’excellence en santé et en 
+services sociaux (INESSS). Le rôle de l’INESSS consiste ici à soutenir la Commission dans la gestion 
+de ses ressources financières, matérielles et informationnelles. 
+1.4.3. Rencontres 
+Les commissaires se réunissent une fois par mois. À la  réunion plénièr e, actuellement d’une 
+journée par mois en raison de la pandémie de la COVID -19, s’ajoutent des rencontres en sous-
+groupes pour l’examen des formulaires de déclaration de l’administration d’une AMM. En raison 
+des mesures sanitaires gouvernementales en vigueu r, ces rencontres se  déroulent en 
+vidéoconférence. Des rencontres de travail et des rencontres extraordinaires sont aussi 
+convoquées, au besoin. Le quorum des réunions est de sept commissaires, y compris le président 
+ou la vice-présidente. 
+1.4.4. Rémunération et indemnités 
+En vertu de l’article  39 de la L CSFV, le gouvernement fixe les allocations et les indemnités des  
+commissaires3. 
+1.4.5. Financement 
+La Commission est soutenue financiè rement, en totalité, par le ministère de la Santé et des  
+Services sociaux (MSSS). 
+  
+ 
+3  Décret concernant les allocations et indemnités des membres de la Commission sur les soins de fin de vie.  Décret 
+numéro 1167-2015 du 16 décembre 2015. [En ligne]. 
+ 
+4 
+1.5. Modalités de fonctionnement pour la vérification du respect des conditions 
+relatives à l’administration de l’aide médicale à mourir 
+La LCSFV exige que toutes les AMM soient déclarées dans les 10  jours suivant l’administration à 
+la Commission ainsi qu’à l’instance désignée pour évaluer la qualité de l’acte. Les renseignements 
+devant être transmis  sont déterminés par règlement du gouvernement 4. Le Formulaire de 
+déclaration de l’administration d’une aide médicale à mourir  prescrit par le ministre est un  
+document clinico -administratif conçu pour répondre aux exigences de la L CSFV. Ne pas 
+transmettre ces renseignements représente un manquement à la LCSFV.  
+La Commission, qui a pour mandat de surveiller l’application des exigences particulières relatives 
+à l’AMM, doit s’assurer que les conditions administratives et cliniques d’admissibilité à l’AMM 
+prévues à  l’article 26 de la L CSFV sont satisfaites et que  les vérifications que le médecin doit 
+effectuer en vertu de l’article  29 avant d’administrer l’AMM ont été faites  (annexe A). La 
+Commission doit juger de la conformité de l’administration de l’AMM aux exigences édictées par 
+la LCSFV, mais n’a pas le mandat d’évaluer la qualité de l’acte médical. 
+Pour évaluer la conformité de l’AMM à la LCSFV, la Commission dispose uniquement des 
+renseignements contenus dans le formulaire de déclaration rempli par le médecin ayant 
+administré l’AMM. Le médecin doi t décrire le tableau clinique, le processus décisionnel et les 
+raisons qui l’ont convaincu de l’admissibilité de la personne à la suite de ses entretiens avec elle  
+et ses proches , et les membres de l’équipe de soin s. Le tableau clinique comprend  le ou les 
+diagnostics principaux, les comorbidités, le pronostic vital estimé, les incapacités, les souffrances 
+et l’aptitude à consentir aux soins. La Commission n’a pas accès au dossier médical de la personne. 
+Toutefois, s i les précisions du tableau cli nique et du processus décisionnel  contenues dans le 
+formulaire sont insuffisantes pour conclure, la Commission contacte directement le médecin 
+prestataire de l’AMM pour une meilleure compréhension de la situation. 
+La responsabilité de l’évaluation de la qualité de l’acte médical incombe au conseil des médecins, 
+dentistes et pharmaciens ( CMDP) des établissements et au C ollège des médecins du Québec 
+(CMQ). L’objectif principal de l’évaluation de la qualité de l’acte est l’évaluation de l’ensemble de 
+la démarche clinique (p. ex. contexte clinique, plan de traitement et approche thérapeutique, 
+approche interdisciplinaire, processus décisionnel) et l’optimisation de la qualité des soins offerts 
+par l’amélioration globale des pratiques médicales. 
+1.5.1. Examen des formulaires de déclaration de l’administration d’une aide médicale à 
+mourir 
+La Commission procède à l’examen de chaque formulaire de déclaration de l ’administration 
+d’AMM en séance plénière , et ce, dans un délai maximal de deux mois suivant la réception du  
+formulaire. L’examen des formulaires par la Commission est encadré par les balises prévues dans 
+la L CSFV et dans le règlement du gouvernement , ainsi que par le Guide d’exercice et lignes 
+directrices pharmacologiques de l’aide médicale à mourir5. 
+ 
+4  Règlement sur la procédure suivie par la Commission sur les soins de fin de vie afin de vérifier le respect des 
+conditions relatives à l’administration de l’aide médicale à mourir et sur les renseignements devant lui être transmis 
+à cette fin. [En ligne]. 
+5  COLLÈGE DES MÉDECINS DU QUÉBE C, ORDRE DES PHARMACIENS DU QUÉBEC, ORDRE DES INFIRMIÈRES ET 
+INFIRMIERS DU QUÉBEC, ORDRE DES TRAVAILLEURS SOCIAUX ET DES THÉRAPEUTES CONJUGAUX ET FAMILIAUX 
+DU QUÉBEC, BARREAU DU QUÉBEC ET CHAMBRE DES NOTAIRES DU QUÉBEC.  L’aide médicale à mourir  : Guide 
+d’exercice et lignes directrices pharmacologiques, mise à jour 11/2019, CMQ, Montréal, 2019, 102 p. 
+ 
+5 
+À la réception du formulaire, le secrétariat procède à une première série de vérifications 
+techniques afin d’identifier si des renseignements sont inco mplets, manquants ou visiblement 
+erronés. Dans un deuxième temps, les commissaires font l’examen des formulaires. Ils s’assurent 
+que la personne répondait aux conditions d’admissibilité à l’AMM et que le médecin a procédé à 
+toutes les vérifications prévues  à l’article 29 de la L CSFV, entre autres que toute l’information a 
+été transmise à la personne pour qu’elle puisse donner un consentement éclairé, qu’elle était 
+apte à consentir au x soins, que la demande était libre et faite sans pression extérieure, qu’il a 
+mené avec elle des entretiens espacés dans un délai raisonnable compte tenu de son état pour 
+s’assurer de la persistance de ses souffrances et de la constance de sa volonté d’obtenir l’AMM 
+et qu’il a obtenu l’avis d’un second médecin pour confirmer l’admissibilité de la personne. 
+Compte tenu du nombre croissant de formulaires, la Commission procède à une analyse détaillée 
+en sous -groupes d’au moins trois commissaires, dont un médecin. Lorsque les membres d ’un 
+sous-groupe considèrent à l’ unanimité la déclaration complète et conforme aux critères de la 
+LCSFV, ils proposent son adoption en plénière. S’ils ne sont pas unanimes, le cas est présenté en 
+plénière pour discussion avec l’ensemble des commissaires. Chaque  commissaire peut consulter 
+à l’avance l’ensemble des formulaires et demander qu’un  formulaire particulier soit discuté en 
+plénière. Pour tou tes les déclarations d’AMM, l es commissaires concluent en plénière de la 
+conformité ou non avec les critères de la  LCSFV. Cette procédure est inspirée  de celle de la 
+commission chargée d’examiner les déclarations d’euthanasie en Belgique6. 
+1.5.2. Demande de complément d’information ou de précisions 
+Lorsque les renseignements transmis dans le formulaire de déclaration sont incomplets ou que la 
+majorité des commissaires est d’avis qu’elle ne peut parvenir à une décision, la Commission 
+demande un complément d’information ou des précisions au médecin qui a administré l’AMM, 
+au second médecin consulté ou à toute autre personne qui pourrait être en mesure de lui fournir 
+les renseignements. À la réception du complément d’information ou des précisions demandés, la 
+Commission réexamine le dossier afin de prendre une décision. 
+1.5.3. Avis de rétroaction aux médecins ayant administré l’aide médicale à mourir 
+Depuis mai  2019, le médecin ayant administré l’AMM qui remplit sa déclaration par voie 
+électronique peut demander à la Commission de lui transmettre un avis de  rétroaction. Lorsque 
+la Commission est d’avis que l’AMM a été administrée conformément aux exigences de la LCSFV, 
+elle transmet un avis de conformité au médecin qui en a fait la demande. Dans la majorité (65 %) 
+des formulaires examinés en 2020-2021, le médecin a demandé une telle rétroaction. 
+1.5.4. Avis relatifs au non-respect de l’article 29 de la LCSFV 
+Lorsqu’au terme de l’examen du formulaire et, le cas échéant, du complément d’information ou 
+des précisi ons demandés, au moins les deux tiers des commissaires présents estiment que 
+l’article 29 de la L CSFV, qui inclut les conditions éd ictées à l’article  26, n’a pas été respecté, la 
+Commission transmet un résumé de ses conclusions au CMQ et, lorsque le médecin a administré 
+l’AMM à titre de médecin exerçant sa profession dans un centre exploité par un établissement, à 
+l’établissement concerné, pour que ceux-ci prennent les mesures appropriées.  
+ 
+6  COMMISSION FÉDÉRALE DE CONTRÔLE ET D’ÉVALUATION DE L’EUTHANASIE, Neuvième rapport aux Chambres 
+législatives. 2018-2019, Bruxelles, CFCEE, 2020, 58 p. [En ligne] 
+ 
+6 
+ ACTIVITÉS ET RÉALISATIONS PRINCIPALES 
+Le présent rapport couvre la période du 1 er avril 2020 au 31  mars 2021, une année 
+particulièrement exigeante pour tous en raison de la pandémie de la COVID-19. La Commission a 
+procédé à un total de 21 journées de rencontre en séance plénière. Ses activités ont notamment 
+porté sur  l’examen de s formulaires de déclaration afin de  s’assurer du respect des conditions 
+relatives à l’administration de l’AMM . Elle a effectué différents suivis auprès des établissements 
+et autres instances concernant les soins palliatifs et de fin de vie (SPFV). La Commission a répondu 
+à des demandes d’information d’intervenants du réseau de la santé et des services sociaux, des 
+médias et des citoyens et a rencontré divers groupes et personnes concernant les SPFV. 
+2.1. Examen des formulaires de déclaration de l’administration d’une aide médicale 
+à mourir 
+Entre le 1er avril 2020 et le 31 mars 2021, la Commission a reçu 2 415 formulaires de déclaration 
+de l’administration d’une AMM7. La Commission a examiné 2 191 formulaires en séance plénière 
+pendant cette période8. Parmi les 2 165 formulaires examinés pour la première fois, environ 5 % 
+ont nécessité un suivi afin que les commissaires parviennent à une décision quant au respect des 
+exigences de la L CSFV. Plus spécifiquement, 3  % des formulaires ont nécessité une demande de 
+complément d’information écrite ou téléphonique auprès du médecin qui a administré l’AMM ou 
+auprès du second médecin consulté et 2  %, un suivi auprès de l’établissement.  Les demandes de 
+complément d’information ou de précisions ont porté principalement sur les entretiens des 
+médecins avec la personne, la condition clinique de la  personne (diagnostic de maladie grave et 
+incurable, déclin avancé et irréversible des capacités  et aptitude à consentir), le second médecin 
+consulté et le titre d’emploi du professionnel de la santé ou des services sociaux qui a contresigné 
+le formulaire de demande d’AMM.  Lorsque requis, l es entretiens téléphoniques auprès du 
+médecin ayant administré l’AMM ou du second médecin consulté ont été faits par le président, la 
+vice-présidente ou un commissaire médecin. 
+Un suivi a été fait auprès du médecin ou de l’établissement pour obt enir des précisions ou un 
+renseignement manquant ou visiblement erroné pour près de 5 % des formulaires, pour lesquels 
+la Commission avait toutefois été en mesure de prendre une décision quant au respect des 
+exigences de la LCSFV avec l’information déjà transmise. 
+Une vingtaine de  formulaires ont fait l’objet d’un suivi concernant une situation particulière 
+soulevée par le médecin qui a administré l’AMM , notamment en lien avec des difficultés d’accès 
+aux soins palliatifs ou à l’AMM.  Le président a contacté le médecin et l’établissement concerné, 
+au besoin (président du CMDP ou directeur des services professionnels) , pour soumettre à leur 
+attention la problématique afin d’apporter les mesures correctrices jugées nécessaires. 
+ 
+7 Ce nombre représente le nombre de formulaires reçus à la Commission et non le nombre de personnes à qui l’AMM 
+a été administrée pendant cette période. Ce chiffre pourrait être sous -estimé puisque la Commission n’a pas été 
+en mesure de vérifier si elle avait reçu tous les formulaires; elle procédera aux vérifications nécessaires à cet égard. 
+8 Parmi ces derniers, 2 165 formulaires ont été évalués pour la première fois (185  formulaires en attente d’examen 
+au 31 mars 2020 et 1 980 formulaires reçus au cours de la présente période). 
+ 
+7 
+En date du 31 mars 2021, 435  formulaires étaient en attente d’examen 9. Ces derniers ont été 
+examinés lors de rencontres subséquentes dans un délai de deux mois suivant leur réception. 
+2.2. Pandémie de la COVID-19 
+La Commission ne peut passer sous silence la situation particulière engendrée par la pandémie de 
+la COVID-19 depuis mars 2020. Elle a d’ailleurs été informée de certaines difficultés dans le réseau 
+relativement à l’accès aux SPFV, notamment concernant les visites des proches pour des raisons 
+humanitaires, les procédures de demande et d’évaluation des médecins et la disponibilité des 
+médicaments pour l’AMM. Aussitôt, la Commission a porté ses préoccupations à l’attention des 
+équipes ministérielles, des ordres professionnels et des partenaires concernés et a recomma ndé 
+de maintenir l’AMM afin de respecter les volontés de fin de vie des personnes.  
+2.3. Rapport des établissements publics de santé et de services sociaux  et du 
+Collège des médecins du Québec 
+Conformément à l’article 8 de la LCSFV, tout établissement doit adopter une politique portant sur 
+les soins de fin de vie. Le président-directeur général de l’établissement doit, chaque année, faire 
+un rapport au conseil d’administration concernant l’application de cette politique. Le rapport doit 
+indiquer le nombre de personnes en SPFV par type d’installation, le nombre de SPC administrées, 
+le nombre de demandes d’AMM formulées, le nombre d’AMM administrées, de même que le 
+nombre d’AMM qui n’ont pas été administrées et les motifs pour lesquels elles ne l’ont pas été. 
+Conformément à l’article  37 de la L CSFV, le CMQ doit, chaque année, préparer un rapport 
+concernant les soins de fin de vie dispensés par des médecins qui exercent leur profession dans 
+un cabinet privé de professionnel. Le rapport d oit indiquer le nombre de SPC et d’AMM 
+administrées par ces médecins selon le lieu de soins. 
+Les rapports des établissements et du CMQ doivent être publiés sur leur site Web et transmis à la 
+Commission au plus tard le 30 juin de chaque année. 
+En raison des contraintes causées par la pandémie de la COVID -19 depuis le mois de mars  2020, 
+plusieurs établissements ainsi que le CMQ n’ont pas été en mesure de transmettre leur rapport à 
+la Commission dans le délai imparti  pour la rédaction du  rapport annuel d’activités de l’année  
+dernière (2019-2020). Ces données sont présentées dans le présent rapport avec les données de 
+2020-2021. 
+2.4. Groupe de travail en collaboration avec le ministère de la Santé et des Services 
+sociaux et le Collège des médecins du Québec 
+En collaboration étroite avec la Commission et le CMQ, le MSSS a mis en place un groupe de travail 
+afin d’améliorer les canaux de communication et d’assurer les suivis nécessaires concernant 
+l’AMM, notamment en raison de la pandémie et des changements législatifs. 
+ 
+9 La rencontre prévue en mars  2021 a eu lieu le 1 er avril 2021. Sur les 435  formulaires en attente d’examen au 
+31 mars 2021, 205 ont été examinés le 1er avril 2021. 
+ 
+8 
+2.5. Comparution devant le Comité permanent de la justice et des droits de la 
+personne de la Chambre des communes 
+Le 29 octobre 2020, le Comité permanent de la justice et des droits de la personne de la Chambre 
+des communes a invité la Commissio n à comparaître dans le cadre de son étude sur l’objet du 
+projet de loi C -7, Loi modifiant le Code criminel (aide médicale à mourir). La Commission a 
+comparu le 5  novembre par vidéoconférence et  a rapporté son expérience des cinq dernières 
+années en lien a vec cinq objets spécifiques du projet de loi C -7 concernant les personnes en fin 
+de vie qui ont reçu l’AMM en raison d’une maladie physique grave et incurable10 : 
+• Le retrait du critère de mort naturelle raisonnablement prévisible;  
+• La suppression du délai minimum de dix jours francs entre le jour de la demande et 
+l’administration de l’AMM;  
+• Le renoncement au consentement final;  
+• La dualité du processus d’évaluation et de sauvegarde qui sont distincts entre les 
+personnes qui demandent l’AMM et dont la mort naturelle est raisonnablement 
+prévisible et celles dont la mort naturelle n’est pas raisonnablement prévisible;  
+• Le mécanisme de sauvegarde que constitue une commission d’évaluation et de contrôle.  
+2.6. Demandes d’information des citoyens, du réseau de la santé et des services 
+sociaux et des médias 
+Les demandes d’information reçues des citoyens concernaient surtout les soins de fin de vie en 
+général et en contexte de pan démie, les lois provinciale et fédérale concernant l’AMM, la 
+démarche d’AMM et le retrait du critère de fin de vie comme condition d’admissibilité ainsi que 
+les directives médicales anticipées. Les demandes provenant du réseau ont porté principalement 
+sur la clarification d’éléments des lois provinciale et fédérale, sur la réglementation fédérale sur 
+la surveillance de l’AMM, les obligations de déclaration et l’utilisation du formulaire électronique 
+unique qui en découlent, sur les impacts du retrait de la fin de vie comme condition d’admissibilité 
+à l’AMM et sur les mesures sanitaires en vigueur dans un contexte de fin de vie. Les demandes 
+des médias ont porté sur des précisions sur les statistiques concernant les SPFV depuis l’entrée 
+en vigueur de la LCSFV et en contexte de pandémie. 
+2.7. Rencontres avec divers groupes et personnes  
+La Commission a rencontré plusieurs groupes et personnes dans le but de mieux comprendre les 
+réalités, les préoccupations et les enjeux concernant les SPFV11 : 
+• Échange avec des professionnels de la santé experts dans le domaine des SPFV pour avoir 
+leur point de vue concernant la réalité des SPFV en CHSLD, plus précisément pendant la 
+pandémie; 
+ 
+10  JUST - Comité permanent de la justice et des droits de la personne. 43e législature, 2e session. Projet de loi C-7, Loi 
+modifiant le Code criminel (aide médicale à mourir) Réunion : 5 - Jeudi 5 novembre 2020 - Comparution ou témoin : 
+Commission sur les soins de fin de vie (début : 11 :19 :40) [En ligne] 
+COMMISSION SUR LES SOINS DE FIN DE VIE, Projet de loi C-7, Loi modifiant le Code criminel (aide médicale à mourir). 
+Mémoire destiné au Co mité permanent de la justice et des droits de la personne de la Chambre des communes , 
+Québec, 2020, 7 p. [En ligne] 
+11  Toutes les rencontres se sont déroulées en vidéoconférence afin de respecter les mesures sanitaires en vigueur. 
+ 
+9 
+• Discussion avec un expert (médecin psychiatre) concernant la question de l’accès à l'AMM 
+pour les personnes atteintes de troubles mentaux; 
+• Discussion avec des représentants de l ’Association des médecins psychiatres du Québec 
+concernant leur rapport sur l’accès à l'AMM pour les personnes atteintes de troubles 
+mentaux; 
+• Présentation de l’équipe de direction du CHU de Québec  – Université Laval de leur plan 
+d’action et des mesures mises en place pour faire face aux difficultés vécues en lien avec 
+l’AMM dans leur établissement; 
+• Rencontre avec des représentants de Transplant Québec e t deux médecins des équipes 
+du CHUM et du CHU de Québec – Université Laval pour partager leur expérience en lien 
+avec l’AMM et le don d’organes; 
+• Présentation d’une équipe du Protecteur du citoyen des principaux points du rapport 
+d’étape sur la COVID-19 et les CHSLD; 
+• Échange avec le comité d’orientation de la communauté de pratique des groupes 
+interdisciplinaires de soutien des établissements  sur différentes questions concernant 
+l’AMM; 
+• Témoignage d’un intervenant du réseau de la santé et des services sociaux concernant les 
+transferts de milieu de soins pour recevoir l’AMM; 
+• Discussion avec Me Danielle Chalifoux, présidente de l’Institut de la planification des soins 
+du Québec, concernant le respect des volontés de fin de vie; 
+• Témoignage d’une citoyenne concernant les soins de fin de vie et la réanimation 
+cardiorespiratoire; 
+• Présentation à l’Association canadienne des évaluateurs et prestataires de l’AMM du 
+modèle du Québec de surveillance de l’AMM; 
+• Rencontre avec le Coroner en chef de l’Ontario  concernant l’AMM et les changements 
+législatifs du fédéral; 
+• Témoignage de M me Sandra Demontigny, une citoyenne atteinte de la maladie  
+d’Alzheimer précoce, concernant l’AMM par demande anticipée pour les personnes 
+atteintes d'un trouble neurocognitif majeur. 
+ 
+10 
+ DONNÉES DE LA COMMISSION SUR LES SOINS DE FIN DE VIE 
+3.1. Décisions rendues 
+Entre le 1 er avril 2020 et le 31  mars 2021, la Commission a rendu une décision pour 
+2 179 formulaires12. Dans la presque totalité des cas (99 ,7 %), la Commission a jugé que l’AMM 
+avait été administrée conformément aux critères énoncés dans la L CSFV. Un résumé du 
+traitement des formulaires pour la vérification du respect des conditions relatives à 
+l’administration de l’AMM par la Commission est présenté à la figure 3.1. 
+Figure 3.1 
+Résumé du traitement des formulaires de déclaration de l’administration d’une AMM 
+ 
+À la lumière des renseignements qui lui ont été transmis, la Commission a conclu que l’une des 
+exigences relatives à l’administration de l’AMM édictée par la LCSFV n’avait pas été respectée 
+dans moins de 1  % des cas pour lesquels une décision a été rendue.  Les exigences qui n’étaient 
+pas respectées étaient surtout de nature administrative en lien avec les procédures de demande 
+et de vérifications préalables : dans trois cas, le formulaire de demande a été contresigné par un 
+intervenant qui n’était pas considéré un professionnel de la santé ou des services sociaux ; dans 
+ 
+12  Ces derniers incluent 2 153 formulaires examinés pour la première fois au cours de la présente période  et 
+26 formulaires qui étaient en attente de décision au 31 mars 2020. 
+
+ 
+11 
+deux cas, la personne détenait une carte d’assurance maladie du Québec expirée 13; dans un cas, 
+le médecin n’avait pas mené d’entretien avec la personne entre la demande formelle d’AMM et 
+le moment de l’administration. Dans un cas, bien qu’elle reconnaiss e que la personne présentait 
+des incapacités et des souffrances importantes et que sa condition était  grave et incurable, la 
+Commission a considéré que le diagnostic déclaré de quadriparésie post -traumatique était un 
+handicap, et non une maladie telle que spécifiée dans la L CSFV. La Commission a noté le tableau 
+des comorbidités dont souffrait la personne et conclut, après l’analyse de  la déclaration et un 
+entretien avec le médecin qui a administré l’AMM, que la personne ne répondait pas à l’une des 
+conditions d’admissibilité définies dans la LCSFV actuelle, puisqu’elle n’était pas atteinte d’une 
+maladie gr ave et incurable.  La Commission a transmis un  avis de non -respect au CMQ et à 
+l’établissement concerné  résumant ses conclusions pour que ceux -ci prennent les mesures 
+appropriées. 
+3.2. Aides médicales à mourir administrées 
+3.2.1. Nombre d’aides médicales à mourir administrées 
+Le nombre d’AMM administrées est en augmentation constante au Québec depuis l’entrée en 
+vigueur de la LCSFV (figure 3.2). 
+Figure 3.2 
+Nombre d’AMM administrées entre le 10 décembre 2015 et le 31 mars 2021 
+ 
+ 
+Selon les données indiquées aux form ulaires de déclaration reçus à la Commission, 2  426 AMM 
+ont été administrées entre le 1er avril 2020 et le 31 mars 2021. Les données brutes se retrouvent 
+à l’annexe B. Le nombre d’AMM administrées ne semble pas avoir été affecté par la pandémie.  
+L’augmentation du nombre d’AMM en 2020 -2021 (3 6 %) est similaire à celle de l’année 
+précédente (38 %). Bien que la Commission ait observé que les AMM administrées ont diminué 
+en avril  2020, elles ont réaugment é graduellement à partir de  mai (figure 3.3). La figure 3.4 
+présente le nombre d’AMM administrées selon la région sociosanitaire. 
+ 
+13  La Commission est d’avis que tout résident du Québec qui détient une carte d’ass urance maladie, même invalide, 
+ne devrait pas être privé de l’AMM bien que celle-ci n’ait pas été renouvelée à échéance, notamment en raison de 
+son état de santé. Toutefois, la Commission se doit de déclarer ces AMM non conformes en vertu de la LCSFV. 
+63
+599
+968
+1279
+1774
+2426
+0
+500
+1000
+1500
+2000
+2500
+3000
+2015-2016 2016-2017 2017-2018 2018-2019 2019-2020 2020-2021
+Nombre d'AMM administrées
+Année
+ 
+12 
+Figure 3.3 
+Nombre d’AMM administrées par mois 
+ 
+ 
+Figure 3.4 
+Nombre d’AMM administrées selon la région sociosanitaire 
+ 
+Note : La région administrative indiquée au formulair e a été utilisée. Certaines AMM administrées dans la région 
+administrative de la Montérégie ont été réalisées sur le territoire sociosanitaire de l’Estrie.  Le nombre d’ AMM 
+administrées pour les régions 10, 17 et 18 n’est pas indiqué afin de respecter les règles de confidentialité et en raison 
+du risque d’identification relié à la divulgation d’un faible nombre d’individus (0 à 9 AMM,  10). 
+118
+106 102
+122 145
+138 134 131 135
+152
+135
+184
+156
+170 172
+147
+165
+184
+213 205 204
+220 225
+214
+195
+224 230
+0
+50
+100
+150
+200
+250
+Nombre d'AMM administrées
+Année
+2019 2020 2021
+127
+94
+331
+146 171
+313
+56 41 16 39
+132
+83
+222
+155
+496
+0
+100
+200
+300
+400
+500
+600
+01 02 03 04 05 06 07 08 09 11 12 13 14 15 16
+Nombre d'AMM administrées
+Région sociosanitaire
+ 
+13 
+En utilisant les données de l’Institut de la statistique du Québec (ISQ) rel atives au nombre de 
+décès14, peu importe l’âge ou la cause, on constate que les décès par AMM ont représenté 3,3 % 
+des décès survenus au Québec en 2020-2021, comparativement à 2,6  % en 2019 -2020. La 
+figure 3.5. présente l’évolution de la proportion de décès par AMM depuis l’entrée en vigueur de 
+la LCSFV. La figure 3.6 présente la proportion de décès par AMM selon la région sociosanitaire15. 
+Figure 3.5  
+Proportion de décès par AMM entre le 10 décembre 2015 et le 31 mars 2021 
+ 
+  
+ 
+14  INSTITUT DE LA STATISTIQUE DU QUÉBEC, Naissances, décès et mariages par mois et par trimestre, Québec 20 10-
+2021, données du 2 juillet 2021. Consulté en ligne le 12 juillet 2021. 
+15  Données provisoires transmises par le MSSS à partir des données de l’ISQ sur le nombre d e décès par région 
+sociosanitaire. La région de certains décès est inconnue. À noter que la région du décès est la région de résidence 
+de la personne alors que la région attribuée à l’AMM est celle où le soin a été administré.  
+0,3
+0,9
+1,4
+1,9
+2,6
+3,3
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2015-2016 2016-2017 2017-2018 2018-2019 2019-2020 2020-2021
+% de décès par AMM
+Année
+ 
+14 
+Figure 3.6 
+Proportion de décès par AMM selon la région sociosanitaire 
+ 
+Note : La région administrative indiquée au formulaire a été utilisée. Certaines AMM administrées en Montérégie ont 
+été réalisées sur le territoire sociosanitaire de l’Estrie. La propo rtion de décès par AMM pour les régions 10, 17 et 18  
+n’est pas indiquée afin de respecter les règles de confidentialité et en raison du risque d’identification relié à la 
+divulgation d’un faible nombre d’individus (0 à 9 AMM,  10). 
+3.2.2. Caractéristiques des personnes ayant reçu l’aide médicale à mourir 
+Entre le 1er avril 2020 et le 31  mars 2021, 52  % des personnes qui ont reçu l’AMM étaient des 
+hommes et 48  % étaient des femmes. Les personnes qui ont reçu l’AMM étaient âgées en 
+moyenne de 74 ans et la très grande majorité étaient âgées de 60 ans et plus (91 %; figure 3.7). 
+Figure 3.7  
+Proportion de personnes qui ont reçu l’AMM selon le groupe d’âge 
+ 
+6,2
+3,6
+4,9
+2,7
+4,0
+1,8 1,9
+3,1
+1,9
+4,0
+3,6
+2,2
+5,6
+3,2
+4,3
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+4,0
+4,5
+5,0
+5,5
+6,0
+6,5
+7,0
+01 02 03 04 05 06 07 08 09 11 12 13 14 15 16
+Proportion de décès par AMM Moyenne provinciale
+Région sociosanitaire
+% de décès par AMM
+< 1 < 1 1
+7
+24
+34
+25
+8
+< 1
+0
+5
+10
+15
+20
+25
+30
+35
+40
+18-29 30-39 40-49 50-59 60-69 70-79 80-89 90-99 100 et plus
+% de personnes
+Groupe d'âge (ans)
+ 
+15 
+Un peu moins des trois quarts (73  %) des personnes qui ont reçu l’AMM étaient atteintes d’un 
+cancer (figure  3.8). Les autres diagnostics  principaux les plus fréquents étaient les maladies 
+neurodégénératives ou neurologiques (8  %), les maladies cardiovasculaires (6  %) et les maladies 
+pulmonaires (5 %). La catégorie « Autre » représente 8 % des AMM administrées et incl ut, entre 
+autres, des maladies rén ales, digestives, musculosquelettiques, inflammatoires et infectieuses. 
+On retrouve aussi dans cette catégorie les personnes ayant plus d’un diagnostic principal et celles 
+pour lesquelles une combinaison de plusieurs maladies les rendait admissibles à l’AMM. 
+Figure 3.8  
+Proportion de personnes qui ont reçu l’AMM selon le diagnostic principal 
+ 
+La très grande majorité des personnes qui ont reçu l’AMM avaient un pronostic vital estimé à 
+6 mois ou moins (83 %) et la grande majorité à 3 mois ou moins (71 %; figure 3.9). Seulement 7 % 
+des personnes qui ont reçu l’AMM avaient un pronostic vital de plus de 6 mois. Comparativement 
+à 2019 -2020, la proportion de personne s avec un pronostic de plus de  six mois a légèrement 
+augmenté, passant de 5 % à 7 %, ce qui peut s’expliquer, entre autres, par le retrait du critère de 
+fin de vie comme condition d’admissibilité à l’AMM le 12 mars 2020. Parmi les personnes qui ont 
+reçu l’AMM entre le 1 er avril 2020 et le 31 mars 2021, 19 ont obtenu une autorisation de la Cour 
+supérieure du Québec parce que le médecin considérait que la personne répondait à toutes les 
+conditions d’admissibilité sauf celle d’ avoir u ne mort naturelle raisonnablement prévisible  
+(exigence fédérale). 
+  
+73
+8 6 5 8
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Cancer Maladie
+neurodégénérative ou
+neurologique
+Maladie
+cardiovasculaire
+Maladie pulmonaire Autre
+% de personnes
+Diagnostic principal
+ 
+16 
+Figure 3.9 
+Proportion de personnes qui ont reçu l’AMM selon le pronostic vital 
+ 
+* Dans la plupart des cas, les pronostics vitaux indiqués variaient de «  quelques jours » à « quelques mois », sans qu’il 
+soit possible de les préciser davantage. 
+ 
+Selon les renseignements contenus dans les formulaires de déclaration, l a très grande majorité 
+des personnes qui ont reçu l’AMM présentaient à la fois des souffrances physiques et psychiques 
+(93 %; figure 3.10). Les souffrances sont celles mentionnées dans le formulaire de déclaration 
+rempli par le médecin qui a administré l’A MM. Il est possible qu’une personne ait pu présenter 
+des souffrances qui n’ont pas été inscrites au formulaire.  
+Figure 3.10 
+Proportion de personnes qui ont reçu l’AMM selon le type de souffrance 
+ 
+ 
+16
+22
+33
+12
+6
+1
+10
+0
+5
+10
+15
+20
+25
+30
+35
+2 semaines
+ou moins
+1 mois
+ou moins
+3 mois
+ou moins
+6 mois
+ou moins
+1 an
+ou moins
+Plus d'un an Évaluation
+approximative*
+% de personnes
+Pronostic vital estimé
+93%
+ 1%
+7%
+Physique et psychique
+Physique
+Psychique
+ 
+17 
+Le formulaire électronique comprend des choix de réponse que les médecins peuvent utiliser pour 
+décrire la nature d es souffrances présentées par la personne. La très grande majorité de ces 
+formulaires (n = 2 38216) fait mention de souffrances en lien avec la perte de capacité à effectuer 
+les activités qui donnaient un sens à la vie (97 %) ou les activités de la vie quotidienne (93 %) et la 
+grande majorité f ait référence à une perte de la dignité (78  %). Un peu plus de la moitié (58  %) 
+indiquent un contrôle inadéquat de la douleur ou des préoccupations à ce sujet et la même 
+proportion mentionnent un contrôle inadéquat d’ autres symptômes ou des préoccupations à ce 
+sujet. Environ 44 % indiquent que la personne se percevait comme un fardeau pour sa famille, ses 
+amis ou ses soignants. Un peu plus du tiers (37  %) font référence à la perte des fonctions 
+corporelles et environ l e quart (24  %), que la personne rapportait souffrir d’isolement ou de 
+solitude. Plusieurs médecins ont rapporté que la personne ayant demandé l’AMM vivait 
+difficilement le déclin de son autonomie et envisage ait la dépendance à autrui pour les activités 
+de la vie quotidienne comme inacceptable. Dans les informations rapportées par les médecins, on 
+y lit également que pour plusieurs personnes, cette situation aurait mené à une perte de dignité 
+et de sens à la vie.  
+Certains formulaires évoquent que la personne craignait ou ne souhaitait pas être relocalisée en 
+résidence ou en CHSLD.  Le formulaire de déclaration ne permet pas de préciser les raisons po ur 
+lesquelles les personnes refusaient ou craignaient d’être relocalisées en CHSLD, par exemple de 
+distinguer la peur de ne pas y recevoir des soins adéquats versus de faire face à une perte 
+d’autonomie permanente et si importante qu’elle nécessite un tel niveau d’assistance. 
+Les raisons les plus fréquentes  pour lesquelles les souffrances ne pouvaient être apaisées dans 
+des conditions que la personne jugeait tolérables sont l’inefficacité des traitements (65  %), 
+l’absence de traitement (33 %), le refus de t raitement de la part de la personne (26  %) et des 
+effets secondaires inacceptables (25 %). 
+Un peu moins du quart des formulaires (23 %) font mention que la personne a refusé ou demandé 
+une diminution de sa médication dans le but de préserver son aptitude à consentir à l’AMM.17 
+ 
+16  Certains médecins utilisent le formulaire en format papier, qui ne comprend pas ces choix de réponse. 
+17  Les exemples sont des extraits anonymes et textuels de formulaires de déclaration. Les extraits présentés sont 
+représentatifs des propos retrouvés dans plusieurs formulaires de déclaration. 
+« Il a toujours mentionné à son épouse et à ses enfants […] qu'il ne souhaitait pas vivre avec une 
+telle perte d'autonomie, entraînant pour lui une immense perte de dignité » 
+« Cette perte de l'autonomie, de la capacité à s'occuper de lui -même et d'imposer ça à autrui 
+lui était inconcevable » 
+« Elle ne pouvait plus vivre la perte d'autonomie, la dépendance. Ne voyait pas de sens à vivre 
+ainsi et d'attendre la mort » 
+« [Il] a refusé toute autre médication pour ne pas perdre son aptitude malgré les explications » 
+« Les délais […] ont été raccourcis considérant sa souffrance et l'importance pour elle de ne pas 
+prendre une médication pour la douleur qui lui aurait fait perdre son aptitude à consentir » 
+ 
+18 
+Dans certains formulaires, il est indiqué que la personne ne souhaitait pas recevoir de soins 
+palliatifs. Dans d’autres, il est précisé  que des souffrances physiques ou psychologiques étaient 
+présentes malgré l’offre de soins palliatifs. 
+Dans certains formulaires, il est mention né que la personne souhaitait obtenir l’AMM parce 
+qu’elle ne voulait pas vivre la même fin de vie qu’un proche décédé de la même maladie. À 
+l’inverse, d’autres déclarations indiquent que la personne qui a reçu l’AMM avait accompagné un 
+proche en fin de vie q ui avait aussi reçu ce soin. Dans nombre de déclarations, le besoin 
+d’autodétermination et le souhait de contrôler sa vie (face à une dépendance inacceptable) et sa 
+mort alimentent la volonté de la personne de recevoir l’AMM . Certains formulaires indiquent  
+d’ailleurs que l’AMM a été devancée à la demande de la personne pour lui permettre de la 
+recevoir selon sa volonté alors que son décès était jugé imminent. 
+3.2.3. Demande et administration de l’aide médicale à mourir 
+Selon les renseignements transmis à la Commis sion, le délai moyen entre le moment où la 
+personne a signé le formulaire de demande d’AMM et l’administration de celle -ci a été de 
+19 jours. La très grande majorité des personnes ont obtenu l’AMM dans les 30  jours suivant leur 
+demande formelle (88 %), un peu moins de la moitié (45 %) l’ont reçue entre 10 et 30 jours après 
+avoir signé le formulaire de demande et 43 % l’ont reçue en moins de 10 jours (figure 3.11). 
+Figure 3.11 
+Proportion de personnes selon le délai entre la demande et l’administration de l’AMM 
+ 
+ 
+43%
+45%
+9%
+3%
+Moins de 10 jours
+10 à 30 jours
+31 à 90 jours
+Plus de 90 jours
+« Pour elle, l'AMM devenait la seule alternative pour mourir doucement sans souffrance 
+et avec une certaine dignité. Nous lui av ons parlé d'autres options tels les soins palliatifs 
+et la sédation qu'elle a refusées » 
+« Malgré soins palliatifs à domicile, soulagement imparfait des souffrances de la patiente, 
+qui opte rapidement pour l'AMM » 
+ 
+19 
+La majorité des déclarations fait mention des raisons qui expliquent les délais de moins de 10 jours 
+entre la demande et l’administration de l’AMM, lesquelles étaient généralement liées à la crainte 
+de perdre l’aptitude à consentir au soin ou à l’imminence du décès. 
+Dans plusieurs formulaires, le médecin ayant administré l’AMM a indiqué  que la personne 
+réfléchissait à l’AMM depuis un certain temps, mais a attendu une détérioration encore plus 
+importante de son état avant d’en faire la demande formelle, ce qui explique que l’AMM a été 
+administrée rapidement.  
+La Commission a observé un délai de plus de 90  jours entre la demande et l’administration de 
+l’AMM dans 4 % des formulaires reçus entre le 1 er avril 2020 et le 31  mars 2021 (86/2 426). Afin 
+de mieux comprendre le processus décisionnel  de ces personnes et, com pte tenu  de leu rs 
+souffrances constantes, intolérables et inapaisables, de s’assurer que ces délais n’étaient pas 
+attribuables à des problèmes d’accès, la Commission a fait une analyse des raisons qui sous -
+tendaient ces délais. Celles -ci ont été documentée s à partir des formulaires ou d’un entretien 
+téléphonique du président ou de la vice-présidente avec le médecin ayant administré l’AMM.  
+Dans la majorité des cas, le délai a été imposé par la personne demandant l’AMM elle-même pour 
+diverses raisons : 
+• les i nterventions ont permis d'atteindre un certain confort ou un niveau de douleur 
+physique tolérable pour la personne pendant un certain temps, et elle avait choisi de ne 
+pas recourir à l’AMM immédiatement tout en souhaitant maintenir sa demande d’AMM; 
+• d’autres traitements ont été tentés après la demande d'AMM pour soulager les 
+souffrances de la personne et devant leur inefficacité, elle a décidé de recevoir l'AMM; 
+• la personne avait été jugée inadmissible , car elle ne remplissait pas le critère de mort 
+naturelle raisonnablement prévisible du fédéral  et a entrepris des démarches pour 
+demander une autorisation de la Cour pour pouvoir obtenir l’AMM; 
+• la personne a vait fait une demande d'AMM alors qu’elle n'était pas encore prête à y 
+recourir et souhaitait obt enir l’AMM lorsqu’elle jugerait le moment venu.  Dans certains 
+cas, la perspective de savoir qu'elle était admissible à l’AMM  lui procurait un sentiment 
+de sécurité psychologique, sachant qu'elle pourrait accéder à cette option au moment où 
+elle le souhaiterait; 
+• la personne avait besoin de temps pour se préparer psychologiquement à mourir, mettre 
+ses affaires personnelles en ordre ou régler des choses; 
+• la personne souhaitait attendre une date significative, un moment précis de l'année ou 
+un événement en particulier; 
+• la personne avait besoin de temps pour permettre à ses  proches de cheminer  et 
+d’accepter la situation ou de se préparer, ou encore pour régler des conflits familiaux. 
+ 
+  
+« Procédure devancée du fait de l'imminence du décès et les souffrances mal contrôlées » 
+« Il se dégrade rapidement dans les […] derniers jours de sa maladie et souhaite devancer son 
+AMM par peur de perdre son aptitude à consentir aux soins ou de décéder avant son AMM » 
+ 
+20 
+Environ la moitié des AMM ont été administrées en centre hospitalier (48 %), alors que 39 % l’ont 
+été à domicile, 8  % en CHSLD et 5  % en maison de soins palliatifs  (figure 3.12). La Commission a  
+constaté une diminution importante des AMM administrées en centre hospitalier au profit du 
+domicile en 2020-2021 par rapport à 2019-2020. En effet, 65 % des AMM ont été administrées en 
+centre hospitalier et 20  % à domicile  en 2019 -2020. Les renseignements  inscrits dans les 
+formulaires suggèrent que ce changement est lié en partie aux mesures sanitaires imposées en 
+établissement pendant la pandémie, réduisant entre autres le nombre de visiteurs autorisés. Il 
+est rapporté dans certains formulaires que la personne était retournée à domicile pour y recevoir 
+l’AMM afin d’avoir ses proches à ses côtés. Dans d’autres formulaires, il est fait mention que la 
+personne qui était déjà à domicile souhaitait éviter autant que possible une admission en centre 
+hospitalier ou en maison de soins palliatifs en raison des restrictions concernant les visites. 
+Les commentaires transmis dans certains formulaires indiquent que la personne a été transférée 
+de milieu pour recevoir l’AMM. Bien que , pour certaines personnes, ce changement répondait à 
+leurs volontés, pour d’autres le transfert était dû au fait que  le milieu d’origine n ’autorisait pas 
+l’administration de l’AMM dans ses murs. Ces transferts préoccupent la Commission puisqu’ils 
+peuvent causer des souffrances supplémentaires à la personne et à ses proches.  
+Figure 3.12 
+Proportion de personnes qui ont reçu l’AMM selon le lieu de l’administration 
+ 
+3.2.4. Médecins impliqués dans l’administration de l’aide médicale à mourir 
+Selon les données préliminaires de la Régie de l’assurance maladie du Québec  (RAMQ), 
+1 121 médecins ont déclaré des honoraires pour des actes divers relatifs à l’AMM en 2020-2021, 
+dont 87 % sont des omnipraticiens et 13 % sont des médecins spécialistes. Ils se répartissent dans 
+toutes les tranches d’âge et 56 % d’entre eux ont moins de 45 ans. La très grande majorité (83 %) 
+des médecins qui ont administré l’AMM ont administré entre 1 et 5  AMM, ce qui représente 
+environ 36 % de toutes les AMM facturées à la RAMQ . Environ 9 % des médecins ont administré 
+entre 6 et 10 AMM, soit près de 17 % de l’ensemble des AMM. Près de la moitié des AMM (environ 
+47 %) ont été administrées par 37 médecins qui ont fait plus de 10 AMM en 2020-2021. 
+65
+20
+10
+4
+1
+48
+39
+8
+5
+>1
+0
+10
+20
+30
+40
+50
+60
+70
+Centre hospitalier Domicile CHSLD Maison de soins
+palliatifs
+Autre, non précisé ou
+non disponible
+% de personnes
+Lieu de l'administration
+2019-2020 2020-2021
+ 
+21 
+Par ailleurs, i l a été porté à l’attention de la Commission que des établissements avaient de la 
+difficulté à recruter su ffisamment de médecins pour administrer l’AMM. Dans certains 
+établissements ou secteurs, l’administration de l’AMM repose sur quelques médecins et certains 
+doivent se déplacer à plusieurs dizaines de kilomètre s (jusqu’à plus de 100  km). Certains 
+établissements ont déployé des solutions pour augmenter le nombre de médecins disponibles 
+pour prendre en charge les demandes d’AMM. Des médecins ont aussi indiqué dans leur  
+déclaration avoir fait appel à du mentorat pour l’évaluation ou l’administration de l’AMM . L a 
+Commission a été informée que cette modalité était offerte dans certains établissements  et 
+encourage cette pratique pour accompagner les médecins qui souhaiteraient administrer l’AMM. 
+3.2.5. AMM et pandémie de la COVID-19 
+Pour les AMM administrées entre le 1er avril 2020 et le 31 mars 2021, près de 5 % (128/2 426) des 
+formulaires remplis par les médecins ayant administré l’AMM mentionnent un impact de la 
+pandémie, soit sur le processus d’évaluation, soit sur l’état ou le bien-être de la personne, soit sur 
+l’organisation de l’administration de l’AMM. 
+Dans quelques cas, les médecins ont indiqué qu’une infection à la COVID -19 avait contribué à la 
+détérioration de l’état de la personne, au déclin de ses capacités fonctionnelles ou à une perte de 
+son autonomie. Pour certaines de ces personnes, cela a également exacerbé leurs  souffrances 
+physiques, psychiques et/ou existentielles. Des sentiments de solitude ou d’abandon , ou encore 
+de l’anxiété ont été rapportés  par les médecins, et cela peut avoir contribué à la motivation des 
+personnes de demander l’AMM. Les mesures de confinement ou d’isolement ont privé certaines 
+personnes de voir leurs proches ou de faire des activités qui leur apportaient du plaisir et du sens 
+au temps qui leur restait à vivre.  
+Les renseignements rapportés par les médecins font émerger d’autres conséquences liées à la 
+pandémie, notamment sur le lieu où la personne a vécu ses derniers jours et où elle a reçu l’AMM. 
+Compte tenu des restrictions des visites d ans les milieux de soins, certaines personnes qui 
+recevaient des soins en établissement sont retournées à domicile pour y recevoir l ’AMM afin 
+d’avoir leurs proches à leurs côtés, alors que d’autres, qui étaient à domicile, ont  préféré éviter 
+une admission en centre hospitalier ou dans une maison de soins palliatifs pour cette  même 
+raison. 
+Pour les personnes qui ont reçu l’AMM en établissement, plusieurs médecins ont mentionné dans 
+leur déclaration que l'équipe de soins avait été en mesure d’organiser les communications ou les 
+visites des proches lors des derniers jours de vie de la personne malgré les contraintes imposées  
+en établissement. Quelques médecins ont aussi nommé que les mesures sanitaires telles que la  
+restriction des visites, la distanciation physique ou le port d'équipement de protection étaient 
+susceptibles de mener à une expérience plus difficile ou des deuils compliqués chez les proches. 
+« [Le patient] a décidé de quitter l'hôpital pour avoir son AMM chez lui, entouré de sa 
+famille […], car l'hôpital limitait le nombre de visiteurs à 2 seulement, même en fin de vie » 
+ 
+« Madame voulait à tout prix éviter une hospitalisation ou un hébergement en milieux de 
+soins palliatifs, surtout dans le contexte où la visite des familles est limitée en raison de la 
+COVID-19 » 
+ 
+22 
+3.2.6. AMM administrées à la suite d’un jugement de la Cour 
+Le 11  septembre 2019, la C our supérieure du Québec (Jugement Baudouin) a déclaré 
+inconstitutionnels les critères de «  fin de vie  » (LCSFV) et de « mort naturelle raisonnablement 
+prévisible » (Code criminel) comme condition d’admissibilité à l’AMM. La Cour a accordé six mois 
+aux deux paliers de gouvernement pour modifier leurs lois.  Les personnes qui répondaient à 
+toutes les autres conditions pour recevoir l’AMM pouvaient entre temps demander une 
+autorisation de la Cour pour pouvoir l’obtenir. 
+Au Québec, les personnes qui souhaitaient recevoir l’AMM et qui répondaient à tous les critères, 
+mais dont la mort naturelle n’était pas raisonnablement prévisible , devaient encore obtenir une 
+autorisation de la Cour pour pouvoir obtenir le soin  pourvu qu’elles répond aient aux autres  
+critères d’admissibilité et selon les balises précisées par la LCSFV et le Code criminel. 
+Selon les formulaires de déclaration reçus à la Commission,  20 personnes ont demandé et reçu 
+l’AMM après avoir obtenu une autorisation de la Cour . Les données présentées ci-après portent 
+sur les  19 AMM administrées entre le 1 er avril 2020 et le 31  mars 202118. La majorité des 
+personnes était atteinte d’une maladie neurodégénérative et la très grande majorité présentaient 
+à la fois des souffrances physiques et  psychiques, et ce, depuis de nombreuses années. Pour la 
+majorité d’entre elles, les souffrances ne pouvaient être apaisées parce que les traitements 
+étaient inefficaces ou parce qu’elles jugeaient les effets secondaires inacceptables. 
+Ces personnes  étaient confront ées à une perte d’autonomie sévère qui s’ était installée 
+progressivement. Cette perte d’autonomie a vait mené à une difficulté importante ou à une 
+incapacité à se mobiliser et à faire des activités de la vie quotidienne et domestique ainsi qu’à une 
+dépendance à leurs proches ou aux soignants. Presque toutes ces personnes devaient se déplacer 
+en fauteuil roulant et certaines étaient alitées la plupart du temps. Leur qualité de vie était 
+grandement affectée et pour plusieurs, une détresse psychologique ou un désespoir était associé 
+au déclin de leurs capacités. Selon les renseignements rapportés  par les médecins, certaines 
+personnes qui présentaient une souffrance psychologique importante avaient eu un suivi avec un 
+psychologue, un psychiatre ou un travailleur social. 
+Ces personnes étaient constantes et déterminées face à leur demande d’AMM.  Certaines y 
+pensaient depuis des années. Cette détermination les a amenées à en treprendre des démarches 
+judiciaires après s’être vu refuser l’AMM par un ou plusieurs médecins, essentiellement parce 
+qu’elles n’étaient pas fin de vie (mort naturelle non raisonnablement prévisible). 
+3.3. Profils émergents 
+Avec le retrait du critère de fin de vie (et de la mort naturelle raisonnablement prévisible dans C-
+7), la Commission constate qu’une tendance vers des nouveaux profils de personnes qui ont reçu 
+l’AMM et qui pourraient demander l’AMM se dessinent. Des personnes présentant des conditions 
+cliniques plus complexes que celles présentées en contexte de fin de vie demanderont l’AMM. La 
+Commission estime que ces demandes seront plus difficiles à évaluer par les prestataires de soins. 
+La Commission constate que quelques personnes qui n’étaient pas en fin de vie se sont prévalues 
+de leur droit de recevoir l’AMM. Certains médecins ont indiqué dans leur formulaire de 
+déclaration que la personne avait déjà fait une demande d’AMM qui avait été refusée, ou encore 
+qu’elle attendait les changements législatifs pour demander ou réactiver une demande. 
+ 
+18  Une personne a reçu l’AMM après la fin de la période du présent rapport. 
+ 
+23 
+3.3.1. Maladies neurodégénératives et neurologiques 
+Depuis l’entrée en vigueur de la LCSFV, les maladies neurodégénératives  et neurologiques  
+représentent la deuxième catégorie de diagnostics les plus prévalents chez les personnes qui ont 
+reçu l’AMM au Québec (entre 8  % à 11  % des AMM). Les plus fréquentes sont la sclérose en 
+plaques, la sclérose latérale amyotrophique, la maladie de Parkinson et autres syndromes 
+parkinsoniens et les divers typ es de dystrophie musculaire. L’information transmise par les 
+médecins dans les formulaires de déclaration indique qu’ en plus d’être atteintes d’une maladie 
+grave et incurable, ces personnes présentent souvent un déclin avancé et irréversible de leurs 
+capacités ainsi que des souffrances inapaisables, et ce, plusieurs années avant leur décès. 
+D’ailleurs, la grande majorité (80 %) des personnes qui n’étaient pas en fin de vie (et dont la mort 
+naturelle n’était pas raisonnablement prévisible)  et qui ont obtenu un jugement de la Cour pour 
+recevoir l’AMM étaient atteintes d’une maladie neurologique ou neurodégénérative. 
+3.3.2. Polypathologies 
+La Commission a constaté un nombre croissant de personnes  ayant reçu l’AMM chez qui aucune 
+maladie ne prédominait sur les autres et pour qui c’est une combinaison de plusieurs maladies  
+qui les rendaient admissibles à l’AMM. Dans ces cas, les médecins ont indiqué comme diagnostic 
+des maladies qui, individuellement, pou vaient être traitées ou contrôlées, mais dont la 
+coexistence limitait les options de traitement ou entraînait des complications graves et incurables. 
+La Commission considère  alors le diagnostic principal comme étant une polypathologie.  Ces cas 
+ont représenté 2  % des AMM administrées en 2020 -2021. Pour la même proportion  (2 %), la 
+personne était atteinte de plus d’une maladie grave et incurable susceptible de la rendre 
+admissible à l’AMM, sans qu’il soit possible de déterminer si l’une ou l’autre  avait contribué 
+davantage à la demande d’AMM. 
+La majorité des personnes pour qui le diagnostic était une polypathologie étaient âgées de 80 ans 
+et un peu plus du tiers étaient âgées de 90  ans et plus. Dans certains formulaires, les médecins 
+ont rapporté  que la personne vivait depuis plusieurs années avec une ou plusieurs maladies 
+chroniques, puis a vu sa condition se détériorer de façon importante à la suite d’un problème aigu, 
+tels une fracture, un accident vasculaire cérébral ou une infection.19 
+ 
+19  Les descriptions de cas suivants sont des adaptations libres du contenu indiqué dans les formulaires de déclaration. 
+ 
+24 
+ 
+3.3.3. Autres maladies graves et incurables 
+Autant en raison des changements législatifs récents que d’une meilleure connaissance et 
+intégration de l’AMM parmi les options des soins de fin de vie disponibles, la Commission constate 
+que les maladies graves et incurables à l’origine d’une demande d’AMM sont de plus en plus 
+variées. Outre les maladies rénales, hépatiques, digestives et auto -immunes, déjà rencontrées , 
+mais en plus faible proportion depuis l’entrée en vigueur de la LCSFV, de plus en plus d’AMM sont 
+administrées en lien avec d’autres catégories de maladies dont des troubles endocriniens et des 
+maladies infectieuses. Parmi les maladies graves et incurables qui semblent en augmentation plus 
+spécifiquement avec le retrait du critère de fin de vie  et de mort naturelle raisonnablement 
+prévisible, notons entre autres les maladies musculosquelettiques et les maladies ou syndromes 
+à l’origine de douleurs chroniques. Ces maladies entrainent des s ouffrances constantes et  
+inapaisables ainsi qu’un déclin avancé et irréversible des capacités plusieurs années avant le décès 
+de ces personnes, ce qui les rendaient auparavant inadmissibles à l’AMM. 
+3.3.4. Âge plus avancé 
+La Commission observe une augmentation du nombre de personnes âgées de 70  ans et plus qui 
+ont reçu l’AMM depuis l’entrée en vigueur de la L CSFV. En effet, l a proportion des personnes 
+âgées de 70 ans et plus est passée de 52 % en 201620 à 72 % en 202121. La figure 3.13 présente la 
+proportion de personnes qui ont reçu l’AMM par groupe d’âge selon l’année. Pour la première 
+moitié de l’année 2021, les personnes âgées d e 90 ans et plus représentaient près  de 10 % de 
+celles ayant obtenu l’AMM. L’âge moyen est passé de 71 ans en 2016 à 75 ans en 2021. 
+ 
+20  Inclut les six AMM administrées en 2015. 
+21  Selon les données disponibles en date du 9 août 2021. 
+Personne admise dans un centre hospitalier en li en avec une perte d’autonomie importante et des 
+étourdissements qui perduraient depuis plusieurs mois. Elle souffrait d’une maladie chronique des 
+voies respiratoires et d’une maladie cardiovasculaire ainsi que de multiples comorbidités dont une 
+insuffisance rénale chronique, un diabète et un  cancer en rémission . Elle avait aussi un trouble 
+neurocognitif majeur léger, mais restait apte à consentir aux soins. Elle présentait une dyspnée 
+importante et avait perdu beaucoup de poids. Son pronostic vital était de moins d’un an. Incapable 
+de se déplacer sans assistance, elle était alitée la plupart du temps et avait besoin d’aide pour  faire 
+ses activités quotidiennes. Elle était consciente de ses pertes et du caractère irrémédiable de celles-
+ci. Elle ne pouvait plus faire les activités qui donnaient un sens à sa vie , elle exprimait une perte de 
+dignité et refusait d’être un fardeau pour les siens et d’être relocalisée pour recevoir les soins que le 
+déclin de ses capacités demandait. 
+Personne souffrant de plusieurs pathologies graves et incurables, notamment de 
+problèmes cardiovasculaires, d’hypotension orthostatique et d’ostéoporose sévère et dont 
+l’état général s’était détérioré au cours des dernières années e n raison de l’impact global 
+de l’ensemble de ses pathologies. Celles-ci entraînaient des vertiges, des étourdissements 
+et des chutes. À cela s’ajoutaient une cécité quasi complète et une surdité. Elle devenait de 
+plus en plus dépendante d’autrui, ce qui était une situation intolérable et inacceptable pour 
+elle. Le médecin ayant administré l’AMM était d’avis qu’elle se situait sur une trajectoire 
+de fin de vie et que son pronostic vital était de 1 à 3 mois. 
+ 
+25 
+Figure 3.13  
+Proportion de personnes qui ont reçu l’AMM selon le groupe d’âge 
+ 
+Note : Les données de 2016 incluent les six AMM administrées en 2015. Les données de 2021 incluent les données 
+disponibles en date du 9 août 2021. 
+3.3.5. Délais très courts et plus longs entre la demande et l’administration de l’AMM 
+Depuis les modifications législatives survenues au niveau du gouvernement fédéral, la 
+Commission constate un changement dans les délais entre le moment où la person ne a fait 
+officiellement sa demande d’AMM et le moment où elle a reçu  le soin. La proportion d’AMM 
+administrées en deçà de 10  jours tend à augmenter, passant de 37  % en 2019 -2020 à 43  % en 
+2020-2021 puis à 52 % depuis le 17 mars 202122. De moins en moins de déclarations font mention 
+d’une raison reliée à la condition précaire de la personne pour expliquer ces courts délais 23. 
+Néanmoins, les renseignements fournis dans plusieurs déclarations suggèrent que l’AMM a été 
+administrée rapidement pour répondre au s ouhait de la personne . La Commission constate par 
+ailleurs que plusieurs personnes ont demandé l’AMM alors qu’elles étaient dans leurs dernières 
+semaines, voire derniers jours, de vie alors qu’elles auraient eu la possibilité de le demander plus 
+ 
+22  Selon les données disponibles au 29 juillet 2021. 
+23  Avant le 17  mars 2021, la loi canadienne exigeait qu’un délai de 10  jours soit respecté entre la demande et 
+l’administration de l’AMM, sauf dans certaines conditions particulières. Notons qu’il est possible qu’une telle raison 
+ait été à l’origine du court délai entre la demande et  l’administration de l’AMM sans que celle -ci ait été indiquée 
+au formulaire, puisque le médecin n’a plus à justifier le fait d’avoir administré l’AMM en moins de 10 jours pour les 
+personnes dont la mort naturelle est raisonnablement prévisible.  
+3 3 3 3 2 2
+13 9 9 8 8 6
+32
+30 26 26 25
+20
+27
+30
+33 33 33
+36
+20 23 24 24 25
+27
+5 5 5 6 7 9
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2016 2017 2018 2019 2020 2021
+% de personnes
+Année
+90 ans et +
+80 à 89 ans
+70 à 79 ans
+60 à 69 ans
+50 à 59 ans
+18 à 49 ans
+ 
+26 
+tôt si elles le souhaitaient sous les nouvelles dispositions législatives. Le court délai entre la 
+demande et l’AMM s’explique dans ces cas par l’état très précaire de la personne et de grandes 
+souffrances que la personn e ne p ouvait supporter plus longtemps , tel que rapporté par les 
+médecins. 
+À l’inverse, la proportion de personnes ayant reçu l’AMM plus de 30  jours après en avoir fait la 
+demande a aussi augmenté, passant de 12 % au cours des deux dernières années à 16  % depuis 
+le 17  mars 2021. Cela peut s’expliquer notamment par le fait qu’un délai de 90  jours entre la 
+première évaluation et l’administration de l’AMM est maintenant requis par la loi fédérale pour 
+les personnes dont la mort naturelle n’est pas raisonnableme nt prévisible. De plus, certaines 
+personnes avaient fait leur demande et attendaient le moment de l’entrée en vigueur des 
+modifications législatives pour pouvoir obtenir l’AMM. 
+  
+ 
+27 
+ DONNÉES DES ÉTABLISSEMENTS PUBLICS DE SANTÉ ET DE 
+SERVICES SOCIAUX ET DU COLLÈGE DES MÉDECINS DU QUÉBEC 
+Cette section présente les données transmises à la Commission par les établissements dans les 
+rapports portant sur l’application de leur politique concernant les soins de fin de vie ainsi que par 
+le CMQ pour les périodes du 1er avril 2019 au 31 mars 2020 et du 1er avril 2020 au 31 mars 202124. 
+Les données brutes par établissement se retrouvent à l’annexe C. 
+4.1. Soins palliatifs et de fin de vie 
+Selon les rapports des établissements, 57 555 personnes étaient en SPFV entre le 1er avril 2019 et 
+le 31 mars 2020, alors que 56 822 personnes l’étaient entre le 1er avril 2020 et le 31 mars 202125. 
+La figure 4.1 illustre le nombre de personnes en SPFV par année selon la région sociosanitaire. 
+Figure 4.1 
+Nombre déclaré de personnes en SPFV selon la région sociosanitaire 
+ 
+ 
+24  La Commission n’avait pas reçu les rapports de la région 17 au moment de la rédaction du présent rapport. 
+25  Ces données doivent être interprétées avec prudence compte tenu de la variabilité des sources rapportées. Elles 
+ne représentent pas le nombre absolu de personnes qui ont reçu des SPFV puisqu’une même personne peut avoir 
+reçu des SPFV dans plus d’un lieu de soins.  
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 18
+Nombre de personnes
+Région sociosanitaire
+2019-2020 2020-2021
+ 
+28 
+Comme l’illustre la figure 4.2, les proportions de personnes selon le lieu où elles ont reçu les SPFV 
+sont sensiblement les mêmes pour les deux dernières années. Toutefois, les impacts de la 
+pandémie pourr aient être à l’origine de l’augmentation des personnes en SPFV à domicile en 
+2020-2021. En effet, la proportion de personnes en SPFV à domicile est passée de 39  % en 2019-
+2020 à 44  % en 2020 -2021 et celle des personnes ayant reçu des  SPFV en centre hospita lier de 
+39 % à 34  %. Bien que la répartition soit variable, cette tendance se dessine dans la grande 
+majorité des régions (figure 4.3). 
+Figure 4.2 
+Proportion des personnes en SPFV selon le lieu de soins 
+ 
+ 
+  
+39% 39%
+13%
+9%
+44%
+35%
+13%
+8%
+0
+10
+20
+30
+40
+50
+Domicile Centre hospitalier CHSLD Maison de soins palliatifs
+2019-2020 2020-2021
+% des personnes
+Lieu de soins
+ 
+29 
+Figure 4.3 
+Proportion des personnes en SPFV selon le lieu de soins par région sociosanitaire 
+A – Entre le 1er avril 2019 et le 31 mars 2020 
+ 
+ 
+B – Entre le 1er avril 2020 et le 31 mars 2021 
+ 
+* Le nombre de personnes en SPFV en centre hospitalier et en CHSLD a été fu sionné dans le rapport transmis par 
+l’établissement à la Commission. 
+  
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 18
+Domicile Centre hospitalier CHSLD Maison de soins palliatifs
+Région sociosanitaire
+% de personnes
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 18
+Domicile Centre hospitalier CHSLD Maison de soins palliatifs
+Région sociosanitaire
+% de personnes
+*
+ 
+30 
+4.2. Sédation palliative continue 
+Selon les rapports des établissements et du CMQ, un total de 1 631 SPC ont été déclarées entre 
+le 1 er avril 2019 et le 31  mars 2020 et 1  539 entre le 1 er avril 2020 et le 31  mars 2021. Comme 
+l’indique la figure 4.4, le nombre de SPC administrées varie selon la région sociosanitaire.  
+Figure 4.4 
+Nombre déclaré de SPC administrées selon la région sociosanitaire 
+ 
+Note : Le nombre de SPC administrées pour les  régions 10 et 18 n’est pas indiqué afin de respecter les règles de 
+confidentialité et en raison du risque d’identification relié à la divulgation d’un faible nombre d’individus (0 à 9 SPC,  10). 
+ 
+En utilisant les données de l’ISQ relatives au nombre total de décès sur le territoire québécois, on 
+constate que des SPC ont été administrées dans 2,4 % du nombre total de décès survenus au 
+Québec entre  le 1 er avril 2019 et le 31  mars 202026, ainsi que dans 2,1  % du nombre de décès 
+survenus au Québec entre le 1 er avril 2020 et le 31  mars 202127. La figure  4.5 présente la 
+proportion de décès après une SPC selon la région sociosanitaire 28. Certaines régions ont un 
+nombre de SPC déclarées plus élevé que d’autres régions comptant une population nettement 
+plus importante. Il est possible que les SPC soient sous-déclarées dans certains établissements et 
+certaines régions.  
+ 
+26  INSTITUT DE LA STATISTIQUE DU QUÉBEC, Naissances, décès et mariages par mois et par trimestre, Québec 2009 -
+2019, données du 2 juillet 2020. Consulté en ligne le 9 juillet 2020. 
+27  INSTITUT DE LA STATISTIQUE DU QUÉBEC, Naissances, décès et mariages par mois et par trimestre, Québec 2010 -
+2021, données du 2 juillet 2021. Consulté en ligne le 12 juillet 2021.  
+28  Données provisoires transmises par le MSSS à partir des données de l’ISQ sur le nombre d e décès par région 
+sociosanitaire. La région de certains décès est inconnue. À noter que la région du décès est la région de résidence 
+de la personne alors que la région attribuée à la SPC est celle où le soin a été administré. 
+0
+50
+100
+150
+200
+250
+300
+350
+01 02 03 04 05 06 07 08 09 11 12 13 14 15 16
+2019-2020 2020-2021
+Région sociosanitaire
+Nombre de SPC administrées
+ 
+31 
+Figure 4.5 
+Proportion de décès après une SPC selon la région sociosanitaire 
+ 
+Note : La proportion de décès après une SPC pour les régions  10 et 18 n’est pas indiquée afin de respecter les règles de 
+confidentialité et en raison du risque d’identification relié à la divulgation d’un faible nombre d’individus (0 à 9 SPC,  10). 
+4.3. Aide médicale à mourir 
+Selon les rapports des établissements, 2 745 demandes d ’AMM ont été formulées entre le 
+1er avril 2019 et le 31  mars 2020 et 3  412 entre le 1 er avril 2020 et le 31 mars 2021. Au cours de 
+l’année 2019-2020, 1 775 AMM ont été administrées et 980 AMM n’ont pas été administrées. 
+Pour l’année 2020 -2021, ce sont 2  415 AMM qui ont été administrées et 990  AMM qui ne l’ont 
+pas été. Le rapport du CMQ indique l’administratio n, par des médecins exerçant leur profession 
+dans un cabinet privé de professionnel , de 103 AMM pour l’année  2019-2020 et de 273  AMM 
+pour l’année  2020-2021. Ainsi, selon les rapports des établissements et du CMQ, un total de 
+1 878 AMM ont été administrées et déclarées au Québec entre le 1er avril 2019 et le 31 mars 2020 
+et un total de 2 688 AMM entre le 1er avril 2020 et le 31 mars 2021 (tableau 4.1)29.  
+  
+ 
+29  La Commission constate que le nombre d’AMM déclarées par les établissements et le CMQ est différent du nombre 
+d’AMM déclarées à la Commission. Cela s’explique en partie par le fait que certaines AMM ont été déclarées en 
+double au CMQ et à un établissement. La Commission fera les vérifications nécessaires afin de s’assurer qu’elle a 
+reçu le formulaire de déclaration pour toutes les AMM administrées rapportées par les établissements et le CMQ. 
+0
+1
+2
+3
+4
+5
+6
+7
+01 02 03 04 05 06 07 08 09 11 12 13 14 15 16
+2019-2020 2020-2021
+Moyenne provinciale 2019-2020 Moyenne provinciale 2020-2021
+Région sociosanitaire
+% de décès après une SPC
+ 
+32 
+Tableau 4.1 
+Nombre déclaré de demandes d’AMM formulées, d’AMM administrées et  d’AMM non 
+administrées 
+Aide médicale à mourir 2019-2020 2020-2021 
+Établissements CMQa Total Établissements CMQa Total 
+Demandes formulées 2 745b − 2 745 3 412b − 3 412 
+Administrées 1 775 (64 %) 103 1 878 2 415 (71 %) 273 2 688 
+Non administrées 980 (36 %) − 980 990 (29 %) − 990 
+a Le CMQ ne reçoit pas les informations relatives aux demandes d'AMM et aux AMM non administrées. 
+b La somme des AMM administrées et non administrées ne correspond pas au nombre de demandes d’AMM formulées 
+déclaré par les établissements. 
+ 
+Selon les rapports des établissements  pour l’année 2019 -2020, 64  % des demandes d’AMM 
+formulées ont été administrées et 36 % n’ont pas été administrées (figure 4.6). En ce qui concerne 
+l’année 2020-2021, 71 % des demandes d’AMM formulées ont été administrées et 29 % n’ont pas 
+été administrées. 
+Figure 4.6 
+Proportion des AMM administrées et  des AMM  non administrées par rapport au nombre de 
+demandes formulées 
+ 
+ 
+La figure 4.7 illustre la proportion des AMM administrées et des AMM non administrées selon la 
+région sociosanitaire, lesquelles varient selon la région. À la lumière des informations transmises, 
+il semble que le suivi et la compilation des demandes d’AMM formulées ne soient pas faits de 
+façon systématique dans tous les établissements.30 La Commission n’est pas en mesure de vérifier 
+ces données et d’en corriger les erreurs qui pourraient s’y glisser. 
+  
+ 
+30  Ceci pourrait expliquer en partie les proportions d’AMM administrées plus élevées dans certains établissements et 
+certaines régions. La Commission a également été informée que l’admissibilité de la personne à l’AMM est parfois 
+évaluée avant de faire signer le formulaire de demande, ce qui peut expliquer la plus faible proportion d’AMM non 
+administrées dans certains établissements et certaines régions. 
+64%
+71%
+36%
+29%
+0
+20
+40
+60
+80
+2019-2020 2020-2021
+AMM administrées AMM non administrées
+Année
+% des AMM 
+ 
+33 
+Figure 4.7 
+Proportion des AMM administrées et non administrées par rapport au nombre de demandes 
+formulées selon la région sociosanitaire 
+ 
+A – Entre le 1er avril 2019 et le 31 mars 2020 
+ 
+ 
+B – Entre le 1er avril 2020 et le 31 mars 2021 
+ 
+Note : La proportion des AMM administrées et non administrées pour l es régions  10 et 18 n’est pas indiquée afin de 
+respecter les règles de confidentialité et en raison du risque d’identification relié à la divulgation d’un faible nombre 
+d’individus (0 à 9 AMM). Pour cette même raison, la proportion des AMM non administrées est illustrée à l’aide de pointillés 
+lorsque le nombre transmis à la Commission est  10. La somme des AMM administrées et non administrées ne correspond 
+pas toujours au nombre de demandes d’AMM formulées déclaré par les établissements. Par conséquent, la  somme des 
+proportions parfois dépasse ou n’atteint pas 100 %. 
+80
+61 63
+100
+57 56
+75
+86
+62
+100 94
+56 53
+66 71
+20
+39 37 43 44
+25
+38 44 47
+35 30
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+01 02 03 04 05 06 07 08 09 11 12 13 14 15 16
+AMM administrées AMM non administrées
+Région sociosanitaire
+%
+81 77 75
+91
+66
+54
+78
+97 100 100 98
+62 65 66
+74
+19 23 25
+9
+34
+48 35
+38 31
+24
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+01 02 03 04 05 06 07 08 09 11 12 13 14 15 16
+AMM administrées AMM non administrées
+Région sociosanitaire
+%
+ 
+34 
+Les principaux motifs de la non -administration de l’AMM déclarés dans les rapports des 
+établissements sont , soit que la personne ne répondait pas ou ne répondait plus aux critères 
+d’admissibilité à l’AMM prescrits par la LCSFV, soit qu’elle est décédée avant la fin de l’évaluation 
+ou avant l’administration de l’AMM, soit qu’elle a retiré sa demande. 
+Tableau 4.2 
+Nombre de demandes d’AMM non administrées selon le motif  déclaré dans les rapports des 
+établissements 
+Motif de la non-administration Nombre de demandes d’AMM 
+2019-2020 2020-2021 
+La personne ne répondait pas ou plus aux critères d’admissibilité 349 (36 %) 324 (33 %) 
+La personne est décédée avant la fin de l’évaluation ou avant 
+l’administration de l’AMM 
+325 (33 %) 334 (34 %) 
+La personne a retiré sa demande 175 (18 %) 169 (17 %) 
+La demande était en cours d’évaluation ou de processus 41 (4 %) 74 (7 %) 
+Une autre option de traitement a été privilégiée 24 (2 %) 17 (2 %) 
+La personne est retournée à domicile ou a été transférée en maison de 
+soins palliatifs ou dans un autre centrea 
+42 (5 %) 47 (5 %) 
+Autre motifb 24 (2 %) 25 (2 %) 
+Total 980 (100 %) 990 (100 %) 
+a Les renseignements transmis à la Commission ne permettent pas de savoir ce qu’il est advenu de ces demandes 
+puisqu’elles n’ont pas été rapportées par un autre établissement et n’ont pas été administrées. 
+b Pour l’année 2019-2020, les autres motifs sont en attente de choix d’une date par la personne (n=2), motifs inconnus 
+(n=4) ou autres motifs, sans autre précision (n=18). Pour l’année 2020-2021, les autres motifs sont en attente de choix 
+d’une date par la personne (n=2) et autres motifs, sans autre précision (n=23).  
+Note : Les motifs de non -administration de certains établissements proviennent des données détaillées concernant 
+les AMM non administrées transmises à la Commission. 
+  
+ 
+35 
+ CONSTATS ET PRÉOCCUPATIONS 
+Pandémie de la COVID-19 et soins palliatifs et de fin de vie 
+L’année 2020-2021 a été marquée par la pandémie qui a bouleversé tout le réseau de la santé et 
+des services sociaux et par conséquent, l’offre de soins et de services. La Commission a peu de 
+données quant à l’impact et les conséquences de la pandémie sur les SPFV. 
+• La Commission déplore toutefois la situation extrêmement difficile vécue dans plusieurs 
+CHSLD et résidences privées pour aînés au printemps  2020, telle que  dénoncée par de 
+nombreux intervenants, proches des personnes touchées et médias comme une hécatombe 
+dans ces milieux d’hébergement. La pandémie a mis en lumière la vulnérabilité de ces milieux 
+de soins en termes d’effectifs et la  précarité de cette clientèle, dont l’état de santé fragile 
+limite l’autonomie et l’espérance de vie, et l’a rendu plus vulnérable. 
+La Commission n’a pas de capacité d’enquête. Cependant, en date de l’écriture de ce rapport, 
+trois enquêtes officielles sont en cours menées par le Protecteur du citoyen, le Commissaire 
+à la santé et au bien-être (CSBE) et le Bureau du coroner (résidence Herron). Dans son rapport 
+d’étape publié en décembre  2020, le Protecteur du citoyen décrit un portrait des 
+problématiques vécues en CHSLD qui ont été révélées ou exacerbées par la pandémie et 
+recommande des priorités d’action en insistant sur l’importance d’agir sans tarder afin 
+d’assurer des soins et des services en CHSLD dans le respect des droits et de la dignité des 
+personnes hébergées. 31 Dans son rapport préliminaire publié en septembre  2021, le CSBE 
+identifie des lacunes sur le plan de la gouvernance du système de soins et de services offerts 
+aux aînés qui ont contribué aux impacts de la première vague de la pandémie chez les 
+personnes âgées, notamment celles vivant en CHSLD.32 
+• Particulièrement pendant la première vague de la pandémie, plusieurs intervenants du réseau 
+ont décrié que bon nombre de personnes en fin de vie sont décédées sans nécessairement 
+avoir reçu des SPFV. À la lumière des données transmises par les établissements : 
+ Prépandémie 
+2019-2020 
+Pandémie 
+2020-2021 Variation 
+Personnes en SPFV 57 555 56 822  1 % 
+SPC déclarées 1 631 1 539  6 % 
+Demandes d’AMM formulées 2 745 3 412  24 % 
+AMM administrées 1 775 2 415  36 % 
+AMM non administrées 980 990  1 % 
+ 
+o Bien que le nombre déclaré de personnes en SPFV soit demeuré stable, plusieurs 
+intervenants ont rapporté que du personnel assigné aux soins à domicile et des 
+médecins œuvrant en SPFV ont été affectés à d’autres activités cliniques liées à la 
+COVID-19 et que bon nombre de personnes sont décédées sans avoir pu bénéficier d’un 
+accompagnement en fin de vie optimal. 
+ 
+31  PROTECTEUR DU CITOYEN, Rapport d'étape du Protecteur du citoyen. La COVID -19 dans les CHSLD durant la 
+première vague de la pandémie. Apprendre de la crise et passer à l'action pour respecter les droits et la dignité des 
+personnes hébergées, Protecteur du citoyen, Décembre 2020, 21 p. [En ligne] 
+32  COMMISSAIRE À LA SANTÉ ET AU BIEN-ÊTRE, Mandat sur la performance des soins et services aux ainés – COVID-
+19. Rapport préliminaire., Québec, Gouvernement du Québec, Septembre 2021, 48 p. [En ligne] 
+ 
+36 
+o Une légère baisse du nombre de SPC déclarées a été observée en 2020-2021. 
+o Le nombre d’AMM administrées a diminué en avril 2020 et est remonté graduellement 
+en mai. L’augmentation du nombre d’AMM en 2020-2021 (36 %) est similaire à celle de 
+l’année précédente (3 8 %). Les mesures sanitaires en vigueur ont eu pour effet 
+d’augmenter de façon significative l’administration de l’AMM à domicile. 
+• La pandémie a fait ressortir le besoin de connaître les volontés des personnes en fin de vie 
+notamment par la détermination du niveau de soins et les directives médicales anticipées , 
+ainsi que l’importance d’en discuter plus précoc ement, de les rendre disponibles  et de les 
+mettre à jour  au besoin. Cela permet aux équipes de soins et aux proches de respecter les 
+volontés de la personne et de lui offrir une fin de vie plus confortable et conforme à ses 
+valeurs. 
+Aide médicale à mourir 
+• Le nombre d’AM M administrées par année continue d e croître. Le nombre d’AMM 
+administrées en 2020-2021 a augmenté de  36 % par rapport à 2019 -2020. Entre l’entrée en 
+vigueur de la LCSFV le 10 décembre 2015 et le 31 mars 2021, 7 109 personnes ont reçu l’AMM 
+au Québec. 
+• Les décès par AMM ont représenté 3,3 % du nombre total de décès survenus au Québec entre 
+le 1er avril 2020 et le 31 mars 2021, comparativement à 2,6 % pour l’année 2019-2020. 
+• La presque totalité des AMM ont été administrées conformément aux exigences de la LCSFV. 
+Dans presque tous les cas, l es exigences qui n’étaient pas respectées étaient en lien avec les 
+procédures de demande et de vérifications préalables. 
+• Comme par les années passées, la grande majorité des personnes qui ont reçu l’AMM étaient 
+âgées de 60 ans et plus, étaient atteintes d’un cancer, avaient un pronostic vital de six  mois 
+ou moins et présentaient à la fois des souffrances physiques et psychiques. 
+• La proportion des AMM administrées à domicile a augmenté en 2020-2021 comparativement 
+à l’année 20 19-2020 (39  % et 20  %) alors que celle des AMM administrées en centre 
+hospitalier a diminué (48 % et 65 %). Les mesures sanitaires en vigueur à cause de la pandémie 
+pourraient être à l’origine de ce changement, pour des raisons énoncées précédemment, 
+incluant les visites restreintes dans les établissements. La Commission est d’avis que 
+l’administration à l’AMM à domicile doit être favorisée, si tel est le désir de la personne. 
+• Bien que la grande majorité des personnes qui ont reçu l’AMM souhaitaient la rece voir 
+rapidement après leur demande (délai moyen de 19  jours; 88 % l’ont reçu e dans le mois 
+suivant, dont 43 % en moins de 10 jours), certaines personnes ont préféré attendre, même si 
+leur demande avait été jugée admissible. Pour ces dernières, savoir qu’el les auraient la 
+possibilité de recevoir l’AMM au moment choisi était rassurant et leur a permis de vivre leur 
+fin de vie de façon plus sereine selon les propos des prestataires de soins. 
+• En 2020 -2021, 19  personnes qui n’étaient pas considérées en fin de vie (et dont la mort 
+naturelle n’était pas raisonnablement prévisible) ont obtenu une autorisation de la Cour 
+supérieure du Québec pour recevoir l’AMM33. La majorité de ces personnes étaient atteintes 
+d’une maladie neurologique ou neurodégénérative  grave et incurable . Ceci laisse présager 
+ 
+33  Une vingtième personne a reçu l’AMM, mais après la période du présent rapport d’activités. 
+ 
+37 
+que davantage de personnes atteintes de ce type de maladie pourraient demander l’AMM à 
+un stade plus précoce de leur maladie. 
+• La Commission constate que le s maladies graves et incurables à l’origine d’une demande 
+d’AMM sont de plus en plus variées. De plus, le nombre de personnes qui ont reçu l’AMM et 
+qui ne souffraient pas que d’une seule maladie grave et incurable a augmenté. Pour certaines 
+personnes, souvent âgées de 80 ans et plus, la présence concomitante de plusieurs maladies 
+les ont rendues admissibles à l’AMM. 
+• La proportion des demandes d’AMM qui ont été administrées varie selon les régions, mais a 
+augmenté de façon générale . En effet, les proportions  des AMM administrées et des AMM 
+non administrées ont été respectivement de 64 % et 36 % pour l’année 2019-2020 et de 71 % 
+et 29 % pour l’année 2020-2021. 
+• Les principaux motifs de la non-administration de l’AMM déclarés par les établissements sont 
+que la personne ne répondait pas ou ne répondait plus aux critères d’admissibilité ou qu ’elle 
+est décédée avant la fin de l’évaluation ou avant l’administration de l’AMM. 
+• Selon les commentaires de plusieurs médecins participant à l’AMM, la Commission constate 
+que les différences entre les critères d’admissibilité et les mesures de sauvegarde de l’AMM 
+de la LCSFV et du Code criminel posent de plus en plus de difficultés dans l’évaluation des 
+demandes d’AMM, notamment le critère de « maladie grave et incurable » au Québec et celui 
+de «  maladie, affection ou handicap grave et incurable  » au Canada.  L’absence du critère 
+« handicap grave et incurable » dans la LCSFV discrimine les Québécois. 
+• La Commission est privée d’informations essentielles concernant toutes les demandes 
+d’AMM, qu’elles soient administrées ou non, communiquées par les médecins évaluateurs et 
+prestataires de l’AMM au gouvernement fédéral. Afin de présenter un portrait le plus complet 
+possible de l’AMM au Québec, la Commission demande des données détaillées aux 
+établissements. Cela représente un travail fastidieux pour les équipes qui doivent retrouver 
+ces renseignements à même les dossiers médicaux alors qu’ils s ont disponibles à la source 
+dans le formulaire électronique unique. Cela entra ine une perte de temps considérable ainsi 
+qu’une diminution de la qualité des données, situation qui doit être corrigée dès que possible. 
+La Commission souhaite avoir accès aux d onnées recueillies par le questionnaire fédéral afin 
+de pouvoir donner un portrait complet et détaillé de l’AMM au Québec. 
+Sédation palliative continue 
+• Le nombre de SPC déclarées au cours de l’année 2020 -2021 a diminué d’environ 6  % par 
+rapport à l’année 2019-2020. La Commission ne peut documenter les raisons sous-jacentes à 
+cette légère baisse, notamment si ceci reflète une diminution réelle du nombre de SPC 
+administrées ou plutôt une diminution des déclarations. 
+• Les décès après une SPC ont représenté 2,4 % du nombre total de décès survenus au Québec 
+en 2019-2020 et 2,2 % en 2020-2021. 
+  
+ 
+38 
+Soins palliatifs et de fin de vie 
+• Même si l es proportions des personnes qui ont reçu des  SPFV selon le s lieux de soins sont 
+sensiblement les mêmes pour les années 2019-2020 et 2020-2021, les impacts de la pandémie 
+pourraient être à l’origine de l’augmentation des personnes en SPFV à domicile en 2020-2021 
+(44 % vs 39 %). La Commission est d’avis que le soutien pour favoriser les SPFV à domicile doit 
+s’accroitre.  
+• À la lumière des appels reçus et des échanges avec les partenaires, la Commission constate 
+que la population québécoise, dans sa diversité tant culturelle, linguistique que régionale, a 
+besoin d’informatio n concernant les SPFV en général, l’AMM et les diverses formes 
+d’expression des volontés. Les intervenants du réseau ont également besoin d’information et 
+d’accompagnement concernant les changements législatifs relativement à l’AMM. 
+  
+ 
+39 
+ PERSPECTIVES 
+Bien que le texte suivant dépasse le cadre du présent rapport d’activités pour l’année 2020-2021, 
+la Commission croit nécessaire et pertinent au débat actuel d’ajouter les commentaires suivants. 
+Commission spéciale sur l’évolution de la Loi concernant les soins de fin de vie 
+Le 31 mars 2021, l’Assemblée nationale a créé la Commission spéciale sur l’évolution de la LCSFV 
+dont le mandat est d’analyser les enjeux reliés à l’élargissement potentiel de l’AMM pour les 
+personnes en situation d’inaptitude et celles souffrant de troubles mentaux. La Commission a pris 
+part aux consultations particulières lors d’une audition publique le 14  mai34 et a partagé son 
+expérience de l’examen de plus de 7  000 AMM administrées au Québec. Elle a  fait part de ses 
+recommandations concernant les deux questions à l’étude et d’autres enjeux qui méritaient 
+l’attention immédiate de l’Assemblée nationale. Elle a par ailleurs déposé un mémoire 35 lequel 
+comporte les douze recommandations suivantes : 
+• Que l’Assemblée nationale révise la LCSFV pour permettre l’AMM aux personnes atteintes 
+d’un handicap grave et incurable et qu’un groupe d’experts soit constitué pour en définir 
+les mesures d’évaluation et de sauvegarde; 
+• Que l’Assemblée nationale révise la LCSFV pour ajouter l’infirmier praticien  spécialisé 
+comme évaluateur et prestataire de l’AMM; 
+• Que l’Assemblée nationale révise la LCSFV pour mettre en place des mesures de 
+sauvegarde supplémentaires pour les personnes admissibles dont la complexité est liée à 
+la mort  naturelle non raisonnablement prévisible, notamment un délai de réflexion et 
+d’évaluation et la consultation d’un médecin expert reconnu; 
+• Que l’Assemblée nationale révise dès maintenant la LCSFV pour permettre aux personnes 
+jugées admissibles dont la mort naturelle est raisonnablement prévisible de renoncer au 
+consentement final si elles risquent de perdre leur aptitude à consentir avant la date 
+prévue pour l’AMM et d’en définir les modalités d’application (en vigueur depuis 
+l’amendement à la LCSFV adopté le 10 juin 2021); 
+• Que l’Assemblée nationale révise la LCSFV pour permettre aux personnes ayant reçu un 
+diagnostic de trouble neurocognitif majeur grave et incurable de faire une demande 
+anticipée d’AMM en prévision de l’inaptitude à consentir et d’en défin ir les modalités 
+d’application; 
+• Que l’Assemblée nationale révise la LCSFV pour ajouter des mesures particulières 
+d’évaluation et de sauvegarde pour la demande anticipée d’AMM en contexte 
+d’inaptitude à consentir; 
+• Que l’Assemblée nationale révise la LCSFV p our ajouter des mesures particulières 
+d’évaluation et de sauvegarde pour l’AMM pour cause unique ou principale de troubles 
+mentaux; 
+ 
+34  Commission spéciale sur l’évolution de la Loi concernant les soins de fin de vie. Audition – Commission sur les soins 
+de fin de vie. 14 mai 2021 (Durée : 1:04:13) [En ligne] 
+35  COMMISSIONS SUR LES SOINS DE FIN DE VIE, Mémoire présenté dans le cadre des travaux de la Commission spéciale 
+sur l’évolution de la Loi concernant les soins de fin de vie, 2021, 21 p. [En ligne] 
+ 
+40 
+• Que le Gouvernement du Québec constitue un groupe d’experts pluridisciplinaire sur la 
+question de l’AMM pour les personnes mineures; 
+• Que l’Assemblée nationale révise la LCSFV (mise à jour) dès l’automne 2021; 
+• Que le Gouvernement du Québec réalise une campagne d’information et de 
+sensibilisation sur les SPFV auprès de la population et des professionnels de la santé et 
+des services sociaux; 
+• Que le Gouvernement du Québec mette à la disposition des professionnels de la santé et 
+des services sociaux impliqués dans l’AMM un service -conseil pour répondre à leurs 
+questions en temps réel, notamment pour des évaluations complexes; 
+• Que le Gouvernement du Québec mette à la disposition de la population, des personnes 
+souffrantes et de leurs proches les ressources nécessaires pour répondre à leurs questions 
+en temps réel. 
+En sus de ces recommandations, la Commission demande d’avoir accè s aux données anonymes 
+transmises au gouvernement fédéral concernant toutes les demandes d’AMM formulées, les 
+AMM administrées et les AMM non administrées, et ce, afin de lui permettre de remplir son 
+mandat et d’avoir un portrait plus complet de l’évolution de l’AMM au Québec. 
+Consentement à l’AMM en cas de perte de l’aptitude à consentir aux soins 
+Le 10  juin 2021, l’Assemblée nationale a adopté un amendement à la LCSFV permettant aux 
+personnes en fin de vie jugées admissibles à l’AMM de consentir à recevoir l’AMM dans le cas où 
+elles perdraient leur aptitude à consentir aux soins avant son administration. Cette mesure 
+permet d’éviter des souffrances importantes aux personnes admissibles à l’AMM pour qui la 
+crainte de perdre l’aptitude à consentir aux soins peut causer une grande anxiété ou les inciter à 
+refuser ou à diminuer la médication qui peut soulager leurs souffrances de façon plus optimale. 
+Elle permet aussi d’éviter de précipiter le moment de l’AMM pour des personnes qui décideraient 
+de la devancer par crainte de ne pas pouvoir la recevoir si elles attendaient davantage. Quelques 
+personnes se sont déjà prévalues de ce consentement à ce jour. 
+ 
+  
+ 
+41 
+ CONCLUSION 
+Le présent rapport annuel d’activités de la Commission présente les données relatives aux SPFV 
+pour la période du 1 er avril 2020 au 31 mars 2021, période marquée par les premières vagues de 
+la pandémie de la COVID -19. La Commission est consciente que l’offre de SPFV, alors que 
+maintenue comme services essentiels 36, a été affectée par les différ entes mesures sanitaires 
+mises en place. Elle a peu de données sur l’impact et les conséquences de la pandémie sur les 
+SPFV. Le nombre de personnes en SPFV et ayant reçu une SPC est similaire à l’année précédente 
+et l’AMM a poursuivi sa croissance. La Commission salue par ailleurs l’ensemble des intervenants 
+en santé et services sociaux pour leur travail acharné, leur dévouement, leur ingéniosité et leurs 
+capacités d’adaptation, particulièrement en cette période de pandémie. 
+Le retrait du critère de fin de vie (et de mort naturelle raisonnablement prévisible) et la nouvelle 
+disposition de consentement à recevoir l’AMM en cas de perte de l’aptitude à consentir aux soins 
+permettront à des personnes qui n’étaient pas admissibles à l’AMM de la recevoir dans le respect 
+de leurs volontés de fin de vie. Une tendance vers un nouveau profil de personnes qui ont reçu 
+l’AMM et qui pourraient la demander et la recevoir plus tôt dans l’évolution de leur maladie se 
+dessine. Des personnes présentant des conditions cliniques plus complexes demanderont l’AMM. 
+Ces demandes seront plus difficiles à évaluer par les prestataires de soins. Les prochaines années 
+sont donc susceptibles de modifier de façon significative le tableau de l’AMM au Québec. La 
+Commission surveillera en temps réel l’évolution de l’AMM afin d’éviter les dérives potentielles 
+et s’assurer qu’il n’y ait pas de glissement vers la mort sur demande. Pour ce faire, la Commission 
+doit avoir accès aux données concernant toutes les demandes d’AMM formulées, qu’ elles soient 
+administrées ou non. 
+Plusieurs voix de la société civile réclament du législateur, sur le principe de l’autodétermination 
+de la personne, l’élargissement des critères d’admissibilité à l’AMM. À cet égard, le débat s’est 
+poursuivi le 31 mars 2021 au Québec par la création par l’Assemblée nationale de la Commission 
+spéciale sur l’évolution de la L CSFV. La Commission attend avec grand intérêt les conclusions de 
+ces travaux parlementaires et consultations publiques qui conduiront à une révision et 
+modernisation de la LCSFV actuelle, adoptée le 5 juin 2014. 
+ 
+36  Correspondance du sous-ministre de la Santé et des Services sociaux aux présidents-directeurs généraux des 
+établissements publics de santé et de services sociaux, 16 avril 2020.  
+ 
+42 
+ ÉTATS FINANCIERS 
+Résultats cumulatifs du 1er avril 2020 au 31 mars 2021 
+ 
+  
+2019-2020 
+$ 
+2020-2021 
+$ 
+Revenu    
+ Solde (au 1er avril)  51 104 (3 118) 
+ Gouvernement du Québec   913 400 925 300 
+ Revenus 2020-2021 pour combler déficit cumulé 2019-2020  - 3 118 
+  964 504 925 300 
+     
+Charges    
+ Traitements et avantages sociaux  421 641 421 581 
+ Honoraires des membres  258 177 217 815 
+ Frais de réunion  37 962 693 
+ Services professionnels et administratifs  26 450 - 
+ Informatique  32 016 11 500 
+ Papeterie, impression et frais de bureau  2 408 391 
+ Frais de déplacement employés  12 216 - 
+ Frais de formation, congrès et représentation  11 752 1 282 
+ Frais de location d'espace et de soutien administratif  165 000 165 000 
+   967 623 818 262 
+     
+Excédent (déficit) de l’exercice  (3 118) 107 038 
+     
+ 
+43 
+ANNEXE A 
+DISPOSITIONS DE LA LOI CONCERNANT LES SOINS DE FIN DE VIE 
+PORTANT SUR LES EXIGENCES PARTICULIÈRES RELATIVES À L’AIDE 
+MÉDICALE À MOURIR 
+CHAPITRE IV 
+EXIGENCES PARTICULIÈRES RELATIVES À CERTAINS SOINS DE FIN DE VIE 
+[…] 
+SECTION II 
+AIDE MÉDICALE À MOURIR 
+26. Seule une personne qui satisfait à toutes les conditions suivantes peut obtenir l’aide médicale à mourir : 
+1° elle est une personne assurée au sens de la Loi sur l’assurance maladie (chapitre A-29); 
+2° elle est majeure et apte à consentir aux soins; 
+3° elle est en fin de vie (cette condition ne s’applique plus); 
+4° elle est atteinte d’une maladie grave et incurable; 
+5° sa situation médicale se caractérise par un déclin avancé et irréversible de ses capacités; 
+6° elle éprouve des souffrances physiques ou psychiques constantes, insupportables et qu i ne peuvent 
+être apaisées dans des conditions qu’elle juge tolérables. 
+La personne doit, de manière libre et éclairée, formuler pour elle -même la demande d’aide médicale à 
+mourir au moyen du formulaire prescrit par le ministre. Ce formulaire doit être dat é et signé par cette 
+personne. 
+Le formulaire est signé en présence d’un professionnel de la santé ou des services sociaux qui le contresigne 
+et qui, s’il n’est pas le médecin traitant de la personne, le remet à celui-ci. 
+[…] 
+29. Avant d’administrer l’aide médicale à mourir, le médecin doit : 
+1° être d’avis que la personne satisfait à toutes les conditions prévues à l’article 26, notamment : 
+a) en s’assurant auprès d’elle du caractère libre de sa demande, en vérifiant entre autres qu’elle 
+ne résulte pas de pressions extérieures; 
+b) en s’assurant auprès d’elle du caractère éclairé de sa demande, notamment en l’informant du 
+pronostic relatif à la maladie, des possibilités thérapeutiques envisageables et de leurs 
+conséquences; 
+c) en s’assurant de la persistance de ses souffrances et de sa volonté réitérée d’obtenir l’aide 
+médicale à mourir, en menant avec elle des entretiens à des moments différents, espacés par un 
+délai raisonnable compte tenu de l’évolution de son état; 
+d) en s’entretenant de sa demande avec des membres de l’équipe de soins en contact régulier avec 
+elle, le cas échéant; 
+e) en s’entretenant de sa demande avec ses proches, si elle le souhaite; 
+2° s’assurer que la personne a eu l’occasion de s’entretenir de sa demande avec les personnes qu’elle 
+souhaitait contacter; 
+3° obtenir l’avis d’un second médecin confirmant le respect des conditions prévues à l’article 26. 
+Le médecin consulté doit être indépendant, tant à l’égard de la personne qui demande l’aide médicale à 
+mourir qu’à l’égard du médecin qui demande l’avis. Il doit prendre connaissance du dossier de la personne 
+et examiner celle-ci. Il doit rendre son avis par écrit. 
+  
+ 
+44 
+ANNEXE B 
+DONNÉES DE LA COMMISSION CONCERNANT LES AIDES MÉDICALES 
+À MOURIR ADMINISTRÉES EN 2020-2021 
+Tableau B1 
+Caractéristiques des personnes qui ont reçu l’AMM 
+Sexe Nombre % 
+Homme 1 261 52 
+Femme 1 165 48 
+Total 2 426 100 
+Âge Nombre % 
+Groupe d’âge (ans)   
+18-29 4 < 1 
+30-39 11 < 1 
+40-49 34 1 
+50-59 179 7 
+60-69  586 24 
+70-79  818 34 
+80-89  607 25 
+90-99  183 8 
+100 et plus 4 < 1 
+Total 2 426 100 
+Âge moyen (écart type) 74 ans (11 ans) 
+Diagnostic principala Nombre % 
+Cancer 1769 73 
+Maladie neurodégénérative ou neurologiqueb 206 8 
+Maladie cardiaque ou vasculaire 139 6 
+Maladie pulmonaire 125 5 
+Autrec 187 8 
+Total 2 426 100 
+Pronostic vitald Nombre % 
+2 semaines ou moins 385 16 
+1 mois ou moins 531 22 
+3 mois ou moins 816 33 
+6 mois ou moins 287 12 
+1 an ou moins 150 6 
+Plus d’un an 22 1 
+Évaluation approximativee 235 10 
+Total 2 426 100 
+a Dans les rapports précédents, les personnes qui présentaient plusieurs diagnostics étaient comptabilisées dans chacune 
+des catégories. Dans le présent rapport, celles-ci apparaissent dans la catégorie « autre ». 
+b Cette catégorie a été élargie pour inclure  les maladies neurologiques, auparavant classifiées dans « autre ». La maladie 
+neurodégénérative la plus fréquente est la sclérose latérale amyotrophique. Parmi les autres maladies neurodégénératives 
+ou neurologiques les plus fréquentes, notons la maladie de Parkinson et les autres syndromes parkinsoniens (p. ex. 
+paralysie supranucléaire progressive, atrophie multisystématisée, dégénérescence cortico-basale), la sclérose en plaques 
+et différents types de dystrophie. 
+c Les autres diagnostics principaux inclu ent, entre autres,  des maladies rénales, digestives, musculosquelettiques, 
+inflammatoires, endocriniennes et infectieuses. Deux pour  cent (2 %) des personnes étaient atteintes de plus d’une 
+maladie grave et incurable, sans qu’il soit possible de déterminer laquelle avait contribué davantage à la demande d’AMM 
+et pour la même proportion (2  %), une combinaison de plusieurs maladies qui les rendaient admissibles à l’AMM  
+(polypathologie). 
+d Les catégories sont mutuellement exclusives. Lorsque le pronostic est exprimé à l’aide d’un intervalle temporel, la limite 
+supérieure a été utilisée. Le formulaire de déclaration ne permet pas de savoir si le  pronostic vital indiqué est celui au 
+moment de la demande ou de l’administration de l’AMM. 
+e Dans la plupart des cas, les pronostics vitaux indiqués variaient de quelques jours à quelques mois, sans qu’il soit possible 
+de les préciser davantage. 
+ 
+45 
+Tableau B2 
+Type de souffrance des personnes qui ont reçu l’AMM 
+Type de souffrance Nombre % 
+Physique et psychique 2 254 93 
+Psychique 170 7 
+Physique 2  1 
+Total 2 426 100 
+Note : Les souffrances rapportées sont celles indiquées au formulaire de déclaration rempli par le médecin qui a administré 
+l’AMM. Il est possible qu’une personne ait pu présenter des souffrances qui n’ont pas été consignées dans le formulaire.  
+ 
+Tableau B3 
+Souffrances des personnes qui ont reçu l’AMM 
+Souffrancesa Nombre %b 
+Perte de capacité à effectuer les activités qui donnent du sens à la vie 2 311 97 
+Perte de capacité à effectuer les activités de la vie quotidienne 2 221 93 
+Perte de la dignité 1 860 78 
+Contrôle inadéquat de symptômes autres que la douleur ou préoccupations à ce sujet 1 384 58 
+Contrôle inadéquat de la douleur ou préoccupation à ce sujet 1 384 58 
+Fardeau perçu sur la famille, les amis ou les soignants 1 059 44 
+Perte de contrôle des fonctions corporelles 884 37 
+Isolement ou solitude 576 24 
+Autre 104 4 
+a Choix de réponse inclus dans le formulaire de déclaration électronique. 
+b Pourcentage de formulaires comprenant les choix de réponse (n=2  382) pour lequel chaque réponse est indiquée. La 
+majorité des formulaires contiennent plus d’une réponse à cette question. 
+ 
+Tableau B4 
+Raisons pour lesquelles les souffrances ne pouvaient être apaisées dans des conditions que la 
+personne jugeait tolérables pour les personnes qui ont reçu l’AMM 
+Raisonsa Nombre %b 
+Traitements jugés inefficaces 1 554 65 
+Aucun traitement 781 33 
+Refus de traitement 629 26 
+Effets secondaires inacceptables 597 25 
+Autre 158 7 
+a Choix de réponse inclus dans le formulaire de déclaration électronique. 
+b Pourcentage de formulaires comprenant ces choix de réponse (n=2  382) pour lequel chaque réponse est indiquée. La 
+majorité des formulaires contiennent plus d’une réponse à cette question. 
+ 
+Tableau B5 
+Délai entre la demande et l’administration de l’AMM pour les AMM administrées 
+Délai Nombre % 
+Moins de 10 jours 1 035 43 
+10 à 30 jours 1 087 45 
+31 à 90 jours 218 9 
+Plus de 90 jours 86 3 
+Total 2 426 100 
+Moyenne (jours) 19 
+Écart type (jours) 36 
+Médiane (jours) 11 
+ 
+46 
+Tableau B6 
+Raisons expliquant un délai de plus de 90 jours entre la demande et l’administration de l’AMM 
+Raisons Nombre % 
+Maladie, les traitements ou l’évaluation   
+Atténuation des symptômes de la maladie pendant un certain temps après la demande 14 18 
+Tentative d’autres essais thérapeutiques après la demande pour soulager les souffrances 8 10 
+Démarche judiciaire entreprise pour une autorisation de pouvoir obtenir l’AMM  9 11 
+Délai avant que la personne ne soit jugée admissible en raison du critère de fin de vie non 
+satisfait au moment de l’évaluation initiale 
+6 8 
+Besoin de temps pour réaliser des tests cliniques 1 1 
+Décision de la personne  
+Souhait d’avoir l’AMM au moment venu selon la personne ou d’attendre que sa situation soit 
+encore plus intolérable (souffrances, incapacités, etc.) 
+38 48 
+Souhait d’avoir la possibilité de cette option (une « assurance ») 12 15 
+Souhait d’attendre une date significative, un moment précis de l’année ou un événement 9 11 
+Besoin de temps pour mettre ses affaires personnelles en ordre ou régler des choses 5 6 
+Résilience grâce au soutien ou la présence des proches 4 5 
+Date de l’AMM fixée par la personne 4 5 
+Besoin de temps pour se préparer psychologiquement à mourir 3 4 
+Besoin de temps pour permettre aux proches de se préparer ou d’accepter la situation, ou pour 
+régler des conflits avec les proches 
+3 4 
+Souhait d’attendre l’arrivée de certaines personnes 1 1 
+Besoin de temps pour accompagner un proche malade 1 1 
+Ambivalence face à l’AMM 1 1 
+Accès   
+Délai de prise en charge de la demande ou dans le processus d’évaluation de la personne 4 5 
+Note : Proportion de formulaires pour lesquels une raison pour expliquer un délai de plus de 90  jours entre la demande et 
+l’administration de l’AMM a été rapportée par le médecin dans le formulaire ou lors d’un entretien téléphonique (n=79). 
+Plus d’une raison pour justifier ce délai. Sept formulaires pour lesquels la raison du délai était inconnue ont été exclus pour 
+le calcul des pourcentages. 
+ 
+Tableau B7 
+Nombre et proportion d’AMM selon le lieu de l’administration de l’AMM 
+Lieu Nombre % 
+Centre hospitalier 1 158 48 
+Domicile 942 39 
+CHSLD  188 8 
+Maison de soins palliatifs* 126 5 
+Autre, non précisé, non disponible  12 < 1 
+Total 2 426 100 
+*La Commission a constaté qu’il est parfois indiqué que l’AMM a eu lieu en maison de soins palliatifs alors qu’elle a été 
+administrée dans une unité de soins palliatifs d’un centre hospitalier ou d’un CHSLD. 
+ 
+  
+ 
+47 
+Tableau B8 
+Type d’impact en lien avec la pandémie de la COVID-19 pour les personnes qui ont reçu l’AMM 
+Type d’impact Nombre % 
+Processus d’évaluation et organisation du soin   
+Réalisation de consultations ou d’entretiens avec la personne/les proches par télésanté 23 18 
+Organisation des communications, des visites ou de la présence des proches lors de l’administration 
+de l’AMM, dans le respect des mesures sanitaires en vigueur 
+21 16 
+Relocalisation ou maintien de la personne à domicile/souhait de la personne d’éviter ou de reporter 
+une admission en établissement pour avoir ses proches à ses côtés lors de l’administration de l’AMM 
+9 7 
+Délai dans le processus de signature de la demande d’AMM 8 6 
+Délai de réponse à la demande d’AMM ou dans le processus d’évaluation de la personne  7 6 
+Administration de l’AMM ailleurs que dans un lieu de soins 7 6 
+Changement de médecin pour l’évaluation et/ou l’administration de l’AMM 6 5 
+Impossibilité d’une admission en établissement en raison d’une éclosion ou d’une infection à la 
+COVID-19 
+4 3 
+Information non disponible sur l’expiration de la carte RAMQ ou carte RAMQ non renouvelée 2 2 
+Influence sur le choix de la date d’administration de l’AMM selon les volontés de la personne 2 2 
+Impossibilité de s’entretenir avec tous les proches que la personne aurait souhaité être présents lors 
+d’entretiens 
+1 1 
+Assurance que la personne a bien reçu des soins optimaux malgré le contexte de la pandémie 1 1 
+État ou bien-être de la personne   
+Sentiment de solitude ou d’abandon, isolement, perte de plaisir ou de sens à la vie, diminution de la 
+qualité de vie ou changement d’humeur 
+17 13 
+Détérioration de l’état de la personne ou survenue de complications à la suite d’une infection à la 
+COVID-19 
+14 11 
+Exacerbation des souffrances physiques, psychiques ou existentielles à la suite d’une infection à la 
+COVID-19 
+5 4 
+Appréhension face aux mesures d’isolement à la suite d’hospitalisations répétées ou de 
+complications cliniques pendant la pandémie 
+2 2 
+Bien-être des proches   
+Anticipation d’une expérience plus difficile chez les proches ou de deuils compliqués en raison des 
+mesures sanitaires 
+3 2 
+Soins et services en établissement   
+Délai dans l’investigation de symptômes ou la passation de tests d’imagerie médicale en raison des 
+mesures en vigueur en établissement  
+4 3 
+Suspension de la chimiothérapie et progression des symptômes  2 2 
+Autres   
+Délai de transmission du formulaire de déclaration par le médecin 2 2 
+Note : Plus d’une mention en lien avec la pandémie pouvait être rapportée dans les formulaires (n=128). 
+ 
+ 
+ 
+48 
+ANNEXE C 
+DONNÉES DES RAPPORTS DES ÉTABLISSEMENTS PUBLICS DE SANTÉ ET DE SERVICES SOCIAUX ET DU COLLÈGE DES MÉDECINS DU 
+QUÉBEC CONCERNANT LES SOINS PALLIATIFS ET DE FIN DE VIE 
+Tableau C1 
+Nombre de personnes en SPFV par établissement selon le lieu de soins entre le 1er avril 2019 et le 31 mars 2020 
+Région Établissement Domicile Centre hospitalier CHSLD Maison de soins palliatifs Total 
+01 CISSS du Bas-Saint-Laurent 751 (41%) 622 (34%) 351 (19%) 130 (7%) 1 854 
+02 CIUSSS du Saguenay–Lac-Saint-Jean 871 (33%) 77 (30%) 525 (20%) 448 (17%) 2 619 
+03 CHU de Québec – Université Laval - 2 659 (100%) - - 2 659 
+03 CIUSSS de la Capitale-Nationalea 2 273 (53%) 736 (17%) 1 067 (25%) 203 (5%) 4 279 
+03 IUCPQ – Université Laval - 654 (100%) - - 654 
+04 CIUSSS de la Mauricie-et-du-Centre-du-Québec 2 275 (46%) 942 (19%) 1 250 (25%) 470 (10%) 4 937 
+05 CIUSSS de l'Estrie – CHUS 1 343 (50%) 1 013 (38%) 20 (<1%) 311 (12%) 2 687 
+06 CHUM - 464 (100%) - - 464 
+06 CUSM - 748 (100%) - - 748 
+06 CHU Sainte-Justine - 72 (100%) - - 72 
+06 CIUSSS de l'Est-de-l'Île-de-Montréal 1 021 (24%) 2 523 (58%) 673 (15%) 127 (3%) 4 344 
+06 CIUSSS de l'Ouest-de-l'Île-de-Montréal 725 (61%) 132 (11%) - 335 (28%) 1 192 
+06 CIUSSS du Centre-Ouest-de-l'Île-de-Montréal 603 (49%) 466 (37%) 151 (12%) 22 (2%) 1 242 
+06 CIUSSS du Centre-Sud-de-l'Île-de-Montréal 764 (37%) 591 (29%) 707 (34%) - 2 062 
+06 CIUSSS du Nord-de-l'Île-de-Montréal 843 (44%)  783 (40%) 309 (16%) - 1 935 
+06 Institut de cardiologie de Montréal -  276 (100%) - - 276 
+07 CISSS de l'Outaouais 1 231 (42%) 1 003 (35%) 181 (6%) 491 (17%) 2 906 
+08 CISSS de l'Abitibi-Témiscamingue 357 (30%) 534 (45%) 41 (3%) 264 (22%) 1 196 
+09 CISSS de la Côte-Nord 328 (38%) 149 (17%) 127 (15%) 252 (30%) 856 
+10 CRSSS de la Baie-James 42 (37%) 58 (51%) 13 (12%) - 113 
+11 CISSS de la Gaspésie 368 (53%) 233 (33%) 98 (14%) - 699 
+11 CISSS des Îles 46 (42%) 51 (47%) 12 (11%) - 109 
+12 CISSS de Chaudière-Appalaches 1 275 (51%) 673 (27%) 213 (8%) 355 (14%) 2 516 
+13 CISSS de Laval 1 027 (50%) 500 (24%) 258 (12%) 290 (14%) 2 075 
+14 CISSS de Lanaudière 1 145 (42%) 1 286 (48%) 90 (3%) 193 (7%) 2 714 
+15 CISSS des Laurentides 1 535 (45%) 1 386 (41%) 180 (4%) 310 (10%) 3 411 
+16 CISSS de la Montérégie-Centre 1 063 (36%) 1 187 (40%)  311 (11%) 397 (13%) 2 958 
+16 CISSS de la Montérégie-Est 1 602 (38%) 1 475 (35%) 688 (17%) 402 (10%) 4 167 
+16 CISSS de la Montérégie-Ouest 1 107 (62%) 201 (11%) 271 (15%) 203 (12%) 1 782 
+18 Conseil cri de la santé et des services sociaux de la Baie James 27 (93%)  10 - - 29 
+Total 22 622 (39%) 22 194 (39%) 7 536 (13%) 5 203 (9%) 57 555 
+Note. La Commission n’avait pas reçu les rapports de la région 17 au moment de la rédaction du présent rapport annuel d’activités. Le nombre de personnes ayant reçu des SPFV en centre hospitalier 
+pour la région 18 n’est pas indiqué afin de respecter les règles de confidentialité et en raison du risque d’identification relié à la divul gation d’un faible nombre d’individus (0 à 9 personnes,  10). 
+a. Les données de la Maison Michel-Sarrazin ont été répertoriées dans celles transmises par le CIUSSS de la Capitale-Nationale.  
+ 
+49 
+Tableau C2 
+Nombre de personnes en SPFV par établissement selon le lieu de soins entre le 1er avril 2020 et le 31 mars 2021 
+Région Établissement Domicile Centre hospitalier CHSLD Maison de soins palliatifs Total 
+01 CISSS du Bas-Saint-Laurent 890 (45%) 740 (37 %) 20 (10 %) 152 (8%) 1 990 
+02 CIUSSS du Saguenay–Lac-Saint-Jean 926 (35%) 759 (29 %) 586 (22%) 370 (14%) 2 641 
+03 CHU de Québec – Université Laval - 2 378 (100 %) - - 2 378 
+03 CIUSSS de la Capitale-Nationalea 2 455 (60%) 685 (16%) 850 (21%) 113 (3%) 4 103 
+03 IUCPQ – Université Laval - 550 (100%) - - 550 
+04 CIUSSS de la Mauricie-et-du-Centre-du-Québec 2 482 (50%) 871 (18%) 1 191 (24%) 420 (8%) 4 964 
+05 CIUSSS de l'Estrie – CHUS 1 808 (63%) 880 (31%) 23 (<1%) 161 (6%) 2 872 
+06 CHUM - 472 (100%) - - 472 
+06 CUSM - 847 (100%) - - 847 
+06 CHU Sainte-Justine - 69 (100%) - - 69 
+06 CIUSSS de l'Est-de-l'Île-de-Montréal 886 (23%) 1 901 (49%) 893 (23%) 174 (5%) 3 854 
+06 CIUSSS de l'Ouest-de-l'Île-de-Montréal 707 (56%) 96 (8%) 184 (15%) 264 (21%) 1 251 
+06 CIUSSS du Centre-Ouest-de-l'Île-de-Montréal 769 (52%) 463 (31%) 160 (11%) 88 (6%) 1 480 
+06 CIUSSS du Centre-Sud-de-l'Île-de-Montréal 796 (38%) 344 (16%) 978 (46%) - 2 118 
+06 CIUSSS du Nord-de-l'Île-de-Montréal 875 (50%) 632 (37%) 230 (13%) - 1 737 
+06 Institut de cardiologie de Montréal - 287 (100%) - - 287 
+07 CISSS de l'Outaouais 1 352(52%) 510(20%) 269(10%) 471(18%) 2 602 
+08 CISSS de l'Abitibi-Témiscamingue 402 (35%) 472 (41%) 35 (3%) 240 (21%) 1 149 
+09 CISSS de la Côte-Nord 322 (40%) 126 (15%) 138 (17%) 227 (28%) 813 
+10 CRSSS de la Baie-James 40 (41%) 46 (48%) 11 (11%) - 97 
+11 CISSS de la Gaspésie 418 (54%) 251 (33%) 103 (13%) - 772 
+11 CISSS des Îles 44 (41%) 60 (56%)  10 - 107 
+12 CISSS de Chaudière-Appalaches 1 465 (57%) 628 (25%) 183 (7%) 291 (11%) 2 567 
+13 CISSS de Lavalb 1 272 (64%) 485 (24%) - 230 (12%) 1 987 
+14 CISSS de Lanaudière 1 321 (47%) 1 258 (45%) 99 (4%) 119 (4%) 2 797 
+15 CISSS des Laurentides 1 783 (54%) 1 140 (35%) 149 (5%) 202 (6%) 3 274 
+16 CISSS de la Montérégie-Centre 1 198 (39%) 1 036 (34%) 418 (14%) 384 (13%) 3 036 
+16 CISSS de la Montérégie-Est 1 765 (42%) 1 359 (32%) 739 (17%) 394 (9%) 4 257 
+16 CISSS de la Montérégie-Ouest 1 169 (68%) 207 (12%) 160 (9%) 185 (11%) 1 721 
+18 Conseil cri de la santé et des services sociaux de la Baie 
+James 
+20 (67%) 10 (33%) - - 30 
+Total 25 165 (44%) 19 562 (35%) 7 610 (13 %) 4 485 (8%) 56 822 
+Note. La Commission n’avait pas reçu les rapports de la région  17 au moment de la rédaction d u présent rapport annuel d’activités. Le nombre de personnes ayant reçu des SPFV en CHSLD pour la 
+région 11 n’est pas indiqué afin de respecter les règles de confidentialité et en raison du risque d’identification relié à la divul gation d’un faible nombre d’individus (0 à 9 personnes,  10). 
+a. Les données de la Maison Michel-Sarrazin ont été répertoriées dans celles transmises par le CIUSSS de la Capitale-Nationale.  
+b. Le nombre de personnes en SPFV en centre hospitalier et en CHSLD a été fusionné dans le rapport transmis par l’établissement à la Commission.  
+ 
+50 
+Tableau C3 
+Nombre déclaré de SPC administrées selon l’établissement et le CMQ pour les années 2019-2020 
+et 2020-2021 
+Région Établissement Nombre de SPC administrées 
+2019-2020 2020-2021 
+01 CISSS du Bas-Saint-Laurent 24 20 
+02 CIUSSS du Saguenay–Lac-Saint-Jean 37 45 
+03 CHU de Québec – Université Laval 160 123 
+03 CIUSSS de la Capitale-Nationale 59 62 
+03 IUCPQ – Université Laval 40 25 
+03 Maison Michel-Sarrazin 26 25 
+04 CIUSSS de la Mauricie-et-du-Centre-du-Québec 86 64 
+05 CIUSSS de l'Estrie – CHUS 158 147 
+06 CHUM 25 14 
+06 CUSM 20 11 
+06 CHU Sainte-Justine  10a  10a 
+06 CIUSSS de l'Est-de-l'Île-de-Montréal 88 86 
+06 CIUSSS de l'Ouest-de-l'Île-de-Montréal 11 13 
+06 CIUSSS du Centre-Ouest-de-l'Île-de-Montréal 10 34 
+06 CIUSSS du Centre-Sud-de-l'Île-de-Montréal 14 13 
+06 CIUSSS du Nord-de-l'Île-de-Montréal 32 21 
+06 Institut de cardiologie de Montréal 0 0 
+07 CISSS de l'Outaouais 46 69 
+08 CISSS de l'Abitibi-Témiscamingue 77 56 
+09 CISSS de la Côte-Nord 10 20 
+10 CRSSS de la Baie-James  10a  10a 
+11 CISSS de la Gaspésie 11 17 
+11 CISSS des Îles  10a  10a 
+12 CISSS de Chaudière-Appalaches 80 127 
+13 CISSS de Laval 53 41 
+14 CISSS de Lanaudière 70 74 
+15 CISSS des Laurentides 58 95 
+16 CISSS de la Montérégie-Centre 80 55 
+16 CISSS de la Montérégie-Est 102 96 
+16 CISSS de la Montérégie-Ouest 150 73 
+18 Conseil cri de la santé et des services sociaux de la Baie 
+James 
+ 10a  10a 
+- Cabinet privé de professionnels (CMQ) 97 112 
+Total  1 631 1 539 
+Note : La Commission n’avait pas reçu les rapports de la région  17 au moment de la rédaction d u présent rapport annuel 
+d’activités. 
+a Le nombre de SPC administrées n’est pas indiqué afin de respecter les règles de confidentialité et en raison du risque 
+d’identification relié à la divulgation d’un faible nombre d’individus (0 à 9 SPC,  10).  
+  
+ 
+51 
+Tableau C4 
+Nombre déclaré de SPC administrée s et proportion de décès après une SPC selon la région 
+sociosanitaire pour les années 2019-2020 et 2020-2021 
+Région sociosanitaire Nombre de SPC administrées (% de décès après une SPC) 
+2019-2020 2020-2021 
+01 - Bas-Saint-Laurent 25 (1,23 %) 23 (1,13 %) 
+02 - Saguenay–Lac-Saint-Jean 37 (1,42 %) 45 (1,71 %) 
+03 - Capitale-Nationale 289 (4,64 %) 236 (3,51 %) 
+04 - Mauricie et Centre-du-Québec 94 (1,79 %) 78 (1,43 %) 
+05 - Estrie 158 (3,92 %) 147 (3,44 %) 
+06 - Montréal 210 (1,4 %) 203 (1,16 %) 
+07 - Outaouais 46 (1,58 %) 69(2,34 %) 
+08 - Abitibi-Témiscamingue 77 (5,92 %) 56 (4,21 %) 
+09 - Côte-Nord 11 (1,38 %) 28 (3,41 %) 
+10 - Nord-du-Québec  10  10 
+11 - Gaspésie–Îles-de-la-Madeleine 14 (1,46 %) 18 (1,85 %) 
+12 - Chaudière-Appalaches 81 (2,44 %) 127 (3,47 %) 
+13 - Laval 53 (1,67 %) 41 (1,09 %) 
+14 - Lanaudière 70 (1,89 %) 74 (1,88 %) 
+15 - Laurentides 113 (2,39 %) 146 (3,05 %) 
+16 - Montérégie 348 (3,28 %) 248 (2,17 %) 
+18 - Terres-Cries-de-la-Baie-James  10  10 
+Total 1 631 1 539 
+Note : Le nombre de SPC administrées pour les régions 10 et 18 n’est pas indiqué afin de respecter les règles de 
+confidentialité et en raison du risque d’identification relié à la divulgation d’un faible nombre d’individus (0 à 9 SPC,  10). 
+La Commission n’avait pas reçu les rapports de la région 17 au moment de la rédaction du présent rapport annuel d’activités. 
+  
+ 
+52 
+Tableau C5 
+Nombre déclaré de demandes d’AMM formulées, d’AMM administrées et d’AMM non 
+administrées selon l’établissement et le CMQ entre le 1er avril 2019 et le 31 mars 2020 
+Région Établissement Nombre d’AMM (%) 
+Demandéesa Administrées Non administrées 
+01 CISSS du Bas-Saint-Laurent 98 78 (80%) 20 (20%) 
+02 CIUSSS du Saguenay–Lac-Saint-Jean 93 57 (61%) 36 (39%) 
+03 CHU de Québec – Université Laval 185 118 (64%) 67 (36%) 
+03 CIUSSS de la Capitale-Nationale 123 88 (72%) 35 (28%) 
+03 IUCPQ – Université Laval 51 25 (49%) 26 (51%) 
+03 Maison Michel-Sarrazin  10b  10b  10b 
+04 CIUSSS de la Mauricie-et-du-Centre-du-
+Québec 
+70 70 (100%)  10b 
+05 CIUSSS de l'Estrie – CHUS 240 136 (57%) 104 (43%) 
+06 CHUM 127 80 (63%) 54 (43%) 
+06 CUSM 56 30 (54%) 26 (46%) 
+06 CHU Sainte-Justine  10b  10b  10b 
+06 CIUSSS de l'Est-de-l'Île-de-Montréal 172 100 (58%) 71 (41%) 
+06 CIUSSS de l'Ouest-de-l'Île-de-Montréal 41 16 (39%) 25 (61%) 
+06 CIUSSS du Centre-Ouest-de-l'Île-de-Montréal 47 27 (57%) 20 (43%) 
+06 CIUSSS du Centre-Sud-de-l'Île-de-Montréal 50 31 (62%) 18 (36%) 
+06 CIUSSS du Nord-de-l'Île-de-Montréal 71 32 (45%) 37 (52%) 
+06 Institut de cardiologie de Montréal  10b  10b  10b 
+07 CISSS de l'Outaouais 48 36 (75%) 12 (25%) 
+08 CISSS de l'Abitibi-Témiscamingue 28 24 (86%)  10b 
+09 CISSS de la Côte-Nord 26 16 (62%) 10 (38%) 
+10 CRSSS de la Baie-James < 10b < 10b < 10b 
+11 CISSS de la Gaspésie 10 10 (100%)  10b 
+11 CISSS des Îles  10b  10b  10b 
+12 CISSS de Chaudière-Appalaches 106 100 (94%)  10b 
+13 CISSS de Laval 158 89 (56%) 69 (44%) 
+14 CISSS de Lanaudière 264 141 (53%) 123 (47%) 
+15 CISSS des Laurentides 200 131 (66%) 69 (35%) 
+16 CISSS de la Montérégie-Centre 136 101 (74%) 34 (25%) 
+16 CISSS de la Montérégie-Est 238 171 (72%) 74 (31%) 
+16 CISSS de la Montérégie-Ouest 93 61 (66%) 32 (34%) 
+18 Conseil cri de la santé et des services sociaux 
+de la Baie James 
+ 10b  10b  10b 
+-- Cabinet privé de professionnelsc - 103 - 
+Total  2 745 1 878 980 
+Note. Depuis l’entrée en vigueur du système de surveillance fédéral (en novembre 2019), le médecin qui reçoit une demande 
+d’AMM doit déclarer l’information dans un formulaire électronique, que l’AMM soit administrée ou non. Après une période 
+d’ajustement, la majorité des établissements ont mis en place des processus pour documenter toutes les demandes d’AMM 
+formulées, les AMM administrées et les AMM non administrées. Toutefois, certains établissements ont indiqué à la 
+Commission qu’ils n’avaient toujours pas accès à cette information. La Commission a invité ces établissements à s’informer 
+auprès des équipes des établissements qui ont des processus bien établis. 
+La Commission n’avait pas reçu les rapports de la région 17 au moment de la rédaction du présent rapport annuel d’activités. 
+a  La somme des AMM administrées et des AMM non administrées ne correspond pas toujours au nombre de demandes 
+d’AMM formulées déclaré par les établissements. Par conséquent, la somme des proportions parfois dépasse ou n’atteint 
+pas 100%. 
+b Le nombre n’est pas indiqué afin de respecter les règles de confidentialité et en raison du risque d’identification relié à la 
+divulgation d’un faible nombre d’individus (0 à 9 AMM,  10). 
+c  Données provenant du rapport du CMQ. 
+ 
+  
+ 
+53 
+Tableau C6 
+Nombre déclaré de demandes d’AMM formulées, d’AMM administrées et d’AMM non 
+administrées selon l’établissement et le CMQ entre le 1er avril 2020 et le 31 mars 2021 
+Région Établissement Nombre d’AMM (%) 
+Demandéesa Administrées Non administrées 
+01 CISSS du Bas-Saint-Laurent 167 136 (81%) 31 (19%) 
+02 CIUSSS du Saguenay–Lac-Saint-Jean 116 89 (77%) 27 (23%) 
+03 CHU de Québec – Université Laval 205 149 (73%) 56 (27%) 
+03 CIUSSS de la Capitale-Nationale 188 157 (84%) 31 (16%) 
+03 IUCPQ – Université Laval 42 21 (50%) 21 (50%) 
+03 Maison Michel-Sarrazin  10b  10b  10b 
+04 CIUSSS de la Mauricie-et-du-Centre-du-
+Québec 
+131 119 (91%) 12 (9%) 
+05 CIUSSS de l'Estrie – CHUS 274 181 (66%) 93 (34%) 
+06 CHUM 122 67 (55%) 60 (49%) 
+06 CUSM 54 22 (41%) 32 (59%) 
+06 CHU Sainte-Justine  10b  10b  10b 
+06 CIUSSS de l'Est-de-l'Île-de-Montréal 156 88 (56%) 69 (44%) 
+06 CIUSSS de l'Ouest-de-l'Île-de-Montréal 57 36 (63%) 21 (37%) 
+06 CIUSSS du Centre-Ouest-de-l'Île-de-Montréal 69 32 (46%) 38 (55%) 
+06 CIUSSS du Centre-Sud-de-l'Île-de-Montréal 53 31 (58%) 24 (45%) 
+06 CIUSSS du Nord-de-l'Île-de-Montréal 70 40 (57%) 32 (46%) 
+06 Institut de cardiologie de Montréal  10b  10b  10b 
+07 CISSS de l'Outaouais 64 50 (78%)  10b 
+08 CISSS de l'Abitibi-Témiscamingue 35 34 (97%)  10b 
+09 CISSS de la Côte-Nord 16 16 (100%)  10b 
+10 CRSSS de la Baie-James  10b  10b  10b 
+11 CISSS de la Gaspésie 28 28 (100%)  10b 
+11 CISSS des Îles  10b  10b  10b 
+12 CISSS de Chaudière-Appalaches 135 132 (98%)  10b 
+13 CISSS de Laval 159 99 (62%) 55 (35%) 
+14 CISSS de Lanaudière 355 229 (65%) 136 (38%) 
+15 CISSS des Laurentides 241 159 (66%) 75 (31%) 
+16 CISSS de la Montérégie-Centre 204 180 (88%) 24 (12%) 
+16 CISSS de la Montérégie-Est 324 216 (67%) 97 (30%) 
+16 CISSS de la Montérégie-Ouest 140 98 (70%) 42 (30%) 
+18 Conseil cri de la santé et des services sociaux 
+de la Baie James 
+ 10b  10b  10b 
+-- Cabinet privé de professionnelsc - 273 - 
+Total  3 412 2 688 990 
+Note. Depuis l’entrée en vigueur du système de surveillance fédéral (en novembre 2019), le médecin qui reçoit une demande 
+d’AMM doit déclarer l’information dans un formulaire électronique, que l’AMM soit administrée ou non. Après une période 
+d’ajustement, la majorité des établissements ont mis en place des processus pour documenter toutes les demandes d’AMM 
+formulées, les AMM administrées et les AMM non administrées. Toutefois, certains établissements ont indiqué à la 
+Commission qu’ils n’avaient toujours pas accès à cette information. La Commission a invité ces établissements à s’informer 
+auprès des équipes des établissements qui ont des processus bien établis. 
+La Commission n’avait pas reçu les rapports de la région 17 au moment de la rédaction du présent rapport annuel d’activités. 
+a  La somme des AMM administrées et des AMM non administrées ne correspond pas toujours au nombre de demandes 
+d’AMM formulées déclaré par les établissements. Par conséquent, la somme des proportions parfois dépasse ou n’atteint 
+pas 100%. 
+b Le nombre n’est pas indiqué afin de respecter les règles de confidentialité et en raison du risque d’identification relié à la 
+divulgation d’un faible nombre d’individus (0 à 9 AMM,  10). 
+c  Données provenant du rapport du CMQ. 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1461 @@
+Sixth Annual Report on Medical Assistance in Dying in Canada
+Download the alternative format
+(PDF format, 8.05 MB, 95 pages)
+Organization:
+Health Canada
+Published:
+November 2025
+Table of contents
+Highlights
+Minister's message
+1. Introduction and overview
+1.1 Introduction
+1.2 How the data are presented
+2. MAID requests and outcomes
+2.1 MAID requests and outcomes
+2.2 MAID provisions
+2.3 Requests not resulting in MAID
+3. MAID assessments: grievous and irremediable medical conditions
+3.1 Most common medical conditions
+3.2 Length of time living with a serious and incurable illness, disease or disability
+3.3 Advanced state of irreversible decline in capability
+3.4 Nature of suffering
+3.5 Determination of the MAID request as voluntary
+4. Socio-demographic considerations, access and inequality
+4.1 Importance and challenges of collecting data on identity
+4.2 MAID by racial, ethnic or cultural group
+4.3 Indigenous people who received MAID
+4.4 Persons with disabilities who received MAID
+4.5 Socio-economic and community analyses
+5. Social supports and use of health services
+5.1 Palliative care services
+5.2 Disability support services
+5.3 Place of residence and living arrangement
+5.4 Means to relieve suffering
+6. MAID providers and delivery
+6.1 MAID practitioners
+6.2 Timing of MAID
+6.3 Location of MAID
+7. Conclusion
+Appendix A: MAID eligibility criteria, safeguards and reporting requirements
+Appendix B: Methodology and limitations
+Appendix C: Profile of MAID by province and territory
+Appendix D: MAID requests, eligibility and procedural requirements
+Highlights
+Medical assistance in dying (MAID) is a health service delivered by provincial and territorial health systems as part of end-of-life care, within a federal legal framework that sets out strict criteria around who can receive MAID and under what conditions. It has been allowed in Canada since 2016, when the Parliament of Canada passed federal legislation that allows eligible adults in Canada to request MAID. The federal legal framework for MAID is set out in the
+Criminal Code
+which establishes strict eligibility criteria and safeguards.
+This Sixth Annual Report provides a summary of MAID requests, assessments and provisions across Canada for the 2024 calendar year. This information is provided to Health Canada by provincial and territorial health officials as well as by physicians, nurse practitioners, pharmacists and pharmacy technicians. The Sixth Annual Report marks the second full year of data collection under the amended
+Regulations for the Monitoring of Medical Assistance in Dying,
+which came into force on January 1, 2023. The report provides important insight into who requests and receives MAID, and how it is delivered. While data quality and comprehensiveness is improving, there are still important data limitations to consider: the ability to present trends over time is limited, as is the quality and reliability of self-identification measures on race, Indigenous identity, and disability.
+While the total number of MAID provisions increased in 2024, the rate of growth decreased substantially, consistent with the trend from 2023.
+(See
+section 2
+)
+This report details 22,535 reports of MAID requests that Health Canada received in 2024. A total of 16,499 people received MAID; the remaining cases were requests that did not result in a MAID provision (4,017 died of another cause, 1,327 individuals were deemed ineligible and 692 individuals withdrew their request).
+The annual rate of growth in the number of MAID provisions has decreased significantly over the past several years, from 36.8% between 2019 and 2020 to 6.9% between 2023 and 2024.
+These findings seem to suggest that the number of annual MAID provisions is beginning to stabilize. However, it will take several more years before long-term trends can be conclusively identified.
+The vast majority of people receiving MAID in 2024 had a reasonably foreseeable death.
+(See
+section 2
+)
+A person whose death is "reasonably foreseeable" (i.e., they are close to death) is referred to as "Track 1" These made up 95.6% of MAID provisions.
+"Track 2" refers to MAID recipients who were assessed as having a natural death that was
+not
+"reasonably foreseeable". These made up a small minority of MAID provisions (4.4%).
+Consistent with 2023 findings, those who received MAID under Track 1 were older, and more likely to have cancer as an underlying medical condition.
+(See
+section 3
+)
+The median age of individuals receiving MAID under Track 1 was 78.0 years, and 60.9% were over 75 years of age.
+A slightly greater percentage were men (52.2%) than were women (47.8%).
+Cancer was the most frequently reported underlying medical condition, cited in 63.6% of cases.
+Consistent with 2023 findings, those receiving MAID under Track 2 were predominantly women, slightly younger, and lived with their illness for a much longer period of time.
+(See
+section 3
+)
+The median age was 75.9 years, and 53.5% were over 75 years of age.
+A greater percentage were women (56.7%) while 43.3% were men. This represents a small narrowing of the gap between women and men when compared to 2023 (when 58.5% were women and 41.5% were men). This is also consistent with overall population health trends where women are more likely to experience long-term chronic illness, which can cause enduring suffering but would not typically make a person's death reasonably foreseeable.
+People assessed under Track 2 lived longer with a serious and incurable condition than those assessed under Track 1: 34.1% of those under Track 2 lived with a serious and incurable illness, disease or disability for more than 10 years, compared to 7.4% of those under Track 1.
+Neurological conditions and "other" conditions (such as diabetes, frailty, autoimmune conditions, chronic pain) were the most commonly cited underlying medical conditions.
+The number of people assessed as being ineligible in 2024 was proportionally much higher for Track 2 than for Track 1.
+(See
+section 2
+)
+Although Track 2 provisions represented 4.4% of MAID cases in 2024, they represented close to a quarter (24.2%) of all MAID requests that were assessed as ineligible.
+More people in 2024 who received MAID responded to self-identification questions on race and Indigenous identity, but findings are still subject to limitations.
+(See
+section 4
+)
+A total of 15,927 people who received MAID responded to the question on racial, ethnic or cultural identity. The vast majority (95.6%) identified as Caucasian (White). The second most commonly reported racial, ethnic or cultural identity was East Asian (1.6%). These percentages are close to those reported for 2023 (95.8% Caucasian; 1.8% East Asian).
+A total of 16,115 people who received MAID in 2024 responded to the question on Indigenous identity: 102 people self-identified as First Nations, 57 people self-identified as Métis and 7 people self-identified as Inuit.
+As provinces and territories have varied approaches to collecting information on these questions and individuals may be reluctant to self-identify, conclusions on the basis of these data alone are limited.
+Similar to 2023, a much smaller proportion of people receiving MAID under Track 1 reported having a disability compared to people receiving MAID under Track 2.
+(See
+section 4
+)
+Compared to 2023, far more people who received MAID responded to the self-identification question on disability, with over 97% of MAID recipients responding to this question in 2024. A total of 16,104 people who received MAID responded this question, with 5,295 (32.9%) self-identifying as having a disability.
+A smaller proportion (31.6%) of Track 1 respondents self-identified as having a disability compared to 61.5% of Track 2 respondents.
+Under Track 1, the share of people self-reporting having a disability increased with age.
+Under Track 2, the largest proportion of people who self-reported having a disability was in the 75 to 84 age group; the share declines again among those aged 85 and older.
+Under Track 1, slightly more men (50.8%) than women (49.2%) self-reported having a disability.
+Under Track 2, proportionally more women (55.6%) than men (44.4%) self-reported having a disability, which aligns closely with 2023 data, as well as with disability trends among the general population of Canada.
+While these findings provide some insight into MAID provisions among persons identifying as having a disability, the completeness of the data varies across the country, and differing definitions of disability may have been used in some instances. As such, findings should be interpreted with caution.
+Health Canada replicated the socio-economic and community analyses done in the Fifth Annual Report and did an analysis on remoteness to continue to better understand the circumstances of people receiving MAID, which resulted in similar findings.
+(See
+section 4
+).
+Findings from socio-economic and community analyses suggest, at a high level, that people who receive MAID do not disproportionately come from lower-income or disadvantaged communities.
+Findings on remoteness show that MAID recipients were typically less likely to live in a remote location. This may suggest that they did not seek MAID due to lack of accessibility to health care services or services that promote health. It may also reflect challenges accessing MAID in remote locations.
+These analyses are based on neighbourhood-level measures and do not speak to the situation of the MAID recipients themselves. As such, they should be interpreted with caution.
+Consistent with previous years, most MAID recipients who required either palliative care or disability support services received these services.
+(See
+section 5
+)
+Nearly three-quarters (74.1%) received palliative care; 76.4% of people who received MAID under Track 1 received palliative care, compared to 23.2% of people who received MAID under Track 2.
+A small proportion (2.5%) required, but did not receive, palliative care services; of these individuals, 91.2% confirmed that services were accessible to them.
+Close to one-third (32.5%) received disability support services; 32.0% of people who received MAID under Track 1 received disability support services, compared to 45.5% of people under Track 2.
+A very small proportion (0.1%) required, but did not receive, disability support services; of these individuals, 91.4% confirmed that services were accessible to them.
+While there is a small number of practitioners doing a large share of MAID provisions, these practitioners are not typically taking on a great number of Track 2 cases.
+(See
+section 6
+)
+There were 2,266 unique MAID practitioners in 2024. The majority (93.2%) were physicians, while 6.8% were nurse practitioners.
+A small number of MAID practitioners (n=102) was responsible for 38.0% of all Track 1 cases and 27.2% of all Track 2 cases. The vast majority of these practitioners did fewer than 11 Track 2 provisions; less than five of these practitioners did between 11 and 20 Track 2 MAID provisions and none did more than 20 Track 2 MAID provisions.
+Minister's message
+As Minister of Health, I am pleased to share Health Canada's Sixth Annual Report on Medical Assistance in Dying (MAID). This report shows our commitment to providing accurate information about MAID and being open and transparent about how it is delivered across Canada.
+After the Supreme Court's decision in 2015, which found that the absolute prohibition of MAID was against the
+Canadian Charter of Rights and Freedoms
+, Parliament created Canada's legal rules for MAID in 2016. These rules are in the
+Criminal Code
+and include strict eligibility criteria and robust safeguards for accessing MAID.
+Since the introduction of MAID, federal, provincial, and territorial governments have worked together to ensure it is provided safely. Provinces and territories manage health care, and they continue to improve how MAID is delivered. Health officials meet regularly to share best practices and discuss issues like data collection, quality improvement, and handling complex MAID cases. Supporting this effort, organizations such as the Canadian Association of MAID Assessors and Providers have shared best practices and developed tools and resources, including Canada's first nationally accredited bilingual education program for MAID. Additionally, a group of clinicians and experts, with support from Health Canada, created the Model Practice Standard for MAID and a companion document to guide health professional regulators. Together, these initiatives help ensure MAID services are safe and protect the public, especially in complex cases.
+At the same time, Canadians continue to have thoughtful and personal conversations about autonomy and compassionate care for people with serious illnesses. These discussions help us to understand how to best support individuals, families, and health care providers navigating complex and incurable illnesses.
+This year's report builds on these efforts by providing valuable insights into the experiences of people requesting MAID. It includes information about disability, race, Indigenous identity, and access to health and social services, helping us to better understand the role of MAID in our health care system. The report also highlights the dedication of health care professionals who provide MAID with compassion and respect for individual choice.
+Looking ahead, we remain focused on making sure MAID meets the needs of those seeking this service. We are committed to ensuring that the federal legal framework protects those who are vulnerable, while supporting freedom of choice and personal autonomy. Health Canada will continue working with provincial and territorial health systems, experts, stakeholders, Indigenous partners, and members of the public to ensure MAID is delivered in a manner that is safe, appropriate, respectful, inclusive, and grounded in human dignity.
+I invite people in Canada to read this report and to reflect on its findings. Together, we can continue to be guided by the evidence when considering complex issues such as suffering and death and the compassionate approaches that support individuals to make informed choices about their care.
+The Honourable Marjorie Michel, P.C., M.P.
+Minister of Health
+1. Introduction and overview
+1.1 Introduction
+MAID is a topic that generates considerable interest, public discussion and debate, both internationally and within Canada. As we near ten years of MAID in Canada, this Sixth Annual Report is intended to contribute to greater insight and understanding of MAID services in Canada to inform ongoing conversations globally and nationally about end-of-life care.
+This report presents the most current summary of MAID assessment and provision in Canada. It presents data reported for the 2024 calendar year, collected under the amended
+Regulations for the Monitoring of Medical Assistance in Dying,
+Footnote
+1
+which came into force on January 1, 2023
+.
+These regulations align with the federal legislation on MAID, as outlined in the
+Criminal Code
+.
+1.2 How the data are presented
+To protect confidentiality, Health Canada does not present findings when there are fewer than five cases due to the risk that an individual or small groups of individuals could be identified (for instance, if reviewed in conjunction with other publicly available data, such as those presented within this report or at the provincial/territorial level). Data points representing more than five cases may also be suppressed if they would have otherwise provided enough information to calculate the number of cases in another group where the number of cases is too small to report without putting confidentiality at risk. Data that are suppressed for confidentiality purposes are notated with an "X" throughout the report.
+Health Canada uses the median as a measure of central tendency
+Footnote
+2
+throughout this report to summarize variables such as age and number of days or years. This was a deliberate decision, as the median provides a more robust measure compared to the mean, which is more sensitive to outlying values.
+This year's report marks the second full year of data collection under the current regulations, which introduced several new reporting requirements for health care practitioners to align with the legislative changes enacted in 2021.
+Footnote
+3
+To the extent possible, data are presented by the "track" under which MAID was provided as follows:
+Track 1: Refers to a request for MAID made by a person who meets the eligibility requirements set out in the
+Criminal Code
+and whose natural death is "reasonably foreseeable"
+Track 2: Refers to a request for MAID made by a person who meets the eligibility requirements set out in the
+Criminal Code
+and whose natural death is not "reasonably foreseeable" (these requests are subject to several additional safeguards in order to dedicate sufficient time and expertise to assessment).
+Appendix A
+provides further information on the eligibility criteria for MAID, the safeguards for Tracks 1 and 2, and the reporting requirements that practitioners are obligated to follow.
+In reviewing this report, it is important to keep in mind the following:
+The ability to present trends over time is limited for some variables: given that several reporting requirements and questions have recently been updated, there are instances where data collected in 2023 and 2024 are not fully comparable with the data collected in previous years.
+The quality and reliability of the self-identification data (race, Indigenous identity, and disability) is limited due to variation in data collection approaches, inconsistency in interpretation of variables and potential reluctance on part of the person to self-identify.
+Appendix B
+provides further details with respect to the methodology and limitations.
+With the above limitations in mind, the comprehensiveness of the data is improving. It was noted in last year's annual report that, in some cases, provinces, territories and practitioners experienced delays in transitioning to the new data collection requirements, resulting in some missing data for new variables. Since then, the amount of missing data has decreased substantially, as demonstrated later in the report throughout
+section 4
+.
+A dedicated working group of provincial and territorial officials is working with Health Canada to make continuous improvements to data collection, consistency and quality.
+Health Canada is grateful for the partnership and collaboration among federal, provincial, and territorial levels of government, MAID practitioners and pharmacists, Indigenous partners and key stakeholders. This partnership and collaboration has enabled the collection and validation of the data and supported the analyses in this report.
+2. MAID requests and outcomes
+2.1 MAID requests and outcomes
+In 2024, Health Canada received 22,535 reports of MAID requests. As outlined in
+Table 2.1a
+, of these requests, a total of 16,499 people received MAID. The remaining requests did not result in a MAID provision (4,017 died of another cause, 1,327 individuals were assessed as being ineligible and 692 individuals withdrew their request).
+Note that it is possible that a person is included in these groups more than once (for example, a person could request MAID, withdraw their request and then apply again and receive it, or make several requests for MAID which are all each deemed ineligible). All MAID requests that were resolved in 2024 were included in this report ("resolved" is defined as a request that results in a MAID provision, is withdrawn, where the individual is found to be ineligible, or where the person has died).
+Note:
+In previous years, requests not resulting in MAID (i.e., withdrawn requests, requests where the individual was found to be ineligible and requests followed by a natural death, rather than MAID) were classified based on the date the request was made by the person. This approach was suitable for Track 1 MAID cases, as assessments were typically completed within a short time frame and outcomes were reported within the same calendar year. However, Track 2 cases often involve much longer and more complex assessments that may span several months or even years. As such, Health Canada has revised its methodology. Beginning this year, all non-MAID outcomes (both Track 1 and 2) reported within a given calendar year will be counted in that year's statistics, regardless of when the initial request was made.
+For MAID provisions, reporting continues to be based on the year the procedure took place, consistent with previous annual reports. In the event that MAID provisions are reported late, the totals for the relevant prior year are updated accordingly.
+2.2 MAID provisions
+Based on data from previous reports, there have been 76,475 MAID provisions in Canada since the legalization of MAID in 2016.
+Footnote
+4
+Figure 2.2a
+presents the number of MAID provisions from 2019 to 2024, as well as the year over year growth rate. In 2024, while the total number of MAID provisions increased, the year-over-year growth rate decreased. MAID was provided to 16,499 individuals in 2024, representing an increase of 6.9% over 2023. The rate of growth in overall MAID cases has been shrinking since 2019.
+While Track 2 has only be allowed since 2021, when looking at Track 2 MAID provisions specifically, the rate of growth has decreased from 33.3% between 2022 and 2023 to 17.1% between 2023 and 2024.
+While the data suggests that the number of annual MAID provisions is beginning to stabilize, it will take several more years before long-term trends can be conclusively identified.
+Figure 2.2a: MAID provisions and rate of growth by year, 2019-2024
+Figure 2.2a - Text description
+Explanatory notes:
+MAID provisions are counted in the calendar year in which the death occurred (i.e., January 1 to December 31) and are not related to the date of receipt of the written request.
+Prior to the passage of former Bill C-7 in 2021, MAID for individuals whose natural death was not reasonably foreseeable was permitted in Quebec via court exemption beginning March 12, 2020. Quebec reported 18 such MAID provisions in 2020.
+Previous years' reporting has been revised to include corrections and additional reports.
+In 2024, 5.1% of people in Canada who died received MAID, a small (0.4%) increase from 2023. This percentage may change with final counts of deaths in Canada from Statistics Canada.
+MAID is not classified as a cause of death by the World Health Organization, which sets international standards on data collection related to the classification of disease. As stated by the World Health Organization, a "cause of death" is the disease or injury that initiated the train of events leading directly to death, or the circumstances of the accident or violence which produced the fatal injury.
+Footnote
+5
+MAID, by contrast, is a health service provided as part of end-of-life or complex care, which a person can access in very limited circumstances (i.e., if they meet the strict eligibility criteria outlined in the legislation, including having a "grievous and irremediable medical condition," described in greater detail in
+section 3.1
+). For example, if a person suffering from advanced cancer chooses to receive MAID to alleviate their suffering, the cause of death extracted from their death certificate for the purposes of vital statistics will be cancer.
+Accordingly, the number of MAID provisions should not be compared to cause of death statistics in Canada in order to determine the prevalence (the proportion of all decedents) nor to rank MAID as a cause of death. See
+Appendix B
+for more detail
+.
+In 2024, 95.6% of MAID cases (n=15,767) were individuals whose death was reasonably foreseeable (Track 1) and 4.4% (n=732) were individuals whose death was not reasonably foreseeable (Track 2). This is consistent with findings from 2023, when Track 1 provisions made up 95.9% of MAID cases and Track 2 provisions made up 4.1% of MAID cases.
+Consistent with previous years, most MAID provisions occurred in Quebec (36.4%), Ontario (30.0%) and British Columbia (18.2%), with these three provinces accounting for nearly 85% of all MAID provisions. The number of MAID provisions increased in most jurisdictions, with the exception of New Brunswick, Manitoba and Saskatchewan, where the number decreased relative to 2023. See
+Table C.1
+(Appendix C) for a detailed breakdown of MAID provisions by province and territory.
+MAID was administered by a practitioner in all cases that occurred in 2024. While self-administration of MAID is permitted in all provinces and territories in Canada (except for Quebec), very few people have chosen this option since 2016.
+In 2024, the median age of MAID recipients was 77.9 years. The median age of Track 1 and Track 2 recipients was 78.0 years and 75.9 years, respectively. The median age of MAID recipients has increased slightly since 2023, when it was 77.6 years (77.7 years for Track 1 and 75.0 years for Track 2). The median and mean age of MAID recipients across provinces and territories is provided in
+Table C.2
+(Appendix C).
+Figure 2.2b
+shows the proportion of individuals receiving MAID across each age group under Tracks 1 and 2. In both tracks, people who received MAID most frequently fell into the 75 to 84 age group. This finding is consistent with 2023 findings. As was the case for 2023, a greater percentage of Track 1 recipients were aged 75 years or older (60.9%) compared to those in Track 2 (53.5%). However, this gap has narrowed slightly compared to 2023, when 59.7% of Track 1 and 50.2% of Track 2 MAID recipients were aged 75 years or older. Similarly, in 2024, a greater proportion of Track 2 MAID recipients were under 64 years of age (21.6%) compared to Track 1 (13.5%). This gap has also narrowed slightly compared to 2023, when 23.5% of Track 2 and 13.8% of Track 1 MAID recipients were under 64 years of age.
+Figure 2.2b: MAID provisions, by track and age category, as a percentage of provisions within each track
+Figure 2.2b - Text description
+Figure 2.2c
+provides a breakdown of MAID provisions by sex and track. Similar to previous years, slightly more men (51.8%) than women (48.2%) received MAID in 2024. This aligns closely with provisional data from Statistics Canada on total deaths in Canada, which shows that, in 2024, 50.5% of people who died were men and 49.5% were women. Breaking down the data on MAID provisions by track demonstrates that while more men received MAID under Track 1 (men 52.2% vs. women 47.8%), more women received MAID under Track 2 (women 56.7% vs. men 43.3%). These percentages are close to those reported in 2023; however, the gap between men and women has widened slightly for Track 1 (from a difference of 3.2% in 2023 to a difference of 4.2% in 2024) and narrowed slightly for Track 2 (from a difference of 17.0% in 2023 to a difference of 13.4% in 2024).
+Figure 2.2c: MAID provisions, by track and sex, as a percentage of provisions within each track
+Figure 2.2c - Text description
+Explanatory note:
+"All deaths" does not include accidental deaths, deaths by suicide or assault, or any death where the cause is unknown. For full details on this variable, see
+Appendix B
+.
+As indicated in last year's annual report, the higher proportion of Track 2 MAID provisions among women is not unexpected. The findings are consistent with overall population health trends, where women are more likely to experience long-term health conditions
+Footnote
+6
+Footnote
+7
+and men experience higher rates of diseases with a higher mortality burden,
+Footnote
+8
+that would be more likely to make their deaths "reasonably foreseeable".
+A breakdown of MAID provisions by track and by province/territory is provided in
+Table C.3
+in Appendix C.
+2.3 Requests not resulting in MAID
+Request was determined to be ineligible
+A MAID request is reported as "ineligible" if a practitioner has determined that the person who made the request did not meet one or more of the eligibility criteria outlined in the legislation. A practitioner can assess a person as ineligible without necessarily having assessed all of the criteria (i.e., once a person is found ineligible on the basis of one criteria, the practitioner can stop assessing). In 2024, 1,327 individuals who requested MAID were assessed as being ineligible for the procedure. This is an increase compared to 2023, when 1,031 MAID requests were assessed as being ineligible.
+Footnote
+9
+It is important to note that this finding is likely to be an underrepresentation of interest in MAID, given that many practitioners may not report on requests where a formal assessment has not been initiated, or if the person is deemed ineligible upon initial presentation (for instance, if the person does not have capacity to provide informed consent or is not 18 years of age or older).
+Among the 1,327 individuals determined to be ineligible for MAID, 44.2% (n=587) were assessed under Track 1 and 24.2% (n=321) were assessed under Track 2. The remaining 31.6% (n=419) had not been assessed as either Track 1 or Track 2. It is worth noting that, although Track 2 provisions represent 4.4% of reports resulting in MAID, they represent 24.2% of all reports where there was a finding of ineligibility.
+Table 2.3a
+outlines the reasons why people were found ineligible for MAID by track, based on the legislative criteria. As shown in the table, for people assessed under Track 1, the most common reason for a finding of ineligibility was that the person was deemed
+as not
+being capable of making decisions with respect to their health. For people assessed under Track 2, the most common reason for a finding of ineligibility was that the person was deemed
+as not
+being in an advanced state of irreversible decline in capability.
+Request was withdrawn
+A person can withdraw their request for MAID at any point during the eligibility assessment process or after completion of the assessment. In 2024, 692 individuals withdrew their request for MAID. This is an increase compared to 2023, when 574 individuals withdrew their MAID request.
+Footnote
+10
+Of those who withdrew their MAID request in 2024, 58.1% (n=402) were assessed under Track 1 and 16.8% (n=116) were assessed under Track 2. The remaining 25.1% (n=174) of individuals were not yet assessed as either Track 1 or Track 2. Under the regulations, practitioners must declare if an individual withdrew their request immediately before receiving MAID. There were 68 people who withdrew their request at this time. If considered as a percentage of all withdrawals within the track, 11.9% of Track 1 and 8.1% of Track 2 withdrawals happened immediately before a scheduled MAID provision.
+Under the regulations, practitioners must provide the reason(s) why a person is withdrawing their request for MAID. These reasons are outlined in
+Table 2.3b
+. The most common reasons for withdrawing a MAID request were that the person accepted other means to relieve their suffering,
+Footnote
+11
+"other", and that the person changed their mind upon learning additional information about MAID. This was the case for people receiving MAID under both Track 1 and Track 2. Among those accepting other available means to relieve their suffering, the means that were most often pursued were pharmacological (n=235), health care services (n=162) and non-pharmacological services, such as neurostimulation, physiotherapy or nutritional counselling services (n=76).
+Died of another cause
+In 2024, 4,017 individuals who requested MAID died prior to receiving it. This is an increase from 2023 when 3,573
+Footnote
+12
+people who requested MAID died of another cause. The vast majority of people who died before receiving MAID in 2024 were assessed under Track 1 (90.7%, n=3,643) while 1.6% (n=64) were assessed under Track 2. The remaining 7.7% (n=310) were not yet assessed as either Track 1 or Track 2.
+When practitioners report that a person died before receiving MAID, they must provide, if known, at least one explanation for this outcome.
+Table 2.3c
+outlines the reasons provided by the practitioner, along with the frequency and median number of days between a MAID request and the individual's death. In 44 cases, the reason was not known. The data show that in the vast majority of cases, the person either never chose a date to proceed with MAID (n=1,661) or was found eligible, but died before their scheduled MAID provision (n=1,502). This was the case for people assessed under both Track 1 and Track 2. These findings could suggest a challenge related to the responsiveness of health systems with respect to MAID requests. However, studies have spoken to how, among patients with serious illness, being approved for MAID can help relieve distress over loss of autonomy and provide a sense of personal control over the circumstances of dying, even when they are uncertain about whether and when they will actually pursue it.
+Footnote
+13
+This is another possible explanation.
+Individuals who died before they had selected a date to receive MAID had the longest median time between when they made their formal request and their death (45.0 days), whereas people who were referred for a MAID assessment or who had requested MAID in the later stages of their illness had the shortest median time between the formal request and death (4.0 days).
+3. MAID assessments: grievous and irremediable medical conditions
+3.1 Most common medical conditions
+In order to be eligible for MAID (both Tracks 1 and 2), a person
+must
+have a "grievous and irremediable medical condition". This criterion is met only when assessors are of the opinion that:
+the person has a serious and incurable illness, disease, or disability;
+the person is in an advanced state of irreversible decline in capability;
+and
+the illness, disease, or disability or state of decline causes the person enduring physical or psychological suffering that is intolerable to the person and cannot be relieved under conditions that the person considers acceptable.
+The nature and severity of the medical condition(s) a person experiences will have a significant bearing on a practitioner's judgement regarding whether or not each of the three elements of the "grievous and irremediable medical condition" eligibility criterion apply.
+For each MAID request, a practitioner must report on the specific serious and incurable illness, disease, or disability or state of decline that is the cause of the individual's suffering. However, individuals requesting MAID very often suffer from more than one serious and incurable medical condition that contributes to the person's suffering. This can create a challenge for reporting as practitioners must consider all of the requester's circumstances, and singling out only one medical condition may not reflect the seriousness of the person's condition and the suffering they are experiencing.
+For this reason, when filing their reports practitioners may – and often do – select more than one medical condition, and do not rank them in order of most significant impact on the individual's health. The broad categories provided to practitioners for MAID reporting purposes are cancer, neurological conditions, respiratory diseases, cardiovascular conditions, organ failure and "other" conditions (practitioners can select more than one). The conditions provided for the "other" conditions category include: diabetes, frailty, autoimmune conditions, chronic pain and mental disorders, but practitioners sometimes listed other conditions such as joint, bone and muscle issues, hearing and visual issues and various internal diseases in the write-in fields. Note that within the broad categories, practitioners can select multiple specific conditions.
+For those who received MAID under Track 1, cancer was the most frequently cited medical condition (n=10,035), followed by "other" conditions (n=3,928), then cardiovascular conditions, such as congestive heart failure, atrial fibrillation or vasculopathy (n=2,703). For Track 2, the most frequently indicated medical conditions were neurological conditions (n=378), "other" conditions (n=375) and cardiovascular conditions (n=94). As noted previously, practitioners can report more than one medical condition (e.g., both cancer and a neurological condition). Within each medical condition, they can also report more than one type per individual (e.g., both lung cancer and breast cancer). A full breakdown of medical conditions reported by MAID recipients in each province and territory is presented in
+Table C.4
+(Appendix C).
+The full list of reported conditions, and the percentage reported among men and women, is provided in
+Figure 3.1a
+. Under Track 1, the percentage of men and women represented under each medical condition closely mirror one another. Slightly more men than women were reported as having cancers, neurological conditions and cardiovascular conditions, while slightly more women than men were reported with respiratory and "other" conditions. Under Track 2, the gaps between women and men reporting each medical condition tended to be more pronounced. This was particularly true for neurological conditions (59.6% of men vs. 45.5% of women) and "other" conditions (57.8% of women vs. 45.7% of men).
+Figure 3.1a: Medical condition by track and sex, as a percentage of those within each track reporting the medical condition
+Figure 3.1a - Text description
+Explanatory note:
+Organ failure has been added to the "other" conditions category. See
+Appendix B
+for more information.
+Cancer was the most frequently cited medical condition among people in nearly all age groups who received MAID in 2024. The exception is those aged 85 years or older, for whom "other" conditions were the most frequently cited. Among MAID recipients with cancer, the most frequently specified types were lung, colorectal, pancreatic and hematologic cancer.
+Figure 3.1b
+compares the age distribution of MAID recipients reporting each underlying medical condition to that of all deaths in Canada attributed to the most common medical conditions for MAID, with the "other" category encompassing all other natural causes of death. The data demonstrate that the age distribution of MAID recipients tends to closely follow that of all decedents. For most medical conditions, the percentage of "all deaths" as reported through vital statistics data tend to be slightly greater than the MAID percentages in the younger age groups (i.e., 18 to 44, 45 to 54, 55 to 64) and in the very oldest age group (i.e., 85 years and older), whereas the MAID percentages tend to be slightly greater than the all deaths percentages in the 65 to 74 and 75 to 84 age groups. There are exceptions to this. For example, in the cardiovascular conditions table, the MAID percentage exceeds the "all deaths" percentage in the 85 years or older age group by 6.8%. There are also instances where the gap between the percentage of MAID provisions and the percentage of all deaths is more pronounced.
+Among MAID recipients with neurological conditions, the most frequently specified conditions were Parkinson's disease (n= 472), Amyotrophic Lateral Sclerosis (ALS or, Lou Gehrig's disease) (n=450), Dementia (n=368) and Multiple Sclerosis (n=159). The category of neurological illness is where there are the greatest variations with respect to MAID provisions as compared to data on "all deaths".
+Among those aged 65 to 74, the percentage of MAID recipients diagnosed with neurological conditions exceeded the "all deaths" percentage in the same category by 9.6%. Among those aged 85 years and older, however, the percentage of persons in the "all deaths" category with a neurological condition exceeded the comparable percentage of MAID provisions by 15.6%. This is likely a result of the type of medical conditions captured under this category, and the wide variations in age of onset and associated progression of illness.
+For example, provisional vital statistics data for 2024 show that Alzheimer's and dementia
+Footnote
+14
+combined accounted for nearly 20% of deaths of people in Canada aged 85 years and older and that nearly 70% of all deaths due to Alzheimer's disease and dementia were among people in this age group.
+Footnote
+15
+Meanwhile, comparatively few MAID recipients had a diagnosis of dementia
+Footnote
+16
+(16.2% of those with a neurological illness or 2.2% (n=368) of all MAID provisions), with a median age of 81.
+Similarly, 19.8% (n=450) of persons with a neurological condition who received MAID were reported as having a diagnosis of ALS, with a median of 70 years of age. While exact numbers of overall deaths attributed to ALS are not available through vital statistics data,
+Footnote
+17
+there was an estimated total of 1,200 deaths included under the broad category of motor neuron disease in 2024, in which ALS is included.
+Footnote
+18
+ALS is a disease that progressively paralyzes people. Over time, people with ALS will lose the ability to walk, talk, swallow and eventually breathe. There are limited treatment options available to address symptoms, and there is no cure. Most people with ALS die within two to five years of diagnosis.
+Footnote
+19
+While persons with a diagnosis of ALS represented 2.7% of all MAID provisions, it is estimated that people with motor neuron disease accounted for only 0.4% of all deaths in 2024.
+Footnote
+20
+While additional research is required to better understand the significance of these findings, they do suggest that persons experiencing an illness for which there are limited options for treatment and relief of suffering may be more likely to seek MAID.
+Figure 3.1b: Age distribution of MAID recipients within each reported medical condition as compared to all deaths in 2024
+Figure 3.1b - Text description
+Explanatory notes:
+These data are presented for illustrative purposes only and should be interpreted with caution as MAID data and vital statistics data are not directly comparable.
+While multiple medical conditions can be reported for each MAID provision, only one cause of death is reported in vital statistics (as indicated on the certificate of death).
+"All deaths" does not include accidental deaths, deaths by suicide or assault, or any death where the cause is unknown. For full details on this variable, see
+Appendix B
+.
+Organ failure has been added to the "other" conditions category. See
+Appendix B
+for more information.
+3.2 Length of time living with a serious and incurable illness, disease or disability
+Under the regulations, practitioners are required to indicate how long the person requesting MAID has had a serious and incurable illness, disease or disability.
+Figure 3.2a
+outlines the length of time MAID recipients reported living with a serious and incurable illness, disease or disability, broken down by track. Consistent with findings from 2023, people receiving MAID under Track 2 tended to live with a serious and incurable condition for a longer period of time than those receiving MAID under Track 1: 18.5% of people receiving MAID under Track 2 lived with a serious and incurable illness, disease or disability for more than 20 years, compared to 2.5% of those under Track 1. In contrast, 7.8% of people receiving MAID under Track 2 lived with a serious and incurable illness, disease or disability for less than one year, compared to 47.1% of those under Track 1.
+Figure 3.2a: Length of time living with a serious and incurable illness, disease or disability, by track
+Figure 3.2a - Text description
+In addition, many MAID recipients lived with more than one serious and incurable medical condition for a significant amount of time. Just over one-third (36.3%) of Track 1 MAID recipients had one medical condition for one year or more, compared to 67.9% of Track 2 MAID recipients. Meanwhile, just 16.7% of Track 1 MAID recipients had two or more medical condition for one year or more, compared to 24.3% of Track 2 MAID recipients. These findings demonstrate that Track 2 MAID recipients tended to have a greater number of medical conditions for a longer period of time.
+3.3 Advanced state of irreversible decline in capability
+The second element of the "grievous and irremediable medical condition" eligibility criterion is that the person must be in "an advanced state of irreversible decline in capability". This is understood to mean that the reduction in the person's ability to undertake activities that are meaningful to them is severe and cannot be improved through reasonable interventions.
+Footnote
+21
+This loss of capability may be sudden, gradual, ongoing, or stable.
+Footnote
+22
+Figure 3.3a
+outlines, by track, the different indicators cited by practitioners for determining that a person was in an advanced state of irreversible decline in capability. For both Tracks 1 and 2, the most frequently cited indicator was an inability of the person to do most or all activities of daily living (e.g., feeding, bathing and toileting oneself), or instrumental activities of daily living (e.g., managing finances, meal preparation, managing medications). This was cited in 90.0% of Track 1 cases and in 87.7% of Track 2 cases. Other commonly cited indicators for both Track 1 and Track 2 were:
+Persistent significant fatigue/weakness (or a marked increase thereof)
+Persistent, significant and escalating chronic pain; and
+Significant dependence on aid(s) for interaction.
+Several indicators associated with decline at end of life were cited much more frequently in Track 1 MAID cases than they were in Track 2 MAID cases. These include:
+Reduced or minimal oral intake or difficulty swallowing;
+Cachexia or marked change in weight and/or muscle mass;
+Significant shortness of breath (or a marked increase thereof); and
+Dependence on life-sustaining treatments.
+Figure 3.3a: Indicators of advanced state of irreversible decline in capability, by track
+Figure 3.3a - Text description
+Explanatory note:
+More than one option could be selected. Totals will exceed 100%.
+Practitioners often cite more than one indicator of a person being in an advanced state of irreversible decline in capability.
+Figure 3.3b
+presents the distribution of the number of indicators reported, by track. As shown in the figure, practitioners most often cited five indicators of advanced state of irreversible decline among Track 1 MAID recipients (i.e., in 22.2% of Track 1 cases), whereas they most often cited three indicators among Track 2 MAID recipients (i.e., in 28.1% of Track 2 cases).
+Figure 3.3b: Distribution of number of indicators reported for advanced state of irreversible decline in capability, by track
+Figure 3.3b - Text description
+3.4 Nature of suffering
+The third element of the "grievous and irremediable medical condition" eligibility criterion is that the person is experiencing "enduring physical or psychological suffering that is intolerable to them and that cannot be relieved under conditions that they consider acceptable."
+Figure 3.4a
+outlines the sources of suffering related to the person's medical condition that were reported by practitioners. Given that people approved to receive MAID typically report multiple sources of suffering associated with their illness, the percentages total over 100%. As shown in the figure, loss of ability to engage in meaningful activities was the most commonly reported source of suffering among MAID recipients in both Tracks 1 and 2, followed by loss of ability to perform activities of daily living (i.e., basic self-care tasks, such as eating, drinking, dressing, moving around and maintaining personal hygiene). The proportion of Track 1 and Track 2 MAID recipients reporting each source of suffering was at or near equal with some exceptions: Track 1 MAID recipients were more likely to report inadequate control of other symptoms, or concern about it, while Track 2 MAID recipients were more likely to report isolation or loneliness and loss of dignity.
+Figure 3.4a: Reported nature of suffering, by track
+Figure 3.4a - Text description
+Explanatory note:
+More than one option could be selected. Totals will exceed 100%.
+Suffering in the context of a serious and incurable illness is complex and multidimensional. Academic literature speaks to multiple aspects of suffering, such as physical, psychological, social, systemic, existential and spiritual.
+Footnote
+23
+Footnote
+24
+Footnote
+25
+With this in mind, it is not surprising that, for almost every MAID case, practitioners reported more than one source of suffering related to the person's medical condition.
+Figure 3.4b
+presents the number of types of suffering reported, by track. As shown in the figure, practitioners most commonly cited six sources of suffering. This was the case for both Track 1 (19.9%) and Track 2 (21.8%) MAID cases. Overall, the data demonstrate that practitioners tend to report more sources of suffering for Track 2 MAID recipients than they do for Track 1 MAID recipients.
+Figure 3.4b: Number of types of suffering reported, by track
+Figure 3.4b - Text description
+Isolation and loneliness
+In its 2024 "Ageing in Canada Survey" the National Institute on Ageing found that 2 in 10 (19%) of people in Canada aged 50 years and older were very lonely, 40% were somewhat lonely and 43% were at risk of social isolation.
+Footnote
+26
+Isolation and loneliness are known to have serious impacts on physical and mental health, quality of life and longevity.
+Footnote
+27
+Some media reports have expressed concerns about the extent to which isolation or loneliness may drive a person's MAID request.
+Footnote
+28
+It is important, however, to contextualize the findings on isolation and loneliness within the relevant academic literature and overall MAID data to gain a fuller understanding about the reasons people seek MAID.
+As previously noted in
+section 3.2
+, people receiving MAID under Track 2 have often lived with their medical condition for many years. Meanwhile, it has been found that people with long-term health conditions are more likely to experience episodic and chronic loneliness and social isolation than those without.
+Footnote
+29
+It is relevant to note here that people receiving MAID under Track 2 are more likely to live alone than those receiving MAID under Track 1, as indicated later in this report in
+section 5.3
+.
+A recent article on MAID recipients in British Columbia (using 2023 data) found that people requesting MAID in that province who reported isolation or loneliness as a source of suffering cited more sources of suffering on average than those who did not.
+Footnote
+30
+Recognizing that the article was not peer-reviewed, Health Canada replicated this analysis at a national level by looking at all MAID recipients in Canada who cited isolation or loneliness as a source of suffering in 2024. Health Canada similarly found that the average number of sources of suffering cited was higher among those who cited isolation and loneliness (Track 1: 7.5; Track 2: 7.1) than it was among those who did not (Track 1: 5.5; Track 2: 5.8).
+Isolation or loneliness was not reported as a sole source of suffering for any MAID cases in 2024. It was cited alongside only one other type of suffering in fewer than five MAID cases, all of which were Track 1.
+Perceived burden on family, friends and caregivers, or "self-perceived burden"
+The perception of being a burden to others is a common feeling among people with serious illness. This is often referred to as "self-perceived burden" in palliative care literature, and is defined as "a multidimensional construct arising from the care recipient's feelings of dependence and the resulting frustration and worry, which then may lead to negative feelings of guilt at being responsible for the caregiver's hardship."
+Footnote
+31
+Researchers have highlighted the clinical importance of self-perceived burden, given the distress and suffering it causes, as well as its negative impact on quality of life and sense of dignity.
+Footnote
+32
+Some have also questioned the potential role that self-perceived burden may play in motivating a person's MAID request and the ways in which it may expose broader deficits when it comes to providing adequate home care and supports for caregivers.
+Footnote
+33
+As was done for the recent article presenting an analysis of British Columbia MAID data,
+Footnote
+34
+Health Canada looked at all MAID recipients in Canada who cited "perceived burden on family, friends and caregivers" as a source of suffering. Health Canada similarly found that the average number of sources of suffering cited was higher among those who cited self-perceived burden (Track 1: 6.8; Track 2: 7.1) than those who did not (Track 1: 5.1; Track 2: 5.6). Self-perceived burden was cited as a sole source of suffering in fewer than five MAID cases and alongside only one other type of suffering in 18 cases. All of these cases were classified as Track 1.
+3.5 Determination of the MAID request as voluntary
+The federal legislation stipulates that an individual's request for MAID must be voluntary and not made as a result of external pressure. As part of their reporting obligations when providing MAID, practitioners are required to specify how they formed the opinion that the individual's MAID request was voluntary. Results for 2024 are consistent with findings from previous years.
+In virtually all cases where MAID was provided, practitioners reported that they had consulted directly with the person to determine the voluntariness of the request for MAID. Most practitioners determined voluntariness through multiple sources, such as prior consultation with the person, consultation with family members or friends, review of the person's medical records, and consultation with other health or social service professionals involved in the person's care. Practitioners most often selected three different sources of information for determining voluntariness. In 21.2% of Track 1 cases, the practitioner selected only one source of information for determining voluntariness compared to 12.6% of Track 2 cases. In 34.9% of Track 2 cases, the practitioner selected between 4-5 sources of information compared to 25.0% of Track 1 cases.
+4. Socio-demographic considerations, access and inequality
+4.1 Importance and challenges of collecting data on identity
+Under the regulations, practitioners are required to collect information respecting race, Indigenous identity and disability in the context of a MAID request, if the person consents to the collection of this information. The purpose of this data collection is to help determine the presence of individual or systemic inequity or disadvantage in the delivery of MAID.
+There are different approaches across provincial and territorial health systems to collecting this data:
+In British Columbia, the Northwest Territories, and Alberta the information is collected through patient request forms.
+In Saskatchewan and Manitoba, it is collected through care coordination services.
+In the remaining provinces and territories, it is up to individual practitioners to ask the requester if they wish to self-identify.
+There are many factors that could hinder a person's willingness to self-identify during any clinical encounter, including during a MAID assessment. These include, for example, concerns about how this information might be used as well as racism and discrimination that the individual may have previously experienced in their health care.
+Health Canada's technical guidance document for practitioners on the MAID reporting requirements clarifies that the data elements on race, Indigenous identity and disability are "self-identification" questions, reflecting how the person identifies themselves.
+Footnote
+35
+The responses do not reflect an individual's legal status or registration (in the case of Indigenous identity). Health Canada's guidance encourages practitioners to reinforce that any self-identification information provided has no bearing on the person's care or MAID assessment.
+Data collection on identity in 2024
+As mentioned in
+section 1.2
+, 2024 was the second year of data collection under the updated regulations. While the self-identification data for 2024 was more complete than that for 2023, the varied approaches within provincial and territorial health systems to collecting this information continue to impact data quality and reliability. For instance, in provinces and territories where the information must be collected by the practitioner, practitioners have reported being reluctant to ask this series of questions. This reluctance may stem from concerns about how asking these questions may impact the clinical relationship and create distrust. It may also stem from a lack of understanding regarding the relevance of asking these questions in the context of a MAID request. This underscores the continued need for practitioner support and cultural safety training to ensure this information can be collected in a culturally safe and clinically appropriate way. Health Canada is working with provincial and territorial health officials to improve data collection, consistency and quality, and to help sensitize practitioners to these reporting obligations.
+Given the above-noted limitations, the information in this section should be interpreted with caution.
+4.2 MAID by racial, ethnic or cultural group
+Data is collected on racial, ethnic or cultural group categories based on guidance from the Canadian Institute of Health Information
+Footnote
+36
+and consistent with the Statistics Canada "visible minority" identity question in the 2021 Census. Individuals who identify with multiple groups or mixed groups can select more than one of the listed categories, or may choose to provide specific details under the "specify other race category".
+Footnote
+37
+A total of 15,927
+Footnote
+38
+of the 16,499 people who received MAID in 2024 responded to this question, the vast majority of whom (95.6%) identified as Caucasian (White).
+Footnote
+39
+For context on how this compares to the overall population of Canada, approximately 70% of people in Canada identified as Caucasian in the most recent Census.
+Footnote
+40
+The second most commonly reported racial, ethnic or cultural identity among MAID recipients was East Asian (1.6%).
+Given both the data limitations outlined in
+section 4.1
+, and the relative homogeneity of the responses provided, it is not possible to undertake more meaningful analysis with respect to potential differences with respect to the provision of MAID according to racial or ethnic identity. The proportion of MAID recipients identifying as Caucasian (White) by province and territory is provided in
+Table C.5
+(Appendix C).
+4.3 Indigenous people who received MAID
+Given the data limitations outlined in
+section 4.1
+, the data presented in this section should not be taken as accurately representing the population of Indigenous people in Canada who received MAID in 2024. Accordingly, analyses of these data are limited to prevent readers from drawing erroneous conclusions about the profile of First Nations, Inuit and Métis people receiving MAID in Canada.
+Individuals requesting MAID are asked whether they belong to one or more of the three constitutionally recognized groups of Indigenous Peoples in Canada: First Nations, Inuit and Métis.
+A total of 16,115
+Footnote
+41
+of the 16,499 people who received MAID in 2024 responded to this question, with 164 people self-identifying as Indigenous. There were 102 people who self-identified as First Nations, 57 people who self-identified as Métis and 7 people who self-identified as Inuit.
+The majority of self-identified Indigenous people who received MAID were assessed under Track 1 (93.9%, n=154), while 6.1% (n=10) were assessed under Track 2. Health Canada cannot report differences by distinction between Track 1 and Track 2 without compromising confidentiality. The proportion of people who received MAID under Track 2 and self-identified as Indigenous is slightly higher than that of the overall population of people in Canada who received MAID under Track 2. However, given the relatively small number of people who received MAID and self-identified as Indigenous, it is not possible to draw meaningful conclusions about this finding.
+The most commonly reported underlying medical conditions among Indigenous people who received MAID mirror those of the overall population of people in Canada who received MAID (see
+section 3.1
+).
+It is important to note that there was significant variation across the country in regard to data completeness on the question of Indigenous identity, which compromises the reliability of the data presented. Some provinces had inconsistently high levels of "unknown" responses. For example, while the proportion of responses that were "unknown" was less than 8% in most provinces and territories, in one province the proportion was 30.1%. Some provinces also had inconsistently high levels of individuals not consenting to respond: while for most provinces and territories, the proportion of "do not consent" responses was less than 10%, "do not consent" responses accounted for 25.0% of responses in one province and 23.1% of responses in another.
+Since Health Canada began reporting on Indigenous identity in the context of MAID last year, departmental officials have been having conversations with Indigenous partners regarding the collection and appropriate use of this data. During conversations in the lead up to the publication of this year's annual report, some partners suggested comparing the proportion of MAID recipients who self-identified as Indigenous to the proportion of people who identified as Indigenous and died of natural causes. As noted during these conversations, this analysis would improve transparency by highlighting discrepancies across the country regarding the completeness of the data on Indigenous identity.
+In response to this suggestion, and to better contextualize the data on Indigenous identity, Health Canada worked with Statistics Canada to do the comparison, presented in
+Table 4.3a
+. As shown in the table, the percentage of people who identified as Indigenous and died of natural causes exceeds the proportion of people who self-identified as Indigenous and received MAID in every region/province, often to a very large degree. This is particularly true in Manitoba, Saskatchewan and the Territories. In addition to issues around the quality and completeness of the data, this could be the result of a combination of factors such as:
+Challenges in accessing MAID, particularly in rural and remote communities where a greater proportion of Indigenous people live (compared to non-Indigenous people)
+Footnote
+42
+Distrust of the health care system, based on experiences of anti-Indigenous racism,
+Footnote
+43
+that limits the ability to have comprehensive end of life care discussions;
+Potential discomfort and/or lack of understanding regarding the topic of MAID
+Footnote
+44
+and;
+Potential disconnection between MAID and Indigenous Worldviews.
+Footnote
+45
+Health Canada will continue to have conversations with Indigenous partners regarding the collection and appropriate use of the data on Indigenous identity and is working with provinces and territories to identify opportunities to improve data quality and consistency over the longer term.
+Recognizing the limitations of the data on Indigenous identity, and the importance of Indigenous data sovereignty, this data will not be shared with outside researchers without further discussions with Indigenous partners.
+4.4 Persons with disabilities who received MAID
+According to the most recent available data, 8 million people in Canada have at least one disability that limits them in their daily activities, representing 27% of people aged 15 and older. The rate of disability is higher among women (30%) than it is among men (24%) and increases with age, with 40% of adults aged 65 and older reporting at least one disability.
+Footnote
+47
+Nearly half of persons with disabilities report having at least one unmet need for health services.
+Footnote
+48
+Recognizing the longstanding systemic inequities faced by persons with disabilities, Canada is taking several actions to reduce barriers to inclusion among this population. These include, for example, adopting the
+Accessible Canada Act
+, which aims to identify, remove and prevent barriers facing people with disabilities, as well as implementing Canada's Disability Inclusion Action Plan to improve the social and economic participation of persons with disabilities in Canada.
+Footnote
+49
+Collecting information on disability in the context of MAID provides important insight into the extent to which persons with disabilities are seeking and receiving MAID, as well as the medical circumstances motivating their requests.
+Footnote
+50
+Under the regulations, practitioners are instructed to ask people requesting MAID to indicate if, in their opinion, they have a disability. If the person requests a further explanation as to what is meant by the term "disability", practitioners are encouraged to describe this as "a functional limitation in any one of the following ten areas, which cannot be corrected with the use of aids: seeing, hearing, mobility, flexibility, dexterity, pain-related, learning, developmental, mental health related or memory."
+Footnote
+51
+In 2024, 16,104
+Footnote
+52
+of the 16,499 people who received MAID responded to the series of questions on disability. This is a significant improvement over last year when 10,581 of the 15,343 people who received MAID responded to this series of questions. Similar to the question on Indigenous identity, there was some variation across the country in regards to data completeness and quality. For example, data were missing on this series of questions for nearly half of MAID recipients in one jurisdiction and the proportion of MAID recipients who did not consent to disclosing this information ranges from as low as two percent to over 10 percent. As such, overall findings should still be interpreted with caution.
+Table 4.4a
+outlines the profile of people receiving MAID who self-reported having a disability. Of the 16,104 people who responded to this series of questions, 5,295 (32.9%) self-identified as having a disability: 31.6% (n=4,858) of Track 1 respondents self-identified as having a disability compared to 61.5% (n=437) of Track 2 respondents.
+The rates at which persons receiving MAID self-reported having a disability varied widely across provinces and territories, particularly under Track 1, where the rate ranged from as low as 12.0% in Quebec and as high as 100% in the Northwest Territories. Under Track 2, the lowest rate was reported in Quebec (49.6%) and the highest rate was reported in Saskatchewan (88.9%). The proportion of MAID recipients self-reporting having a disability by province and territory is presented in
+Table C.5
+(Appendix C).
+Table 4.4b
+outlines the distribution of people receiving MAID who self-reported having a disability by track, age, sex and requirement for disability support services.
+When looking at age, we see that under Track 1, the share of people who self-report having a disability increases in the older age groups. Under Track 2, the largest proportion of people who self-reported having a disability was in the 75 to 84 age group; the share declines again among those aged 85 and older.
+When looking at sex, we see that under Track 1, slightly more men (50.8%) than women (49.2%) self-reported having a disability. This represents a shift from 2023 when slightly more women (51.2%) than men (48.8%) who received MAID under Track 1 self-reported having a disability. Under Track 2, proportionally more women (55.6%) than men (44.4%) self-reported having a disability, which aligns closely with 2023 data, as well as with disability trends among the general population of Canada.
+Footnote
+53
+Health Canada also looked at the proportion of MAID recipients with a self-reported disability that practitioners reported as requiring disability support services. The findings show that most people who received MAID under Track 1 (64.1%) and Track 2 (67.7%) who self-reported having a disability were also reported by practitioners as having required disability support services. This gap has narrowed since 2023, when 68.4% of Track 1 MAID recipients self-reporting disability were reported by practitioners as having required disability support services, compared to 75.7% of Track 2 MAID recipients.
+In the event that a person requesting MAID indicates that they have a disability, practitioners are instructed to ask the person to indicate:
+The type of disability (or types of disabilities) they have
+How long they have had their disability
+How often their disability limits their daily activities
+Figure 4.4a
+outlines the types and frequency of reported disabilities among MAID recipients who self-identified as having a disability. The most frequently reported disabilities were mobility (reported by 4,105 people) and pain-related (reported by 2,435 people). These findings are similar to those reported for 2023.
+Figure 4.4a: Frequency of reporting each type of disability among those who self-reported having a disability
+Figure 4.4a - Text description
+Explanatory note:
+More than one option could be selected. Totals will exceed 100%.
+Figure 4.4b
+outlines the number of self-reported disabilities among MAID recipients who self-identified as having a disability, by track. As shown in the figure, people who received MAID under Track 1 most commonly reported having one disability, while people who received MAID under Track 2 most commonly reported having two disabilities. Overall, roughly three-quarters of MAID recipients who self-reported having a disability reported having three or fewer disabilities, while the remaining one-quarter reported having four or more.
+Figure 4.4b: Number of self-reported disabilities among MAID recipients who self-reported having a disability, by track
+Figure 4.4b - Text description
+Track 1 MAID recipients who self-reported having a disability reported having had their disability for a median of two years, while Track 2 MAID recipients who self-reported having a disability reported having had their disability for a median of five years.
+Figure 4.4c
+outlines the length of time that MAID recipients reported having had their disability, by track.
+As shown in the figure, Track 1 MAID recipients most commonly reported having had a disability for less than one year (32.2%), while Track 2 MAID recipients most commonly reported having had a disability for between one and five years (27.5%). Overall, the data demonstrate that Track 2 MAID recipients typically reported having had a disability for a greater length of time than Track 1 MAID recipients, with the proportion of Track 2 MAID recipients who reported having had a disability for more than 5 years exceeding that of Track 1 MAID recipients. These findings align with those outlined in
+section 3.2
+, where Track 2 MAID recipients were reported to have lived with their serious and incurable medical condition for a longer period of time than Track 1 MAID recipients.
+Figure 4.4c: Length of time with self-reported disability, by track
+Figure 4.4c - Text description
+Health Canada also calculated the average time spent with a disability over the lifespan among those who self-reported having a disability, by track. This was done by dividing years reported with a disability by age at the time that MAID was provided. People receiving MAID under Track 1 who reported having a disability were found to have had a disability for 2.8% of their lifespan, on average. This same group under Track 2 was found to have had a disability for 6.2% of their lifespan, on average.
+When asked how often their disability limits their daily activities, the vast majority of MAID recipients who self-reported having a disability reported "always" (Track 1: 82.9% and Track 2: 87.1%) and a smaller proportion reported "often." (Track 1: 10.8%; Track 2: 8.7%). Very small proportions reported "sometimes", "rarely", or "never" (no one that responded to this series of questions under Track 2 reported "never").
+Table 4.4c
+outlines, by track, the medical conditions reported by persons who self-reported having a disability and those who did not. In Track 1, the most frequently reported medical conditions among persons who self-reported as having a disability were cancer (47.3%) and "other" medical conditions (46.1%). When assessing persons who self-reported as having a disability within Track 2, the most frequently specified medical conditions were "other" medical conditions (56.1%) and neurological conditions (53.5%).
+Under Track 1, the percentage of people within each category of medical condition who self-reported having a disability often differed greatly from those who
+did not
+self-report having a disability. This is particularly true among Track 1 MAID recipients with "other" medical conditions, neurological conditions and cancer: the percentage of Track 1 MAID recipients with "other" medical conditions and neurological conditions who self-reported having a disability was much higher than the percentage of those who did not, while the percentage of Track 1 MAID recipients with cancer who
+did not
+self-report having a disability was much higher than the percentage of those who did. The latter finding aligns with research on people with cancer who, despite often experiencing limitations associated with their illness that could be classified as disability, often do not self-identify as having a disability.
+Footnote
+54
+This underscores the inherent subjectivity of self-identification variables, particularly with respect to how disability is understood.
+Conversely, under Track 2, the percentage of people with each medical condition who self-reported having a disability tends to be close to the percentage of people who
+did not
+self-report having a disability. The largest difference observed was in the "other" medical conditions category: 56.1% of these Track 2 MAID recipients self-reported having a disability while 47.5% did not.
+4.5 Socio-economic and community analyses
+For this Sixth Annual Report, Health Canada replicated the socio-economic and community analyses done in the Fifth Annual Report to continue to better understand the circumstances of people receiving MAID. These analyses compare people who received MAID in 2024 under Track 1 and Track 2 to all people in Canada who died in that same year
+Footnote
+55
+on different socio-economic and community measures. It is important to note that the findings outlined below do not speak to the unique circumstances of individuals who received MAID. Rather, they provide insight, at a high level, about the community characteristics of MAID recipients as compared to all people who died of natural causes (the reference group).
+Income
+Firstly, Health Canada linked data on MAID recipients to a neighbourhood-level measure of income from Statistics Canada (
+Figure 4.5a
+). The first and second bars represent the distribution of Track 1 and Track 2 MAID recipients within each neighbourhood-level income quintile (numbered 1-5); the third bar represents the distribution of all people who died of natural causes in Canada within each income quintile.
+The first row of the figure shows that the percentage of all Canadians who died who were in the lowest income quintile was 27.1%. In comparison:
+A lower percentage of Track 1 MAID recipients (23.7%) were in that quintile.
+A slightly higher percentage of Track 2 MAID recipients (28.3%) were in that quintile.
+The first row of the figure also shows that the percentage of all Canadians who died who were in the highest income quintile was 15.1%. In comparison, a slightly higher percentage of both Track 1 (17.5%) and Track 2 (15.9%) MAID recipients were in that quintile.
+The second and third rows of the figure present the above findings disaggregated by sex. The findings suggest that women receiving MAID were more likely to live in lower income neighbourhoods than men receiving MAID. This was the case under both Tracks 1 and 2. Women in the reference group were also slightly more likely than their male counterparts to live in lower income neighbourhoods.
+Overall, the figure shows that, within each income quintile, the percentage of people who received MAID under tracks 1 and 2 in 2024 was similar to the percentage of all people who died in Canada in 2024. It suggests that those who receive MAID are not overly represented in lower income neighbourhoods, and are slightly more likely to be represented in higher income neighbourhoods. These findings align with those presented for 2023 in the Fifth Annual Report on MAID.
+Figure 4.5a: Neighbourhood income quintiles, by track, compared to all 2024 deaths in Canada
+Figure 4.5a - Text description
+Explanatory note:
+"All deaths" does not include accidental deaths, death by suicide or assault, or any death where cause is unknown. For full details on this variable, see
+Appendix B
+.
+Neighbourhood marginalization
+Secondly, Health Canada used Statistics Canada's national-level Canadian Index of Multiple Deprivation (CIMD)
+Footnote
+56
+to provide additional insight on the socio-economic circumstances of MAID recipients by quantifying neighbourhood marginalization. Health Canada used the following three dimensions of multiple deprivation in this analysis: (1)
+residential instability
+, (2)
+economic dependency
+and (3)
+situational vulnerability
+. Within each dimension, scores are assigned a quintile value of 1 though 5, which represents the least to most deprived respectively. The composition of indicators within each dimension varies at national and regional levels, and should not be directly compared to other studies that may have been undertaken with different measures.
+The measure of
+residential instability
+speaks to the tendency of neighbourhood residents to change over time, taking into consideration both housing and family types. Indicators of residential instability include median 2021 household income as well as the proportion of:
+dwellings that are apartment buildings
+dwellings that are owned
+persons living alone
+moves within the past 5 years
+the population that is married/common-law
+Similar to last year, findings indicate that Track 2 MAID recipients were more likely to live in neighbourhoods characterized by residential instability: 37.3% lived in such neighbourhoods, compared to just under 30% of Track 1 MAID recipients and people in the reference group (
+Figure 4.5b
+). This is consistent with other findings presented later under
+section 5.3
+showing that Track 2 MAID recipients were more likely to live alone (41.7%) compared to Track 1 MAID recipients (32.5%) or live in a residential care facility (14.0%) than Track 1 MAID recipients (4.4%).
+Figure 4.5b: Neighbourhood marginalization quintiles for residential instability, by track, compared to all 2024 deaths in Canada
+Figure 4.5b - Text description
+Explanatory note:
+"All deaths" does not include accidental deaths, death by suicide or assault, or any death where cause is unknown. For full details on this variable, see
+Appendix B
+.
+The measure of
+economic dependency
+relates to dependence on sources of income other than employment income. Indicators of economic dependency include the proportion of the population that is:
+aged 65 and older
+not participating in the labour force
+receiving government transfer payments (such as a retirement pension or disability benefits)
+Similar to last year, findings indicate that people who received MAID under both tracks tended to live in less deprived neighbourhoods on this measure than the reference group. (
+Figure 4.5c
+).
+Figure 4.5c: Neighbourhood marginalization quintiles for economic dependency, by track, compared to all 2024 deaths in Canada
+Figure 4.5c - Text description
+Explanatory note:
+"All deaths" does not include accidental deaths, death by suicide or assault, or any death where cause is unknown. For full details on this variable, see
+Appendix B
+.
+The measure of
+situational vulnerability
+speaks to variations in socio-demographic conditions in the areas of housing and education. Indicators of situational vulnerability include the median value of housing in the areas as well as the proportion of:
+the population aged 25 to 64 without a high-school diploma
+dwellings needing major repairs
+Similar to last year, the findings indicate that MAID recipients in both tracks lived in neighbourhoods that were comparable on this measure to the reference group. A slightly higher proportion of Track 1 and Track 2 MAID recipients lived in the least deprived neighbourhoods compared to the reference group. (
+Figure 4.5d
+).
+Figure 4.5d: Neighbourhood marginalization quintiles for situational vulnerability, by track, compared to all 2024 deaths in Canada
+Figure 4.5d - Text description
+Explanatory note:
+"All deaths" does not include accidental deaths, death by suicide or assault, or any death where cause is unknown. For full details on this variable, see
+Appendix B
+.
+Underserved and remote areas
+Some have voiced concerns that people living in an underserved community (such as rural or remote community) could be more likely to request MAID due to a lack of access to health and social supports.
+Footnote
+57
+At the same time, accessing MAID in an underserved community may be difficult due to a lack of MAID providers, particularly when specialized assessments are required.
+To assess how living in a rural or remote area might affect MAID provision, Health Canada compared MAID recipients to all people who died of natural causes
+Footnote
+58
+(the reference group) using Statistics Canada's Index of Remoteness to gain insight on accessibility of health care services and supports that promote health. The Index of Remoteness calculates travel time and cost to services and population centres for each Census subdivision.
+Footnote
+59
+The location of the person receiving MAID is determined based on the postal code associated with their provincial/territorial health card.
+The findings are presented in
+Figure 4.5e
+. When comparing accessibility to services of MAID recipients across different provinces to the reference group, we see that people who received MAID were typically less likely to live in remote areas. The exception is Ontario, where MAID recipients were slightly more likely to live in remote areas (2.4% versus 2.1%), however, given the very small percentage of people in both groups living in remote areas in that province, it is not possible to draw meaningful conclusions from this finding. Overall, the findings suggest that MAID recipients are not necessarily seeking MAID because of a remote location and a related lack of accessibility to health care services or services that promote health. They may also reflect challenges accessing MAID in remote locations.
+Figure 4.5e: Percentage of MAID recipients who lived in remote areas by province, compared to all deaths in 2024
+Figure 4.5e - Text description
+Explanatory notes:
+In its Fifth Annual Report on Medical Assistance in Dying, Health Canada used the overall population of Canada as a comparator group, rather than all decedents, for this analysis. As such, 2024 findings are not directly comparable to 2023 findings.
+"All deaths" does not include accidental deaths, death by suicide or assault, or any death where cause is unknown. For full details on this variable, see
+Appendix B
+.
+5. Social supports and use of health services
+5.1 Palliative care services
+Table 5.1a
+outlines the requirement for, and the duration and accessibility of, palliative care services among people who received MAID. Consistent with findings in previous years, MAID practitioners reported that the majority of MAID recipients in 2024 (74.1%) had accessed palliative care. Most people who received MAID under Track 1 received palliative care (76.4%, or n=12,051) while a much smaller proportion of people receiving MAID under Track 2 received these services (23.2%, or n=170). As shown in the table, the largest group was made up of those who received palliative care for a period of one month or more. In 14 cases (0.1%), palliative care was required but was not accessible to the person. Data in the table are not presented by track, due to very small numbers for many of the cells under Track 2, which would not be reportable.
+Information on the need for, and provision of, palliative care services by province and territory is presented in
+Table C.6
+(Appendix C).
+Table 5.1b
+compares the proportion of MAID recipients who required and received palliative care by medical condition. The medical condition with the highest proportion of people reported as having received palliative care was cancer (87.3%), followed by respiratory conditions (70.6%) and cardiovascular conditions (62.1%). These findings are not surprising, given that palliative care was initially developed as a medical specialty serving patients with cancer. While it is now understood that a palliative approach to care can benefit people living with any life-limiting illness, as well as their families, Canadian patients with cancer still typically have greater access to palliative care than those with other medical conditions.
+Footnote
+60
+Figure 5.1a
+outlines the types of palliative care support received by track. Among Track 1 and Track 2 MAID recipients who received palliative care supports, the most common types received were pain/symptom management (Track 1: 95.7%; Track 2: 88.2%) and personal support services (Track 1: 45.3%; Track 2: 55.9%). There are notable variations between the proportion of Track 1 and Track 2 MAID recipients who received different palliative care supports. For example:
+The proportion of Track 2 MAID recipients having received psychosocial care and/or counselling, as well as physiotherapy and occupational therapy services, was much higher than that of Track 1 MAID recipients.
+The proportion of Track 1 MAID recipients having received palliative chemotherapy and palliative radiation therapy services was much higher than that of Track 2 MAID recipients.
+Figure 5.1a: Type of palliative care services received, by track
+Figure 5.1a - Text description
+Explanatory note:
+More than one option could be selected. Totals will exceed 100%.
+5.2 Disability support services
+Table 5.2a
+outlines the requirement for, and duration and accessibility
+Footnote
+61
+of, disability support services among people who received MAID. Nearly one-third (32.5%) of individuals who received MAID were reported by the MAID practitioner as having required and received disability support services. Of the 5,359 people who received disability support services, 5,025 were assessed as Track 1 and 334 were assessed as Track 2. These numbers represent 32.0% of people who received MAID under Track 1 and 45.5% of people who received MAID under Track 2, respectively. As shown in the table, the largest group comprised those who received disability support services for a period of less than one year. In fewer than five cases, disability support services were available but not accessible to the person. Data in the table are not presented by track, due to low counts in many of the cells under Track 2 that would require suppression.
+There is significant variation across Canada in the proportion of MAID recipients reported as having required and received disability support services. Information on the need for, and provision of, disability support services by province and territory is presented in
+Table C.7
+(Appendix C). As indicated previously in
+section 4.4
+, the completeness (missing information) on self-identification questions related to disability varied across the country, as did the rates at which persons receiving MAID self-reported having a disability.
+Table 5.2b
+further breaks down the above data by medical condition. As shown in the table, people with neurological and "other" conditions were most likely to have received disability support services, while people with cancer were most likely to be reported as not requiring disability support services. Given the relatively small number of cases where disability support services were available but not accessible, it is not possible to break this number down by medical condition without compromising confidentiality.
+Figure 5.2a
+outlines the types of disability support services received, by track. Among Track 1 and Track 2 MAID recipients who received disability support services, the most common type received were aids to support physical mobility, physical support services, physical support services and aids to support safety/access/transfers/activities of daily living. Given that people who received MAID under Track 2 were more likely to report having received disability support services, the percentage of Track 2 MAID recipients receiving each type of support tends to be higher than that of Track 1 MAID recipients. This is particularly true when it comes to receipt of mental health/social support professional services: Track 2 MAID recipients were over three times more likely to have received these services than Track 1 MAID recipients.
+Figure 5.2a: Type of disability support services received among those who required disability support services, by track
+Figure 5.2a - Text description
+Explanatory notes:
+More than one option could be selected. Totals will exceed 100%.
+"Mental health/social support professional services" include services from professionals such as social workers, psychotherapists, counsellors and case workers.
+"ADLs" refer to activities of daily living.
+"Physical support services" include services from professionals such as personal support workers, occupational therapists, physiotherapists and nurses.
+5.3 Place of residence and living arrangement
+Information on the "usual place of residence" and "living arrangement" is collected to provide insight on the availability of supports or risk of social isolation, which can have profound implications on a person's physical and mental health, quality of life, and longevity. Information related to a person's "living arrangement" is sought only in instances when the person identified their usual place of residence as a private residence.
+Footnote
+62
+Table 5.3a
+outlines the place of residence and living arrangement of MAID recipients as a percentage by track. As shown in the table, most MAID recipients reported living in a private residence, either with family, other non-relatives, or alone. The percentage of people receiving MAID under Track 1 living with family (49.3%) was higher than that of those living alone (32.5%). For those receiving MAID under Track 2, however, the percentage of people living alone (41.7%) was higher than the percentage of people living with family (30.6%). These findings are similar to those reported for 2023. A greater proportion of Track 2 MAID recipients lived in residential care facilities (14.0%) than Track 1 MAID recipients (4.4%) while a greater proportion of Track 1 MAID recipients lived in palliative care facilities (3.8%) than Track 2 MAID recipients (1.3%) A breakdown of place of residence by province and territory is provided in
+Table C.8
+(Appendix C).
+5.4 Means to relieve suffering
+For all Track 2 MAID cases, the legislation requires that the practitioner "ensure that the person has been informed of the means available to relieve their suffering, including, where appropriate, counselling services, mental health and disability support services, community services and palliative care and has been offered consultations with relevant professionals who provide those services or that care." In 2024, the most common means that were offered and discussed were pharmacological (n=597), followed by health care services, including palliative care (n=415) and non-pharmacological (n=310).
+For individuals being assessed under Track 2 to be found eligible to receive MAID, a practitioner must be satisfied that the person has given serious consideration to reasonably available means to relieve their suffering.
+Table 5.4a
+outlines the ways that practitioners reported having formed this opinion, the most common being: consultation with the person, reviewing the person's medical records and consulting the person's family and/or friends. In the vast majority of MAID cases, practitioners selected multiple sources of information that helped them form the opinion that the person had given serious consideration to reasonably available means to relieve their suffering: 70.2% selected between two and four sources, 18.6% selected five or more sources and only 11.2% selected just one source.
+6. MAID providers and delivery
+6.1 MAID practitioners
+There were 2,266 unique MAID practitioners in 2024, the majority (93.2%) of whom were physicians, while 6.8% were nurse practitioners. A breakdown of practitioners and provisions, by province and territory, is presented in
+Table C.9
+(Appendix C).
+Health Canada undertook two key analyses to understand the involvement of MAID practitioners in 2024. To do so, Health Canada categorized practitioners into five distinct "caseload groups" based on the number of MAID provisions they performed during the year:
+those who provided MAID only once;
+those who provided MAID two to ten times;
+those who provided MAID 11 to 20 times;
+those who provided MAID 21 to 30 times;
+those who provided MAID 31 times or more.
+The first analysis (
+Figure 6.1a
+) presents the distribution of MAID practitioners in each caseload group, by track. As shown in the figure, when considering all MAID cases, the largest group (49.1%; n=1,112) of practitioners provided MAID two to ten times in 2024.
+However, when examining the number of unique practitioners that administered MAID by track, we find that the largest share of practitioners (48.6%; n=1,069) administered MAID to Track 1 individuals two to ten times. In contrast, most practitioners administering to Track 2 individuals (70.0%; n=310) only did so once.
+Figure 6.1a: MAID practitioners, by caseload and track
+Figure 6.1a - Text description
+Explanatory note:
+The Track 1 bars represent the proportion of only those practitioners who provided MAID to Track 1 recipients. The Track 2 bars represent the proportion of only those who provided MAID to Track 2 recipients. The Total bars represent all practitioners who provided MAID. As there is no way to identify individual practitioners from this chart, no values have been suppressed.
+The second analysis (
+Figure 6.1b
+) presents the share of total MAID provisions attributed to each caseload group, by track. As shown in Figure 6.1b, the 4.5% of practitioners that provided MAID 31 times or more in 2024 were responsible for 37.5% (n=6,185) of all MAID provisions.
+When comparing by track, the proportions presented in the Track 1 column align closely with the proportions presented in the total (all cases) column, with 38.0% (n=5,986) of Track 1 MAID provisions being done by practitioners who provided MAID 31 times of more. This could be related to the fact that eligibility assessment tends to be less complex under Track 1 and that some hospitals have centralized MAID programs for their communities. Under Track 2, however, the largest proportion of MAID provisions were done by practitioners who provided MAID between 2 and 10 times (37.4%; n=274).
+As one would expect, the smallest proportion of MAID provisions were done by practitioners who provided MAID just one time (4.7%; n=775). It is interesting to note, however, that the proportion of Track 2 MAID provisions done by this group of practitioners (8.1%; n=59) is higher than the proportion of Track 1 MAID provisions done by this group of practitioners (4.5%; n=716). In such cases, it is possible that the practitioner had a pre-existing relationship with the person requesting MAID, and, despite not providing MAID regularly, chose to fulfill the person's request.
+Figure 6.1b: Proportion of MAID provisions attributed to each practitioner caseload group, by track
+Figure 6.1b - Text description
+Health Canada supplemented the above analyses by calculating the Track 2 caseload within each caseload group. When looking specifically at the group of practitioners who provided MAID 31 times or more (n=102), just over one-third did not do any Track 2 MAID provisions; the remainder primarily did ten or fewer Track 2 MAID provisions. Fewer than five practitioners did between 11 and 20 Track 2 MAID provisions and none did 21 or more.
+For all Track 2 cases, the law requires at least one of the two practitioners assessing eligibility to have expertise in the condition that causes the person's suffering. If neither of the practitioners have that expertise, they must seek a third assessor who does.
+In 77.4% of Track 2 cases, at least one of the two practitioners had expertise in the condition causing the person's suffering and were able to complete the assessment themselves. In the remaining cases, these practitioners sought additional expertise in the condition causing the person's suffering to help assess eligibility for MAID.
+Table 6.1a
+provides a list of practitioner specialties among those undertaking Track 2 MAID assessments. As outlined in the table, pain management, neurology and geriatric medicine were the most frequently cited specialties among the first or second assessors. When a third practitioner was required to assess the person requesting MAID, the most frequently cited specialties were neurology, pain management and psychiatry.
+Footnote
+63
+Practitioners could select more than one specialty. It is important to note that while the overall trends are consistent with 2023, there are variations in the percentages, which is likely due to having more complete data for 2024.
+Beyond the legislative requirements, practitioners often also consult with other health care professionals during MAID assessment. In 2024, practitioners consulted other health care professionals in 23.4% of Track 1 and 43.7% of Track 2 assessments. The fact that additional consultations were done in nearly twice as many Track 2 cases highlights the additional complexities involved with these assessments and the need to undertake due diligence to fully understand the person's condition.
+Figure 6.1c
+presents the most common types of health care professionals consulted in order to make a determination of eligibility, by track. In Track 1 MAID cases, primary care providers were the most commonly consulted (24.0%), followed by nurses (21.6%) and palliative care specialists (15.0%), whereas in Track 2 MAID cases, "other" health professionals were the most commonly consulted (33.7%), followed by primary care providers (26.7%) and psychiatrists (15.5%).
+The data demonstrate significant variation in the extent to which different professionals were consulted by track. For example, oncologists were over 17 times more likely to be consulted in Track 1 MAID cases than they were in Track 2 MAID cases and psychiatrists were nearly five times more likely to be consulted in Track 2 MAID cases than they were in Track 1 MAID cases.
+Figure 6.1c: Types of health care professionals consulted in order to make a determination of eligibility, by track
+Figure 6.1c - Text description
+Explanatory note:
+Examples of health professionals in the "other" category include other physician specialists, such as neurologists, internists and geriatricians, as well as other professionals such as psychologists, spiritual care providers and ethicists.
+6.2 Timing of MAID
+Data on the timing of MAID provides important insights into the experiences of people receiving MAID and highlights the important balance that must be struck between the need to ensure adequate time for reflection and the need to respond to urgent medical circumstances.
+For individuals assessed as Track 1, there is no minimum specified period of time that must be taken to assess eligibility nor between when an assessment is completed and MAID is provided. In 2024, the median number of days between the MAID request and MAID provision was 15 days for people who received MAID under Track 1. This finding suggests that most people under Track 1 received MAID quickly after they were assessed as being eligible.
+For individuals in Track 2, the legislation requires practitioners to ensure there are at least 90 clear days between the date the first assessment began and the day on which MAID is provided. This mandatory 90-day assessment period aims to respond to the additional challenges and concerns that may arise in the context of these MAID assessments, including whether the suffering is caused by factors other than the individual's medical condition, and whether there are ways of addressing the suffering other than MAID. It also serves to help ensure that enough time is devoted to exploring all the relevant aspects of the person's situation, including whether there are treatments or services that could help reduce the person's suffering, such as counselling services, mental health and disability support services, community services and palliative care.
+Footnote
+64
+In 2024, the median number of days between the MAID request and MAID provision was 118 days. It is relevant to note that the "90 clear days" is a minimum requirement; in 38 Track 2 cases, practitioners reported that the assessment took longer than one year. This reflects the fact that MAID assessments under Track 2 often involve much longer and more complex assessments that may span several months or even years.
+The 90 clear day requirement for Track 2 can be waived if both assessors are of the opinion that the loss of the person's capacity to provide consent to receive MAID is imminent. The requirement for at least 90 clear days between the beginning of first assessment and MAID provision was waived for 50 individuals in 2024.
+Waiver of final consent
+In 2021, the
+Criminal Code
+was amended to allow for the waiver of the requirement to provide consent immediately before receiving MAID in the following limited circumstances:
+The person's natural death is reasonably foreseeable (Track 1);
+While the person had decision making capacity:
+They were assessed and approved to receive MAID, and had a date for receiving MAID; and
+They were advised by the practitioner that they were at risk of losing capacity to provide final consent; and,
+They have lost capacity to consent at the time MAID is to be provided.
+The
+waiver of final consent
+is the document that an individual must complete with their practitioner which identifies a chosen date to receive MAID and provides consent in advance of that date, should the individual no longer have capacity to consent at that time. It becomes invalid if the person, after having lost decision-making capacity, demonstrates refusal or resistance to the administration of MAID.
+A waiver of final consent is different from an
+advance request
+. An advance request involves a competent person making a written request for MAID that could be honoured later, after they lose the capacity to make medical decisions for themselves. In such cases, those persons would otherwise meet the eligibility criteria for MAID except for their lack of capacity at the time MAID was provided. Advance requests for MAID are not permitted under the
+Criminal Code
+.
+In 2024, there were 785 reported instances of individuals who received MAID under a waiver of final consent arrangement due to a loss of capacity. In cases where MAID was provided under a waiver of final consent, the most common underlying medical condition was cancer (79.0%), followed by "other" medical conditions (23.8%) and cardiovascular conditions (12.3%).
+6.3 Location of MAID
+In 2024, private residences continued to be the most common location for MAID provision, representing 36.8% of Track 1 MAID provisions and 47.0% of Track 2 MAID provisions. Hospitals continued to be the second most common location, representing 31.1% of Track 1 MAID provisions and 23.5% of Track 2 MAID provisions. Under Track 1, palliative care facilities were the third most common location, representing 25.5% of provisions, whereas under Track 2, residential care facilities were the third most common location, representing 13.3% of provisions.
+In some instances, people are required to transfer locations prior to receiving MAID. In 2024, a total of 1,343 people were transferred to another location for the provision of MAID, representing 8.1% total MAID cases. When submitting a MAID report, practitioners can select multiple reasons why a person was transferred. The most selected reason was that the person requested to transfer to an alternate location (n=815) followed by the need to comply with the policies of the facility where the person was located (n=349). Other less common reasons had to with the ability of the provider to secure privileges at the facility where the person was located or the availability, capacity or comfort of practitioners within the facility where the person was located.
+Since the legalization of MAID in 2016, several faith-based hospitals, long-term care facilities and hospices in Canada have enacted policies to prohibit the provision of MAID on their premises. This results in individuals assessed as eligible to receive MAID who are in their institutions being transferred to other facilities in order to receive it. This may result in additional suffering for the individual being transferred. Some provinces have taken steps to require that the provision of MAID be accessible in institutions, either though legislation or through directives to local health authorities.
+Footnote
+65
+Table 6.3a
+shows, by province, the percentage of MAID provisions that involved a transfer, as well as the percentage of MAID transfers that were done in accordance with institutional policies. As shown in the table, a relatively high proportion of transfers were done in accordance with institutional policies in Alberta (73.6%) and Manitoba (77.3%), while in Quebec, only 4.2% of transfers were done for this reason. These percentages are very similar to those reported in 2023, when Alberta and Manitoba had the highest proportion of MAID transfers that were done in accordance with institutional policies at 85.7% and 70.0%, respectively, and Quebec had the lowest proportion at 9.0%. The decreasing proportion of patient transfers in accordance with institutional policies in Quebec may partially be attributed to legislative changes made in 2023 specifying that "palliative care hospices may not exclude medical aid in dying from the care they offer."
+Footnote
+66
+7. Conclusion
+This Sixth Annual Report is the result of ongoing collaboration with provincial and territorial governments, Indigenous partners, health care professionals and colleagues at Statistics Canada. With a second year of data collection under the updated regulations now complete, we are continuing to improve our understanding of the implementation of Canada's MAID regime.
+Health Canada endeavours to further understand the circumstances under which MAID is requested and administered to inform future MAID policy and practitioner guidance.
+This will entail continued discussions with people in Canada, including persons with lived experience, persons with disabilities and health care professionals, as well as First Nations, Inuit and Métis governments, organizations and rights-holders. It will also involve continued collaboration with provinces, territories and practitioners to improve data collection consistency and quality, especially as it relates to self-identification questions. The department will explore opportunities for more advanced analysis in the future on key questions of concern to Canadians and decision makers, such as more in-depth analysis of socio-economic status through record linkages to other administrative datasets hosted by Statistics Canada.
+The Government of Canada will continue its work to help ensure that the legislation on MAID reflects the needs of people in Canada, protects those who may be vulnerable, and supports autonomy and freedom of choice. Data collection on who is requesting and receiving MAID is essential in ensuring that policy and program development by governments and health care systems achieves these aims.
+It is hoped that the analysis presented in this report animates the research community to delve deeper into the MAID data available through the Statistics Canada Research Data Centres for more insights into the context of MAID delivery in our communities and health systems.
+Appendix A: MAID eligibility criteria, safeguards and reporting requirements
+Appendix B: Methodology and limitations
+Methodological notes
+The regulations require physicians, nurse practitioners, pharmacists and pharmacy technicians to provide information related to requests for, and the provision of, MAID. These individuals must report to Health Canada in one of two ways:
+Directly to Health Canada via a secure web-based collection portal: Newfoundland and Labrador, Prince Edward Island, Nova Scotia, New Brunswick, Ontario (requests not resulting in provision of MAID, as well as reports from pharmacists/pharmacy technicians), Manitoba, and Yukon.
+Through a designated provincial or territorial body which in turn submits the data quarterly to Health Canada: Quebec, Ontario (requests resulting in provision of MAID), Saskatchewan, Alberta, British Columbia, the Northwest Territories, and Nunavut.
+The data collected by Health Canada undergoes a series of processing steps including cleaning, verification, validation and, where necessary, a follow up with a designated provincial or territorial body or practitioner to ensure quality, accuracy and completeness. In cases where socio-demographic groups had counts that required suppression to ensure confidentiality, Health Canada created aggregate groups so that these MAID provisions could be included in the analysis without the risk of an individual or small groups of individuals being identified.
+Provinces and territories were consulted during the preparation of the report and had the opportunity to provide comments. For all years, the number of MAID provisions are counted in the calendar year in which MAID was provided. For all other requests which did not result in MAID being provided (i.e., ineligibility, withdrawal of request, or individual died prior to MAID), the request is counted in the calendar year in which the case was resolved and reported. There may be variations in the numbers presented by Health Canada in the annual report and reports issued by provinces and territories given differences in reporting cycles and when data is received.
+Similar to 2023, there has been a simplification of the methodology where the number of MAID provisions in Canada is counted solely based on the formal cases submitted as part of 2024 submissions, rather than including additional MAID provisions counted by provinces and territories but not yet reported to Health Canada in the overall count. The 2024 total of 16,499 MAID provisions is directly comparable to the 15,343 MAID provisions formally reported in the Fifth Annual Report (2023 data).
+The presentation of this year's report focuses on areas of interest to stakeholders, provinces, territories and Indigenous partners. Questions introduced in 2023 enable disaggregated data analysis by Indigenous identity and race, in addition to age, sex, and MAID track. This report does not include analysis by gender, although this information was collected in addition to sex, as this variable requires further assessment of disclosure risk. Measures of socio-economic status were attached to the MAID data in order to explore how this varies within this population and how it compares to the Canadian population. The postal code collected as part of MAID reporting was used along with Statistics Canada's Postal Code Conversion File (PCCF+),
+Footnote
+68
+which attached census geography to the data file and enabled linkage to the Canadian Index of Multiple Deprivation (CIMD, explained in greater detail below). These results may be relevant to help provide insight into differences in how MAID is accessed by different groups.
+Data limitations
+The reporting requirements mandated under the amended regulations in 2023 expanded the information being collected on all requests for MAID. The Fifth Annual Report presents the first year of data collected under these regulations. While data quality has improved, some of the findings presented in this report need to be considered in light of some limitations:
+Assessments crossing calendar year: Often the assessment and provision of MAID spans over several months. There are cases where the assessment of eligibility began prior to January 1, 2023, but MAID was administered in 2024 with a subsequent report submission. Most of these cases would have missing data for the new variables introduced in 2023, as this information was not collected at the time the assessment began and could not be retrieved from individual's medical records.
+Variation in data collection approaches and interpretation of self-report questions: The approach to collecting data on self-identification parameters is not standardized across provinces and territories, making it challenging to make meaningful comparisons across the country. Given the complexity around some variables, there is a lack of consistency in interpretation by individuals (in responding to self-identity parameters).
+Reluctance of practitioners to ask and requesters to disclose the self-identity parameters: There has been some reported reluctance on the part of practitioners to request this information (even though a person can choose not to self-identify), due to concerns about the impact this may have on the clinical relationship. Also, requesters may choose not to self-identify, due to concerns about how this could impact how they are treated when interacting with the health care system.
+Health Canada has worked with provinces and territories and is in conversation with Indigenous partners to address the above issues where possible and improve data consistency and quality going forward.
+Marginalization analysis
+Regulations must be authorized by the enabling statute. In the case of the
+Regulations for the Monitoring of Medical Assistance in Dying
+, these are authorized by the current legislation on MAID, as outlined in the
+Criminal Code
+. Data collection on MAID is required under the regulations, therefore the data elements collected in context of a MAID request must be tied to the legislation on MAID. The regulations were developed with the goal of striking an important balance between the following needs:
+To understand the medical circumstances of people requesting and receiving MAID
+To be transparent to people in Canada about the implementation of the legislation on MAID
+To respect privacy and minimize burden on individuals requesting MAID
+To minimize reporting burden among MAID practitioners
+The regulations require practitioners to report on specific variables that can provide some insight into the experiences of people who receive MAID (e.g., self-reported race, Indigenous identity and disability, place of residence, etc.). They do not, however, require practitioners to report on variables such as income and receipt of government benefits. To gain further insight on the socio-economic circumstances of people who receive MAID, Health Canada has performed analyses linking the postal codes and heath identification numbers of MAID recipients to data holdings at Statistics Canada.
+The marginalization analysis was completed by first using the PCCF+ to attach census geographies to the MAID data file, then attaching the CIMD and merging by standardized Canadian geographic variables. There were 298 cases where the postal code was incomplete or incorrect. These cases were excluded from the marginalization analysis.
+The CIMD is an area-based index that uses census data to devise four dimensions of deprivation and marginalization as follows:
+Residential instability
+Economic dependency
+Situational vulnerability
+Ethno-cultural composition
+The latter dimension was omitted from the analysis given that:
+Self-reported data on racial, ethnic or cultural identity are already collected as part of MAID reporting.
+These data suggest that the population of MAID recipients is relatively homogenous (the vast majority self-identified as Caucasian, or White), which limits the validity of this dimension as a measure of marginalization.
+A comparison of MAID data and vital statistics data
+All deaths in Canada are registered by the provincial or territorial vital statistics registry within the province or territory where the death occurred. The death registration form consists of personal information, supplied to the funeral director by an informant, and the medical certificate of cause of death, completed by a medical practitioner, coroner or medical examiner.
+Footnote
+69
+The provincial and territorial vital statistics registries then submit data from deaths registered in their jurisdiction to Statistics Canada who releases official mortality statistics. All of the information that appears on the medical certificate of cause of death is coded and the underlying cause of death is determined. The underlying cause of death is defined as "(a) the disease or injury which initiated the train of events leading directly to death, or (b) the circumstances of the accident or violence which produced the fatal injury."
+Footnote
+70
+In accordance with international standards and practices, Statistics Canada has always coded causes of death according to the World Health Organization's International Classification of Diseases and Related Health Problems (ICD) and is currently using the 10th revision.
+Using the rules outlined in the ICD-10, a singular underlying cause of death is determined, which is used to tabulate mortality statistics by Statistics Canada. There is no code for MAID in the ICD-10. Death certificates for individuals who received MAID are coded based on the person's medical condition.
+Conversely, information on all requests for and provisions of MAID is collected by Health Canada in accordance with the
+Regulations for the Monitoring of Medical Assistance in Dying
+. All physicians and nurse practitioners must report to Health Canada either directly via a secure web-based collection portal or through a designated provincial or territorial body which in turn submits the data quarterly to Health Canada. All intentional requests leading to a reportable outcome (MAID provision, finding of ineligibility, person withdrawing their request and person dying from a reason other than MAID) need to be reported.
+The MAID reporting questionnaire requires practitioners and assessors to provide details of the serious and incurable medical condition which is causing intolerable suffering and leading the person to seek and/or receive MAID. Note that more than one medical condition can be specified and there is no hierarchy to differentiate between the 'sole condition' and 'other condition(s)/co-morbidities'.
+The table below summarizes, at a high-level, the differences between MAID data and vital statistics data.
+The Canadian Vital Statistics mortality data was used as a comparison group to MAID provisions throughout this report because it contains the most complete, reliable record of natural deaths in Canada and it provides the necessary context to understand how MAID fits into the wider mortality picture, both in terms of scale and the types of conditions involved. The vital statistics dataset used for comparison throughout this report was prepared by a team at Statistics Canada, using provisional data for 2024 deaths. It is based on the data collected as of July 10, 2025 and may not contain all deaths due to reporting delays. These numbers are subject to change before the official data is released at the end of 2025. The full provisional file contained nearly 325,000 observations.
+Deaths among non-Canadian residents and decedents under the age of 18 were dropped. The cause of death variable was analyzed to separate natural and unnatural deaths in order to obtain statistics comparable to the causes of death found in the MAID data. Unnatural deaths were removed. This included deaths by Accidents (V00-V99; W00-W99; X00 - X59, Y85-Y86); Suicides (X60-84, Y87.0) and Assaults (X85 - X86; X87.1 - X87.9; X88-X99; Y00-Y09; Y87.1). Cases where cause of death was ill-defined or unknown were also deleted. Slightly less than 50,000 deaths were removed from the analysis, as their causes were either unnatural or unknown. Approximately 9% of the full provisional file has an unknown cause of death. In order to be able to merge the CIMD and the Index of Remoteness, the provisional file needed to be linked to the PCCF+. Another 650 observations were dropped, due to the lack of postal code in the provisional file (which is necessary for merging with the PCCF+ file). In the end, there were nearly 268,000 natural deaths analyzed from the provisional deaths file for 2024 for the demographic and cause of death statistics.
+The cause of death variable was analyzed to separate the natural and unnatural deaths. In order to obtain statistics comparable to the causes of death found in the MAID data, the causes of death in the provisional file were reduced to the following headings using the specified ICD-10 codes: cancers (ICD C00-97), neurological disorders (ICD G00-G99), major cardiovascular diseases (I00-I78), respiratory diseases (J00-J99), all other natural deaths. There are no ICD-10 codes for organ failure, therefore this was categorized under other natural deaths. For consistency, all analyses for medical conditions in this report include organ failure in the "other" category.
+The CIMD was added to the Canadian Vital Statistics Database (CVSD) file for natural deaths to provide additional contextual information on marginalization among decedents. There were over 246,000 observations for the CIMD, disaggregated by age and sex for Canada as a whole. The Index of Remoteness was also added to the CVSD file for natural deaths to provide contextual information on the level of geographical remoteness, as a means to assess access to MAID and access to supports. There were nearly 270,000 observations in the Index of Remoteness tables, disaggregated by age and sex for Canada as whole. Deaths for both sexes include deaths with unknown sex of deceased. Therefore, "male" and "female" totals may not add up to the "both sexes" totals. Random rounding was applied to the data for confidentiality purposes. The random rounding in small cells (i.e., 1-4 observations) either rounds down to 0 or up to 5.
+Canadian Census Health and Environment Cohorts (CANChec)
+To provide some context when presenting the data on MAID recipients who self-identified as Indigenous, Health Canada requested vital statistics data from Statistics Canada indicating the number of natural deaths of people who identified as Indigenous and people who did not identify as Indigenous. As this is not information collected directly in the vital statistics questionnaire, this information was obtained from the CANChec, which did not contain 2024 vital statistics data at the time of analysis for this report. The 2021 CANChec
+Footnote
+71
+include mortality data from the Canadian Vital Statistics - Death database from May 11, 2021 to December 31, 2023. Data for Yukon were not available before 2023. Multiple years of data were used in order to increase the sample size to allow for disaggregation to the provincial/territorial level where possible. The estimates shown in the table have been subjected to a confidentiality procedure known as controlled rounding to prevent the possibility of reidentifying an individual. The province/territory is determined by the province/territory of residence reported on the Canadian Vital Statistics - Death database. Deaths among residents outside Canada were excluded. The cause of death variable was analyzed to separate natural and unnatural deaths.
+The Indigenous population includes persons who identify as First Nations (North American Indian), Métis and/or Inuk (Inuit) and/or those who report being Registered or Treaty Indians (that is, registered under the
+Indian Act
+), and/or those who report having membership in a First Nation or Indian Band. The estimates associated with the Indigenous population are more affected than most by the incomplete enumeration of certain reserves and settlements in the Census of Population. For more information on Indigenous variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Indigenous Peoples Reference Guide, Census of Population, 2021
+Footnote
+72
+and the Indigenous Peoples Technical Report, Census of Population, 2021.
+Footnote
+73
+Index of Remoteness
+Health Canada used the Index of Remoteness to examine the impacts of rurality on MAID provision. While other commonly used rurality measures are based on population or commuting tolerance, the Index of Remoteness represents accessibility to services or population centres by measuring the travel time or cost along Canada's road network, or the cost of a flight if there are no roads available within 150km. To break this measure down into meaningful categories for the purposes of analysis, we have adopted the approach outlined in Subedi et al.
+Footnote
+74
+When analysis was done as accessible/remote, accessible contained the first 3 quintiles (easily accessible, accessible, and less accessible) and remote contained the last 2 quintiles (remote and very remote).
+The table below provides an idea of some communities represented in each of the Index of Remoteness quintiles that were used in this report.
+Figure B.1
+is a map of the distribution of the Index of Remoteness across Canada.
+Footnote
+75
+In general, areas around large urban centres are classified as easily accessible, or accessible. Remote or very remote areas tend to be in northern parts of the country.
+Figure B.1: Index of remoteness quintiles in Canada
+Figure B.1 - Text description
+A map of Canada, with areas presented as belonging to 1 of 6 categories according to ease of access to MAID:
+Easily accessible
+Accessible
+Less accessible
+Remote
+Very remote
+No assigned value
+Appendix C: Profile of MAID by province and territory
+Table C.1
+shows the outcomes of MAID requests, broken down by province and territory. Quebec had the greatest number of MAID provisions as well as requests that did not result in MAID (i.e., the person withdrew their request, was deemed ineligible or died before MAID could be provided).
+There may be variations in the numbers presented by Health Canada in the annual report and reports issued by provinces and territories given differences in reporting cycles and when data is received.
+Table C.2
+shows the median and mean ages of MAID recipients, broken down by track and province.
+When considering all MAID provisions:
+The highest median ages were recorded in the Northwest Territories, British Columbia and Ontario.
+The highest mean ages were recorded in New Brunswick, British Columbia and Ontario.
+When considering Track 1 MAID provisions only:
+The highest median ages were recorded in British Columbia, Ontario and Manitoba.
+The highest mean ages were recorded in New Brunswick, British Columbia and Ontario.
+When considering Track 2 MAID provisions only:
+The highest median ages were recorded in the Northwest Territories (exact figures suppressed for confidentiality), Quebec and Ontario.
+The highest mean ages were recorded in the Northwest Territories (exact figures suppressed for confidentiality), Saskatchewan and Quebec.
+Table C.3
+presents the number and proportion of MAID recipients in Track 1 and Track 2. Across all provinces and territories, Track 1 represents the vast majority of MAID provisions.
+Table C.4
+provides an overview of the medical conditions reported for MAID recipients, by province and territory. Practitioners could indicate more than one medical condition per person. Cancer was the most frequently reported medical condition across Canada.
+Footnote
+76
+Table C.5
+provides a profile of MAID recipients, broken down by province and territory. Across all provinces and territories, Track 1 represents the vast majority of MAID provisions. More women than men received MAID in Prince Edward Island, British Columbia and the Northwest Territories. In the Yukon, an equal number of men and women received MAID. More men than women received MAID in the remaining provinces and territories. Across all provinces, nearly all MAID recipients were Caucasian (White). The rates at which persons receiving MAID self-reported having a disability varied widely across provinces and territories, particularly under Track 1, where the rate ranged from as low as 12.0% in Quebec and as high as 100% in the Northwest Territories. Under Track 2, the lowest rate was reported in Quebec (49.6%) and the highest rate was reported in Saskatchewan (88.9%).
+Table C.6
+provides information on the need for, and provision of, palliative care services, by province and territory. There is some variation across Canada in the proportion of MAID recipients reported as having required and received palliative care services, ranging from 53.1% in Saskatchewan and 87.7% in Prince Edward Island. Saskatchewan had the highest proportion of MAID recipients who required, but did not receive, palliative care services. It is important to consider that, overall, most people who required but did not receive palliative care services had access to them, as presented in
+Table 5.1a
+.
+Table C.7
+provides information on the need for, and provision of, disability support services by province and territory. There is significant variation across Canada in the proportion of MAID recipients reported as having required and received disability support services, ranging from 11.0% in Quebec to 85.7% in the Northwest Territories. This aligns closely with the data on self-reported disability presented in
+Table C.5
+. Saskatchewan had the highest proportion of MAID recipients who required, but did not receive, disability support services. It is important to consider that, overall, most people who required but did not receive disability support services had access to them, as presented in
+Table 5.2a
+.
+Table C.8
+shows place of residence of persons who received MAID, broken down by province and territory. Private residences (including long-term care facilities) were the most frequently reported location in every province and territory.
+Table C.9
+provides information on both the number of unique MAID practitioners and their caseload, by province and territory. Quebec had more unique practitioners than all other provinces combined. In Prince Edward Island, the Yukon and the Northwest Territories, all unique practitioners were physicians (i.e., none were nurse practitioners). The proportion of unique practitioners who were physicians was the lowest in Saskatchewan (71.4%) meaning that 28.6% of unique practitioners were nurse practitioners in that province. Quebec had the highest proportion of practitioners who provided MAID only once. British Columbia had the highest proportion of practitioners who provided MAID 11 or more times.
+Table C.10
+provides information on the location of MAID provisions, by province and territory. The data show that MAID provisions typically took place in either hospitals or private residences.
+Figure C.1
+presents the "residential instability" measure of the CIMD by province. Newfoundland and Labrador had the largest proportion of MAID recipients living in neighbourhoods categorized as "least deprived" on this measure at 21.4%, while Prince Edward Island had the lowest proportion at 6.5%. Quebec had the largest proportion of MAID recipients living in neighbourhoods characterized as "most deprived" on this measure at 39.6%, while Newfoundland and Labrador had the lowest proportion at 6.1%. The CIMD measures, and corresponding analyses at a national level, are explained in
+section 4.5
+.
+Figure C.1: Canadian index of multiple deprivation – residential instability, by province
+Figure C.1 - Text description
+Figure C.2
+presents the "economic dependency" measure of the CIMD by province. Newfoundland and Labrador had the largest proportion of MAID recipients living in neighbourhoods categorized as "least deprived" on this measure at 67.3%, while British Columbia had the lowest proportion at 7.3%. British Columbia had the largest proportion of MAID recipients living in neighbourhoods characterized as "most deprived" on this measure at 15.7%, while Quebec had the lowest proportion at 3.9%. The CIMD measures, and corresponding analyses at a national level, are explained in
+section 4.5
+.
+Figure C.2: Canadian index of multiple deprivation – economic dependency, by province
+Figure C.2 - Text description
+Figure C.3
+presents the "situational vulnerability" measure of the CIMD by province. British Columbia had the largest proportion of MAID recipients living in neighbourhoods categorized as "least deprived" on this measure at 40.4%, while Manitoba had the lowest proportion at 12.7%. New Brunswick had the largest proportion of MAID recipients living in neighbourhoods characterized as "most deprived" on this measure at 24.6%, while British Columbia had the lowest proportion at 8.0%. The CIMD measures, and corresponding national-level analyses, are explained in
+section 4.5
+.
+Figure C.3: Canadian index of multiple deprivation – situational vulnerability, by province
+Figure C.3 - Text description
+Appendix D: MAID requests, eligibility and procedural requirements
+Table D.1
+shows the outcomes of previous MAID requests among MAID recipients, by track. When considering the number of MAID provisions under Track 1 (15,767) and Track 2 (732). there were proportionately more past requests made by people receiving MAID under Track 2 than under Track 1. The most common outcome of previous MAID requests was that the person was assessed and found ineligible. This was reported in 29.7% of previous Track 1 MAID requests and 37.0% of previous Track 2 MAID requests.
+Table D.2
+shows where practitioners received the request for MAID, by track. In most cases, practitioners received requests from a care coordination service, from another practitioner or preliminary assessor or from the person directly.
+Table D.3
+shows the primary area of specialty of physicians who provided MAID, by track. As shown in the table, the majority of physicians who provided MAID worked within the specialty of family medicine, followed by palliative medicine and critical care and emergency medicine.
+Table D.4
+shows the types of facilities where MAID recipients received palliative care. Home-based palliative care was the most frequency reported setting, followed by hospital- based inpatient care.
+Footnotes
+Footnote 1
+Department of Justice. "Regulations for the Monitoring of Medical Assistance in Dying" Ottawa, ON: Government of Canada, 2025. https://laws-lois.justice.gc.ca/eng/regulations/SOR-2018-166/FullText.html
+Return to footnote
+1
+referrer
+Footnote 2
+For more information, see: Statistics Canada. "Statistics: Power from Data! Section 4.4: Measures of central tendency." Ottawa, ON: Government of Canada, 2024. https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch11/5214867-eng.htm
+Return to footnote
+2
+referrer
+Footnote 3
+Former Bill C-7 expanded MAID eligibility to persons whose natural death was not reasonably foreseeable and made other legislative changes. More information on the evolution of Canada's legislation on MAID and corresponding regulations can be found on Health Canada's webpages: https://www.canada.ca/en/health-canada/services/health-services-benefits/medical-assistance-dying.html
+Return to footnote
+3
+referrer
+Footnote 4
+Prior to November 1, 2018 (when the original
+Regulations for the Monitoring of Medical Assistance in Dying
+came into force), data collection on MAID requests and provisions was not mandatory; provinces and territories provided this data voluntarily to the federal government. As such, numbers reported prior to 2019 should be interpreted with caution.
+Return to footnote
+4
+referrer
+Footnote 5
+World Health Organization.
+"International Statistical Classification of Diseases and Health Related Problems, 10th Revision, Sixth Edition, Volume 2."
+Geneva, Switzerland: 2019. https://icd.who.int/browse10/Content/statichtml/ICD10Volume2_en_2019.pdf
+Return to footnote
+5
+referrer
+Footnote 6
+Statistics Canada. "
+Health of Canadians
+." Ottawa, ON: Government of Canada, 2023. https://www150.statcan.gc.ca/n1/pub/82-570-x/2023001/section1-eng.htm
+Return to footnote
+6
+referrer
+Footnote 7
+Public Health Agency of Canada. "
+Common chronic diseases in women compared to men
+." Ottawa, ON: Government of Canada, 2021. https://www.canada.ca/en/public-health/services/publications/diseases-conditions/common-chronic-diseases-women-compared-men-aged-65-years-older.html
+Return to footnote
+7
+referrer
+Footnote 8
+Luy, Marc, and Yuka Minagawa. "Gender gaps--Life expectancy and proportion of life in poor health." Ottawa, ON: Statistics Canada
+Health Reports
+25, no. 12 (2014): 12-19. https://www150.statcan.gc.ca/n1/pub/82-003-x/2014012/article/14127-eng.htm
+Return to footnote
+8
+referrer
+Footnote 9
+This number has been updated from 2023 to include all ineligible cases that were received in 2023, regardless of the year the request was received.
+Return to footnote
+9
+referrer
+Footnote 10
+This number has been updated from 2023 to include all ineligible cases that were received in 2023, regardless of the year the request was received.
+Return to footnote
+10
+referrer
+Footnote 11
+This response option was added in 2023. The count for 2024 is much higher than that recorded for 2023. This is likely due to delays by provinces, territories and practitioners in transitioning to the new data collection requirements introduced on January 1, 2023 (when the updated regulations came into effect).
+Return to footnote
+11
+referrer
+Footnote 12
+This number has been updated from 2023 to include all ineligible cases that were reported to Health Canada in 2023, regardless of the year the request was received.
+Return to footnote
+12
+referrer
+Footnote 13
+Lees, Caitlin, Gordon Gubitz, and Robert Horton. "Surviving Long Enough to Die? An Analysis of Incomplete Assessments for Medical Assistance in Dying."
+Journal of Palliative Medicine
+25, no. 2 (2022): 243-249. https://doi.org/10.1089/jpm.2021.0204
+Return to footnote
+13
+referrer
+Footnote 14
+Under the current version of the World Health Organization's International Classification of Diseases, Alzheimer's disease and dementia are classified separately.
+Return to footnote
+14
+referrer
+Footnote 15
+Canadian Vital Statistics – Death database, 2024 (provisional).
+Return to footnote
+15
+referrer
+Footnote 16
+Note that these are individuals with dementia who still had capacity.
+Return to footnote
+16
+referrer
+Footnote 17
+There is no code in the current version of the World Health Organization's International Classification of Diseases exclusive to ALS. The broad category of deaths attributed to motor neuron disease includes ALS, in addition to bulbar palsy, pseudobulbar palsy, progressive bulbar syndrome, Duchenne motor neuron disease, Duchenne-Aran muscular atrophy and labioglossal paralysis.
+Return to footnote
+17
+referrer
+Footnote 18
+Canadian Vital Statistics – Death database, 2024 (provisional).
+Return to footnote
+18
+referrer
+Footnote 19
+Amyotrophic Lateral Sclerosis Society of Canada. "
+ALS Overview
+." Toronto, ON: ALS Society of Canada, 2025. https://als.ca/what-is-als/als-overview/
+Return to footnote
+19
+referrer
+Footnote 20
+Canadian Vital Statistics – Death database, 2024 (provisional).
+Return to footnote
+20
+referrer
+Footnote 21
+Health Canada. "
+Advice to the Profession: Medical Assistance in Dying (MAID)."
+Ottawa, ON: Government of Canada, 2023. https://www.canada.ca/en/health-canada/services/publications/health-system-services/advice-profession-medical-assistance-dying.html
+Return to footnote
+21
+referrer
+Footnote 22
+Government of Canada. "
+Medical Assistance in Dying: Implementing the Framework
+." Ottawa, ON: 2024. https://www.canada.ca/en/health-canada/services/health-services-benefits/medical-assistance-dying/implementing-framework.html
+Return to footnote
+22
+referrer
+Footnote 23
+Krikorian, Alicia, Joaquín T. Limonero, and Jorge Maté. "Suffering and Distress at the End-of-Life."
+Psycho-Oncology (Chichester, England)
+21, no. 8 (2012): 799–808. https://doi.org/10.1002/pon.2087
+Return to footnote
+23
+referrer
+Footnote 24
+Dees, Marianne, Myrra Vernooij-Dassen, Wim Dekkers, and Chris van Weel. "Unbearable Suffering of Patients with a Request for Euthanasia Or Physician-Assisted Suicide: An Integrative Review."
+Psycho-Oncology (Chichester, England)
+19, no. 4 (2010): 339–352.
+Return to footnote
+24
+referrer
+Footnote 25
+Girard, Dominique, Melissa Tuinema, and Els van Wijngaarden. "Unravelling the Meaning of Suffering in the Context of Euthanasia and Assisted Suicide: A Multiperspective Meta-Ethnography."
+Mortality (Abingdon, England)
+(2025).
+Return to footnote
+25
+referrer
+Footnote 26
+Iciaszczyk, Natalie, Gabrielle Gallant, Talia Bronstein, Alyssa Brierley, and Samir K. Sinha. "Perspectives on Growing Older in Canada: The 2024 NIA Ageing in Canada Survey." Toronto, ON: National Institute on Ageing, 2025. https://www.niageing.ca/2024-annual-survey
+Return to footnote
+26
+referrer
+Footnote 27
+World Health Organization. "
+Social Isolation and Loneliness
+." Geneva, Switzerland: 2025. https://www.who.int/teams/social-determinants-of-health/demographic-change-and-healthy-ageing/social-isolation-and-loneliness
+Return to footnote
+27
+referrer
+Footnote 28
+See for example: Meagan Gillmore. "New report reignites debate over MAID's effect on socially vulnerable."
+Canadian Affairs
+, December 19, 2024, https://www.canadianaffairs.news/2024/12/19/new-report-reignites-debate-over-maids-effect-on-socially-vulnerable/
+Return to footnote
+28
+referrer
+Footnote 29
+Lim, Michelle H., Karine E. Manera, Katherine B. Owen, Philayrath Phongsavan, and Ben J. Smith. "The Prevalence of Chronic and Episodic Loneliness and Social Isolation from a Longitudinal Survey."
+Scientific Reports
+13, no. 1 (2023): 12453–12.
+Return to footnote
+29
+referrer
+Footnote 30
+Paul Magennis and Kim Carlson. "Previously unpublished data shows that people are not choosing MAiD simply because they are lonely."
+MAiD in Canada
+, August 7, 2025, https://maidincanada.substack.com/p/previously-unpublished-data-shows
+Return to footnote
+30
+referrer
+Footnote 31
+Cousineau, Natalie, Ian McDowell, Steve Hotz, and Paul Hébert. "Measuring Chronic Patients' Feelings of being a Burden to their Caregivers: Development and Preliminary Validation of a Scale."
+Medical Care
+41, no. 1 (2003): 110–118.
+Return to footnote
+31
+referrer
+Footnote 32
+Rodríguez‐Prat, Andrea, Albert Balaguer, Iris Crespo, and Cristina Monforte‐Royo. "Feeling Like a Burden to Others and the Wish to Hasten Death in Patients with Advanced Illness: A Systematic Review."
+Bioethics
+33, no. 4 (2019): 411–42.
+Return to footnote
+32
+referrer
+Footnote 33
+See for example: Alexandra Campbell. "Excuse me for living: MAiD, autonomy and feeling like a burden."
+Healthy Debate
+. August 26, 2024, https://healthydebate.ca/2024/08/topic/maid-autonomy-feeling-burden/
+Return to footnote
+33
+referrer
+Footnote 34
+Paul Magennis and Kim Carlson. "Previously unpublished data shows that people are not choosing MAiD simply because they are lonely."
+Return to footnote
+34
+referrer
+Footnote 35
+Health Canada. "
+Technical Guidance Document: Reporting Requirements under the Regulations for the Monitoring of Medical Assistance in Dying
+." Ottawa, ON: Government of Canada, 2025. https://www.canada.ca/en/services/health/publications/health-system-services/guidance-reporting-requirements-regulations-monitoring-medical-assistance-dying.html
+Return to footnote
+35
+referrer
+Footnote 36
+Canadian Institute for Health Information. "
+Guidance on the Use of Standards for Race-Based and Indigenous Identity Data Collection and Health Reporting in Canada
+." Ottawa, ON. 2022. https://www.cihi.ca/sites/default/files/document/guidance-and-standards-for-race-based-and-indigenous-identity-data-en.pdf
+Return to footnote
+36
+referrer
+Footnote 37
+Health Canada. "
+Guidance Document: Reporting Requirements under the Regulations Amending the Regulations for the Monitoring of Medical Assistance in Dying
+."
+Return to footnote
+37
+referrer
+Footnote 38
+This figure includes 1,166 people who did not consent to disclosing this information.
+Return to footnote
+38
+referrer
+Footnote 39
+94.8% of Track 1 respondents identified as Caucasian (White); 97.4% of Track 2 respondents identified as Caucasian (White)
+Return to footnote
+39
+referrer
+Footnote 40
+Statistics Canada. "
+The Canadian census: A rich portrait of the country's religious and ethnocultural diversity
+." Ottawa, ON: Government of Canada, 2022. https://www150.statcan.gc.ca/n1/daily-quotidien/221026/dq221026b-eng.htm
+Return to footnote
+40
+referrer
+Footnote 41
+This figure includes 1,732 people who did not consent to disclosing this information.
+Return to footnote
+41
+referrer
+Footnote 42
+Yangzom, Kelsang, Huda Masoud and Tara Hahmann. "
+Primary health care access among First Nations people living off reserve, Métis and Inuit, 2017 to 2020
+." Ottawa, ON: Government of Canada (Statistics Canada), 2023. https://www150.statcan.gc.ca/n1/pub/41-20-0002/412000022023005-eng.htm
+Return to footnote
+42
+referrer
+Footnote 43
+Turpel-Lafond, Mary Ellen, and Harmony Johnson. "
+In Plain Sight: Addressing Indigenous-Specific Racism and Discrimination in B.C. Health Care
+." Victoria, BC: Government of British Columbia, 2020. https://doi.org/10.14288/bcs.vi209.195283
+Return to footnote
+43
+referrer
+Footnote 44
+Congress of Aboriginal Peoples. "
+Final Report: Palliative End-of-Life Care and Medical Assistance in Dying
+." Ottawa, ON: Congress of Aboriginal Peoples, 2025. https://abo-peoples.org/publications/
+Return to footnote
+44
+referrer
+Footnote 45
+Native Women's Association of Canada. "
+Perspectives in Medical Assistance in Dying (MAiD) amongst Indigenous Women, Two-Spirit, Transgender, and Gender-Diverse People in Canada: An Exploratory Study
+." Ottawa, ON: Native Women's Association of Canada, 2025. https://nwac.ca/assets-documents/NWAC-MAiD-Report-EN.pdf
+Return to footnote
+45
+referrer
+Footnote 46
+Statistics Canada. "
+Canadian Census Health and Environment Cohorts (CanCHEC)
+." Ottawa, ON: Government of Canada, 2025. https://www.statcan.gc.ca/en/microdata/data-centres/data/canchec.
+Return to footnote
+46
+referrer
+Footnote 47
+Statistics Canada. "
+Canadian Survey on Disability, 2017 to 2022
+." Ottawa, ON: Government of Canada, 2023. https://www150.statcan.gc.ca/n1/daily-quotidien/231201/dq231201b-eng.htm
+Return to footnote
+47
+referrer
+Footnote 48
+Statistics Canada. "
+Factors associated with unmet needs for disability supports, 2022
+." Ottawa, ON: Government of Canada, 2025. https://www150.statcan.gc.ca/n1/pub/89-654-x/89-654-x2025005-eng.htm
+Return to footnote
+48
+referrer
+Footnote 49
+Employment and Social Development Canada. "
+Canada's Disability Inclusion Action Plan, 2022
+." Ottawa, ON: Government of Canada. 2022. https://www.canada.ca/en/employment-social-development/programs/disability-inclusion-action-plan/action-plan-2022.html
+Return to footnote
+49
+referrer
+Footnote 50
+Recognizing that these data are incomplete and that people can choose not to self-identify, it is not possible to draw definitive conclusions to this end.
+Return to footnote
+50
+referrer
+Footnote 51
+Health Canada. "
+Guidance Document: Reporting Requirements under the Regulations Amending the Regulations for the Monitoring of Medical Assistance in Dying
+."
+Return to footnote
+51
+referrer
+Footnote 52
+This figure includes 984 people who did not consent to disclosing this information.
+Return to footnote
+52
+referrer
+Footnote 53
+Statistics Canada. "
+Canadian Survey on Disability, 2017 to 2022
+."
+Return to footnote
+53
+referrer
+Footnote 54
+Magasi, Susan, Hilary K. Marshall, Cassandra Winters, and David Victorson. "Cancer Survivors' Disability Experiences and Identities: A Qualitative Exploration to Advance Cancer Equity."
+International Journal of Environmental Research and Public Health
+19, no. 5 (2022): 3112.
+Return to footnote
+54
+referrer
+Footnote 55
+Accidental deaths, deaths by suicide or assault, or any deaths where the cause is unknown are excluded from these analyses. For full details on this variable, see Appendix B.
+Return to footnote
+55
+referrer
+Footnote 56
+Statistics Canada. "
+The Canadian Index of Multiple Deprivation: User Guide, 2021
+." Ottawa, ON: Government of Canada, 2024. https://www150.statcan.gc.ca/n1/pub/45-20-0001/452000012023002-eng.htm
+Return to footnote
+56
+referrer
+Footnote 57
+Special Joint Committee on Medical Assistance in Dying. "Medical Assistance in Dying in Canada: Choices for Canadians." Ottawa, ON: Government of Canada, 2023. https://www.parl.ca/Content/Committee/441/AMAD/Reports/RP12234766/amadrp02/amadrp02-e.pdf
+Return to footnote
+57
+referrer
+Footnote 58
+Accidental deaths, deaths by suicide or assault, or any deaths where the cause is unknown was excluded from this analysis. For full details on this variable, see
+Appendix B
+.
+Return to footnote
+58
+referrer
+Footnote 59
+Statistics Canada. "
+Index of Remoteness
+." Ottawa, ON: Government of Canada, 2023. https://www150.statcan.gc.ca/n1/pub/17-26-0001/172600012020001-eng.htm
+Return to footnote
+59
+referrer
+Footnote 60
+Canadian Institute for Health Information. "
+Access to Palliative Care in Canada, 2023.
+" Ottawa, ON. 2023. https://www.cihi.ca/en/access-to-palliative-care-in-canada
+Return to footnote
+60
+referrer
+Footnote 61
+In this context, "accessibility" refers to whether or not services were available to the person and they could access them.
+Return to footnote
+61
+referrer
+Footnote 62
+Health Canada. "Technical
+Guidance Document: Reporting Requirements under the Regulations for the Monitoring of Medical Assistance in Dying
+."
+Return to footnote
+62
+referrer
+Footnote 63
+Although MAID where a mental illness is the sole underlying medical condition is not currently permitted under the law, there are a range of other conditions where psychiatry may be engaged. For example, some autoimmune disorders, cardiovascular diseases, Huntington's disease, and Parkinson's disease have been linked to either a higher prevalence of mental disorder as a comorbidity, or the presentation of psychiatric symptoms. See: Mental Health Commission of Canada. "
+Towards Better Mental and Physical Health: Preventing and Managing Concurrent Mental and Physical Conditions: A Scoping and Rapid Realist Review
+." Ottawa, ON, 2021: https://mentalhealthcommission.ca/resource/preventing-and-managing-concurrent-mental-and-physical-conditions/
+Return to footnote
+63
+referrer
+Footnote 64
+Department of Justice. "
+Legislative Background: Bill C-7: Government of Canada's Legislative Response to the Superior Court of Quebec Truchon Decision
+." Ottawa, ON: Government of Canada, 2021. https://www.justice.gc.ca/eng/csj-sjc/pl/ad-am/c7/index.html
+Return to footnote
+64
+referrer
+Footnote 65
+In 2023, the Minister of Health for British Columbia directed Vancouver Coastal Health to create a dedicated clinical space for patients at St. Paul's Hospital (a Catholic hospital prohibiting MAID on its premises) to access MAID if they so choose. See: Ministry of Health. "
+Patient-centred approach to MAiD services coming to St. Paul's Hospital
+." Victoria, BC: Government of British Columbia, 2023. https://news.gov.bc.ca/releases/2023HLTH0145-001873
+Return to footnote
+65
+referrer
+Footnote 66
+Government of Quebec. "
+Bill 11: An Act to Amend the Act Respecting End-of-Life Care and Other Legislative Provisions
+." Quebec, QC: Government of Quebec, 2023. https://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-11-43-1.html
+Return to footnote
+66
+referrer
+Footnote 67
+This date was amended from March 17, 2024 by the former
+Bill C-62: An Act to amend An Act to amend the Criminal Code (medical assistance in dying), No. 2
+.
+Return to footnote
+67
+referrer
+Footnote 68
+Statistics Canada. "Postal CodeOM Conversion File Plus (PCCF+) Version 8A, Reference Guide." Statistics Canada, 2022.
+Return to footnote
+68
+referrer
+Footnote 69
+Statistics Canada. "
+Canadian Vital Statistics – Death Database
+." Ottawa, ON: Government of Canada, 2025. https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3233
+Return to footnote
+69
+referrer
+Footnote 70
+World Health Organization.
+"International Statistical Classification of Diseases and Health Related Problems, 10th Revision, Sixth Edition, Volume 2."
+Return to footnote
+70
+referrer
+Footnote 71
+Statistics Canada. "
+Canadian Census Health and Environment Cohorts (CanCHEC)
+."
+Return to footnote
+71
+referrer
+Footnote 72
+Statistics Canada. "
+Indigenous Peoples Reference Guide, Census of Population, 2021
+." Ottawa, ON: Government of Canada, 2022. https://www12.statcan.gc.ca/census-recensement/2021/ref/98-500/009/98-500-x2021009-eng.cfm
+Return to footnote
+72
+referrer
+Footnote 73
+Statistics Canada. "
+Indigenous Peoples Technical Report, Census of Population, 2021
+." Ottawa, ON: Government of Canada, 2024. https://www12.statcan.gc.ca/census-recensement/2021/ref/98-307/index-eng.cfm
+Return to footnote
+73
+referrer
+Footnote 74
+Subedi, Rajendra, Shirin Roshanafshar, and T. Lawson Greenberg. "
+Developing Meaningful Categories for Distinguishing Levels of Remoteness in Canada
+." Ottawa, ON: Government of Canada (Statistics Canada), 2020. https://www150.statcan.gc.ca/n1/en/catalogue/11-633-X2020002
+Return to footnote
+74
+referrer
+Footnote 75
+Statistics Canada. "
+Index of Remoteness
+." Ottawa, ON: Government of Canada, 2023. https://www150.statcan.gc.ca/n1/pub/17-26-0001/172600012020001-eng.htm
+Return to footnote
+75
+referrer
+Footnote 76
+Numbers for Nunavut and the Northwest Territories are suppressed for confidentiality given small numbers.
+Return to footnote
+76
+referrer
+Page details
+2025-11-28

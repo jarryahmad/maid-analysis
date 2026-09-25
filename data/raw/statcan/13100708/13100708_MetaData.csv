@@ -1,0 +1,77 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Deaths, by month","13100708","102-0502","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310070801",1;2;8;11,"CURRENT - a cube available to the public and that is current","Annual","1991-01-01","2024-01-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography, place of residence",3;4,""
+"2","Month of death",,""
+"3","Characteristics",6,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Newfoundland and Labrador, place of residence","[10]","2","1","",,
+"1","Prince Edward Island, place of residence","[11]","3","1","",,
+"1","Nova Scotia, place of residence","[12]","4","1","",,
+"1","New Brunswick, place of residence","[13]","5","1","",,
+"1","Quebec, place of residence","[24]","6","1","",,
+"1","Ontario, place of residence","[35]","7","1","",,
+"1","Manitoba, place of residence","[46]","8","1","",,
+"1","Saskatchewan, place of residence","[47]","9","1","",,
+"1","Alberta, place of residence","[48]","10","1","",,
+"1","British Columbia, place of residence","[59]","11","1","",,
+"1","Yukon, place of residence","[60]","12","1","",12,
+"1","Northwest Territories including Nunavut, place of residence","","13","1","t",,
+"1","Northwest Territories, place of residence","[61]","14","1","",5,
+"1","Nunavut, place of residence","[62]","15","1","",,
+"1","Unknown province or territory of residence","","16","1","",7,
+"1","Canada, place of residence","[11124]","1","","",,
+"2","Month of death, January","","2","1","",,
+"2","Month of death, February","","3","1","",,
+"2","Month of death, March","","4","1","",,
+"2","Month of death, April","","5","1","",,
+"2","Month of death, May","","6","1","",,
+"2","Month of death, June","","7","1","",,
+"2","Month of death, July","","8","1","",,
+"2","Month of death, August","","9","1","",,
+"2","Month of death, September","","10","1","",,
+"2","Month of death, October","","11","1","",,
+"2","Month of death, November","","12","1","",,
+"2","Month of death, December","","13","1","",,
+"2","Total, month of death","","1","","",,
+"3","Number of deaths","","1","","",,
+"3","Percentage of deaths","","2","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3233","Vital Statistics - Death Database"
+
+"Subject Code","Subject Name"
+"13","Health"
+
+"Note ID",Note
+1,"Source: Statistics Canada, Canadian Vital Statistics - Death database (CVSD)"
+2,"Death refers to the permanent disappearance of all evidence of life at any time after a live birth has taken place. Stillbirths are excluded."
+3,"The geographic distribution of deaths in this table is based on the deceased's usual place of residence."
+4,"Nunavut and the Northwest Territories (excluding Nunavut) came into existence on April 1, 1999. Data for these two territories are shown combined and separated for 1999 and separated from 2000 on. Historical data prior to 1999 are shown for the two territories combined as the "Northwest Territories including Nunavut" series; it was terminated in 1999. The vital statistics data that pertain to these territories for 1999 were previously published on the basis of the legal definition of each territory, as per the date of the event. Vital events for Nunavut that occurred before April 1, 1999 were tabulated with those of the Northwest Territories; only those events that occurred from April 1, 1999 on were tabulated separately. See the paper versions of the following publications for data year 1999: catalogue numbers 84F0001XPB, 84F0210XPB, 84F0211XPB, 84F0208XPB and 84F0209XPB."
+5,"Northwest Territories excluding Nunavut."
+6,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period, (...) for figures not applicable and (x) for figures suppressed to meet the confidentiality requirements of the Statistics Act."
+7,"The category "Unknown province or territory" refers to deaths of residents of Canada with province or territory of residence unknown. Starting with the 2010 data year, province or territory of residence is imputed where unknown."
+8,"During the production of each year's birth/death/stillbirth statistics, data from previous years may be revised to reflect any updates or changes that have been received from the provincial and territorial vital statistics registrars."
+11,"Due to improvements in methodology and timeliness, the duration of data collection has been shortened compared to previous years. As a result, there may have been fewer deaths captured by the time of the release. The 2024 data are considered preliminary."
+12,"Due to uncertainty surrounding death counts corresponding to residents of Yukon between 2017 and 2022, the data for Yukon should be interpreted with caution."
+
+"Correction ID","Correction Date","Correction Note"
