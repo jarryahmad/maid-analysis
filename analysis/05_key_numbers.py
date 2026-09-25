@@ -95,6 +95,23 @@ K["t2_ineligible"] = int(float(prof["requests_deemed_ineligible"]["track_2"]))
 K["t1_inelig_pct"] = round(100*K["t1_ineligible"]/K["t1_requests"], 1)
 K["t2_inelig_pct"] = round(100*K["t2_ineligible"]/K["t2_requests"], 1)
 
+# --- Track 1 vs Track 2 comparison table -----------------------------------
+def _p(metric, col):
+    return float(prof[metric][col])
+
+K["t1_female"] = _p("sex::Female", "track_1")
+K["t2_female"] = _p("sex::Female", "track_2")
+# Lived with the condition for more than 10 years = the 10-20 and 20+ bands.
+K["t1_cond_gt10"] = round(_p("condition_duration::10 years to less than 20 years", "track_1")
+                          + _p("condition_duration::20 years or more", "track_1"), 1)
+K["t2_cond_gt10"] = round(_p("condition_duration::10 years to less than 20 years", "track_2")
+                          + _p("condition_duration::20 years or more", "track_2"), 1)
+K["t1_cond_lt1"] = _p("condition_duration::Less than 1 year", "track_1")
+K["t2_cond_lt1"] = _p("condition_duration::Less than 1 year", "track_2")
+K["t1_adl"] = _p("decline::Unable to do most or all activities of daily living (ADLs) "
+                 "and/or instrumental activities of daily living (IADLs) or marked "
+                 "decrease in ability to do these activities", "track_1")
+
 # --- Cumulative provisions since 2016 --------------------------------------
 K["cumulative"] = sum(int(r["total_provisions"]) for r in vol)
 

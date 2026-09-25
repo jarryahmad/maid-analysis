@@ -44,5 +44,12 @@
   "t2_ineligible": 321,
   "t1_inelig_pct": 2.9,
   "t2_inelig_pct": 26.0,
+  "t1_female": 47.8,
+  "t2_female": 56.7,
+  "t1_cond_gt10": 7.4,
+  "t2_cond_gt10": 34.1,
+  "t1_cond_lt1": 47.1,
+  "t2_cond_lt1": 7.8,
+  "t1_adl": 90.0,
   "cumulative": 76436
 }

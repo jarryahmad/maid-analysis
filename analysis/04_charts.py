@@ -26,8 +26,8 @@ def chart_volume():
     rows = load("maid_by_year.csv")
     vmax = 18000
     c = Chart(760, 380, pad=(24, 20, 44, 58))
-    c.legend = [("Track 1 — death reasonably foreseeable", S1),
-                ("Track 2 — death not reasonably foreseeable", S2)]
+    c.legend = [("Track 1, death reasonably foreseeable", S1),
+                ("Track 2, death not reasonably foreseeable", S2)]
     c.grid_y([0, 4000, 8000, 12000, 16000], vmax, fmt_fn=lambda v: f"{v/1000:g}k",
              label="MAID provisions")
     for idx, r in enumerate(rows):
@@ -44,7 +44,7 @@ def chart_volume():
         else:
             lab = ("all provisions (Track 2 did not exist)" if not t1
                    else "Track 1 (no Track 2 provisions)")
-            c.rect(x, y_top, bw, c.y1 - y_top, S1, f"{r['year']}: {fmt(tot)} — {lab}")
+            c.rect(x, y_top, bw, c.y1 - y_top, S1, f"{r['year']}: {fmt(tot)} - {lab}")
         c.label(x + bw / 2, y_top - 7, fmt(tot))
     c.x_labels([r["year"] for r in rows])
     tbl = table(["Year", "Track 1", "Track 2", "Total", "All deaths in Canada", "MAID % of deaths"],
@@ -104,9 +104,9 @@ def chart_growth():
 # -------------------------------------------------- 2. Quebec prognosis
 QC_BANDS = [
     ("1 month or less", ["le_1wk", "le_2wk", "le_1mo"], ORDINAL[0]),
-    ("1–3 months", ["le_3mo"], ORDINAL[1]),
-    ("3–6 months*", ["le_6mo", "eol_unspecified"], ORDINAL[2]),
-    ("6–12 months", ["le_1yr"], ORDINAL[3]),
+    ("1-3 months", ["le_3mo"], ORDINAL[1]),
+    ("3-6 months*", ["le_6mo", "eol_unspecified"], ORDINAL[2]),
+    ("6-12 months", ["le_1yr"], ORDINAL[3]),
     ("More than 12 months†", ["le_2yr", "gt_1yr_not_eol", "gt_1yr_eol_judged"], ORDINAL[4]),
 ]
 
@@ -140,7 +140,7 @@ def chart_qc_stack():
             acc += pct
         gt6 = 100 * (vals[3] + vals[4]) / tot
         c.label(x + bw / 2, c.y(100, 100) - 9, f"{gt6:.0f}%", cls="datalabel strong")
-    c.x_labels([p.replace("-", "–") for p, _, _ in data], rotate=0)
+    c.x_labels([p for p, _, _ in data], rotate=0)
     rows = []
     for period, tot, vals in data:
         rows.append([period, f"{tot:,}"] + [f"{v:,} ({100*v/tot:.1f}%)" for v in vals])
@@ -165,7 +165,7 @@ def chart_qc_trend():
             c.dot(*pts[k], col, f"{r['period']}: {float(r[key]):.1f}% "
                                 f"({'>6 months' if key=='pct_gt_6mo' else '>12 months'})")
         c.label(pts[-1][0] - 4, pts[-1][1] - 12, f"{float(rows[-1][key]):.1f}%", anchor="end")
-    c.x_labels([r["period"].replace("-", "–") for r in rows])
+    c.x_labels([r["period"] for r in rows])
     tbl = table(["Quebec year", "MAID deaths", "> 6 months", "> 12 months", "Not at end of life"],
                 [[r["period"], f"{int(r['total']):,}", f"{float(r['pct_gt_6mo']):.1f}%",
                   f"{float(r['pct_gt_1yr']):.1f}%", f"{float(r['pct_not_end_of_life']):.1f}%"]
@@ -199,7 +199,7 @@ def chart_qc_cdf():
     y6 = c.y(100 * sum(v for _, v in steps[:5]) / tot, 100)
     c.x_labels([s[0] for s in steps])
     tbl = table(["Within", "In this band", "Cumulative", "Cumulative %", "Still alive %"], rows,
-                "Quebec, 1 April 2024 – 31 March 2025, n = 6,267. The residual 7.0% "
+                "Quebec, 1 April 2024 to 31 March 2025, n = 6,267. The residual 7.0% "
                 "(n = 439) whose prognosis was over a year or who were judged not to be "
                 "at end of life are excluded from every cumulative band above.")
     return c.render("Cumulative share of Quebec MAID recipients by estimated prognosis, "
@@ -266,8 +266,8 @@ def hbar(items, width=760, row_h=44, label_w=286, vmax=100, note=None, wrap=34):
             w = v / vmax * c.iw
             yy = y + j * (bh + 2)
             c.add(f'<rect x="{c.x0}" y="{yy:.1f}" width="{max(w,0.8):.1f}" height="{bh:.1f}" '
-                  f'rx="3" fill="{col}" class="mark" data-tip="{full} — '
-                  f'Track {j+1}: {v:g}%"><title>{full} — Track {j+1}: {v:g}%</title></rect>')
+                  f'rx="3" fill="{col}" class="mark" data-tip="{full} - '
+                  f'Track {j+1}: {v:g}%"><title>{full} - Track {j+1}: {v:g}%</title></rect>')
             c.add(f'<text x="{c.x0 + w + 6:.1f}" y="{yy + bh - 1:.1f}" class="datalabel sm" '
                   f'text-anchor="start">{v:g}</text>')
     return c.render(note or "")
@@ -322,8 +322,8 @@ def chart_duration():
         half = (bw - 2) / 2
         for j, (v, col) in enumerate([(v1, S1), (v2, S2)]):
             yy = c.y(v, 50)
-            c.rect(x + j * (half + 2), yy, half, c.y1 - yy, col, f"{lab} — Track {j+1}: {v:g}%")
-    c.x_labels(["<1 yr", "1–5 yr", "5–10 yr", "10–20 yr", "20+ yr"])
+            c.rect(x + j * (half + 2), yy, half, c.y1 - yy, col, f"{lab} - Track {j+1}: {v:g}%")
+    c.x_labels(["<1 yr", "1-5 yr", "5-10 yr", "10-20 yr", "20+ yr"])
     tbl = table(["Time living with the condition", "Track 1", "Track 2"],
                 [[lab, f"{a:g}%", f"{b:g}%"] for lab, a, b in items])
     return c.render("How long recipients had lived with their condition, by track, 2024"), tbl
@@ -344,12 +344,12 @@ def chart_nsources():
                 continue
             yy = c.y(v, 25)
             c.rect(x + j * (half + 2), yy, half, c.y1 - yy, col,
-                   f"{lab} sources — Track {j+1}: {v:g}%")
+                   f"{lab} sources - Track {j+1}: {v:g}%")
     c.x_labels([lab for lab, _, _ in items])
     tbl = table(["Number of distinct sources cited", "Track 1", "Track 2"],
                 [[lab, f"{a:g}%" if a is not None else "suppressed",
                   f"{b:g}%" if b is not None else "suppressed"] for lab, a, b in items],
-                "× marks a value suppressed by Health Canada to meet confidentiality "
+                "x marks a value suppressed by Health Canada to meet confidentiality "
                 "requirements (fewer than 5 cases).")
     return c.render("Number of distinct sources of suffering cited per recipient, by track, "
                     "2024"), tbl

@@ -17,7 +17,7 @@ def read_table(path):
 
 def num(s):
     s = (s or "").replace(",", "").replace(" ", "").strip()
-    if s in ("", "NA", "X", "-", "–"):
+    if s in ("", "NA", "X", "-", "-"):
         return None
     try:
         return float(s) if "." in s else int(s)

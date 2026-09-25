@@ -13,10 +13,10 @@
 >    It is not: the monitoring regulations changed on 1 January 2023 and Health Canada
 >    states that 2023 data "are not fully comparable with the data collected in previous
 >    years." "Loss of independence" and "emotional distress" jump from residual
->    free-text categories (1.7–5.6%) to listed options (38–75%) across that break.
+>    free-text categories (1.7-5.6%) to listed options (38-75%) across that break.
 > 4. **The counterfactual.** The brief proposes modelling it from the CMAJ 2017 and
 >    PBO 2020 assumptions. Quebec in fact *records* a physician-estimated prognosis for
->    every MAID death, which made the model largely unnecessary — and revealed that the
+>    every MAID death, which made the model largely unnecessary - and revealed that the
 >    PBO's assumption was itself derived from the 2018-19 vintage of that same Quebec
 >    source.
 > 5. **Bill C-218.** Still at second reading as of 23 September 2026, not further along.

@@ -1,4 +1,4 @@
-# MAID analysis — full pipeline, from public sources to the published page.
+# MAID analysis - full pipeline, from public sources to the published page.
 #
 #   make all      fetch sources, extract tables, build datasets, build the site
 #   make site     rebuild only the page (uses the CSVs already in data/clean)

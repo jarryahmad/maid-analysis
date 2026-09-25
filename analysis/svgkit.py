@@ -26,7 +26,7 @@ def _t(s):
 
 def fmt(v, dp=0, pct=False, thousands=True):
     if v is None:
-        return "—"
+        return "-"
     s = f"{v:,.{dp}f}" if thousands else f"{v:.{dp}f}"
     return s + ("%" if pct else "")
 
